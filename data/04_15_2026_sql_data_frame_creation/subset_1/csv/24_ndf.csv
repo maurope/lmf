@@ -1,0 +1,68 @@
+24_no,24_set_ciat,24_sample_id,24_gene_bank_breeding_program_id,24_genus,24_species,24_tax_name,24_replicatioin,24_ndf_percentage_dm,24_av_adf_percentage_dm
+No,Set CIAT,Sample ID,Gene bank /Breeding program ID,Genus,Species,Tax Name,Replication,"NDF, % (DM)"," Av ADF, % (DM)"
+435,10,F24-3506,ABC-19895-1,Aeschynomene ,americana,Aeschynomene americana,A,61.34412539,62.05894102
+436,10,F24-3506,ABC-19895-1,Aeschynomene ,americana,Aeschynomene americana,B,62.77375665,
+437,10,F24-3507,ABC-20093-1,Canavalia ,sp.,Canavalia sp.,A,51.228562,50.41174401
+438,10,F24-3507,ABC-20093-1,Canavalia ,sp.,Canavalia sp.,B,49.59492601,
+439,10,F24-3508,ABC-20113-1,Canavalia ,sp.,Canavalia sp.,A,49.77840953,48.42732425
+440,10,F24-3508,ABC-20113-1,Canavalia ,sp.,Canavalia sp.,B,47.07623896,
+441,10,F24-3509,ABC-20125-1,Coursetia ,caribaea,Coursetia caribaea,A,43.96964902,44.2288339
+442,10,F24-3509,ABC-20125-1,Coursetia ,caribaea,Coursetia caribaea,B,44.48801878,
+443,10,F24-3510,ABC-20298-1,Canavalia ,sp.,Canavalia sp.,A,42.63122741,43.09103349
+444,10,F24-3510,ABC-20298-1,Canavalia ,sp.,Canavalia sp.,B,43.55083958,
+445,10,F24-3511,ABC-20305-1,Canavalia ,sp.,Canavalia sp.,A,40.87592951,39.69699346
+446,10,F24-3511,ABC-20305-1,Canavalia ,sp.,Canavalia sp.,B,38.51805742,
+447,10,F24-3512,ABC-20803-1,Canavalia ,sp.,Canavalia sp.,A,50.98866177,49.53319645
+448,10,F24-3512,ABC-20803-1,Canavalia ,sp.,Canavalia sp.,B,48.07773113,
+449,10,F24-3513,ABC-21031-1,Christia ,obcordata,Christia obcordata,A,45.68423306,46.57256845
+450,10,F24-3513,ABC-21031-1,Christia ,obcordata,Christia obcordata,B,47.46090383,
+451,10,F24-3514,ABC-21128-1,Crotalaria,pallida,Crotalaria pallida,A,54.46115777,43.83586534
+452,10,F24-3514,ABC-21128-1,Crotalaria,pallida,Crotalaria pallida,B,33.21057291,
+453,10,F24-3515,ABC-21212-1,Canavalia ,sp.,Canavalia sp.,A,31.85832415,39.81578459
+454,10,F24-3515,ABC-21212-1,Canavalia ,sp.,Canavalia sp.,B,47.77324504,
+455,10,F24-3516,ABC-21263-1,Sesbania,rostrata,Sesbania rostrata,A,41.7059865,40.69445959
+456,10,F24-3516,ABC-21263-1,Sesbania,rostrata,Sesbania rostrata,B,39.68293269,
+457,10,F24-3517,ABC-21514-1,Desmanthus ,virgatus,Desmanthus virgatus,A,54.76079796,55.94515835
+458,10,F24-3517,ABC-21514-1,Desmanthus ,virgatus,Desmanthus virgatus,B,57.12951874,
+459,10,F24-3518,ABC-21565-1,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,A,60.30470265,58.2973873
+460,10,F24-3518,ABC-21565-1,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,B,56.29007195,
+461,10,F24-3519,ABC-21709-1,Crotalaria ,juncea,Crotalaria juncea,A,41.62168055,43.05742015
+462,10,F24-3519,ABC-21709-1,Crotalaria ,juncea,Crotalaria juncea,B,44.49315976,
+463,10,F24-3520,ABC-22286-1,Crotalaria,micans,Crotalaria micans,A,42.0538243,43.5874985
+464,10,F24-3520,ABC-22286-1,Crotalaria,micans,Crotalaria micans,B,45.12117269,
+465,10,F24-3521,ABC-22475-1,Alysicarpus ,rugosus,Alysicarpus rugosus,A,63.34684235,64.14768061
+466,10,F24-3521,ABC-22475-1,Alysicarpus ,rugosus,Alysicarpus rugosus,B,64.94851887,
+467,10,F24-3522,ABC-22481-1,Sesbania,cochinchinensis,Sesbania cochinchinensis,A,60.12270719,61.9555076
+468,10,F24-3522,ABC-22481-1,Sesbania,cochinchinensis,Sesbania cochinchinensis,B,63.78830801,
+469,10,F24-3523,ABC-22520-1,Arachis,pusilla,Arachis pusilla,A,61.34275582,61.21755346
+470,10,F24-3523,ABC-22520-1,Arachis,pusilla,Arachis pusilla,B,61.0923511,
+471,10,F24-3524,ABC-22570-1,Desmanthus,bicornutus,Desmanthus bicornutus,A,63.69054073,64.70825457
+472,10,F24-3524,ABC-22570-1,Desmanthus,bicornutus,Desmanthus bicornutus,B,65.7259684,
+473,10,F24-3525,ABC-22594-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,A,59.82740125,58.57618253
+474,10,F24-3525,ABC-22594-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,B,57.32496381,
+475,10,F24-3526,ABC-22754-1,Lablab ,purpureus,Lablab purpureus,A,51.91597651,51.33967367
+476,10,F24-3526,ABC-22754-1,Lablab ,purpureus,Lablab purpureus,B,50.76337083,
+477,10,F24-3527,ABC-22915-1,Aeschynomene ,villosa,Aeschynomene villosa,A,66.36481933,64.50973724
+478,10,F24-3527,ABC-22915-1,Aeschynomene ,villosa,Aeschynomene villosa,B,62.65465514,
+479,10,F24-3528,ABC-23259-1,Desmodium,gangeticum,Desmodium gangeticum,A,56.14753621,56.45462089
+480,10,F24-3528,ABC-23259-1,Desmodium,gangeticum,Desmodium gangeticum,B,56.76170558,
+481,10,F24-3529,ABC-23339-1,Desmodium,gangeticum,Desmodium gangeticum,A,55.18463877,55.6778598
+482,10,F24-3529,ABC-23339-1,Desmodium,gangeticum,Desmodium gangeticum,B,56.17108082,
+483,10,F24-3530,ABC-23761-1,Uraria,picta,Uraria picta,A,62.76528351,61.9022359
+484,10,F24-3530,ABC-23761-1,Uraria,picta,Uraria picta,B,61.03918828,
+485,10,F24-3531,ABC-24360-1,Vigna,umbellata,Vigna umbellata,A,53.68131694,53.68275229
+486,10,F24-3531,ABC-24360-1,Vigna,umbellata,Vigna umbellata,B,53.68418764,
+487,10,F24-3532,ABC-24466-1,Vigna,umbellata,Vigna umbellata,A,37.33530066,37.53168225
+488,10,F24-3532,ABC-24466-1,Vigna,umbellata,Vigna umbellata,B,37.72806385,
+489,10,F24-3533,ABC-32246-1,Chamaecrista,nictitans,Chamaecrista nictitans,A,77.06768565,79.3952483
+490,10,F24-3533,ABC-32246-1,Chamaecrista,nictitans,Chamaecrista nictitans,B,81.72281094,
+491,10,F24-3534,ABC-32365-1,Desmanthus,virgatus,Desmanthus virgatus,A,77.86276485,75.75668294
+492,10,F24-3534,ABC-32365-1,Desmanthus,virgatus,Desmanthus virgatus,B,73.65060102,
+493,10,F24-3535,ABC-32373-1,Desmanthus,pubescens,Desmanthus pubescens,A,76.26718922,77.88576233
+494,10,F24-3535,ABC-32373-1,Desmanthus,pubescens,Desmanthus pubescens,B,79.50433545,
+495,10,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,A,,#DIV/0!
+496,10,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,B,,
+497,10,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,A,,#DIV/0!
+498,10,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,B,,
+499,10,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,A,,
+500,10,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,B,,

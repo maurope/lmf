@@ -1,0 +1,298 @@
+21_no,21_date,21_requisitioner,21_set_ciat,21_ciat_lab_id,21_gene_bank_breeding_program_id,21_genus,21_species,21_tax_name,21_family,21_order,21_functional_group,21_batches_ciat,21_id_lab,21_dm_percentage,21_av_dm_105,21_ash_percentage,21_av_ash_percentage,21_om_percentage,21_om_percentage
+No,Date,Requisitioner,Set CIAT,CIAT Lab-ID,Gene bank /Breeding program ID,Genus,Species,Tax Name,Family,Order,Functional Group,Batches  CIAT,ID LAB,"DM, %",Av DM 105,"Ash, %","Av Ash, %","OM, %","OM, %"
+1,46041,Genbank,27,F251728,CIAT-13262,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.90254873,94.93228196,8.675533642,8.697026471,91.32446636,91.30297353
+2,46041,Genbank,27,F251728,CIAT-13262,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.96201519,,8.7185193,,91.2814807,
+3,46041,Genbank,27,F251729,CIAT-13528,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),95.00049995,95.04574088,7.585062735,7.584683557,92.41493727,92.41531644
+4,46041,Genbank,27,F251729,CIAT-13528,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),95.0909818,,7.58430438,,92.41569562,
+5,46041,Genbank,27,F251730,CIAT-13529,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.30284858,94.35698318,6.715805626,6.690322969,93.28419437,93.30967703
+6,46041,Genbank,27,F251730,CIAT-13529,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.41111778,,6.664840312,,93.33515969,
+7,46041,Genbank,27,F251731,CIAT-13710,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.09295352,94.1326423,7.549396897,7.491369387,92.4506031,92.50863061
+8,46041,Genbank,27,F251731,CIAT-13710,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.17233107,,7.433341877,,92.56665812,
+9,46041,Genbank,27,F251732,CIAT-22004,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.18058194,94.29584986,6.786470532,6.812638277,93.21352947,93.18736172
+10,46041,Genbank,27,F251732,CIAT-22004,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.41111778,,6.838806021,,93.16119398,
+11,46041,Genbank,27,F251733,CIAT-23104,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),92.62295082,92.63257908,7.035746071,6.998325401,92.96425393,93.0016746
+12,46041,Genbank,27,F251733,CIAT-23104,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),92.64220734,,6.960904732,,93.03909527,
+13,46041,Genbank,27,F251734,CIAT-23106,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.50274863,94.65267366,6.800422386,6.853220697,93.19957761,93.1467793
+14,46041,Genbank,27,F251734,CIAT-23106,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.8025987,,6.906019007,,93.09398099,
+15,46041,Genbank,27,F251735,CIAT-23107,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.96251874,94.98700765,6.839621318,6.919239561,93.16037868,93.08076044
+16,46041,Genbank,27,F251735,CIAT-23107,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),95.01149655,,6.998857805,,93.0011422,
+17,46041,Genbank,27,F251736,CIAT-23108,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.47331601,94.54327404,6.871035941,6.929175476,93.12896406,93.07082452
+18,46041,Genbank,27,F251736,CIAT-23108,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.61323206,,6.987315011,,93.01268499,
+19,46041,Genbank,27,F251737,CIAT-23412,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.38168549,94.18764467,7.238693183,7.274745611,92.76130682,92.72525439
+20,46041,Genbank,27,F251737,CIAT-23412,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.99360384,,7.310798039,,92.68920196,
+21,46041,Genbank,27,F251738,CIAT-23413,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.17273091,93.52667142,7.502879142,7.498658928,92.49712086,92.50134107
+22,46041,Genbank,27,F251738,CIAT-23413,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.88061194,,7.494438713,,92.50556129,
+23,46041,Genbank,27,F251739,CIAT-23419,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.81309345,93.95743146,7.223065372,7.202507611,92.77693463,92.79749239
+24,46041,Genbank,27,F251739,CIAT-23419,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.10176947,,7.181949849,,92.81805015,
+25,46041,Genbank,27,F251740,CIAT-23422,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),91.79328269,91.85744918,7.08423443,7.063174198,92.91576557,92.9368258
+26,46041,Genbank,27,F251740,CIAT-23422,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),91.92161568,,7.042113967,,92.95788603,
+27,46041,Genbank,27,F251741,CIAT-23734,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.63053695,94.71104974,7.844129164,7.859177882,92.15587084,92.14082212
+28,46041,Genbank,27,F251741,CIAT-23734,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.79156253,,7.8742266,,92.1257734,
+29,46041,Genbank,27,F251742,CIAT-23932,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),95.12195122,95.12195122,7.292980244,7.292980244,92.70701976,92.70701976
+30,46041,Genbank,27,F251742,CIAT-23932,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),95.12195122,,7.292980244,,92.70701976,
+31,46041,Genbank,27,F251743,CIAT-23933,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.64063594,93.72124769,7.329515172,7.371449396,92.67048483,92.6285506
+32,46041,Genbank,27,F251743,CIAT-23933,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.80185944,,7.413383621,,92.58661638,
+33,46041,Genbank,27,F251744,CIAT-23934,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.13351989,94.17175994,8.161033383,8.195338377,91.83896662,91.80466162
+34,46041,Genbank,27,F251744,CIAT-23934,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.21,,8.229643371,,91.77035663,
+35,46041,Genbank,27,F251745,CIAT-23936,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.06356186,94.05856486,7.745842852,7.798969346,92.25415715,92.20103065
+36,46041,Genbank,27,F251745,CIAT-23936,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.05356786,,7.85209584,,92.14790416,
+37,46041,Genbank,27,F251746,CIAT-33119,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),95.21143657,95.28710945,7.427947681,7.395369239,92.57205232,92.60463076
+38,46041,Genbank,27,F251746,CIAT-33119,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),95.36278233,,7.362790797,,92.6372092,
+39,46041,Genbank,27,F251747,CIAT-33383,Dendrolobium,sp.,Dendrolobium sp.,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.55,94.67156206,9.569927656,9.804579653,90.43007234,90.19542035
+40,46041,Genbank,27,F251747,CIAT-33383,Dendrolobium,sp.,Dendrolobium sp.,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.79312413,,10.03923165,,89.96076835,
+41,46041,Genbank,27,F251748,CIAT-33402,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.58325005,94.631891,6.906845339,6.908571878,93.09315466,93.09142812
+42,46041,Genbank,27,F251748,CIAT-33402,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.68053195,,6.910298417,,93.08970158,
+43,46041,Genbank,27,F251749,CIAT-33508,Dendrolobium,umbellatum,Dendrolobium umbellatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.71062894,93.74624719,8.660813979,8.665280104,91.33918602,91.3347199
+44,46041,Genbank,27,F251749,CIAT-33508,Dendrolobium,umbellatum,Dendrolobium umbellatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.78186544,,8.66974623,,91.33025377,
+45,46041,Genbank,27,F251750,CIAT-33515,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.40197941,93.4109897,8.22996707,11.11094838,91.77003293,88.88905162
+46,46041,Genbank,27,F251750,CIAT-33515,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.42,,13.99192969,,86.00807031,
+47,46041,Genbank,27,F251751,CIAT-7353,Prosopis,juliflora,Prosopis juliflora,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.57217113,94.62661746,9.845299072,9.418371019,90.15470093,90.58162898
+48,46041,Genbank,27,F251751,CIAT-7353,Prosopis,juliflora,Prosopis juliflora,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.68106379,,8.991442967,,91.00855703,
+49,46041,Genbank,27,F251752,CIAT-7976,Cassia,sp.,Cassia sp.,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.40197941,93.41763138,8.058159435,12.05353052,91.94184056,87.94646948
+50,46041,Genbank,27,F251752,CIAT-7976,Cassia,sp.,Cassia sp.,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.43328336,,16.04890161,,83.95109839,
+51,46041,Genbank,27,F251753,CIAT-8018,Acacia,aroma,Acacia aroma,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.76,93.79561688,17.69805515,18.11200023,82.30194485,81.88799977
+52,46041,Genbank,27,F251753,CIAT-8018,Acacia,aroma,Acacia aroma,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),93.83123375,,18.52594532,,81.47405468,
+53,46041,Genbank,27,F251754,CIAT-9990,Prosopis,juliflora,Prosopis juliflora,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),92.96422147,92.97421547,10.14726432,12.38310223,89.85273568,87.61689777
+54,46041,Genbank,27,F251754,CIAT-9990,Prosopis,juliflora,Prosopis juliflora,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),92.98420947,,14.61894013,,85.38105987,
+55,46041,Genbank,27,F251755,CIAT-13258,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.55217913,94.59742889,14.88874108,14.86686535,85.11125892,85.13313465
+56,46041,Genbank,27,F251755,CIAT-13258,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.64267866,,14.84498963,,85.15501037,
+57,46041,Genbank,27,F251756,CIAT-13260,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.04119176,94.07647912,9.352221123,12.08275428,90.64777888,87.91724572
+58,46041,Genbank,27,F251756,CIAT-13260,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.11176647,,14.81328743,,85.18671257,
+59,46041,Genbank,27,F251757,CIAT-17263,Leucaena,leucocephala,Leucaena leucocephala,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.41335199,94.47167599,15.42394278,13.81432952,84.57605722,86.18567048
+60,46041,Genbank,27,F251757,CIAT-17263,Leucaena,leucocephala,Leucaena leucocephala,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),94.53,,12.20471626,,87.79528374,
+61,46041,Isabel Molina,27,F252640, Cayman Br02_1752,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"58,59, 69",OT-034 (2025),97.01089673,97.00105012,9.625873976,90.34884451,90.37412602,90.34884451
+62,46041,Isabel Molina,27,F252640, Cayman Br02_1752,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"58,59, 69",OT-034 (2025),96.99120352,,9.676436997,,90.323563,
+63,46041,Mauricio Sotelo,27,F252641,N/A,Gliricidia  ,sepium,Gliricidia sepium ,Fabaceae,Fabales,Arbustiva ,"58,59, 69",OT-035 (2025),93.53258697,93.49727419,9.42965823,9.408744989,90.57034177,90.59125501
+64,46041,Mauricio Sotelo,27,F252641,N/A,Gliricidia  ,sepium,Gliricidia sepium ,Fabaceae,Fabales,Arbustiva ,"58,59, 69",OT-035 (2025),93.46196141,,9.387831748,,90.61216825,
+65,46041,Jacobo Arango/Alejandro Montoya,27,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,grasses,"58,59, 69",OT-002,93.3,93.55,11.3,11.4,88.7,88.6
+66,46041,Jacobo Arango/Alejandro Montoya,27,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,grasses,"58,59, 69",OT-002,93.8,,11.5,,88.5,
+67,46048,Genbank,28,F251758,CIAT-17459,Erythrina,berteroana,Erythrina berteroana,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.51219512,94.58716513,10.82166446,11.8678996,89.17833554,88.1321004
+68,46048,Genbank,28,F251758,CIAT-17459,Erythrina,berteroana,Erythrina berteroana,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.66213515,,12.91413474,,87.08586526,
+69,46048,Genbank,28,F251759,CIAT-17482,Leucaena,leucocephala,Leucaena leucocephala,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,92.6214757,92.66183252,14.78198755,14.23641966,85.21801245,85.76358034
+70,46048,Genbank,28,F251759,CIAT-17482,Leucaena,leucocephala,Leucaena leucocephala,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,92.70218934,,13.69085177,,86.30914823,
+71,46048,Genbank,28,F251760,CIAT-17502,Leucaena,leucocephala,Leucaena leucocephala,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.22115577,94.26086286,11.15828574,12.95686503,88.84171426,87.04313497
+72,46048,Genbank,28,F251760,CIAT-17502,Leucaena,leucocephala,Leucaena leucocephala,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.30056994,,14.75544433,,85.24455567,
+73,46048,Genbank,28,F251761,CIAT-19384,Prosopis,juliflora,Prosopis juliflora,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.31334333,93.38765237,11.91210776,10.33433437,88.08789224,89.66566563
+74,46048,Genbank,28,F251761,CIAT-19384,Prosopis,juliflora,Prosopis juliflora,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.46196141,,8.756560989,,91.24343901,
+75,46048,Genbank,28,F251762,CIAT-19571,Senna,cobanensis,Senna cobanensis,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.15410754,93.20739073,6.111727843,6.081072551,93.88827216,93.91892745
+76,46048,Genbank,28,F251762,CIAT-19571,Senna,cobanensis,Senna cobanensis,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.26067393,,6.05041726,,93.94958274,
+77,46048,Genbank,28,F251763,CIAT-20126,Acacia,angustissima,Acacia angustissima,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.92303848,93.97211712,5.796694305,5.776284983,94.20330569,94.22371502
+78,46048,Genbank,28,F251763,CIAT-20126,Acacia,angustissima,Acacia angustissima,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.02119576,,5.75587566,,94.24412434,
+79,46048,Genbank,28,F251764,CIAT-20788,Senna,pallida,Senna pallida,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.87183845,93.91682495,9.729096812,9.745063601,90.27090319,90.2549364
+80,46048,Genbank,28,F251764,CIAT-20788,Senna,pallida,Senna pallida,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.96181146,,9.76103039,,90.23896961,
+81,46048,Genbank,28,F251765,CIAT-21242,Leucaena,diversifolia,Leucaena diversifolia,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.13206038,93.21136566,6.84260608,6.875471971,93.15739392,93.12452803
+82,46048,Genbank,28,F251765,CIAT-21242,Leucaena,diversifolia,Leucaena diversifolia,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.29067093,,6.908337861,,93.09166214,
+83,46048,Genbank,28,F251766,CIAT-21512,Calliandra,calothyrsus,Calliandra calothyrsus,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,92.39304278,92.78788485,4.793967142,4.783194183,95.20603286,95.21680582
+84,46048,Genbank,28,F251766,CIAT-21512,Calliandra,calothyrsus,Calliandra calothyrsus,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.18272691,,4.772421223,,95.22757878,
+85,46048,Genbank,28,F251767,CIAT-21601,Erythrina,fusca,Erythrina fusca,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.87061294,93.23678588,7.174562061,7.044833203,92.82543794,92.9551668
+86,46048,Genbank,28,F251767,CIAT-21601,Erythrina,fusca,Erythrina fusca,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,92.60295882,,6.915104345,,93.08489565,
+87,46048,Genbank,28,F251768,CIAT-21809,Acacia,farnesiana,Acacia farnesiana,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.57162851,94.61581426,7.427819216,7.460640562,92.57218078,92.53935944
+88,46048,Genbank,28,F251768,CIAT-21809,Acacia,farnesiana,Acacia farnesiana,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.66,,7.493461908,,92.50653809,
+89,46048,Genbank,28,F251769,CIAT-21810,Acacia,angustissima,Acacia angustissima,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.74052595,94.78681304,5.390506218,5.3891594,94.60949378,94.6108406
+90,46048,Genbank,28,F251769,CIAT-21810,Acacia,angustissima,Acacia angustissima,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.83310014,,5.387812581,,94.61218742,
+91,46048,Genbank,28,F251770,CIAT-21888,Leucaena,leucocephala,Leucaena leucocephala,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.67189843,93.70720071,9.057418959,9.136970806,90.94258104,90.86302919
+92,46048,Genbank,28,F251770,CIAT-21888,Leucaena,leucocephala,Leucaena leucocephala,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.742503,,9.216522654,,90.78347735,
+93,46048,Genbank,28,F251771,CIAT-22310,Calliandra,calothyrsus,Calliandra calothyrsus,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.82,94.8605099,5.650401843,5.713075036,94.34959816,94.28692496
+94,46048,Genbank,28,F251771,CIAT-22310,Calliandra,calothyrsus,Calliandra calothyrsus,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,94.9010198,,5.775748228,,94.22425177,
+95,46048,Genbank,28,F251772,CIAT-22311,Calliandra,calothyrsus,Calliandra calothyrsus,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.80371777,93.87716135,6.877206587,6.953483788,93.12279341,93.04651621
+96,46048,Genbank,28,F251772,CIAT-22311,Calliandra,calothyrsus,Calliandra calothyrsus,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,93.95060494,,7.029760988,,92.97023901,
+97,46048,Genbank,28,F251773,CIAT-22316,Calliandra,calothyrsus,Calliandra calothyrsus,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,95.54044596,95.51589927,8.667847076,8.646047909,91.33215292,91.35395209
+98,46048,Genbank,28,F251773,CIAT-22316,Calliandra,calothyrsus,Calliandra calothyrsus,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,95.49135259,,8.624248742,,91.37575126,
+99,46048,Genbank,28,F251774,CIAT-23239,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,95.85041496,95.85582829,7.573117047,7.551501552,92.42688295,92.44849845
+100,46048,Genbank,28,F251774,CIAT-23239,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,95.86124163,,7.529886057,,92.47011394,
+101,46048,Genbank,28,F251775,CIAT-33116,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,95.64087183,95.63109272,7.757431277,7.882488089,92.24256872,92.11751191
+102,46048,Genbank,28,F251775,CIAT-33116,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"60,61, 62",OT-010,95.62131361,,8.007544902,,91.9924551,
+103,46048,Genbank,28,F252184,CIAT-BH22_0303,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,94.83155053,94.84129016,9.497232477,9.508249066,90.50276752,90.49175093
+104,46048,Genbank,28,F252184,CIAT-BH22_0303,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,94.85102979,,9.519265655,,90.48073435,
+105,46048,Genbank,28,F252185,CIAT-BH22_1594,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,94.95,95.07595962,11.72746512,11.58844246,88.27253488,88.41155754
+106,46048,Genbank,28,F252185,CIAT-BH22_1594,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,95.20191923,,11.4494198,,88.5505802,
+107,46048,Genbank,28,F252186,CIAT-BH22_0468,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,95.97080584,96.0205994,10.69348293,10.67319077,89.30651707,89.32680923
+108,46048,Genbank,28,F252186,CIAT-BH22_0468,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,96.07039296,,10.65289861,,89.34710139,
+109,46048,Genbank,28,F252187,CIAT-BH22_3830,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,95.84041596,95.96040396,10.25320413,10.19068459,89.74679587,89.80931541
+110,46048,Genbank,28,F252187,CIAT-BH22_3830,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,96.08039196,,10.12816505,,89.87183495,
+111,46048,Genbank,28,F252188,CIAT-BH22_1710,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,97.23027697,97.27027297,9.765625,9.940378289,90.234375,90.05962171
+112,46048,Genbank,28,F252188,CIAT-BH22_1710,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,97.31026897,,10.11513158,,89.88486842,
+113,46048,Genbank,28,F252189,CIAT-BH22_2365,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,97.06,97.1,12.6261586,12.34294542,87.3738414,87.65705458
+114,46048,Genbank,28,F252189,CIAT-BH22_2365,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,97.14,,12.05973223,,87.94026777,
+115,46048,Genbank,28,F252190,CIAT-BH22_3572,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,96.44035596,96.50034997,9.85390115,10.04041032,90.14609885,89.95958968
+116,46048,Genbank,28,F252190,CIAT-BH22_3572,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,96.56034397,,10.22691949,,89.77308051,
+117,46048,Genbank,28,F252191,CIAT-BH22_0517,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,96.84126349,96.86671949,10.2264613,10.26103525,89.7735387,89.73896475
+118,46048,Genbank,28,F252191,CIAT-BH22_0517,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,96.89217548,,10.2956092,,89.7043908,
+119,46048,Genbank,28,F252192,CIAT-BH22_0519,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,97.68,97.65535539,11.14122206,11.14466989,88.85877794,88.85533011
+120,46048,Genbank,28,F252192,CIAT-BH22_0519,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,97.63071079,,11.14811772,,88.85188228,
+121,46048,Genbank,28,F252193,CIAT-BH22_0521,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,96.43107068,96.52654873,11.04028177,10.99203537,88.95971823,89.00796463
+122,46048,Genbank,28,F252193,CIAT-BH22_0521,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"60,61, 62",OT-021,96.62202678,,10.94378898,,89.05621102,
+123,46048,Genbank,28,F252574,CIAT326,Desmodium,scorpiurus,Desmodium scorpiurus,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.67249825,91.67666508,13.39088534,13.17408809,86.60911466,86.82591191
+124,46048,Genbank,28,F252574,CIAT326,Desmodium,scorpiurus,Desmodium scorpiurus,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.68083192,,12.95729083,,87.04270917,
+125,46048,Jacobo Arango/Alejandro Montoya,28,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,grasses,"60,61, 62",OT-002,93.3,93.55,11.3,11.4,88.7,88.6
+126,46048,Jacobo Arango/Alejandro Montoya,28,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,grasses,"60,61, 62",OT-002,93.8,,11.5,,88.5,
+127,46048,Genbank,28,F252575,CIAT415,Vigna,radiata,Vigna radiata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92,91.93662535,21.24289414,20.26553982,78.75710586,79.73446018
+128,46048,Genbank,28,F252575,CIAT415,Vigna,radiata,Vigna radiata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.8732507,,19.2881855,,80.7118145,
+129,46048,Genbank,28,F252576,CIAT416,Vigna,radiata,Vigna radiata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.40343862,91.42885574,10.76909636,10.75762617,89.23090364,89.24237383
+130,46048,Genbank,28,F252576,CIAT416,Vigna,radiata,Vigna radiata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.45427286,,10.74615599,,89.25384401,
+131,46048,Genbank,28,F252577,CIAT517,Macroptilium,atropurpureum,Macroptilium atropurpureum,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.03448276,91.0831282,13.69492173,13.68599877,86.30507827,86.31400123
+132,46048,Genbank,28,F252577,CIAT517,Macroptilium,atropurpureum,Macroptilium atropurpureum,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.13177365,,13.67707581,,86.32292419,
+133,46048,Genbank,28,F252578,CIAT563,Macroptilium,bracteatum,Macroptilium bracteatum,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.94423346,92.99781159,12.97101742,12.88760478,87.02898258,87.11239522
+134,46048,Genbank,28,F252578,CIAT563,Macroptilium,bracteatum,Macroptilium bracteatum,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,93.05138972,,12.80419213,,87.19580787,
+135,46048,Genbank,28,F252579,CIAT789,Zornia,latifolia,Zornia latifolia,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,88.95110489,88.84780354,8.519336184,8.444929231,91.48066382,91.55507077
+136,46048,Genbank,28,F252579,CIAT789,Zornia,latifolia,Zornia latifolia,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,88.7445022,,8.370522279,,91.62947772,
+137,46048,Genbank,28,F252580,CIAT2085,Stylosanthes,seabrana,Stylosanthes seabrana,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.95402299,91.97281233,9.25897764,9.331025136,90.74102236,90.66897486
+138,46048,Genbank,28,F252580,CIAT2085,Stylosanthes,seabrana,Stylosanthes seabrana,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.99160168,,9.403072633,,90.59692737,
+139,46048,Genbank,28,F252581,CIAT2690,Stylosanthes,angustifolia,Stylosanthes angustifolia,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,90.92453773,91.01315869,9.620171759,9.451343506,90.37982824,90.54865649
+140,46048,Genbank,28,F252581,CIAT2690,Stylosanthes,angustifolia,Stylosanthes angustifolia,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.10177964,,9.282515254,,90.71748475,
+141,46048,Genbank,28,F252582,CIAT4069,Macroptilium,atropurpureum,Macroptilium atropurpureum,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.24465321,92.30309045,14.3679293,14.76074376,85.6320707,85.23925624
+142,46048,Genbank,28,F252582,CIAT4069,Macroptilium,atropurpureum,Macroptilium atropurpureum,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.36152769,,15.15355823,,84.84644177,
+143,46048,Genbank,28,F252583,CIAT4141,Vigna,radiata,Vigna radiata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,90.88,90.94089982,11.91982928,11.81969195,88.08017072,88.18030805
+144,46048,Genbank,28,F252583,CIAT4141,Vigna,radiata,Vigna radiata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.00179964,,11.71955462,,88.28044538,
+145,46048,Genbank,28,F252584,CIAT4532,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.03159368,92.05698448,12.06619846,11.96785912,87.93380154,88.03214088
+146,46048,Genbank,28,F252584,CIAT4532,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.08237529,,11.86951978,,88.13048022,
+147,46048,Genbank,28,F252585,CIAT4537,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.25154969,92.22311644,12.06614445,12.06373267,87.93385555,87.93626733
+148,46048,Genbank,28,F252585,CIAT4537,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.19468319,,12.06132089,,87.93867911,
+149,46048,Genbank,28,F252586,CIAT7289,Chamaecrista,mimosoides,Chamaecrista mimosoides,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.45,91.40629561,5.863928698,5.748212086,94.1360713,94.25178791
+150,46048,Genbank,28,F252586,CIAT7289,Chamaecrista,mimosoides,Chamaecrista mimosoides,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.36259122,,5.632495474,,94.36750453,
+151,46048,Genbank,28,F252587,CIAT7826,Tephrosia,purpurea,Tephrosia purpurea,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,90.74277717,90.75685004,8.261360626,8.322782107,91.73863937,91.67721789
+152,46048,Genbank,28,F252587,CIAT7826,Tephrosia,purpurea,Tephrosia purpurea,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,90.77092291,,8.384203587,,91.61579641,
+153,46048,Genbank,28,F252588,CIAT8014,Crotalaria,retusa,Crotalaria retusa,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.32260322,91.31391004,8.911631019,8.932184411,91.08836898,91.06781559
+154,46048,Genbank,28,F252588,CIAT8014,Crotalaria,retusa,Crotalaria retusa,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.30521687,,8.952737802,,91.0472622,
+155,46048,Genbank,28,F252589,CIAT8849,Zornia,brasiliensis,Zornia brasiliensis,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,90.24,90.25548645,9.594984572,9.616661972,90.40501543,90.38333803
+156,46048,Genbank,28,F252589,CIAT8849,Zornia,brasiliensis,Zornia brasiliensis,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,90.2709729,,9.638339373,,90.36166063,
+157,46048,Genbank,28,F252590,CIAT9326,Crotalaria,retusa,Crotalaria retusa,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.94080592,92.00579942,7.727001032,7.754170516,92.27299897,92.24582948
+158,46048,Genbank,28,F252590,CIAT9326,Crotalaria,retusa,Crotalaria retusa,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.07079292,,7.781339999,,92.21866,
+159,46048,Genbank,28,F252591,CIAT9337,Crotalaria,retusa,Crotalaria retusa,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.13157369,92.16734622,8.786604645,8.753189862,91.21339536,91.24681014
+160,46048,Genbank,28,F252591,CIAT9337,Crotalaria,retusa,Crotalaria retusa,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.20311875,,8.719775078,,91.28022492,
+161,46048,Genbank,28,F252592,CIAT9350,Crotalaria,pumila,Crotalaria pumila,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.0726782,91.19264221,7.58605569,7.575093181,92.41394431,92.42490682
+162,46048,Genbank,28,F252592,CIAT9350,Crotalaria,pumila,Crotalaria pumila,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.31260622,,7.564130673,,92.43586933,
+163,46048,Genbank,28,F252593,CIAT9352,Crotalaria,pumila,Crotalaria pumila,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,93.3220034,93.40632717,9.332756194,9.403270852,90.66724381,90.59672915
+164,46048,Genbank,28,F252593,CIAT9352,Crotalaria,pumila,Crotalaria pumila,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,93.49065093,,9.47378551,,90.52621449,
+165,46048,Genbank,28,F252594,CIAT9472,Zornia,brasiliensis,Zornia brasiliensis,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.05079492,92.0961833,10.07541438,10.150903,89.92458562,89.849097
+166,46048,Genbank,28,F252594,CIAT9472,Zornia,brasiliensis,Zornia brasiliensis,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.14157169,,10.22639163,,89.77360837,
+167,46048,Genbank,28,F252595,CIAT9531,Indigofera,spicata,Indigofera spicata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.72165567,91.5983853,16.40530513,16.18926784,83.59469487,83.81073216
+168,46048,Genbank,28,F252595,CIAT9531,Indigofera,spicata,Indigofera spicata,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.47511493,,15.97323055,,84.02676945,
+169,46048,Genbank,28,F252596,CIAT10026,Stylosanthes,seabrana,Stylosanthes seabrana,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.75144971,92.74681353,9.90671487,9.970892531,90.09328513,90.02910747
+170,46048,Genbank,28,F252596,CIAT10026,Stylosanthes,seabrana,Stylosanthes seabrana,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.74217735,,10.03507019,,89.96492981,
+171,46048,Genbank,28,F252597,CIAT12411,Stylosanthes,sympodialis,Stylosanthes sympodialis,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.69166167,91.72124329,11.95776032,11.77848324,88.04223968,88.22151676
+172,46048,Genbank,28,F252597,CIAT12411,Stylosanthes,sympodialis,Stylosanthes sympodialis,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,91.75082492,,11.59920616,,88.40079384,
+173,46048,Genbank,28,F252598,CIAT13494,Desmodium,tortuosum,Desmodium tortuosum,Fabaceae,Fabales,Shurb_Tree,"60,61, 62",OT-031,91.71082892,91.66625229,10.89714137,10.88023618,89.10285863,89.11976382
+174,46048,Genbank,28,F252598,CIAT13494,Desmodium,tortuosum,Desmodium tortuosum,Fabaceae,Fabales,Shurb_Tree,"60,61, 62",OT-031,91.62167566,,10.863331,,89.136669,
+175,46048,Genbank,28,F252599,CIAT13562,Desmodium,tortuosum,Desmodium tortuosum,Fabaceae,Fabales,Shurb_Tree,"60,61, 62",OT-031,91.76164767,91.81204447,14.59211655,14.8037139,85.40788345,85.1962861
+176,46048,Genbank,28,F252599,CIAT13562,Desmodium,tortuosum,Desmodium tortuosum,Fabaceae,Fabales,Shurb_Tree,"60,61, 62",OT-031,91.86244127,,15.01531125,,84.98468875,
+177,46048,Genbank,28,F252600,CIAT13593,Desmodium,scorpiurus,Desmodium scorpiurus,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,90.70185963,90.70871514,10.37179103,10.4798948,89.62820897,89.5201052
+178,46048,Genbank,28,F252600,CIAT13593,Desmodium,scorpiurus,Desmodium scorpiurus,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,90.71557066,,10.58799856,,89.41200144,
+179,46048,Genbank,28,F252601,CIAT13608,Desmodium,incanum,Desmodium incanum,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.33459924,92.60907873,9.766400206,9.977345563,90.23359979,90.02265444
+180,46048,Genbank,28,F252601,CIAT13608,Desmodium,incanum,Desmodium incanum,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,92.88355822,,10.18829092,,89.81170908,
+181,46048,Genbank,28,F252602,CIAT18277,Indigofera,jamaicensis,Indigofera jamaicensis,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,89.66413435,89.82756762,10.88317298,10.32823895,89.11682702,89.67176105
+182,46048,Genbank,28,F252602,CIAT18277,Indigofera,jamaicensis,Indigofera jamaicensis,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,89.9910009,,9.773304922,,90.22669508,
+183,46048,Genbank,28,F252603,CIAT18952,Indigofera,atriceps,Indigofera atriceps,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,90.28485757,90.34290874,17.74570271,18.09235425,82.25429729,81.90764575
+184,46048,Genbank,28,F252603,CIAT18952,Indigofera,atriceps,Indigofera atriceps,Fabaceae,Fabales,Herbaceous,"60,61, 62",OT-031,90.4009599,,18.43900578,,81.56099422,
+185,46048,Jacobo Arango/ Alejandro Montoya,28,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,grasses,"60,61, 62",OT-002,93.3,93.55,11.3,11.4,88.7,88.6
+186,46048,Jacobo Arango/ Alejandro Montoya,28,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,grasses,"60,61, 62",OT-002,93.8,,11.5,,88.5,
+187,46055,Genbank,29,F252604,CIAT18953,Indigofera,atriceps,Indigofera atriceps,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),89.52,89.53656703,13.61454923,11.97121274,86.38545077,88.02878726
+188,46055,Genbank,29,F252604,CIAT18953,Indigofera,atriceps,Indigofera atriceps,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),89.55313406,,10.32787624,,89.67212376,
+189,46055,Genbank,29,F252605,CIAT18954,Indigofera,atriceps,Indigofera atriceps,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),92.92141572,92.94105982,18.88991662,20.28407787,81.11008338,79.71592213
+190,46055,Genbank,29,F252605,CIAT18954,Indigofera,atriceps,Indigofera atriceps,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),92.96070393,,21.67823913,,78.32176087,
+191,46055,Genbank,29,F252606,CIAT19198,Tephrosia,villosa,Tephrosia villosa,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),90.54472764,90.54283677,12.19806906,11.32255879,87.80193094,88.67744121
+192,46055,Genbank,29,F252606,CIAT19198,Tephrosia,villosa,Tephrosia villosa,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),90.54094591,,10.44704853,,89.55295147,
+193,46055,Genbank,29,F252607,CIAT19460,Sesbania,cannabina,Sesbania cannabina,Fabaceae,Fabales,Shurb_Tree,"62,63,70",OT-031 (2025),91.01449275,91.03358847,8.004031197,10.42628781,91.9959688,89.57371219
+194,46055,Genbank,29,F252607,CIAT19460,Sesbania,cannabina,Sesbania cannabina,Fabaceae,Fabales,Shurb_Tree,"62,63,70",OT-031 (2025),91.05268419,,12.84854442,,87.15145558,
+195,46055,Genbank,29,F252608,CIAT20044,Tephrosia,purpurea,Tephrosia purpurea,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),92.12157568,92.1761763,11.94212961,11.53051385,88.05787039,88.46948615
+196,46055,Genbank,29,F252608,CIAT20044,Tephrosia,purpurea,Tephrosia purpurea,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),92.23077692,,11.11889809,,88.88110191,
+197,46055,Genbank,29,F252609,CIAT22423,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),90.5,90.60592881,11.40101993,12.05092136,88.59898007,87.94907864
+198,46055,Genbank,29,F252609,CIAT22423,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),90.71185763,,12.70082279,,87.29917721,
+199,46055,Genbank,29,F252610,CIAT22480,Sesbania,cannabina,Sesbania cannabina,Fabaceae,Fabales,Shurb_Tree,"62,63,70",OT-031 (2025),92.55446732,92.47913271,15.38883498,11.67710884,84.61116502,88.32289116
+200,46055,Genbank,29,F252610,CIAT22480,Sesbania,cannabina,Sesbania cannabina,Fabaceae,Fabales,Shurb_Tree,"62,63,70",OT-031 (2025),92.4037981,,7.965382704,,92.0346173,
+201,46055,Genbank,29,F252611,CIAT23116,Desmodium,tortuosum,Desmodium tortuosum,Fabaceae,Fabales,Shurb_Tree,"62,63,70",OT-031 (2025),92.5814837,92.56574185,10.76856967,10.86687472,89.23143033,89.13312528
+202,46055,Genbank,29,F252611,CIAT23116,Desmodium,tortuosum,Desmodium tortuosum,Fabaceae,Fabales,Shurb_Tree,"62,63,70",OT-031 (2025),92.55,,10.96517977,,89.03482023,
+203,46055,Genbank,29,F252612,CIAT23416,Codariocalyx,motorius,Codariocalyx motorius,Fabaceae,Fabales,Shurb_Tree,"62,63,70",OT-031 (2025),92.78144371,92.80751346,12.35644188,12.2738173,87.64355812,87.7261827
+204,46055,Genbank,29,F252612,CIAT23416,Codariocalyx,motorius,Codariocalyx motorius,Fabaceae,Fabales,Shurb_Tree,"62,63,70",OT-031 (2025),92.83358321,,12.19119272,,87.80880728,
+205,46055,Genbank,29,F252613,CIAT23806,Desmodium,angustifolium,Desmodium angustifolium,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),92.75072493,92.76608432,9.819417471,9.926703061,90.18058253,90.07329694
+206,46055,Genbank,29,F252613,CIAT23806,Desmodium,angustifolium,Desmodium angustifolium,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),92.78144371,,10.03398865,,89.96601135,
+207,46055,Genbank,29,F252614,CIAT24104,Macroptilium,atropurpureum,Macroptilium atropurpureum,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),92.24387806,92.29770388,13.03822577,13.07267813,86.96177423,86.92732187
+208,46055,Genbank,29,F252614,CIAT24104,Macroptilium,atropurpureum,Macroptilium atropurpureum,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),92.35152969,,13.10713049,,86.89286951,
+209,46055,Genbank,29,F252615,CIAT24565,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),90.04,90.07247376,11.43523606,11.42128206,88.56476394,88.57871794
+210,46055,Genbank,29,F252615,CIAT24565,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),90.10494753,,11.40732805,,88.59267195,
+211,46055,Genbank,29,F252616,CIAT33561,Desmodium,wigginsii,Desmodium wigginsii,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),91.83081692,91.87581242,9.838384938,9.909125537,90.16161506,90.09087446
+212,46055,Genbank,29,F252616,CIAT33561,Desmodium,wigginsii,Desmodium wigginsii,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),91.92080792,,9.979866137,,90.02013386,
+213,46055,Genbank,29,F252617,CIAT34038,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),91.75494703,91.78910886,12.28167067,12.2447827,87.71832933,87.7552173
+214,46055,Genbank,29,F252617,CIAT34038,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),91.82327069,,12.20789474,,87.79210526,
+215,46055,Genbank,29,F252618,CIAT34040,Vigna,aconitifolia,Vigna aconitifolia,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),90.72185563,90.65592781,12.74896054,12.81090438,87.25103946,87.18909562
+216,46055,Genbank,29,F252618,CIAT34040,Vigna,aconitifolia,Vigna aconitifolia,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),90.59,,12.87284823,,87.12715177,
+217,46055,Genbank,29,F252619,CIAT34042,Vigna,aconitifolia,Vigna aconitifolia,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),91.06089391,91.07089291,12.35177866,12.36824769,87.64822134,87.63175231
+218,46055,Genbank,29,F252619,CIAT34042,Vigna,aconitifolia,Vigna aconitifolia,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),91.08089191,,12.38471673,,87.61528327,
+219,46055,Genbank,29,F252620,CIAT34044,Vigna,aconitifolia,Vigna aconitifolia,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),91.60503698,91.57463243,10.3460043,10.43929542,89.6539957,89.56070458
+220,46055,Genbank,29,F252620,CIAT34044,Vigna,aconitifolia,Vigna aconitifolia,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),91.54422789,,10.53258654,,89.46741346,
+221,46055,Genbank,29,F252621,CIAT34148,Vigna,radiata,Vigna radiata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),89.59312206,89.54261182,10.26019192,10.26070483,89.73980808,89.73929517
+222,46055,Genbank,29,F252621,CIAT34148,Vigna,radiata,Vigna radiata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),89.49210158,,10.26121774,,89.73878226,
+223,46055,Genbank,29,F252622,CIAT34159,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),90.56188762,90.48238338,12.16568135,11.99382056,87.83431865,88.00617944
+224,46055,Genbank,29,F252622,CIAT34159,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),90.40287914,,11.82195977,,88.17804023,
+225,46055,Genbank,29,F252623,CIAT34347,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),89.46210758,89.49262532,11.92038605,11.99798549,88.07961395,88.00201451
+226,46055,Genbank,29,F252623,CIAT34347,Vigna,unguiculata,Vigna unguiculata,Fabaceae,Fabales,Herbaceous,"62,63,70",OT-031 (2025),89.52314306,,12.07558493,,87.92441507,
+227,46055,Genbank,29,F251692,CIAT-23715,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Shrub,"62,63,70",OT-008 (2025),93.76374175,93.79248875,5.199855362,5.216884679,94.80014464,94.78311532
+228,46055,Genbank,29,F251692,CIAT-23715,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Shrub,"62,63,70",OT-008 (2025),93.82123575,,5.233913996,,94.766086,
+229,46055,Jacobo Arango/ Alejandro Montoya,29,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,grasses,"62,63,70",OT-002 (2025),93.3,93.55,11.3,11.4,88.7,88.6
+230,46055,Jacobo Arango/ Alejandro Montoya,29,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,grasses,"62,63,70",OT-002 (2025),93.8,,11.5,,88.5,
+231,46062,Genbank,30,F260013,CIAT590,Macroptilium,bracteatum,Macroptilium bracteatum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),92.73435938,92.60293254,10.67360319,10.54077955,89.32639681,89.45922045
+232,46062,Genbank,30,F260013,CIAT590,Macroptilium,bracteatum,Macroptilium bracteatum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),92.4715057,,10.4079559,,89.5920441,
+233,46062,Genbank,30,F260014,CIAT778,Macroptilium,atropurpureum,Macroptilium atropurpureum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),92.57371314,92.58296774,12.37190073,12.35694073,87.62809927,87.64305927
+234,46062,Genbank,30,F260014,CIAT778,Macroptilium,atropurpureum,Macroptilium atropurpureum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),92.59222233,,12.34198072,,87.65801928,
+235,46062,Genbank,30,F260015,CIAT827,Indigofera,jamaicensis,Indigofera jamaicensis,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.79,94.765,11.63931831,11.78705218,88.36068169,88.21294782
+236,46062,Genbank,30,F260015,CIAT827,Indigofera,jamaicensis,Indigofera jamaicensis,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.74,,11.93478605,,88.06521395,
+237,46062,Genbank,30,F260016,CIAT997,Macroptilium,atropurpureum,Macroptilium atropurpureum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),93.58192542,93.56128568,12.29840735,12.30498063,87.70159265,87.69501937
+238,46062,Genbank,30,F260016,CIAT997,Macroptilium,atropurpureum,Macroptilium atropurpureum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),93.54064594,,12.3115539,,87.6884461,
+239,46062,Genbank,30,F260017,CIAT1405,Stylosanthes,capitata,Stylosanthes capitata,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.55108978,94.62686923,13.39732003,14.27728367,86.60267997,85.72271633
+240,46062,Genbank,30,F260017,CIAT1405,Stylosanthes,capitata,Stylosanthes capitata,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.70264868,,15.1572473,,84.8427527,
+241,46062,Genbank,30,F260018,CIAT1812,Stylosanthes,viscosa,Stylosanthes viscosa,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),95.42183127,95.45704257,11.34088113,10.53930727,88.65911887,89.46069273
+242,46062,Genbank,30,F260018,CIAT1812,Stylosanthes,viscosa,Stylosanthes viscosa,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),95.49225387,,9.737733407,,90.26226659,
+243,46062,Genbank,30,F260019,CIAT3694,Desmodium,sandwicense,Desmodium sandwicense,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.38112378,94.45110978,10.92410289,12.9300307,89.07589711,87.0699693
+244,46062,Genbank,30,F260019,CIAT3694,Desmodium,sandwicense,Desmodium sandwicense,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.52109578,,14.93595851,,85.06404149,
+245,46062,Genbank,30,F260020,CIAT4080,Macroptilium,bracteatum,Macroptilium bracteatum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.67213115,94.68738991,17.64048907,16.1881863,82.35951093,83.8118137
+246,46062,Genbank,30,F260020,CIAT4080,Macroptilium,bracteatum,Macroptilium bracteatum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.70264868,,14.73588352,,85.26411648,
+247,46062,Genbank,30,F260021,CIAT7162,Indigofera,jamaicensis,Indigofera jamaicensis,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),93.93242703,94.01709825,14.48093425,15.83738766,85.51906575,84.16261234
+248,46062,Genbank,30,F260021,CIAT7162,Indigofera,jamaicensis,Indigofera jamaicensis,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.10176947,,17.19384107,,82.80615893,
+249,46062,Genbank,30,F260022,CIAT8820,Tephrosia,cinerea,Tephrosia cinerea,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),95.0409918,95.07574038,10.52634285,9.533024097,89.47365715,90.4669759
+250,46062,Genbank,30,F260022,CIAT8820,Tephrosia,cinerea,Tephrosia cinerea,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),95.11048895,,8.539705343,,91.46029466,
+251,46062,Genbank,30,F260023,CIAT14080,Zornia,brasiliensis,Zornia brasiliensis,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.68053195,94.72578887,18.53586482,18.45577814,81.46413518,81.54422186
+252,46062,Genbank,30,F260023,CIAT14080,Zornia,brasiliensis,Zornia brasiliensis,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.77104579,,18.37569146,,81.62430854,
+253,46062,Genbank,30,F260024,CIAT18950,Indigofera,spicata,Indigofera spicata,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),93.52323838,93.51824088,16.64083792,15.89269492,83.35916208,84.10730508
+254,46062,Genbank,30,F260024,CIAT18950,Indigofera,spicata,Indigofera spicata,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),93.51324338,,15.14455192,,84.85544808,
+255,46062,Genbank,30,F260025,CIAT19193,Tephrosia,villosa,Tephrosia villosa,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.32113577,94.33169943,7.122373825,7.158750153,92.87762618,92.84124985
+256,46062,Genbank,30,F260025,CIAT19193,Tephrosia,villosa,Tephrosia villosa,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.34226309,,7.195126481,,92.80487352,
+257,46062,Genbank,30,F260026,CIAT19641,Tephrosia,purpurea,Tephrosia purpurea,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),96.06157537,96.04658137,8.398813551,8.33636884,91.60118645,91.66363116
+258,46062,Genbank,30,F260026,CIAT19641,Tephrosia,purpurea,Tephrosia purpurea,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),96.03158737,,8.27392413,,91.72607587,
+259,46062,Genbank,30,F260027,CIAT23503,Desmodium,macrodesmum,Desmodium macrodesmum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),93.35332334,93.32733154,12.27322444,13.2231507,87.72677556,86.7768493
+260,46062,Genbank,30,F260027,CIAT23503,Desmodium,macrodesmum,Desmodium macrodesmum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),93.30133973,,14.17307697,,85.82692303,
+261,46062,Genbank,30,F260028,CIAT24333,Macroptilium,bracteatum,Macroptilium bracteatum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.36169149,94.41223005,9.794521141,9.692969907,90.20547886,90.30703009
+262,46062,Genbank,30,F260028,CIAT24333,Macroptilium,bracteatum,Macroptilium bracteatum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),94.46276862,,9.591418674,,90.40858133,
+263,46062,Genbank,30,F260029,CIAT33235,Desmodium,scorpiurus,Desmodium scorpiurus,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),93.25337331,93.33168666,15.72098844,15.45169958,84.27901156,84.54830042
+264,46062,Genbank,30,F260029,CIAT33235,Desmodium,scorpiurus,Desmodium scorpiurus,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),93.41,,15.18241072,,84.81758928,
+265,46062,Genbank,30,F260030,CIAT33605,Desmodium,sandwicense x intortum,Desmodium sandwicense x intortum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),95.5922039,95.55244814,11.08784009,10.57478615,88.91215991,89.42521385
+266,46062,Genbank,30,F260030,CIAT33605,Desmodium,sandwicense x intortum,Desmodium sandwicense x intortum,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),95.51269238,,10.06173222,,89.93826778,
+267,46062,Genbank,30,F260031,CIAT34144,Vigna,radiata,Vigna radiata,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),90.84274718,90.89863496,11.40489067,11.67864493,88.59510933,88.32135507
+268,46062,Genbank,30,F260031,CIAT34144,Vigna,radiata,Vigna radiata,Fabaceae,Fabales,Herbaceous,"64,65,71",OT-002(2026),90.95452274,,11.9523992,,88.0476008,
+269,46062,Genbank,30,F260032,CIAT7934,Sesbania,sesban,Sesbania sesban,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),96.33220068,96.46644027,15.02212083,12.95746146,84.97787917,87.04253854
+270,46062,Genbank,30,F260032,CIAT7934,Sesbania,sesban,Sesbania sesban,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),96.60067986,,10.89280209,,89.10719791,
+271,46062,Genbank,30,F260033,CIAT7937,Mimosa,nuda,Mimosa nuda,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),96.18038196,96.20113551,6.693638313,8.193610872,93.30636169,91.80638913
+272,46062,Genbank,30,F260033,CIAT7937,Mimosa,nuda,Mimosa nuda,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),96.22188906,,9.69358343,,90.30641657,
+273,46062,Genbank,30,F260034,CIAT8056,Mimosa,diplotricha,Mimosa diplotricha,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.31140658,95.2918852,11.99112811,9.918385946,88.00887189,90.08161405
+274,46062,Genbank,30,F260034,CIAT8056,Mimosa,diplotricha,Mimosa diplotricha,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.27236382,,7.845643785,,92.15435621,
+275,46062,Genbank,30,F260035,CIAT17514,Mimosa,pudica,Mimosa pudica,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),96.38,96.43587706,8.803777452,10.03494151,91.19622255,89.96505849
+276,46062,Genbank,30,F260035,CIAT17514,Mimosa,pudica,Mimosa pudica,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),96.49175412,,11.26610557,,88.73389443,
+277,46062,Genbank,30,F260036,CIAT17725,Mimosa,polycarpa,Mimosa polycarpa,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.73170732,95.66717287,9.780008353,7.997879094,90.21999165,92.00212091
+278,46062,Genbank,30,F260036,CIAT17725,Mimosa,polycarpa,Mimosa polycarpa,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.60263842,,6.215749836,,93.78425016,
+279,46062,Genbank,30,F260037,CIAT18947,Sesbania,sesban,Sesbania sesban,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.52,95.48091164,9.247921756,9.727651968,90.75207824,90.27234803
+280,46062,Genbank,30,F260037,CIAT18947,Sesbania,sesban,Sesbania sesban,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.44182327,,10.20738218,,89.79261782,
+281,46062,Genbank,30,F260038,CIAT19165,Sesbania,keniensis,Sesbania keniensis,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),96.40143942,96.44159927,12.29268074,10.39549328,87.70731926,89.60450672
+282,46062,Genbank,30,F260038,CIAT19165,Sesbania,keniensis,Sesbania keniensis,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),96.48175912,,8.498305825,,91.50169417,
+283,46062,Genbank,30,F260039,CIAT21899,Sesbania,sesban,Sesbania sesban,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.88164734,95.83687564,7.958261545,7.989151378,92.04173846,92.01084862
+284,46062,Genbank,30,F260039,CIAT21899,Sesbania,sesban,Sesbania sesban,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.79210395,,8.02004121,,91.97995879,
+285,46062,Genbank,30,F260040,CIAT23414,Codariocalyx,motorius,Codariocalyx motorius,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),96.47211673,96.30663719,9.432942044,9.335742891,90.56705796,90.66425711
+286,46062,Genbank,30,F260040,CIAT23414,Codariocalyx,motorius,Codariocalyx motorius,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),96.14115765,,9.238543739,,90.76145626,
+287,46062,Genbank,30,F260041,CIAT23767,Desmodium,nicaraguense,Desmodium nicaraguense,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),94.95201919,94.9960096,10.04903424,10.09841445,89.95096576,89.90158555
+288,46062,Genbank,30,F260041,CIAT23767,Desmodium,nicaraguense,Desmodium nicaraguense,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.04,,10.14779467,,89.85220533,
+289,46062,Genbank,30,F260042,CIAT33127,Codariocalyx,motorius,Codariocalyx motorius,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.53223388,95.60154985,9.304820097,9.531062323,90.6951799,90.46893768
+290,46062,Genbank,30,F260042,CIAT33127,Codariocalyx,motorius,Codariocalyx motorius,Fabaceae,Fabales,Shurb_Tree,"64,65,71",OT-002(2026),95.67086583,,9.757304549,,90.24269545,
+291,46062,Breeding,30,F252104,CIAT-BR06_1348,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,grasses,"64,65,71",OT-013(2025),93.02,93.09,14.27,14.475,85.73,85.525
+292,46062,Breeding,30,F252104,CIAT-BR06_1348,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,grasses,"64,65,71",OT-013(2025),93.16,,14.68,,85.32,
+293,46062,Breeding,30,F252166,CIAT-BH22_0528,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"64,65,71",OT-020(2025),98.22,98.21,15.08,13.78,84.92,86.22
+294,46062,Breeding,30,F252166,CIAT-BH22_0528,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,"64,65,71",OT-020(2025),98.2,,12.48,,87.52,
+295,46062,Jacobo Arango/ Alejandro Montoya,30,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,grasses,"64,65,71",OT-001(2025),93.6,93.7,11.3,11.4,88.7,88.6
+296,46062,Jacobo Arango/ Alejandro Montoya,30,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,grasses,"64,65,71",OT-001(2025),93.8,,11.5,,88.5,

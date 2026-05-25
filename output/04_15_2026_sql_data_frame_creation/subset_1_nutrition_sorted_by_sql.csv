@@ -1,0 +1,389 @@
+subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functional_group,set_ciat,dm_percentage,ash_dm,om_percentage,pc_percentage_dm,adf_percentage_dm,ndf_percentage_dm
+1,1,Genetic bank,F24-3416,ABC-705,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,1,91.93080692,12.72569067,87.27430933,33.01052157,28.48961421,45.21032889
+1,2,Genetic bank,F24-3416,ABC-705,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,1,92.01,12.62906206,87.37093794,33.01052157,27.61265655,45.23511907
+1,3,Genetic bank,F24-3417,ABC-707,Fabales,Fabaceae,Alysicarpus,ovalifolius,Alysicarpus ovalifolius,Herbaceous_legumes,1,90.64280716,11.91132679,88.08867321,25.39749175,26.19631971,54.55645373
+1,4,Genetic bank,F24-3417,ABC-707,Fabales,Fabaceae,Alysicarpus,ovalifolius,Alysicarpus ovalifolius,Herbaceous_legumes,1,89.54209158,12.23760607,87.76239393,25.39749175,24.68485778,53.66007735
+1,5,Genetic bank,F24-3418,ABC-712,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,1,91.25174965,7.71337789,92.28662211,31.19171324,26.67696802,55.20337963
+1,6,Genetic bank,F24-3418,ABC-712,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,1,91.35345862,7.812670971,92.18732903,31.19171324,24.97049736,54.55443293
+1,7,Genetic bank,F24-3419,ABC-749,Fabales,Fabaceae,Crotalaria,juncea,Crotalaria juncea,Herbaceous_legumes,1,91.70082992,11.46003707,88.53996293,27.94809909,28.03361032,52.76025243
+1,8,Genetic bank,F24-3419,ABC-749,Fabales,Fabaceae,Crotalaria,juncea,Crotalaria juncea,Herbaceous_legumes,1,91.79082092,11.63398693,88.36601307,27.94809909,29.46119416,49.23699458
+1,9,Genetic bank,F24-3420,ABC-768,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,1,92.1,8.729641694,91.27035831,29.46000546,25.50083329,53.02758632
+1,10,Genetic bank,F24-3420,ABC-768,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,1,92.23155369,8.672086721,91.32791328,29.46000546,25.95289139,55.3898391
+1,11,Genetic bank,F24-3421,ABC-772,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,1,91.48085191,6.153677998,93.846322,18.97317122,16.19061161,68.96562435
+1,12,Genetic bank,F24-3421,ABC-772,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,1,91.49085091,6.207650273,93.79234973,18.97317122,17.2935295,65.87084445
+1,13,Genetic bank,F24-3422,ABC-819,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,1,90.75,17.06887052,82.93112948,26.78170271,25.19997454,52.93970501
+1,14,Genetic bank,F24-3422,ABC-819,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,1,90.76,17.04495372,82.95504628,26.78170271,26.97372917,53.16123389
+1,15,Genetic bank,F24-3423,ABC-905,Fabales,Fabaceae,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,1,91.85,14.61077844,85.38922156,24.61245901,16.6837954,37.10603201
+1,16,Genetic bank,F24-3423,ABC-905,Fabales,Fabaceae,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,1,91.91161768,14.4566518,85.5433482,24.61245901,17.47960642,36.0165929
+1,17,Genetic bank,F24-3424,ABC-913,Fabales,Fabaceae,Cajanus,cajan,Cajanus cajan,Shrub_Trees,1,94.74,9.193582436,90.80641756,25.17714256,39.66617808,59.68853241
+1,18,Genetic bank,F24-3424,ABC-913,Fabales,Fabaceae,Cajanus,cajan,Cajanus cajan,Shrub_Trees,1,94.80155953,9.216492671,90.78350733,25.17714256,41.1819606,62.03477938
+1,19,Genetic bank,F24-3425,ABC-955,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,1,91.80081992,5.674763098,94.3252369,22.01184157,21.79751615,62.34385176
+1,20,Genetic bank,F24-3425,ABC-955,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,1,91.83,5.71708592,94.28291408,22.01184157,21.29660663,61.00237303
+1,21,Genetic bank,F24-3441,ABC-7714,Fabales,Fabaceae,Alysicarpus,glumaceus,Alysicarpus glumaceus,Herbaceous_legumes,3,93.0,17.52688172,82.47311828,20.28455956,27.92187461,52.4951478
+1,22,Genetic bank,F24-3441,ABC-7714,Fabales,Fabaceae,Alysicarpus,glumaceus,Alysicarpus glumaceus,Herbaceous_legumes,3,93.1,17.40064447,82.59935553,20.28455956,27.65472942,52.03015512
+1,23,Genetic bank,F24-3442,ABC-7757,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,3,92.0,8.260869565,91.73913043,24.74722085,22.60477034,58.40376201
+1,24,Genetic bank,F24-3442,ABC-7757,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,3,92.2,8.242950108,91.75704989,24.74722085,21.30367312,56.08182306
+1,25,Genetic bank,F24-3443,ABC-7759,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,3,93.5,5.882352941,94.11764706,16.46449484,14.53118256,58.97473059
+1,26,Genetic bank,F24-3443,ABC-7759,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,3,93.6,5.876068376,94.12393162,16.46449484,14.83181429,62.64878872
+1,27,Genetic bank,F24-3444,ABC-7790,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,3,92.2,5.965292842,94.03470716,27.43905179,19.81624028,69.18318261
+1,28,Genetic bank,F24-3444,ABC-7790,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,3,92.1,5.754614549,94.24538545,27.43905179,20.33920323,65.98392579
+1,29,Genetic bank,F24-3445,ABC-7792,Fabales,Fabaceae,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Herbaceous_legumes,3,92.9,8.073196986,91.92680301,20.02103028,22.86232699,63.66665084
+1,30,Genetic bank,F24-3445,ABC-7792,Fabales,Fabaceae,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Herbaceous_legumes,3,93.0,8.064516129,91.93548387,20.02103028,24.10132483,64.22020909
+1,31,Genetic bank,F24-3446,ABC-7816,Fabales,Fabaceae,Indigofera,spicata,Indigofera spicata,Herbaceous_legumes,3,92.4,17.53246753,82.46753247,28.00898398,23.70542578,52.81745526
+1,32,Genetic bank,F24-3446,ABC-7816,Fabales,Fabaceae,Indigofera,spicata,Indigofera spicata,Herbaceous_legumes,3,92.6,17.71058315,82.28941685,28.00898398,22.50797596,56.66913846
+1,33,Genetic bank,F24-3447,ABC-7858,Fabales,Fabaceaee,Crotalaria,incana,Crotalaria incana,Herbaceous_legumes,3,93.1,9.129967777,90.87003222,31.03415068,25.70977869,61.74390856
+1,34,Genetic bank,F24-3447,ABC-7858,Fabales,Fabaceaee,Crotalaria,incana,Crotalaria incana,Herbaceous_legumes,3,93.3,9.217577706,90.78242229,31.03415068,21.42712438,59.70685356
+1,35,Genetic bank,F24-3448,ABC-7972,Fabales,Fabaceae,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,3,91.9,17.51904244,82.48095756,26.52781626,23.17741101,56.60692904
+1,36,Genetic bank,F24-3448,ABC-7972,Fabales,Fabaceae,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,3,92.0,18.15217391,81.84782609,26.52781626,24.5278786,55.52594465
+1,37,Genetic bank,F24-3449,ABC-8205,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,3,92.1,14.54940282,85.45059718,24.22786897,27.04056493,51.6842826
+1,38,Genetic bank,F24-3449,ABC-8205,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,3,92.3,14.73456121,85.26543879,24.22786897,26.47893339,50.73210501
+1,39,Genetic bank,F24-3450,ABC-8402,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,3,91.9,17.62785637,82.37214363,26.88970109,18.67389258,46.30410467
+1,40,Genetic bank,F24-3450,ABC-8402,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,3,92.1,17.80673181,82.19326819,26.88970109,19.3165009,49.50549834
+1,41,Genetic bank,F24-3451,ABC-8408,Fabales,Fabaceae,Chamaecrista,nictitans,Chamaecrista nictitans,Herbaceous_legumes,3,94.0,6.808510638,93.19148936,23.37980179,38.78359549,58.48434029
+1,42,Genetic bank,F24-3451,ABC-8408,Fabales,Fabaceae,Chamaecrista,nictitans,Chamaecrista nictitans,Herbaceous_legumes,3,94.1,6.907545165,93.09245484,23.37980179,37.95585188,58.78223559
+1,43,Genetic bank,F24-3452,ABC-8409,Fabales,Fabaceae,Chamaecrista,nictitans,Chamaecrista nictitans,Herbaceous_legumes,3,91.9,7.616974973,92.38302503,27.7836572,39.30658161,62.395736
+1,44,Genetic bank,F24-3452,ABC-8409,Fabales,Fabaceae,Chamaecrista,nictitans,Chamaecrista nictitans,Herbaceous_legumes,3,92.0,7.717391304,92.2826087,27.7836572,36.73786796,61.2985406
+1,45,Genetic bank,F24-3453,ABC-8719,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp. ,Herbaceous_legumes,3,93.40659341,17.11229947,82.88770053,20.28346797,16.15254503,41.55922425
+1,45,Genetic bank,F24-3453,ABC-8719,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Herbaceous_legumes,3,93.40659341,17.11229947,82.88770053,20.28346797,16.15254503,41.55922425
+1,46,Genetic bank,F24-3453,ABC-8719,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp. ,Herbaceous_legumes,3,93.6,17.09401709,82.90598291,20.28346797,15.46287409,38.83121826
+1,46,Genetic bank,F24-3453,ABC-8719,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Herbaceous_legumes,3,93.6,17.09401709,82.90598291,20.28346797,15.46287409,38.83121826
+1,47,Genetic bank,F24-3454,ABC-8797,Fabales,Fabaceae,Desmanthus,virgatus,Desmanthus virgatus,Shrub_Trees,3,93.00699301,7.08915145,92.91084855,25.88000034,30.1458951,59.29133305
+1,48,Genetic bank,F24-3454,ABC-8797,Fabales,Fabaceae,Desmanthus,virgatus,Desmanthus virgatus,Shrub_Trees,3,92.70729271,7.004310345,92.99568966,25.88000034,30.34908851,60.72665992
+1,49,Genetic bank,F24-3455,ABC-8819,Fabales,Fabaceae,Coursetia,caribaea,Coursetia caribaea,Herbaceous_legumes,3,91.60839161,13.74045802,86.25954198,21.83464401,22.76303077,34.80352448
+1,50,Genetic bank,F24-3455,ABC-8819,Fabales,Fabaceae,Coursetia,caribaea,Coursetia caribaea,Herbaceous_legumes,3,91.9,14.14581066,85.85418934,21.83464401,19.09917003,37.22426177
+1,51,Breeding,F24-3582,ABC-BR-02-1752,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.98,15.64169595,84.35830405,10.91797301,21.19578114,55.59004249
+1,52,Breeding,F24-3582,ABC-BR-02-1752,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.07078584,15.7635102,84.2364898,10.91797301,21.08584781,55.23367493
+1,53,Breeding,F24-3583,ABC-BR-02-1794,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.97030297,15.13577023,84.86422977,9.392254149,21.26984722,54.82804262
+1,54,Breeding,F24-3583,ABC-BR-02-1794,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,97.12,14.90028072,85.09971928,9.392254149,22.40086272,56.69546429
+1,55,Breeding,F24-3584,ABC-BR-06-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.56103169,15.97192437,84.02807563,11.00867792,22.15456453,57.44947572
+1,56,Breeding,F24-3584,ABC-BR-06-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.97060588,15.96318908,84.03681092,11.00867792,21.89211675,57.27926149
+1,57,Breeding,F24-3585,ABC-BR-09-1232,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,97.13086074,13.82820131,86.17179869,10.08023483,21.0430635,55.54448094
+1,58,Breeding,F24-3585,ABC-BR-09-1232,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,97.34079776,13.76651416,86.23348584,10.08023483,21.02210206,55.77095135
+1,59,Breeding,F24-3586,ABC-BR-12-4951,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.47045295,15.47693428,84.52306572,11.10404195,23.31828587,56.94152855
+1,60,Breeding,F24-3586,ABC-BR-12-4951,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.02119364,15.47383982,84.52616018,11.10404195,23.26100905,56.78673355
+1,61,Breeding,F24-3587,ABC-BR-15-0722,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.0709858,14.04952506,85.95047494,10.31254646,26.52115031,60.67041444
+1,62,Breeding,F24-3587,ABC-BR-15-0722,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.36,14.06283746,85.93716254,10.31254646,25.83438985,59.75509455
+1,63,Breeding,F24-3588,ABC-BR-15-6487,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,94.97,13.40065215,86.59934785,9.608712975,24.32323047,59.69854782
+1,64,Breeding,F24-3588,ABC-BR-15-6487,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.17,13.73724624,86.26275376,9.608712975,24.78376827,59.75158964
+1,65,Breeding,F24-3589,ABC-BR-19-0029,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.05,14.10424156,85.89575844,10.07879313,23.75783461,58.02335089
+1,66,Breeding,F24-3589,ABC-BR-19-0029,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.09078184,14.15345604,85.84654396,10.07879313,24.19367052,58.79681002
+1,67,Breeding,F24-3590,ABC-BR-19-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.18,13.86537077,86.13462923,10.11450669,24.24316116,58.93991291
+1,68,Breeding,F24-3590,ABC-BR-19-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.51089782,13.93600081,86.06399919,10.11450669,24.7446012,59.50818595
+1,69,Breeding,F24-3591,ABC-CIAT-6962,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,95.5813256,14.19256219,85.80743781,8.588266117,31.5913337,67.16616479
+1,70,Breeding,F24-3591,ABC-CIAT-6962,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,95.87,14.30128515,85.69871485,8.588266117,32.6939506,68.08340127
+1,71,Breeding,F24-3592,ABC-Mulato-II,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.69066187,14.95653166,85.04346834,11.84729481,24.44965204,60.04654225
+1,72,Breeding,F24-3592,ABC-Mulato-II,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.6310107,14.9860635,85.0139365,11.84729481,24.27765695,58.7932192
+1,73,Breeding,F24-3593,ABC-PM-21-0215,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,95.98,15.02880902,84.97119098,9.725160285,29.756359,65.00865087
+1,74,Breeding,F24-3593,ABC-PM-21-0215,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.05118464,15.07636099,84.92363901,9.725160285,30.06316632,65.46763805
+1,75,Breeding,F24-3594,ABC-PM-21-0631,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.73032697,13.97650548,86.02349452,9.055024441,29.06594194,63.22871631
+1,76,Breeding,F24-3594,ABC-PM-21-0631,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.86094172,13.99436691,86.00563309,9.055024441,28.48413362,62.49542559
+1,77,Breeding,F24-3595,ABC-PM-21-2195,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.66,14.09666559,85.90333441,8.717412856,30.70952616,67.8500454
+1,78,Breeding,F24-3595,ABC-PM-21-2195,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.86094172,14.18542315,85.81457685,8.717412856,31.13472027,68.25222093
+1,79,Breeding,F24-3596,ABC-PM-21-3522,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.46035396,15.85688359,84.14311641,8.710478289,29.56094377,64.48048266
+1,80,Breeding,F24-3596,ABC-PM-21-3522,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.37036296,15.45242416,84.54757584,8.710478289,30.0729587,64.94987839
+1,81,Breeding,F24-3597,ABC-PM-21-3534,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,96.96030397,15.58390929,84.41609071,9.000965172,30.95929986,67.25304297
+1,82,Breeding,F24-3597,ABC-PM-21-3534,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,96.04,15.53365429,84.46634571,9.000965172,30.87115597,67.21327086
+1,83,Breeding,F24-3598,ABC-PM-21-3537,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,97.15,14.49346005,85.50653995,10.87316719,26.62942029,61.71271858
+1,84,Breeding,F24-3598,ABC-PM-21-3537,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,97.4205159,14.45973096,85.54026904,10.87316719,26.9914775,62.1625367
+1,85,Breeding,F24-3599,ABC-PM-21-3545,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,96.98,14.7961285,85.2038715,8.40826817,30.17716395,65.69916439
+1,86,Breeding,F24-3599,ABC-PM-21-3545,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,97.26,14.76523888,85.23476112,8.40826817,29.83234323,65.78253088
+1,87,Breeding,F24-3600,ABC-PM-21-3670,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,96.96030397,14.55631048,85.44368952,8.834231116,29.30596547,64.35902183
+1,88,Breeding,F24-3600,ABC-PM-21-3670,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,97.30026997,14.63866584,85.36133416,8.834231116,29.20532204,64.40928995
+1,89,Breeding,F24-3601,ABC-PM-21-6628,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,95.12,13.98932353,86.01067647,9.980926223,29.70798149,64.85398573
+1,90,Breeding,F24-3601,ABC-PM-21-6628,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,95.31093781,14.21753492,85.78246508,9.980926223,29.94649383,65.06653761
+1,91,Breeding,F24-3602,ABC-BH-08-1149,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.37,13.30148434,86.69851566,7.526319867,28.67656881,67.49290661
+1,92,Breeding,F24-3602,ABC-BH-08-1149,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.48110378,13.33058929,86.66941071,7.526319867,28.54455165,69.96591048
+1,93,Breeding,F24-3603,ABC-BH-16-0550,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.0,11.45468069,88.54531931,6.425464292,29.83002246,68.75694556
+1,94,Breeding,F24-3603,ABC-BH-16-0550,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.22,11.59281692,88.40718308,6.425464292,30.46014187,69.56262149
+1,95,Breeding,F24-3604,ABC-BH-16-0562,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.00149955,11.10355157,88.89644843,5.939448687,30.66293364,69.91192737
+1,96,Breeding,F24-3604,ABC-BH-16-0562,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.33093381,11.24123749,88.75876251,5.939448687,30.26929531,69.27315989
+1,97,Breeding,F24-3605,ABC-BH-16-3249,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.69043096,11.94883981,88.05116019,6.64642741,28.50012439,69.32874104
+1,98,Breeding,F24-3605,ABC-BH-16-3249,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.94081184,12.13546841,87.86453159,6.64642741,29.22073401,69.96192311
+1,99,Breeding,F24-3606,ABC-BH-16-B-0733,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.21037896,12.44873592,87.55126408,8.098687385,29.23820931,68.74402079
+1,100,Breeding,F24-3606,ABC-BH-16-B-0733,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.40035996,12.83289207,87.16710793,8.098687385,29.47274655,68.92521056
+1,101,Breeding,F24-3607,ABC-BH-16-B-0741,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.47070586,14.13874375,85.86125625,7.498562822,28.1395684,65.64541008
+1,102,Breeding,F24-3607,ABC-BH-16-B-0741,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.86,14.31743596,85.68256404,7.498562822,28.1368253,65.72102834
+1,103,Breeding,F24-3608,ABC-BH-16-B-1194,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.64,11.92949811,88.07050189,5.470321142,29.62300868,67.75778221
+1,104,Breeding,F24-3608,ABC-BH-16-B-1194,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.83,11.89848555,88.10151445,5.470321142,29.45338648,67.78949217
+1,105,Breeding,F24-3609,ABC-BH-16-B-1618,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,97.01059788,13.96375923,86.03624077,8.125850845,28.5241981,66.90032155
+1,106,Breeding,F24-3609,ABC-BH-16-B-1618,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,97.31080676,13.9932307,86.0067693,8.125850845,27.57074505,65.87027845
+1,107,Breeding,F24-3610,ABC-BH-16-B-1707,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.83,10.45896788,89.54103212,5.966437759,26.78768698,68.86607208
+1,108,Breeding,F24-3610,ABC-BH-16-B-1707,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,97.07058588,10.58062652,89.41937348,5.966437759,26.68993796,68.30443179
+1,109,Breeding,F24-3611,ABC-CIAT-16888,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.74,11.63461614,88.36538386,6.11164643,30.34465841,69.3161333
+1,110,Breeding,F24-3611,ABC-CIAT-16888,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.82031797,11.74710109,88.25289891,6.11164643,31.26936957,70.68017622
+1,111,Genetic bank,F24-3426,ABC-989,Fabales,Fabaceae,Indigofera,hirsuta,Indigofera hirsuta,Herbaceous_legumes,5,92.36076392,13.75987875,86.24012125,25.3469484,47.64235849,53.47541692
+1,112,Genetic bank,F24-3426,ABC-989,Fabales,Fabaceae,Indigofera,hirsuta,Indigofera hirsuta,Herbaceous_legumes,5,92.38,13.56354189,86.43645811,25.3469484,47.60862178,52.72672557
+1,113,Genetic bank,F24-3427,ABC-1257,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,5,92.61073893,9.576765277,90.42323472,17.95515598,35.7671013,68.89257778
+1,114,Genetic bank,F24-3427,ABC-1257,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,5,92.82143571,9.457130547,90.54286945,17.95515598,36.02531554,70.91743282
+1,115,Genetic bank,F24-3428,ABC-3240,Fabales,Fabaceae,Desmodium,cinereum,Desmodium cinereum,Herbaceous_legumes,5,92.84,12.04222318,87.95777682,22.62704069,24.44668691,56.91475286
+1,115,Genetic bank,F24-3428,ABC-3240,Fabales,Fabaceae,Desmodium,cinereum,Desmodium cinereum,Browse,5,92.84,12.04222318,87.95777682,22.62704069,24.44668691,56.91475286
+1,116,Genetic bank,F24-3428,ABC-3240,Fabales,Fabaceae,Desmodium,cinereum,Desmodium cinereum,Herbaceous_legumes,5,92.88071193,11.97114867,88.02885133,22.62704069,25.36788142,55.7625911
+1,116,Genetic bank,F24-3428,ABC-3240,Fabales,Fabaceae,Desmodium,cinereum,Desmodium cinereum,Browse,5,92.88071193,11.97114867,88.02885133,22.62704069,25.36788142,55.7625911
+1,117,Genetic bank,F24-3429,ABC-3522,Fabales,Fabaceae,Desmodium,incanum,Desmodium incanum,Herbaceous_legumes,5,93.23203039,11.15161913,88.84838087,17.94095507,47.15664681,64.26385297
+1,118,Genetic bank,F24-3429,ABC-3522,Fabales,Fabaceae,Desmodium,incanum,Desmodium incanum,Herbaceous_legumes,5,93.32066793,10.95039109,89.04960891,17.94095507,48.78372398,64.69925545
+1,119,Genetic bank,F24-3430,ABC-4134,Fabales,Fabaceae,Macroptilium,lathyroides,Macroptilium lathyroides,Herbaceous_legumes,5,91.84326269,14.39921637,85.60078363,22.08537556,24.2709361,42.17983588
+1,120,Genetic bank,F24-3430,ABC-4134,Fabales,Fabaceae,Macroptilium,lathyroides,Macroptilium lathyroides,Herbaceous_legumes,5,91.98240528,14.31366156,85.68633844,22.08537556,24.30255413,45.11245042
+1,121,Genetic bank,F24-3431,ABC-4279,Fabales,Fabaceae,Vigna,umbellata,Vigna umbellata,Herbaceous_legumes,5,90.96,11.01583113,88.98416887,25.72120617,13.25207826,51.75391912
+1,122,Genetic bank,F24-3431,ABC-4279,Fabales,Fabaceae,Vigna,umbellata,Vigna umbellata,Herbaceous_legumes,5,91.11088891,11.01843723,88.98156277,25.72120617,13.03636467,53.89603281
+1,123,Genetic bank,F24-3432,ABC-5124,Fabales,Fabaceae,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Herbaceous_legumes,5,91.58,10.34068574,89.65931426,25.77536281,38.41636274,67.42623331
+1,124,Genetic bank,F24-3432,ABC-5124,Fabales,Fabaceae,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Herbaceous_legumes,5,91.49,10.38364849,89.61635151,25.77536281,36.81256886,63.59004217
+1,125,Genetic bank,F24-3433,ABC-5234,Fabales,Fabaceae,Centrosema,brasilianum,Centrosema brasilianum,Herbaceous_legumes,5,92.4830068,11.21919585,88.78080415,17.21944618,33.40776562,59.55180766
+1,126,Genetic bank,F24-3433,ABC-5234,Fabales,Fabaceae,Centrosema,brasilianum,Centrosema brasilianum,Herbaceous_legumes,5,92.5814837,11.22030238,88.77969762,17.21944618,33.35190879,61.70422917
+1,127,Genetic bank,F24-3434,ABC-7292,Fabales,Fabaceae,Chamaecrista,desvauxii,Chamaecrista desvauxii,Herbaceous_legumes,5,91.94161168,9.471509352,90.52849065,31.82560604,43.11436797,60.33622995
+1,128,Genetic bank,F24-3434,ABC-7292,Fabales,Fabaceae,Chamaecrista,desvauxii,Chamaecrista desvauxii,Herbaceous_legumes,5,92.06,9.363458614,90.63654139,31.82560604,45.17380928,58.72382934
+1,129,Genetic bank,F24-3435,ABC-7317,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Herbaceous_legumes,5,91.80163967,19.05902853,80.94097147,23.8828974,24.59602868,50.59020328
+1,130,Genetic bank,F24-3435,ABC-7317,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Herbaceous_legumes,5,93.1,19.06552095,80.93447905,23.8828974,24.87271125,53.92548025
+1,131,Genetic bank,F24-3436,ABC-7322,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Herbaceous_legumes,5,89.28107189,15.13047374,84.86952626,21.51684891,18.07416386,45.8587462
+1,132,Genetic bank,F24-3436,ABC-7322,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Herbaceous_legumes,5,89.45316405,15.25480554,84.74519446,21.51684891,18.25116934,49.21794213
+1,133,Genetic bank,F24-3437,ABC-7339,Fabales,Fabaceae,Indigofera,lespedezioides,Indigofera lespedezioides,Herbaceous_legumes,5,91.95160968,16.59236708,83.40763292,24.9715208,43.20852578,57.47737849
+1,134,Genetic bank,F24-3437,ABC-7339,Fabales,Fabaceae,Indigofera,lespedezioides,Indigofera lespedezioides,Herbaceous_legumes,5,92.02,16.33340578,83.66659422,24.9715208,42.21981356,58.39826568
+1,135,Genetic bank,F24-3438,ABC-7469,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,5,92.12,8.119843682,91.88015632,26.36670549,22.4549051,62.05313956
+1,136,Genetic bank,F24-3438,ABC-7469,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,5,92.21,8.068539204,91.9314608,26.36670549,22.63033261,59.00410402
+1,137,Genetic bank,F24-3439,ABC-7643,Fabales,Fabaceae,Desmanthus,pernambucanus,Desmanthus pernambucanus,Shrub_Trees,5,93.86122775,7.349808266,92.65019173,22.49012437,37.87869213,65.61156874
+1,137,Genetic bank,F24-3439,ABC-7643,Fabales,Fabaceae,Desmanthus,pernambucanus,Desmanthus pernambucanus,Browse,5,93.86122775,7.349808266,92.65019173,22.49012437,37.87869213,65.61156874
+1,138,Genetic bank,F24-3439,ABC-7643,Fabales,Fabaceae,Desmanthus,pernambucanus,Desmanthus pernambucanus,Shrub_Trees,5,93.78186544,7.355292613,92.64470739,22.49012437,37.73069582,68.35352315
+1,138,Genetic bank,F24-3439,ABC-7643,Fabales,Fabaceae,Desmanthus,pernambucanus,Desmanthus pernambucanus,Browse,5,93.78186544,7.355292613,92.64470739,22.49012437,37.73069582,68.35352315
+1,139,Genetic bank,F24-3440,ABC-7703,Fabales,Fabaceae,Aeschynomene,indica,Aeschynomene indica,Herbaceous_legumes,5,91.87,8.871231087,91.12876891,22.07736189,32.9712372,68.51876674
+1,140,Genetic bank,F24-3440,ABC-7703,Fabales,Fabaceae,Aeschynomene,indica,Aeschynomene indica,Herbaceous_legumes,5,92.02239328,8.821292776,91.17870722,22.07736189,31.23087411,66.06015039
+1,141,Genetic bank,F24-3441,ABC-7714,Fabales,Fabaceae,Alysicarpus,glumaceus,Alysicarpus glumaceus,Herbaceous_legumes,6,93.00209937,17.49973127,82.50026873,21.81506189,27.92135262,78.84631195
+1,142,Genetic bank,F24-3441,ABC-7714,Fabales,Fabaceae,Alysicarpus,glumaceus,Alysicarpus glumaceus,Herbaceous_legumes,6,93.10137972,17.40764605,82.59235395,20.28418036,27.65421243,85.85070439
+1,143,Genetic bank,F24-3442,ABC-7757,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,6,92.05,8.24551874,91.75448126,20.48925605,22.59976687,58.39083458
+1,144,Genetic bank,F24-3442,ABC-7757,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,6,92.19078092,8.242950108,91.75704989,24.74174315,21.29895765,56.06940958
+1,145,Genetic bank,F24-3443,ABC-7759,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,6,93.50064994,5.84964175,94.15035825,24.36583118,14.53248615,58.98002117
+1,146,Genetic bank,F24-3443,ABC-7759,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,6,93.58256697,5.874813074,94.12518693,16.46597185,14.83314484,62.65440889
+1,147,Genetic bank,F24-3444,ABC-7790,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,6,92.11236629,5.882352941,94.11764706,16.72167743,19.8245911,69.21233731
+1,148,Genetic bank,F24-3444,ABC-7790,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,6,92.11,5.819129302,94.1808707,27.45061497,20.34777443,66.01173228
+1,149,Genetic bank,F24-3445,ABC-7792,Fabales,Fabaceae,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Herbaceous_legumes,6,92.81287485,8.045234249,91.95476575,27.22443596,22.88043504,63.71707787
+1,150,Genetic bank,F24-3445,ABC-7792,Fabales,Fabaceae,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Herbaceous_legumes,6,92.94,8.058962772,91.94103723,20.0368879,24.12041423,64.27107457
+1,151,Genetic bank,F24-3446,ABC-7816,Fabales,Fabaceae,Indigofera,spicata,Indigofera spicata,Herbaceous_legumes,6,92.43,17.50513902,82.49486098,20.11818757,23.70514025,52.81681908
+1,152,Genetic bank,F24-3446,ABC-7816,Fabales,Fabaceae,Indigofera,spicata,Indigofera spicata,Herbaceous_legumes,6,92.57222833,17.66738661,82.33261339,28.00864661,22.50770485,56.66845589
+1,153,Genetic bank,F24-3447,ABC-7858,Fabales,Fabaceaee,Crotalaria,incana,Crotalaria incana,Herbaceous_legumes,6,93.09,9.098721667,90.90127833,27.81204464,25.7221982,61.77373494
+1,154,Genetic bank,F24-3447,ABC-7858,Fabales,Fabaceaee,Crotalaria,incana,Crotalaria incana,Herbaceous_legumes,6,93.22,9.193306157,90.80669384,31.04914222,21.43747509,59.73569591
+1,155,Genetic bank,F24-3448,ABC-7972,Fabales,Fabaceae,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,6,91.82,17.45807014,82.54192986,31.48000483,23.19506902,56.65005578
+1,156,Genetic bank,F24-3448,ABC-7972,Fabales,Fabaceae,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,6,91.94,18.17489667,81.82510333,26.54802683,24.54656549,55.56824783
+1,157,Genetic bank,F24-3449,ABC-8205,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,6,92.13,14.53381092,85.46618908,26.44871462,27.03323488,51.67027222
+1,158,Genetic bank,F24-3449,ABC-8205,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,6,92.32,14.77469671,85.22530329,24.22130138,26.47175558,50.71835274
+1,159,Genetic bank,F24-3450,ABC-8402,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,6,91.95,17.70527461,82.29472539,24.27789935,18.67186303,46.29907217
+1,160,Genetic bank,F24-3450,ABC-8402,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,6,92.07,17.73650483,82.26349517,26.88677861,19.31440151,49.50011789
+1,161,Genetic bank,F24-3451,ABC-8408,Fabales,Fabaceae,Chamaecrista,nictitans,Chamaecrista nictitans,Herbaceous_legumes,6,93.96181146,6.841153314,93.15884669,26.31287847,38.79729316,58.5049959
+1,162,Genetic bank,F24-3451,ABC-8408,Fabales,Fabaceae,Chamaecrista,nictitans,Chamaecrista nictitans,Herbaceous_legumes,6,94.07177847,6.92879915,93.07120085,23.38805912,37.96925721,58.80299642
+1,163,Genetic bank,F24-3452,ABC-8409,Fabales,Fabaceae,Chamaecrista,nictitans,Chamaecrista nictitans,Herbaceous_legumes,6,91.91242627,7.613661083,92.38633892,23.91713839,39.31213235,62.40454731
+1,164,Genetic bank,F24-3452,ABC-8409,Fabales,Fabaceae,Chamaecrista,nictitans,Chamaecrista nictitans,Herbaceous_legumes,6,91.96160768,7.708197434,92.29180257,27.78758071,36.74305595,61.30719696
+1,165,Genetic bank,F24-3453,ABC-8719,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp. ,Herbaceous_legumes,6,93.42328836,17.1177918,82.8822082,27.31500964,16.43957802,41.54842529
+1,165,Genetic bank,F24-3453,ABC-8719,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Herbaceous_legumes,6,93.42328836,17.1177918,82.8822082,27.31500964,16.43957802,41.54842529
+1,166,Genetic bank,F24-3453,ABC-8719,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp. ,Herbaceous_legumes,6,93.63191043,17.14712791,82.85287209,20.27819741,15.7587894,38.82112816
+1,166,Genetic bank,F24-3453,ABC-8719,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Herbaceous_legumes,6,93.63191043,17.14712791,82.85287209,20.27819741,15.7587894,38.82112816
+1,167,Genetic bank,F24-3454,ABC-8797,Fabales,Fabaceae,Desmanthus,virgatus,Desmanthus virgatus,Shrub_Trees,6,93.09345327,7.118316513,92.88168349,20.40453153,30.11625699,59.23304043
+1,168,Genetic bank,F24-3454,ABC-8797,Fabales,Fabaceae,Desmanthus,virgatus,Desmanthus virgatus,Shrub_Trees,6,92.8035982,7.000538503,92.9994615,25.85455626,30.31925063,60.66695616
+1,169,Genetic bank,F24-3455,ABC-8819,Fabales,Fabaceae,Coursetia,caribaea,Coursetia caribaea,Herbaceous_legumes,6,91.69415292,13.75626771,86.24373229,26.18410142,17.66952458,51.40754591
+1,170,Genetic bank,F24-3455,ABC-8819,Fabales,Fabaceae,Coursetia,caribaea,Coursetia caribaea,Herbaceous_legumes,6,91.8632547,14.15669206,85.84330794,21.82881342,18.8169535,52.54392727
+1,171,Genetic bank,F24-3456,ABC-9170,Fabales,Fabaceae,Indigofera,lespedezioides,Indigofera lespedezioides,Herbaceous_legumes,6,93.08207538,15.32595854,84.67404146,21.52108571,41.69760353,54.82821066
+1,172,Genetic bank,F24-3456,ABC-9170,Fabales,Fabaceae,Indigofera,lespedezioides,Indigofera lespedezioides,Herbaceous_legumes,6,93.1,15.43501611,84.56498389,19.98669966,42.27515879,54.31525746
+1,173,Genetic bank,F24-3457,ABC-9254,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,6,90.86,6.603565926,93.39643407,20.48504618,21.24990056,55.38070717
+1,174,Genetic bank,F24-3457,ABC-9254,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,6,90.79276217,6.672539088,93.32746091,28.81052353,19.902591,55.2934955
+1,175,Genetic bank,F24-3458,ABC-9283,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,6,92.76072393,8.21386224,91.78613776,28.1974698,15.20329524,54.98031476
+1,176,Genetic bank,F24-3458,ABC-9283,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,6,92.84143171,8.173594659,91.82640534,22.91785074,14.82136258,53.34354543
+1,177,Genetic bank,F24-3459,ABC-9288,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,6,93.7,11.93169691,88.06830309,22.68467015,16.3291768,52.25645049
+1,178,Genetic bank,F24-3459,ABC-9288,Fabales,Fabaceae,Indigofera,suffruticosa,Indigofera suffruticosa,Herbaceous_legumes,6,93.81,11.88572647,88.11427353,32.48038724,16.59652115,52.56648835
+1,179,Genetic bank,F24-3460,ABC-9336,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,6,90.37192561,8.109304127,91.89069587,33.6886583,19.4231364,48.63511665
+1,180,Genetic bank,F24-3460,ABC-9336,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,6,90.41287614,8.11587793,91.88412207,29.64106629,18.88141789,48.58431045
+1,181,Genetic bank,F24-3461,ABC-9349,Fabales,Fabaceae,Mucuna,pruriens,Mucuna pruriens,Herbaceous_legumes,6,91.33260022,8.636164623,91.36383538,29.30719938,27.78135042,55.88215726
+1,182,Genetic bank,F24-3461,ABC-9349,Fabales,Fabaceae,Mucuna,pruriens,Mucuna pruriens,Herbaceous_legumes,6,91.51169766,8.631049929,91.36895007,31.45554367,27.82063691,55.24432534
+1,183,Genetic bank,F24-3462,ABC-9356,Fabales,Fabaceae,Tephrosia,noctiflora,Tephrosia noctiflora,Shrub_Trees,6,92.98070193,8.398752554,91.60124745,30.91120176,20.54193059,55.73179674
+1,184,Genetic bank,F24-3462,ABC-9356,Fabales,Fabaceae,Tephrosia,noctiflora,Tephrosia noctiflora,Shrub_Trees,6,93.08345827,8.321700848,91.67829915,30.33699987,20.66418291,56.22645599
+1,185,Genetic bank,F24-3463,ABC-9432,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,6,91.25437281,8.039430449,91.96056955,30.91952213,17.479488,46.48848228
+1,186,Genetic bank,F24-3463,ABC-9432,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,6,91.30434783,8.024083196,91.9759168,31.58965175,18.35267878,43.41779879
+1,187,Genetic bank,F24-3464,ABC-9433,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,6,94.25287356,9.48038176,90.51961824,30.58656643,21.95966794,44.31689873
+1,188,Genetic bank,F24-3464,ABC-9433,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,6,94.29285357,9.402162391,90.59783761,32.77093817,21.92787958,41.96699963
+1,189,Genetic bank,F24-3465,ABC-9435,Fabales,Fabaceae,Desmanthus,pubescens,Desmanthus pubescens,Shrub_Trees,6,94.59108178,8.498044604,91.5019554,26.8210407,35.84907394,54.40665917
+1,190,Genetic bank,F24-3465,ABC-9435,Fabales,Fabaceae,Desmanthus,pubescens,Desmanthus pubescens,Shrub_Trees,6,94.58162551,8.466335483,91.53366452,26.72960421,36.26464947,53.24478227
+1,191,Genetic bank,F24-3466,ABC-9530,Fabales,Fabaceae,Crotalaria,maypurensis,Crotalaria maypurensis,Herbaceous_legumes,6,93.22338831,8.845287874,91.15471213,32.65498846,11.18089503,32.95438697
+1,192,Genetic bank,F24-3466,ABC-9530,Fabales,Fabaceae,Crotalaria,maypurensis,Crotalaria maypurensis,Herbaceous_legumes,6,93.30267893,8.742232698,91.2577673,32.65498846,10.49283823,31.44356105
+1,193,Genetic bank,F24-3467,ABC-9562,Fabales,Fabaceae,Eriosema,diffusum,Eriosema diffusum,Herbaceous_legumes,6,93.91,8.508146097,91.4918539,18.10554432,52.00739046,64.33949364
+1,194,Genetic bank,F24-3467,ABC-9562,Fabales,Fabaceae,Eriosema,diffusum,Eriosema diffusum,Herbaceous_legumes,6,93.95302349,8.29787234,91.70212766,18.10554432,51.91912419,64.76360299
+1,195,Genetic bank,F24-3468,ABC-9982,Fabales,Fabaceae,Crotalaria,incana,Crotalaria incana,Herbaceous_legumes,6,93.76311844,8.613154248,91.38684575,26.85672385,13.97311302,46.44758291
+1,196,Genetic bank,F24-3468,ABC-9982,Fabales,Fabaceae,Crotalaria,incana,Crotalaria incana,Herbaceous_legumes,6,93.87,8.682220092,91.31777991,26.85672385,14.68470551,47.21445736
+1,197,Genetic bank,F24-3469,ABC-10647,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,6,92.95281887,9.34509087,90.65490913,20.01579809,32.86281412,57.000799
+1,198,Genetic bank,F24-3469,ABC-10647,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,6,92.90283886,9.371637616,90.62836238,20.01579809,32.02166593,55.38741874
+1,199,Genetic bank,F24-3470,ABC-11194,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,6,92.88213536,9.783661608,90.21633839,21.17967693,30.39423714,56.19486686
+1,200,Genetic bank,F24-3470,ABC-11194,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,6,92.90070993,9.428479173,90.57152083,21.17967693,29.96561182,55.67934921
+1,201,Genetic bank,F24-3471,ABC-11999,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,7,93.44196741,10.27,89.73,20.08914589,32.87994342,59.74610052
+1,202,Genetic bank,F24-3471,ABC-11999,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,7,93.56321839,10.66,89.34,20.08914589,34.91029039,62.88729593
+1,203,Genetic bank,F24-3472,ABC-12318,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,7,94.10294853,11.07,88.93,22.04897357,29.13357684,53.9014198
+1,204,Genetic bank,F24-3472,ABC-12318,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,7,94.10176947,11.1,88.9,22.04897357,29.55287829,56.60899712
+1,205,Genetic bank,F24-3473,ABC-13575,Fabales,Fabaceae,Desmodium,incanum,Desmodium incanum,Herbaceous_legumes,7,94.10117976,11.54,88.46,23.16919124,43.40548533,57.12037272
+1,206,Genetic bank,F24-3473,ABC-13575,Fabales,Fabaceae,Desmodium,incanum,Desmodium incanum,Herbaceous_legumes,7,94.17174848,11.49,88.51,23.16919124,44.76981353,58.0918596
+1,207,Genetic bank,F24-3474,ABC-13609,Fabales,Fabaceae,Desmodium,incanum,Desmodium incanum,Herbaceous_legumes,7,93.34332834,11.75,88.25,20.01347066,42.15809354,58.11257089
+1,208,Genetic bank,F24-3474,ABC-13609,Fabales,Fabaceae,Desmodium,incanum,Desmodium incanum,Herbaceous_legumes,7,93.46065393,11.4,88.6,20.01347066,39.54776388,59.44898239
+1,209,Genetic bank,F24-3475,ABC-15551,Fabales,Fabaceae,Centrosema,molle,Centrosema molle,Herbaceous_legumes,7,93.77,10.47,89.53,22.31266675,23.34914874,62.3421133
+1,210,Genetic bank,F24-3475,ABC-15551,Fabales,Fabaceae,Centrosema,molle,Centrosema molle,Herbaceous_legumes,7,93.73188044,10.5,89.5,22.31266675,23.9957097,60.83413376
+1,211,Genetic bank,F24-3476,ABC-17024,Fabales,Fabaceae,Desmanthus,pernambucanus,Desmanthus pernambucanus,Shrub_Trees,7,92.54372814,8.19,91.81,24.6266959,31.82647479,58.56969638
+1,212,Genetic bank,F24-3476,ABC-17024,Fabales,Fabaceae,Desmanthus,pernambucanus,Desmanthus pernambucanus,Shrub_Trees,7,92.52074793,8.27,91.73,24.6266959,32.23746214,57.90037398
+1,213,Genetic bank,F24-3477,ABC-17091,Fabales,Fabaceae,Crotalaria,micans,Crotalaria micans,Herbaceous_legumes,7,94.18058194,8.39,91.61,24.38060094,16.95252212,49.48032931
+1,214,Genetic bank,F24-3477,ABC-17091,Fabales,Fabaceae,Crotalaria,micans,Crotalaria micans,Herbaceous_legumes,7,94.94252874,8.35,91.65,24.38060094,17.35354831,49.98714161
+1,215,Genetic bank,F24-3478,ABC-17365,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,7,93.39198241,7.51,92.49,32.12201646,23.04515395,50.87574418
+1,216,Genetic bank,F24-3478,ABC-17365,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,7,93.3819854,7.75,92.25,32.12201646,23.6922525,52.57080849
+1,217,Genetic bank,F24-3479,ABC-17451,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Herbaceous_legumes,7,91.65333866,19.59,80.41,22.34228589,19.9664378,48.93839022
+1,218,Genetic bank,F24-3479,ABC-17451,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Herbaceous_legumes,7,91.63418291,19.36,80.64,22.34228589,20.18369925,49.34587812
+1,219,Genetic bank,F24-3480,ABC-17775,Fabales,Fabaceae,Christia,obcordata,Christia obcordata,Herbaceous_legumes,7,94.07177847,10.68,89.32,16.04996893,25.64550373,53.08435061
+1,220,Genetic bank,F24-3480,ABC-17775,Fabales,Fabaceae,Christia,obcordata,Christia obcordata,Herbaceous_legumes,7,94.53218713,10.77,89.23,16.04996893,26.42741792,56.8515635
+1,221,Genetic bank,F24-3481,ABC-18016,Fabales,Fabaceae,Sesbania,emerus,Sesbania emerus,Shrub_Trees,7,93.01209637,7.6,92.4,24.15784219,27.14059342,56.82055093
+1,222,Genetic bank,F24-3481,ABC-18016,Fabales,Fabaceae,Sesbania,emerus,Sesbania emerus,Shrub_Trees,7,93.43328336,7.77,92.23,24.15784219,29.09217348,55.9426071
+1,223,Genetic bank,F24-3482,ABC-18044,Fabales,Fabaceae,Christia,sp.,Christia sp.,Herbaceous_legumes,7,93.71188643,14.45,85.55,21.00012874,23.0296543,55.45525749
+1,224,Genetic bank,F24-3482,ABC-18044,Fabales,Fabaceae,Christia,sp.,Christia sp.,Herbaceous_legumes,7,93.62191343,14.43,85.57,21.00012874,22.35806629,53.90309322
+1,225,Genetic bank,F24-3483,ABC-18288,Fabales,Fabaceae,Sesbania,exasperata,Sesbania exasperata,Shrub_Trees,7,92.94211736,8.93,91.07,23.18028169,28.03169547,51.51388346
+1,226,Genetic bank,F24-3483,ABC-18288,Fabales,Fabaceae,Sesbania,exasperata,Sesbania exasperata,Shrub_Trees,7,92.88071193,8.85,91.15,23.18028169,27.86880464,50.69343764
+1,227,Genetic bank,F24-3484,ABC-18447,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,7,92.82358821,7.45,92.55,29.41115131,26.35106691,55.79141192
+1,228,Genetic bank,F24-3484,ABC-18447,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,7,93.04347826,7.55,92.45,29.41115131,26.04200502,52.30868327
+1,229,Genetic bank,F24-3485,ABC-18455,Fabales,Fabaceae,Christia,obcordata,Christia obcordata,Herbaceous_legumes,7,93.2133933,14.5,85.5,21.77303294,22.36886095,52.98974006
+1,230,Genetic bank,F24-3485,ABC-18455,Fabales,Fabaceae,Christia,obcordata,Christia obcordata,Herbaceous_legumes,7,93.1934033,14.4,85.6,21.77303294,22.17147418,51.86406202
+1,231,Genetic bank,F24-3486,ABC-18707,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,7,92.76144771,7.32,92.68,37.49811369,22.10757358,53.42481874
+1,232,Genetic bank,F24-3486,ABC-18707,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,7,92.89071093,7.56,92.44,37.49811369,21.95488639,50.42831902
+1,233,Genetic bank,F24-3487,ABC-18749,Fabales,Fabaceae,Arachis,pintoi,Arachis pintoi,Herbaceous_legumes,7,92.8035982,14.34,85.66,21.12793945,27.2652202,51.9975456
+1,234,Genetic bank,F24-3487,ABC-18749,Fabales,Fabaceae,Arachis,pintoi,Arachis pintoi,Herbaceous_legumes,7,92.5914817,14.3,85.7,21.12793945,27.58363749,51.060095
+1,235,Genetic bank,F24-3488,ABC-18813,Fabales,Fabaceae,Crotalaria,nitens,Crotalaria nitens,Herbaceous_legumes,7,91.65083492,17.07,82.93,17.16342238,28.31696092,51.62297256
+1,236,Genetic bank,F24-3488,ABC-18813,Fabales,Fabaceae,Crotalaria,nitens,Crotalaria nitens,Herbaceous_legumes,7,91.94322271,16.75,83.25,17.16342238,29.05665181,53.11918178
+1,237,Genetic bank,F24-3489,ABC-18848,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,94.39112178,24.47,75.53,19.98876765,27.49648452,47.60570016
+1,238,Genetic bank,F24-3489,ABC-18848,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,94.46276862,24.54,75.46,19.98876765,28.76811422,49.0627287
+1,239,Genetic bank,F24-3490,ABC-18862,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,93.03069693,16.41,83.59,24.57881528,21.78161327,48.20003233
+1,240,Genetic bank,F24-3490,ABC-18862,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,93.1,16.3,83.7,24.57881528,21.65625612,50.66652966
+1,241,Genetic bank,F24-3491,ABC-18931,Fabales,Fabaceae,Tephrosia,linearis,Tephrosia linearis,Shrub_Trees,7,93.5,10.87,89.13,28.55552953,19.66808936,59.36999731
+1,242,Genetic bank,F24-3491,ABC-18931,Fabales,Fabaceae,Tephrosia,linearis,Tephrosia linearis,Shrub_Trees,7,93.57128574,10.7,89.3,28.55552953,18.48001434,62.80288074
+1,243,Genetic bank,F24-3492,ABC-19038,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Shrub_Trees,7,90.16196761,16.15,83.85,23.78356078,17.61235458,48.86713402
+1,244,Genetic bank,F24-3492,ABC-19038,Fabales,Fabaceae,Canavalia,sp.,Canavalia sp.,Shrub_Trees,7,90.1809819,15.92,84.08,23.78356078,17.61002711,46.42771692
+1,245,Genetic bank,F24-3493,ABC-19118,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,92.87,11.42,88.58,22.79950205,24.47548155,44.41393365
+1,246,Genetic bank,F24-3493,ABC-19118,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,92.97070293,11.36,88.64,22.79950205,23.88458886,44.21131787
+1,247,Genetic bank,F24-3494,ABC-19127,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,92.21,10.3,89.7,19.49502682,35.05181828,58.78371748
+1,248,Genetic bank,F24-3494,ABC-19127,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,92.29308277,10.47,89.53,19.49502682,34.7676365,57.0833901
+1,249,Genetic bank,F24-3495,ABC-19128,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,92.64073593,9.47,90.53,17.09154173,39.78003939,61.61152598
+1,250,Genetic bank,F24-3495,ABC-19128,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,92.73,9.43,90.57,17.09154173,40.24005698,62.33478588
+1,251,Genetic bank,F24-3496,ABC-19129,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,93.40131974,11.55,88.45,17.81459969,36.53895419,61.30686614
+1,252,Genetic bank,F24-3496,ABC-19129,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,93.51259496,12.42,87.58,17.81459969,36.88109426,62.84621258
+1,253,Genetic bank,F24-3497,ABC-19133,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,93.1427429,12.0,88.0,17.49348196,34.69912088,54.5170921
+1,254,Genetic bank,F24-3497,ABC-19133,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,93.11206638,11.62,88.38,17.49348196,35.41555783,55.78320225
+1,255,Genetic bank,F24-3498,ABC-19137,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,93.79186244,11.03,88.97,18.129116,33.73327237,57.75025344
+1,256,Genetic bank,F24-3498,ABC-19137,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,93.75187444,10.9,89.1,18.129116,32.95148153,56.38903013
+1,257,Genetic bank,F24-3499,ABC-19138,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,92.59,11.35,88.65,21.31731707,31.79353115,52.53681868
+1,258,Genetic bank,F24-3499,ABC-19138,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,7,92.79144171,11.39,88.61,21.31731707,33.27987896,55.52864413
+1,259,Genetic bank,F24-3500,ABC-19139,Fabales,Fabaceae,Alysicarpus,ovalifolius,Alysicarpus ovalifolius,Herbaceous_legumes,7,94.61107778,11.35,88.65,18.53940369,34.81682261,58.66046333
+1,260,Genetic bank,F24-3500,ABC-19139,Fabales,Fabaceae,Alysicarpus,ovalifolius,Alysicarpus ovalifolius,Herbaceous_legumes,7,94.6,12.74,87.26,18.53940369,35.24884387,57.95584582
+1,261,Breeding,F25-0990,ABC-PM-21-0053,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.81083783,11.32941805,88.67058195,14.96531353,32.53639506,68.53177284
+1,262,Breeding,F25-0990,ABC-PM-21-0053,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.79084183,11.49829497,88.50170503,14.87996188,32.78350617,67.33190402
+1,263,Breeding,F25-0991,ABC-PM-21-3550,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.61067786,14.45783133,85.54216867,14.61138437,30.37265304,69.19046891
+1,264,Breeding,F25-0991,ABC-PM-21-3550,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.74065187,14.08552666,85.91447334,14.66250156,29.9010778,69.17109189
+1,265,Breeding,F25-0992,ABC-PM-21-3595,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.85248851,16.73980732,83.26019268,14.24606837,30.98589752,68.01592327
+1,266,Breeding,F25-0992,ABC-PM-21-3595,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.91040896,16.4770353,83.5229647,14.27360147,30.73517261,69.44917382
+1,267,Breeding,F25-0993,ABC-PM-21-0086,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.84189486,14.85698155,85.14301845,14.78636094,31.13377098,67.36537042
+1,268,Breeding,F25-0993,ABC-PM-21-0086,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,98.10094953,15.86338695,84.13661305,14.82641469,30.89849036,67.38660852
+1,269,Breeding,F25-0994,ABC-CIAT-16048,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.4005199,15.36170064,84.63829936,17.38158977,31.70948586,67.28661645
+1,270,Breeding,F25-0994,ABC-CIAT-16048,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.72113943,15.19317615,84.80682385,17.29409903,32.28483412,66.91753728
+1,271,Breeding,F25-0995,ABC-PM-21-0185,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.40107968,13.85279361,86.14720639,16.73943327,28.14452653,67.12855577
+1,272,Breeding,F25-0995,ABC-PM-21-0185,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.57068586,13.91635144,86.08364856,16.71191561,27.65736162,66.53369288
+1,273,Breeding,F25-0996,ABC-PM-21-0215,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.47090582,13.56552662,86.43447338,15.16534338,30.5316324,67.38710857
+1,274,Breeding,F25-0996,ABC-PM-21-0215,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.71085783,13.85838301,86.14161699,15.15622351,29.95867818,67.08174063
+1,275,Breeding,F25-0997,ABC-CIAT-16051,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.99160336,13.92039263,86.07960737,14.95914637,30.83925513,68.17360139
+1,276,Breeding,F25-0997,ABC-CIAT-16051,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.31110667,14.03615291,85.96384709,14.8674968,32.38095659,68.26430601
+1,277,Breeding,F25-0998,ABC-PM-21-6080,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.23188406,15.38458715,84.61541285,18.25157098,32.95488054,67.99010871
+1,278,Breeding,F25-0998,ABC-PM-21-6080,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.46212273,15.4971518,84.5028482,18.32939294,31.03260627,66.94630865
+1,279,Breeding,F25-0999,ABC-PM-21-3684,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.17113155,13.43671584,86.56328416,14.74815432,30.42779577,70.47290392
+1,280,Breeding,F25-0999,ABC-PM-21-3684,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.59024098,13.48181825,86.51818175,14.81448566,30.3439653,69.59211162
+1,281,Breeding,F25-1000,ABC-PM-21-0076,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,94.86205518,15.38785613,84.61214387,16.17987857,32.38276338,66.29959502
+1,282,Breeding,F25-1000,ABC-PM-21-0076,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,94.95201919,15.46158302,84.53841698,16.12435126,31.99884195,68.90957631
+1,283,Breeding,F25-1001,ABC-CIAT-6890,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.18076385,12.257604,87.742396,15.95943204,34.22487194,72.59324657
+1,284,Breeding,F25-1001,ABC-CIAT-6890,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.15115465,12.38112547,87.61887453,15.77201324,34.31538841,70.17951969
+1,285,Breeding,F25-1002,ABC-PM-21-6638,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.58044196,16.63948086,83.36051914,14.34328359,34.63058061,67.43302037
+1,286,Breeding,F25-1002,ABC-PM-21-6638,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.75254847,16.65205953,83.34794047,14.14080122,34.45080839,67.24468019
+1,287,Breeding,F25-1003,ABC-PM-21-0052,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.44091182,14.00659997,85.99340003,15.22455413,32.18770122,65.50460292
+1,288,Breeding,F25-1003,ABC-PM-21-0052,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.43091382,14.25802734,85.74197266,15.58742586,31.43388207,64.74941504
+1,289,Breeding,F25-1004,ABC-PM-21-4449,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.06157537,12.77819967,87.22180033,14.59080653,32.8855697,69.88245799
+1,290,Breeding,F25-1004,ABC-PM-21-4449,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.22037796,12.82363416,87.17636584,14.48260316,32.44743262,70.47209663
+1,291,Breeding,F25-1005,ABC-CIAT-6799,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.48070386,12.7147176,87.2852824,13.53725897,33.72138703,71.71790917
+1,292,Breeding,F25-1005,ABC-CIAT-6799,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.54178329,12.59765157,87.40234843,13.55133911,33.67511874,71.3775575
+1,293,Breeding,F25-1006,ABC-PM-21-0055,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.09195402,13.64818247,86.35181753,16.61401948,31.83297629,65.81278849
+1,294,Breeding,F25-1006,ABC-PM-21-0055,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.51139544,13.01637385,86.98362615,16.34992592,31.41547205,65.54289024
+1,295,Breeding,F25-1007,ABC-PM-21-6529,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.59034097,14.84996726,85.15003274,12.65050808,30.39390062,68.25706692
+1,296,Breeding,F25-1007,ABC-PM-21-6529,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.52208675,14.99780349,85.00219651,12.71018213,29.89685493,68.09608318
+1,297,Breeding,F25-1008,ABC-PM-21-0047,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.09,15.07330816,84.92669184,14.15671899,32.59629299,65.76547247
+1,298,Breeding,F25-1008,ABC-PM-21-0047,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.17038296,14.79095997,85.20904003,14.14150019,31.98720776,65.93813728
+1,299,Breeding,F25-1009,ABC-PM-21-2195,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.01149425,14.12746664,85.87253336,15.47973651,30.67720851,67.56643306
+1,300,Breeding,F25-1009,ABC-PM-21-2195,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.98150925,13.86985419,86.13014581,15.50415588,30.74732786,66.85894962
+1,301,Breeding,F25-1010,ABC-PM-21-2627,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.25027497,14.80793063,85.19206937,17.32019145,33.60157216,66.28355195
+1,302,Breeding,F25-1010,ABC-PM-21-2627,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.49075277,15.00004235,84.99995765,17.2652394,33.48682654,65.28893892
+1,303,Breeding,F25-1011,ABC-PM-21-0059,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.47025297,14.00449367,85.99550633,16.6753137,31.69248342,65.75007251
+1,304,Breeding,F25-1011,ABC-PM-21-0059,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.5904819,14.0646005,85.9353995,16.74171199,31.70026851,65.1681837
+1,305,Breeding,F25-1012,ABC-PM-21-3522,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.04118353,14.40106979,85.59893021,13.19408879,24.69167246,66.26299639
+1,306,Breeding,F25-1012,ABC-PM-21-3522,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.31107557,14.79195597,85.20804403,13.05498049,25.11444188,66.66841311
+1,307,Breeding,F25-1013,ABC-PM-21-0062,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,98.04078369,17.22702375,82.77297625,13.54174136,24.39715579,67.9411322
+1,308,Breeding,F25-1013,ABC-PM-21-0062,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,98.20017998,14.25655569,85.74344431,13.39842885,24.44734141,67.94210782
+1,309,Breeding,F25-1014,ABC-PM-21-0906,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.30134933,15.21726034,84.78273966,14.75111841,19.40217094,67.25501918
+1,310,Breeding,F25-1014,ABC-PM-21-0906,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.5114931,15.43120179,84.56879821,14.5795761,19.59202941,67.14669629
+1,311,Genetic bank,F24-3501,ABC-19213,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,9,93.79,13.28,86.72,31.12,37.91203528,51.09922823
+1,312,Genetic bank,F24-3501,ABC-19213,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,9,93.89,10.3,89.7,31.12,37.20305777,51.52238104
+1,313,Genetic bank,F24-3502,ABC-19421,Fabales,Fabaceae,Uraria,lagopodioides,Uraria lagopodioides,Herbaceous_legumes,9,93.99,18.93,81.07,20.04,27.8491901,45.25680517
+1,314,Genetic bank,F24-3502,ABC-19421,Fabales,Fabaceae,Uraria,lagopodioides,Uraria lagopodioides,Herbaceous_legumes,9,94.19,18.42,81.58,20.04,27.7415394,46.82862197
+1,315,Genetic bank,F24-3503,ABC-19566,Fabales,Fabaceae,Tephrosia,noctiflora,Tephrosia noctiflora,Shrub_Trees,9,95.26,14.16,85.84,25.36,19.4,43.99759588
+1,316,Genetic bank,F24-3503,ABC-19566,Fabales,Fabaceae,Tephrosia,noctiflora,Tephrosia noctiflora,Shrub_Trees,9,92.23,10.69,89.31,25.36,19.59,41.19788364
+1,317,Genetic bank,F24-3504,ABC-19667,Fabales,Fabaceae,Indigofera,hirsuta,Indigofera hirsuta,Herbaceous_legumes,9,92.42,9.94,90.06,26.0,37.91,50.60512241
+1,318,Genetic bank,F24-3504,ABC-19667,Fabales,Fabaceae,Indigofera,hirsuta,Indigofera hirsuta,Herbaceous_legumes,9,92.42,9.97,90.03,26.0,37.2,50.45367896
+1,319,Genetic bank,F24-3505,ABC-19673,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,9,92.5,11.78,88.22,25.41,27.85,53.11875455
+1,320,Genetic bank,F24-3505,ABC-19673,Fabales,Fabaceae,Alysicarpus,rugosus,Alysicarpus rugosus,Herbaceous_legumes,9,92.52,12.18,87.82,25.41,27.74,53.03266615
+1,321,Genetic bank,F24-3506,ABC-19895,Fabales,Fabaceae,Aeschynomene ,americana,Aeschynomene americana,Herbaceous_legumes,10,93.29,11.32941805,88.67058195,25.26,25.07,61.34412539
+1,322,Genetic bank,F24-3506,ABC-19895,Fabales,Fabaceae,Aeschynomene ,americana,Aeschynomene americana,Herbaceous_legumes,10,93.42,11.49829497,88.50170503,25.26,26.35,62.77375665
+1,323,Genetic bank,F24-3507,ABC-20093,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,94.33,12.9,87.1,24.07,16.35,51.228562
+1,324,Genetic bank,F24-3507,ABC-20093,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,94.4,12.84,87.16,24.07,16.82,49.59492601
+1,325,Genetic bank,F24-3508,ABC-20113,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,94.63,15.68,84.32,18.07,15.88,49.77840953
+1,326,Genetic bank,F24-3508,ABC-20113,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,94.65,15.9,84.1,18.07,15.97,47.07623896
+1,327,Genetic bank,F24-3509,ABC-20125,Fabales,Fabaceae,Coursetia ,caribaea,Coursetia caribaea,Herbaceous_legumes,10,93.47,13.36,86.64,20.44,18.15,43.96964902
+1,328,Genetic bank,F24-3509,ABC-20125,Fabales,Fabaceae,Coursetia ,caribaea,Coursetia caribaea,Herbaceous_legumes,10,93.52,13.11,86.89,20.44,18.02,44.48801878
+1,329,Genetic bank,F24-3510,ABC-20298,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,93.6,15.66,84.34,22.85,21.47,42.63122741
+1,330,Genetic bank,F24-3510,ABC-20298,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,93.73,16.72,83.28,22.85,21.96,43.55083958
+1,331,Genetic bank,F24-3511,ABC-20305,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,93.5,18.84,81.16,23.35,23.93,40.87592951
+1,332,Genetic bank,F24-3511,ABC-20305,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,93.59,17.84,82.16,23.35,14.82,38.51805742
+1,333,Genetic bank,F24-3512,ABC-20803,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,93.31,15.51,84.49,22.07,14.08,50.98866177
+1,334,Genetic bank,F24-3512,ABC-20803,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,93.44,16.36,83.64,22.07,17.08,48.07773113
+1,335,Genetic bank,F24-3513,ABC-21031,Fabales,Fabaceae,Christia ,obcordata,Christia obcordata,Herbaceous_legumes,10,94.03,20.38,79.62,20.42,8.69,45.68423306
+1,336,Genetic bank,F24-3513,ABC-21031,Fabales,Fabaceae,Christia ,obcordata,Christia obcordata,Herbaceous_legumes,10,94.1,18.96,81.04,20.42,9.19,47.46090383
+1,337,Genetic bank,F24-3514,ABC-21128,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,10,93.45,8.52,91.48,29.38,36.43,54.46115777
+1,338,Genetic bank,F24-3514,ABC-21128,Fabales,Fabaceae,Crotalaria,pallida,Crotalaria pallida,Herbaceous_legumes,10,93.47,12.17,87.83,29.38,36.66,33.21057291
+1,339,Genetic bank,F24-3515,ABC-21212,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,93.66,16.13,83.87,23.03,21.46,31.85832415
+1,340,Genetic bank,F24-3515,ABC-21212,Fabales,Fabaceae,Canavalia ,sp.,Canavalia sp.,Herbaceous_legumes,10,93.68,13.86,86.14,22.93,20.08,47.77324504
+1,341,Genetic bank,F24-3516,ABC-21263,Fabales,Fabaceae,Sesbania,rostrata,Sesbania rostrata,Shrub_Trees,10,92.54,12.14,87.86,25.01,15.29,41.7059865
+1,342,Genetic bank,F24-3516,ABC-21263,Fabales,Fabaceae,Sesbania,rostrata,Sesbania rostrata,Shrub_Trees,10,92.62,14.59,85.41,25.01,15.36,39.68293269
+1,343,Genetic bank,F24-3517,ABC-21514,Fabales,Fabaceae,Desmanthus ,virgatus,Desmanthus virgatus,Shrub_Trees,10,93.6,10.8,89.2,23.25,14.72,54.76079796
+1,344,Genetic bank,F24-3517,ABC-21514,Fabales,Fabaceae,Desmanthus ,virgatus,Desmanthus virgatus,Shrub_Trees,10,93.5,9.03,90.97,23.25,15.74,57.12951874
+1,345,Genetic bank,F24-3518,ABC-21565,Fabales,Fabaceae,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Herbaceous_legumes,10,92.59,7.83,92.17,19.59,33.67,60.30470265
+1,346,Genetic bank,F24-3518,ABC-21565,Fabales,Fabaceae,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Herbaceous_legumes,10,92.69,7.95,92.05,19.59,33.77,56.29007195
+1,347,Genetic bank,F24-3519,ABC-21709,Fabales,Fabaceae,Crotalaria ,juncea,Crotalaria juncea,Herbaceous_legumes,10,92.1,16.79,83.21,25.97,23.82,41.62168055
+1,348,Genetic bank,F24-3519,ABC-21709,Fabales,Fabaceae,Crotalaria ,juncea,Crotalaria juncea,Herbaceous_legumes,10,92.23,16.81,83.19,25.97,22.54,44.49315976
+1,349,Genetic bank,F24-3520,ABC-22286,Fabales,Fabaceae,Crotalaria,micans,Crotalaria micans,Herbaceous_legumes,10,93.56,10.41,89.59,25.3,24.8,42.0538243
+1,350,Genetic bank,F24-3520,ABC-22286,Fabales,Fabaceae,Crotalaria,micans,Crotalaria micans,Herbaceous_legumes,10,93.61,10.4,89.6,25.3,24.15,45.12117269
+1,351,Genetic bank,F24-3521,ABC-22475,Fabales,Fabaceae,Alysicarpus ,rugosus,Alysicarpus rugosus,Herbaceous_legumes,10,94.07,12.37,87.63,17.41,32.45,63.34684235
+1,352,Genetic bank,F24-3521,ABC-22475,Fabales,Fabaceae,Alysicarpus ,rugosus,Alysicarpus rugosus,Herbaceous_legumes,10,94.25,12.48,87.52,17.41,30.9,64.94851887
+1,353,Genetic bank,F24-3522,ABC-22481,Fabales,Fabaceae,Sesbania,cochinchinensis,Sesbania cochinchinensis,Shrub_Trees,10,91.91,10.32,89.68,31.18,25.71,60.12270719
+1,354,Genetic bank,F24-3522,ABC-22481,Fabales,Fabaceae,Sesbania,cochinchinensis,Sesbania cochinchinensis,Shrub_Trees,10,92.03,10.6,89.4,31.18,27.57,63.78830801
+1,355,Genetic bank,F24-3523,ABC-22520,Fabales,Fabaceae,Arachis,pusilla,Arachis pusilla,Herbaceous_legumes,10,92.97,15.27,84.73,20.36,23.01,61.34275582
+1,356,Genetic bank,F24-3523,ABC-22520,Fabales,Fabaceae,Arachis,pusilla,Arachis pusilla,Herbaceous_legumes,10,93.15,14.59,85.41,20.36,22.57,61.0923511
+1,357,Genetic bank,F24-3524,ABC-22570,Fabales,Fabaceae,Desmanthus,bicornutus,Desmanthus bicornutus,Shrub_Trees,10,92.62,8.43,91.57,32.64,19.98,63.69054073
+1,358,Genetic bank,F24-3524,ABC-22570,Fabales,Fabaceae,Desmanthus,bicornutus,Desmanthus bicornutus,Shrub_Trees,10,92.72,8.48,91.52,32.64,19.75,65.7259684
+1,359,Genetic bank,F24-3525,ABC-22594,Fabales,Fabaceae,Desmanthus,pernambucanus,Desmanthus pernambucanus,Shrub_Trees,10,94.54,8.87,91.13,27.26,24.21,59.82740125
+1,360,Genetic bank,F24-3525,ABC-22594,Fabales,Fabaceae,Desmanthus,pernambucanus,Desmanthus pernambucanus,Shrub_Trees,10,94.62,8.87,91.13,27.26,23.7,57.32496381
+1,361,Genetic bank,F24-3526,ABC-22754,Fabales,Fabaceae,Lablab ,purpureus,Lablab purpureus,Herbaceous_legumes,10,91.62,12.15,87.85,30.03,25.54,51.91597651
+1,362,Genetic bank,F24-3526,ABC-22754,Fabales,Fabaceae,Lablab ,purpureus,Lablab purpureus,Herbaceous_legumes,10,91.75,12.13,87.87,30.03,24.23,50.76337083
+1,363,Genetic bank,F24-3527,ABC-22915,Fabales,Fabaceae,Aeschynomene ,villosa,Aeschynomene villosa,Herbaceous_legumes,10,92.03,7.92,92.08,27.06,34.6,66.36481933
+1,364,Genetic bank,F24-3527,ABC-22915,Fabales,Fabaceae,Aeschynomene ,villosa,Aeschynomene villosa,Herbaceous_legumes,10,92.1,7.93,92.07,27.06,34.49,62.65465514
+1,365,Genetic bank,F24-3528,ABC-23259,Fabales,Fabaceae,Desmodium,gangeticum,Desmodium gangeticum,Shrub_Trees,10,92.84,13.19,86.81,23.04,24.71,56.14753621
+1,366,Genetic bank,F24-3528,ABC-23259,Fabales,Fabaceae,Desmodium,gangeticum,Desmodium gangeticum,Shrub_Trees,10,92.88,12.74,87.26,23.04,25.22,56.76170558
+1,367,Genetic bank,F24-3529,ABC-23339,Fabales,Fabaceae,Desmodium,gangeticum,Desmodium gangeticum,Shrub_Trees,10,93.68,14.99,85.01,22.09,14.89,55.18463877
+1,368,Genetic bank,F24-3529,ABC-23339,Fabales,Fabaceae,Desmodium,gangeticum,Desmodium gangeticum,Shrub_Trees,10,93.72,15.0,85.0,22.09,14.24,56.17108082
+1,369,Genetic bank,F24-3530,ABC-23761,Fabales,Fabaceae,Uraria,picta,Uraria picta,Herbaceous_legumes,10,94.98,13.67,86.33,18.09,26.43,62.76528351
+1,370,Genetic bank,F24-3530,ABC-23761,Fabales,Fabaceae,Uraria,picta,Uraria picta,Herbaceous_legumes,10,95.03,13.7,86.3,18.09,26.86,61.03918828
+1,371,Genetic bank,F24-3531,ABC-24360,Fabales,Fabaceae,Vigna,umbellata,Vigna umbellata,Herbaceous_legumes,10,92.74,17.33,82.67,23.17,28.08,53.68131694
+1,372,Genetic bank,F24-3531,ABC-24360,Fabales,Fabaceae,Vigna,umbellata,Vigna umbellata,Herbaceous_legumes,10,92.72,17.1,82.9,23.17,29.38,53.68418764
+1,373,Genetic bank,F24-3532,ABC-24466,Fabales,Fabaceae,Vigna,umbellata,Vigna umbellata,Herbaceous_legumes,10,92.81,19.75,80.25,22.39,20.17,37.33530066
+1,374,Genetic bank,F24-3532,ABC-24466,Fabales,Fabaceae,Vigna,umbellata,Vigna umbellata,Herbaceous_legumes,10,92.9,19.79,80.21,22.39,19.82,37.72806385
+1,375,Genetic bank,F24-3533,ABC-32246,Fabales,Fabaceae,Chamaecrista,nictitans,Chamaecrista nictitans,Herbaceous_legumes,10,91.51,8.03,91.97,26.83,26.42652342,77.06768565
+1,376,Genetic bank,F24-3533,ABC-32246,Fabales,Fabaceae,Chamaecrista,nictitans,Chamaecrista nictitans,Herbaceous_legumes,10,91.56,8.03,91.97,26.83,26.85895517,81.72281094
+1,377,Genetic bank,F24-3534,ABC-32365,Fabales,Fabaceae,Desmanthus,virgatus,Desmanthus virgatus,Shrub_Trees,10,90.87,7.56,92.44,30.19,28.08362098,77.86276485
+1,378,Genetic bank,F24-3534,ABC-32365,Fabales,Fabaceae,Desmanthus,virgatus,Desmanthus virgatus,Shrub_Trees,10,90.98,7.45,92.55,30.19,29.38322659,73.65060102
+1,379,Genetic bank,F24-3535,ABC-32373,Fabales,Fabaceae,Desmanthus,pubescens,Desmanthus pubescens,Shrub_Trees,10,92.3,8.61,91.39,28.4,20.16866025,76.26718922
+1,380,Genetic bank,F24-3535,ABC-32373,Fabales,Fabaceae,Desmanthus,pubescens,Desmanthus pubescens,Shrub_Trees,10,92.37,8.71,91.29,28.4,19.81890361,79.50433545

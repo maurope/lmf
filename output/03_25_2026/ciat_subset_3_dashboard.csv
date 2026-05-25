@@ -1,0 +1,130 @@
+id_lab,id,tax_name,functional_group,ch4_percentage_in_gas_8h,ch4_percentage_in_gas_24h,methane_intensity,tddm
+F25-2137, CIAT_606_Basilisk_Opt, Brachiaria interespecifico,Grass,13.0,13.8,46.81,53.35
+F25-2138, CIAT_6294_Marandu_Opt,Brachiaria interespecifico ,Grass,13.1,13.7,58.91,46.34
+F24-3549,ABC-10440,Stylosanthes humilis,Herbaceous_legumes,12.24,13.73,45.94,54.2
+F24-3550,ABC-10613,Stylosanthes scabra,Herbaceous_legumes,12.26,13.87,63.05,39.5
+F24-3551,ABC-10627,Stylosanthes scabra,Herbaceous_legumes,12.49,13.61,46.84,47.71
+F24-3552,ABC-10634,Stylosanthes scabra,Herbaceous_legumes,12.53,13.56,52.78,50.55
+F24-3553,ABC-10639,Stylosanthes scabra,Herbaceous_legumes,12.8,14.27,52.7,51.87
+F24-3554,ABC-10725,Stylosanthes scabra,,12.91,14.14,51.65,45.73
+F24-3554,ABC-10725,Stylosanthes scabra,Herbaceous_legumes,12.91,14.14,51.65,45.73
+F24-3555,ABC-11199,Stylosanthes hamata,Herbaceous_legumes,12.89,14.57,62.33,45.07
+F24-3556,ABC-11215,Stylosanthes hamata,Herbaceous_legumes,13.08,14.14,45.54,58.15
+F24-3557,ABC-11220,Stylosanthes hamata,Herbaceous_legumes,12.84,14.34,56.23,52.76
+F24-3558,ABC-11232,Stylosanthes hamata,Herbaceous_legumes,12.5,14.31,59.02,49.49
+F24-3559,ABC-11313,Stylosanthes guianensis,Herbaceous_legumes,12.26,13.51,55.16,41.97
+F24-3560,ABC-11417,Stylosanthes guianensis,Herbaceous_legumes,12.13,12.21,43.95,43.31
+F24-3561,ABC-11624,Stylosanthes humilis,Herbaceous_legumes,12.16,13.26,51.7,49.47
+F24-3562,ABC-11690,Stylosanthes humilis,Herbaceous_legumes,12.24,13.52,61.77,41.84
+F24-3563,ABC-11762,Stylosanthes hamata,Herbaceous_legumes,13.2,14.58,64.94,44.09
+F24-3564,ABC-11778,Stylosanthes hamata,Herbaceous_legumes,12.7,14.19,53.43,52.53
+F24-3565,ABC-11784,Stylosanthes hamata,Herbaceous_legumes,13.21,14.46,64.6,41.61
+F24-3566,ABC-11820,Stylosanthes scabra,Herbaceous_legumes,12.56,13.96,56.11,47.55
+F24-3567,ABC-12042,Stylosanthes humilis,Herbaceous_legumes,12.15,13.31,62.22,40.48
+F24-3568,ABC-12115,Stylosanthes humilis,Herbaceous_legumes,12.54,13.96,54.71,53.26
+F24-3568,ABC-12115,Fabales,Herbaceous_legumes,12.54,13.96,54.71,53.26
+F24-3569,ABC-12140,Fabales,Herbaceous_legumes,12.23,13.69,47.63,57.11
+F24-3569,ABC-12140,Stylosanthes humilis,Herbaceous_legumes,12.23,13.69,47.63,57.11
+F24-3570,ABC-12184,Fabales,Herbaceous_legumes,12.9,14.17,50.4,57.46
+F24-3570,ABC-12184,Stylosanthes humilis,Herbaceous_legumes,12.9,14.17,50.4,57.46
+F24-3571,ABC-12202,Stylosanthes humilis,Herbaceous_legumes,12.66,13.99,47.99,58.54
+F24-3571,ABC-12202,Fabales,Herbaceous_legumes,12.66,13.99,47.99,58.54
+F24-3572,ABC-12311,Stylosanthes guianensis,Herbaceous_legumes,12.59,13.95,51.55,53.64
+F24-3572,ABC-12311,Fabales,Herbaceous_legumes,12.59,13.95,51.55,53.64
+F24-3574,ABC-12374,Stylosanthes hamata,Herbaceous_legumes,13.07,14.66,55.61,56.29
+F24-3574,ABC-12374,Fabales,Herbaceous_legumes,13.07,14.66,55.61,56.29
+F24-3573,ABC-12381,Stylosanthes hamata,Herbaceous_legumes,13.11,14.61,60.47,50.87
+F24-3573,ABC-12381,Fabales,Herbaceous_legumes,13.11,14.61,60.47,50.87
+F24-3575,ABC-12457,Stylosanthes hamata,Herbaceous_legumes,13.11,14.62,51.9,57.71
+F24-3575,ABC-12457,Fabales,Herbaceous_legumes,13.11,14.62,51.9,57.71
+F24-3576,ABC-12462,Stylosanthes hamata,Herbaceous_legumes,12.86,14.57,49.34,59.72
+F24-3576,ABC-12462,Fabales,Herbaceous_legumes,12.86,14.57,49.34,59.72
+F24-3577,ABC-12485,Stylosanthes scabra,Herbaceous_legumes,12.94,13.8,42.69,49.97
+F24-3577,ABC-12485,Fabales,Herbaceous_legumes,12.94,13.8,42.69,49.97
+F24-3578,ABC-12615,Stylosanthes guianensis,Herbaceous_legumes,12.72,13.68,46.77,53.45
+F24-3578,ABC-12615,Fabales,Herbaceous_legumes,12.72,13.68,46.77,53.45
+F24-3579,ABC-12686,Fabales,Herbaceous_legumes,12.01,13.67,52.82,50.07
+F24-3579,ABC-12686,Stylosanthes hamata,Herbaceous_legumes,12.01,13.67,52.82,50.07
+F24-3580,ABC-12710,Stylosanthes scabra,Herbaceous_legumes,12.8,13.82,47.85,48.73
+F24-3580,ABC-12710,Fabales,Herbaceous_legumes,12.8,13.82,47.85,48.73
+F24-3581,ABC-12758,Stylosanthes guianensis,Herbaceous_legumes,12.01,11.7,43.38,44.68
+F24-3581,ABC-12758,Fabales,Herbaceous_legumes,12.01,11.7,43.38,44.68
+F25-0971,ABC-13149,Desmodium strigillosum,Herbaceous_legumes,13.17,14.28,76.08,35.83
+F25-0974,ABC-13946,Desmodium sequax,Herbaceous_legumes,11.54,12.18,76.73,16.98
+F24-3540,ABC-1467,Stylosanthes hamata,Herbaceous_legumes,13.09,14.73,83.59,43.79
+F24-3541,ABC-1475,Stylosanthes hamata,Herbaceous_legumes,13.27,14.81,84.23,40.75
+F25-0980,ABC-19867,Uraria lagopodioides,Herbaceous_legumes,15.67,16.5,56.61,47.87
+F25-0954,ABC-23326,Desmodium velutinum,Shrub_Trees,14.41,16.44,48.08,54.79
+F24-3548,ABC-2783,Stylosanthes humilis,Herbaceous_legumes,12.26,13.7,64.91,48.42
+F25-2627,BR02_1752_Cayman_Exc,Urochloa interespecifico,Grass,13.69,14.75,50.34,54.0
+F25-2628,BR06_423_Cayman_Exc,Urochloa interespecifico,Grass,13.36,14.78,49.46,57.64
+F25-2637,CIAT 17462,Leucaena leucocephala ,Shrub_Trees,13.11,14.46,49.82,38.19
+F25-2632,CIAT 17768,Clitoria ternatea ,Herbaceous_legumes,14.38,15.46,54.87,58.38
+F25-2631,CIAT 17768,Clitoria ternatea ,Herbaceous_legumes,15.01,15.86,64.41,44.29
+F25-2630,CIAT 20692,Clitoria ternatea ,Herbaceous_legumes,14.78,16.08,62.65,55.15
+F25-2629,CIAT 20692,Clitoria ternatea ,Herbaceous_legumes,14.62,15.61,53.69,53.12
+F25-2634,CIAT 712,Clitoria ternatea ,Herbaceous_legumes,14.51,15.75,60.02,51.87
+F25-2633,CIAT 712,Clitoria ternatea ,Herbaceous_legumes,14.45,15.49,51.23,54.46
+F25-2636,CIAT 9432,Clitoria ternatea ,Herbaceous_legumes,15.41,16.53,61.58,49.83
+F25-2635,CIAT 9432,Clitoria ternatea ,Herbaceous_legumes,15.09,15.89,59.15,46.43
+F25-1670,CIAT-13158,Desmodium strigillosum,Herbaceous_legumes,12.54,13.4,36.32,48.82
+F25-1671,CIAT-13329,Desmodium cajanifolium,Shrub_Trees,12.79,13.44,38.88,62.48
+F25-1672,CIAT-13387,Desmodium sequax,Shrub_Trees,11.42,12.77,37.58,23.45
+F25-1673,CIAT-13547,Codariocalyx gyroides,Shrub_Trees,11.87,13.5,43.63,33.02
+F25-1674,CIAT-13953,Desmodium velutinum,Shrub_Trees,13.43,15.24,40.68,59.37
+F25-1675,CIAT-15086,Centrosema acutifolium,Herbaceous_legumes,13.18,14.43,45.6,54.01
+F25-1676,CIAT-17403,Flemingia macrophylla,Shrub_Trees,12.22,12.51,43.13,24.99
+F25-1677,CIAT-17519,Mimosa somnians,Herbaceous_legumes,9.57,9.77,21.6,49.51
+F25-1678,CIAT-17896,Chamaecrista desvauxii,Herbaceous_legumes,9.71,11.54,27.97,37.42
+F25-1679,CIAT-18123,Dioclea virgata,Herbaceous_legumes,11.3,13.4,40.83,38.27
+F25-1680,CIAT-18126,Dioclea virgata,Herbaceous_legumes,11.87,13.69,43.02,43.69
+F25-1681,CIAT-18127,Dioclea virgata,Herbaceous_legumes,11.99,13.57,43.53,42.01
+F25-1682,CIAT-18668,Cratylia argentea,Shrub_Trees,14.24,16.66,47.26,53.02
+F25-1683,CIAT-19228,Eriosema psoraleoides,Herbaceous_legumes,12.02,13.3,41.79,36.13
+F25-1684,CIAT-19537,Crotalaria verrucosa,Herbaceous_legumes,13.38,14.49,47.07,62.52
+F25-1655,CIAT-1992,Stylosanthes guianensis,Herbaceous_legumes,11.7,12.94,46.23,45.78
+F25-1685,CIAT-20208,Aeschynomene sensitiva,Herbaceous_legumes,12.97,14.42,46.88,61.03
+F25-1686,CIAT-20345,Pachyrhizus erosus,Herbaceous_legumes,13.47,14.01,40.32,64.42
+F25-1687,CIAT-20927,Mimosa albida,Herbaceous_legumes,11.49,12.64,40.98,30.56
+F25-1688,CIAT-21849,Chamaecrista desvauxii,Herbaceous_legumes,10.79,12.38,41.17,37.13
+F25-1689,CIAT-22072,Bauhinia sp.,Shrub_Trees,13.92,15.91,49.67,57.81
+F25-1690,CIAT-22409,Cratylia argentea,Shrub_Trees,14.69,16.5,57.24,43.43
+F25-1691,CIAT-22692,Lablab purpureus,Herbaceous_legumes,14.09,15.64,56.38,59.54
+F25-1693,CIAT-23746,Codariocalyx gyroides,Shrub_Trees,11.6,13.4,50.62,31.72
+F25-1694,CIAT-23985,Desmodium velutinum,Shrub_Trees,14.68,15.78,45.87,50.91
+F25-1656,CIAT-3001,Codariocalyx gyroides,Shrub_Trees,12.41,13.88,47.11,35.63
+F25-1695,CIAT-32265,Chamaecrista diphylla,Herbaceous_legumes,9.59,13.65,49.52,48.44
+F25-1657,CIAT-3304,Desmodium cajanifolium,Shrub_Trees,13.25,14.41,51.13,52.12
+F25-1696,CIAT-33070,Desmodium oblongum,Shrub_Trees,11.83,13.16,47.69,41.3
+F25-1697,CIAT-33079,Desmodium oblongum,Shrub_Trees,14.23,15.79,47.0,55.27
+F25-1698,CIAT-33131,Codariocalyx gyroides,Shrub_Trees,11.54,12.5,39.36,34.63
+F25-1699,CIAT-33195,Dalea carthagenensis,Herbaceous_legumes,12.86,15.82,57.8,50.65
+F25-1700,CIAT-43055,Desmodium discolor,Herbaceous_legumes,14.99,15.61,45.85,59.08
+F25-1658,CIAT-5713,Centrosema macrocarpum,Herbaceous_legumes,13.63,15.1,61.0,42.14
+F25-1659,CIAT-7381,Galactia glaucescens,Herbaceous_legumes,12.52,14.47,80.11,26.47
+F25-1660,CIAT-7799,Dioclea guianensis,Herbaceous_legumes,12.23,13.32,79.66,18.89
+F25-1661,CIAT-7803,Dioclea holtiana,Herbaceous_legumes,11.48,12.66,60.27,27.84
+F25-1651,CIAT-798,Galactia striata,Herbaceous_legumes,12.67,14.65,52.14,53.65
+F25-1662,CIAT-8182,Eriosema diffusum,Herbaceous_legumes,13.09,14.47,95.78,22.41
+F25-1652,CIAT-822,Calopogonium mucunoides,Herbaceous_legumes,13.78,14.98,46.32,50.76
+F25-1663,CIAT-8434,Dioclea sericea,Herbaceous_legumes,13.53,15.0,80.8,28.68
+F25-1653,CIAT-852,Dioclea sericea,Herbaceous_legumes,11.81,12.99,42.28,26.2
+F25-1664,CIAT-8702,Calopogonium caeruleum,Herbaceous_legumes,14.31,15.82,59.43,39.44
+F25-1665,CIAT-8816,Crotalaria micans,Herbaceous_legumes,13.76,15.02,45.05,65.32
+F25-1666,CIAT-8826,Zapoteca formosa,Shrub_Trees,10.9,11.8,36.29,67.6
+F25-1654,CIAT-907,Dioclea virgata,Herbaceous_legumes,13.4,15.24,55.34,40.95
+F25-1667,CIAT-9578,Dioclea sericea,Herbaceous_legumes,11.89,12.92,36.11,30.81
+F25-1668,CIAT-9740,Chamaecrista desvauxii,Herbaceous_legumes,10.03,13.34,49.7,47.18
+F25-1669,CIAT-9934,Aeschynomene americana,Herbaceous_legumes,12.91,14.26,54.27,53.37
+F25-2170,CIAT-BH22_0765,Urochloa humidicola,Grass,13.61,14.19,88.6,35.49
+F25-2171,CIAT-BH22_2531,Urochloa humidicola,Grass,12.7,14.1,105.66,36.25
+F25-2105,CIAT-BR09_4467,Brachiaria interespecifico,Grass,12.38,13.79,68.51,40.78
+F25-2101,CIAT-CIAT_16071,Megathyrsus maximus,Grass,13.51,15.57,90.05,32.01
+F25-2096,CIAT-PM21_4448,Megathyrsus maximus,Grass,13.82,15.19,76.96,39.76
+F25-2625,CIAT_36087_MulatoII_Exc,Urochloa interespecifico,Grass,13.21,14.35,50.69,56.24
+F25-2139,CIAT_36087_MulatoII_Opt, Brachiaria interespecifico,Grass,12.77,13.6,46.25,52.77
+F25-2626,CIAT_606_Basilisk_Exc,Urochloa interespecifico,Grass,13.5,14.53,52.09,57.88
+F25-2140,CIAT_6133_Llanero _Opt,Brachiaria humidicola,Grass,13.67,14.0,54.66,45.88
+F25-2624,CIAT_6294_Marandu_Exc,Urochloa interespecifico,Grass,13.81,14.97,53.9,57.28
+F25-2136,CIAT_6962_Mombaza _Ex,Megathyrsus maximus,Grass,12.87,13.34,57.01,39.34
+F25-2141,CIAT_6962_Mombaza _Opt,Megathyrsus maximus ,Grass,12.74,14.16,54.15,44.76

@@ -1,0 +1,568 @@
+22_no,22_date,22_technician_name,22_set_ciat,22_sample_id,22_column4,22_column5,22_column6,22_column3,22_replication,22_peso_muestra_g,22_peso_residual_muestra_g,22_peso_total_muestra_g,22_hcl_ml,22_nitrogeno,22_proteina_cruda_percentage_n_x_6_25,22_pc_percentage_dm,22_av_pc_percentage
+No,Date,Techincian name,Set CIAT,Sample ID,Column4,Column5,Column6,Column3,Replication,Peso muestra ( g),Peso residual muestra (g),Peso Total Muestra (g),HCl (ml)  ,Nitrogeno (%),Proteina cruda (%) N x 6.25 ,"PC (%), DM","Av PC, %"
+1,,,1,F24 3416,ABC-705-1,Indigofera,suffruticosa,Indigofera suffruticosa,A,1.0004,0.0004,1,34.2,4.857585579,30.35990987,33.01052157,33.01052157
+2,,,1,F24 3416,ABC-705-1,Indigofera,suffruticosa,Indigofera suffruticosa,B,1.0004,0.0004,1,34.2,4.857585579,30.35990987,33.01052157,
+3,,,1,F24 3417,ABC-707-1,Alysicarpus,ovalifolius,Alysicarpus ovalifolius,A,1.0005,0.0005,1,25.8,3.660995583,22.88122239,25.39749175,25.39749175
+4,,,1,F24 3417,ABC-707-1,Alysicarpus,ovalifolius,Alysicarpus ovalifolius,B,1.0005,0.0005,1,25.8,3.660995583,22.88122239,25.39749175,
+5,,,1,F24 3418,ABC-712-1,Clitoria,ternatea,Clitoria ternatea,A,1.0004,0,1.0004,32.1,4.556615434,28.47884646,31.19171324,31.19171324
+6,,,1,F24 3418,ABC-712-1,Clitoria,ternatea,Clitoria ternatea,B,1.0004,0,1.0004,32.1,4.556615434,28.47884646,31.19171324,
+7,,,1,F24 3419,ABC-749-1,Crotalaria,juncea,Crotalaria juncea,A,1.0006,0.0006,1,28.9,4.102594272,25.6412142,27.94809909,27.94809909
+8,,,1,F24 3419,ABC-749-1,Crotalaria,juncea,Crotalaria juncea,B,1.0006,0.0006,1,28.9,4.102594272,25.6412142,27.94809909,
+9,,,1,F24 3420,ABC-768-1,Clitoria,ternatea,Clitoria ternatea,A,1.0005,0.0004,1.0001,30.6,4.344326862,27.15204289,29.46000546,29.46000546
+10,,,1,F24 3420,ABC-768-1,Clitoria,ternatea,Clitoria ternatea,B,1.0005,0.0004,1.0001,30.6,4.344326862,27.15204289,29.46000546,
+11,,,1,F24 3421,ABC-772-1,Clitoria,ternatea,Clitoria ternatea,A,1.0005,0.0003,1.0002,19.6,2.777242756,17.35776723,18.97317122,18.97317122
+12,,,1,F24 3421,ABC-772-1,Clitoria,ternatea,Clitoria ternatea,B,1.0005,0.0003,1.0002,19.6,2.777242756,17.35776723,18.97317122,
+13,,,1,F24 3422,ABC-819-1,Indigofera,suffruticosa,Indigofera suffruticosa,A,1.0005,0.0005,1,27.4,3.888917487,24.30573429,26.78170271,26.78170271
+14,,,1,F24 3422,ABC-819-1,Indigofera,suffruticosa,Indigofera suffruticosa,B,1.0005,0.0005,1,27.4,3.888917487,24.30573429,26.78170271,
+15,,,1,F24 3423,ABC-905-1,Canavalia,brasiliensis,Canavalia brasiliensis,A,1.0004,0.0004,1,25.5,3.618260226,22.61412641,24.61245901,24.61245901
+16,,,1,F24 3423,ABC-905-1,Canavalia,brasiliensis,Canavalia brasiliensis,B,1.0004,0.0004,1,25.5,3.618260226,22.61412641,24.61245901,
+17,,,1,F24 3424,ABC-913-1,Cajanus,cajan,Cajanus cajan,A,1.0005,0.0005,1,26.9,3.817691892,23.86057433,25.17714256,25.17714256
+18,,Alexander- Alejandra,1,F24 3424,ABC-913-1,Cajanus,cajan,Cajanus cajan,B,1.0005,0.0005,1,26.9,3.817691892,23.86057433,25.17714256,
+19,,Alexander- Alejandra,1,F24 3425,ABC-955-1,Clitoria,ternatea,Clitoria ternatea,A,1.0004,0.0004,1,22.8,3.233642013,20.21026258,22.01184157,22.01184157
+20,,Alexander- Alejandra,1,F24 3425,ABC-955-1,Clitoria,ternatea,Clitoria ternatea,B,1.0004,0.0004,1,22.8,3.233642013,20.21026258,22.01184157,
+21,,Alexander- Alejandra,1,F24 1047,LMF,Albizzia,saman,Albizzia saman,A,1.0008,0.0003,1.0005,30.8,4.22,26.38,27.59664604,27.50772584
+22,,Alexander- Alejandra,1,F24 1047,LMF,Albizzia,saman,Albizzia saman,B,1.0009,0.0004,1.0005,30.6,4.19,26.21,27.41880564,
+23,,Alexander- Alejandra,1,F24 1070,LMF,Gliricidia ,sepium,Gliricidia sepium,A,1.0003,0,1.0003,21.5,2.95,18.42,19.36781668,19.36781668
+24,,Alexander- Alejandra,1,F24 1070,LMF,Gliricidia ,sepium,Gliricidia sepium,B,1.0006,0,1.0006,21.5,2.95,18.42,19.36781668,
+25,,Alexander- Alejandra,1,F24 1075,LMF,Leucaena, diversifolia,Leucaena diversifolia,A,1.0004,0,1.0004,29.3,4.02,25.1,26.24913766,26.34325807
+26,,Alexander- Alejandra,1,F24 1075,LMF,Leucaena, diversifolia,Leucaena diversifolia,B,1.0003,0,1.0003,29.5,4.04,25.28,26.43737849,
+27,,Alexander- Alejandra,1,F24 1084,LMF,Brachiaria ,decumbens,Brachiaria decumbens,A,1.0002,0,1.0002,7.2,0.99,6.17,6.473549068,6.473549068
+28,,Alexander- Alejandra,1,F24 1084,LMF,Brachiaria ,decumbens,Brachiaria decumbens,B,1.0004,0,1.0004,7.2,0.99,6.17,6.473549068,
+29,,Alexander- Alejandra,1,F24 1095,LMF,Setaria ,sphacelata,Setaria sphacelata,A,1.0002,0.0002,1,21.1,2.89,18.08,18.94965969,18.94965969
+30,,Alexander- Alejandra,1,F24 1095,LMF,Setaria ,sphacelata,Setaria sphacelata,B,1.0006,0.0005,1.0001,21.1,2.89,18.08,18.94965969,
+31,,,2,F24 3426,ABC-989-1,Indigofera,hirsuta,Indigofera hirsuta,A,1.0004,0.0003,1.0001,26.4,3.746091688,23.41307305,25.3469484,25.3469484
+32,,,2,F24 3426,ABC-989-1,Indigofera,hirsuta,Indigofera hirsuta,B,1.0004,0.0003,1.0001,26.4,3.746091688,23.41307305,25.3469484,
+33,,,2,F24 3427,ABC-1257-1,Stylosanthes,scabra,Stylosanthes scabra,A,1.0004,0.0003,1.0001,18.8,2.663570896,16.6473181,17.95515598,17.95515598
+34,,,2,F24 3427,ABC-1257-1,Stylosanthes,scabra,Stylosanthes scabra,B,1.0004,0.0003,1.0001,18.8,2.663570896,16.6473181,17.95515598,
+35,,,2,F24 3428,ABC-3240-1,Desmodium,cinereum,Desmodium cinereum,A,1.0006,0.0006,1,23.7,3.361848084,21.01155053,22.62704069,22.62704069
+36,,,2,F24 3428,ABC-3240-1,Desmodium,cinereum,Desmodium cinereum,B,1.0006,0.0006,1,23.7,3.361848084,21.01155053,22.62704069,
+37,,,2,F24 3429,ABC-3522-1,Desmodium,incanum,Desmodium incanum,A,1.0004,0.0002,1.0002,18.9,2.677546863,16.73466789,17.94095507,17.94095507
+38,,,2,F24 3429,ABC-3522-1,Desmodium,incanum,Desmodium incanum,B,1.0004,0.0002,1.0002,18.9,2.677546863,16.73466789,17.94095507,
+39,,,2,F24 3430,ABC-4134-1,Macroptilium,lathyroides,Macroptilium lathyroides,A,1.0003,0.0003,1,22.9,3.247887132,20.29929458,22.08537556,22.08537556
+40,,,2,F24 3430,ABC-4134-1,Macroptilium,lathyroides,Macroptilium lathyroides,B,1.0003,0.0003,1,22.9,3.247887132,20.29929458,22.08537556,
+41,,,2,F24 3431,ABC-4279-1,Vigna,umbellata,Vigna umbellata,A,1.0003,0.0003,1,26.4,3.746466297,23.41541436,25.72120617,25.72120617
+42,,,2,F24 3431,ABC-4279-1,Vigna,umbellata,Vigna umbellata,B,1.0003,0.0003,1,26.4,3.746466297,23.41541436,25.72120617,
+43,,,2,F24 3432,ABC-5124-1,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,A,1.0006,0.0006,1,26.6,3.774956535,23.59347834,25.77536281,25.77536281
+44,,,2,F24 3432,ABC-5124-1,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,B,1.0006,0.0006,1,26.6,3.774956535,23.59347834,25.77536281,
+45,,,2,F24 3433,ABC-5234-1,Centrosema,brasilianum,Centrosema brasilianum,A,1.0004,0.0002,1.0002,18,2.549366428,15.93354017,17.21944618,17.21944618
+46,,,2,F24 3433,ABC-5234-1,Centrosema,brasilianum,Centrosema brasilianum,B,1.0004,0.0002,1.0002,18,2.549366428,15.93354017,17.21944618,
+47,,,2,F24 3434,ABC-7292-1,Chamaecrista,desvauxii,Chamaecrista desvauxii,A,1.0006,0.0002,1.0004,33,4.684770243,29.27981402,31.82560604,31.82560604
+48,,,2,F24 3434,ABC-7292-1,Chamaecrista,desvauxii,Chamaecrista desvauxii,B,1.0006,0.0002,1.0004,33,4.684770243,29.27981402,31.82560604,
+49,,,2,F24 3435,ABC-7317-1,Canavalia,sp.,Canavalia sp.,A,1.0006,0.0006,1,24.9,3.532789512,22.07993445,23.8828974,23.8828974
+50,,,2,F24 3435,ABC-7317-1,Canavalia,sp.,Canavalia sp.,B,1.0006,0.0006,1,24.9,3.532789512,22.07993445,23.8828974,
+51,,,2,F24 3436,ABC-7322-1,Canavalia,sp.,Canavalia sp.,A,1.0005,0.0004,1.0001,21.7,3.07663804,19.22898775,21.51684891,21.51684891
+52,,,2,F24 3436,ABC-7322-1,Canavalia,sp.,Canavalia sp.,B,1.0005,0.0004,1.0001,21.7,3.07663804,19.22898775,21.51684891,
+53,,,2,F24 3437,ABC-7339-1,Indigofera,lespedezioides,Indigofera lespedezioides,A,1.0003,0.0003,1,25.9,3.675240702,22.97025439,24.9715208,24.9715208
+54,,,2,F24 3437,ABC-7339-1,Indigofera,lespedezioides,Indigofera lespedezioides,B,1.0003,0.0003,1,25.9,3.675240702,22.97025439,24.9715208,
+55,,,2,F24 3438,ABC-7469-1,Clitoria,ternatea,Clitoria ternatea,A,1.0002,0,1.0002,27.4,3.888139859,24.30087412,26.36670549,26.36670549
+56,,,2,F24 3438,ABC-7469-1,Clitoria,ternatea,Clitoria ternatea,B,1.0002,0,1.0002,27.4,3.888139859,24.30087412,26.36670549,
+57,,,2,F24 3439,ABC-7643-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,A,1.0005,0.0005,1,23.8,3.376093203,21.10058252,22.49012437,22.49012437
+58,,,2,F24 3439,ABC-7643-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,B,1.0005,0.0005,1,23.8,3.376093203,21.10058252,22.49012437,
+59,,,2,F24 3440,ABC-7703-1,Aeschynomene,indica,Aeschynomene indica,A,1.0003,0.0003,1,22.9,3.247887132,20.29929458,22.07736189,22.07736189
+60,,,2,F24 3440,ABC-7703-1,Aeschynomene,indica,Aeschynomene indica,B,1.0003,0.0003,1,22.9,3.247887132,20.29929458,22.07736189,
+61,,,3,F24 3441,ABC-7714,Alysicarpus,glumaceus,Alysicarpus glumaceus,A,1.0006,0.0006,1,21.3,3.019965228,18.87478268,20.28455956,20.28455956
+62,,,3,F24 3441,ABC-7714,Alysicarpus,glumaceus,Alysicarpus glumaceus,B,1.0006,0.0006,1,21.3,3.019965228,18.87478268,20.28455956,
+63,,,3,F24 3442,ABC-7757,Clitoria,ternatea,Clitoria ternatea,A,1.0004,0.0004,1,25.7,3.646750464,22.7921904,24.74722085,24.74722085
+64,,,3,F24 3442,ABC-7757,Clitoria,ternatea,Clitoria ternatea,B,1.0004,0.0004,1,25.7,3.646750464,22.7921904,24.74722085,
+65,,,3,F24 3443,ABC-7759,Clitoria,ternatea,Clitoria ternatea,A,1.0004,0.0004,1,17.4,2.464405587,15.40253492,16.46449484,16.46449484
+66,,,3,F24 3443,ABC-7759,Clitoria,ternatea,Clitoria ternatea,B,1.0004,0.0004,1,17.4,2.464405587,15.40253492,16.46449484,
+67,,,3,F24 3444,ABC-7790,Crotalaria,pallida,Crotalaria pallida,A,1.0003,0.0003,1,28.5,4.045613796,25.28508623,27.43905179,27.43905179
+68,,,3,F24 3444,ABC-7790,Crotalaria,pallida,Crotalaria pallida,B,1.0003,0.0003,1,28.5,4.045613796,25.28508623,27.43905179,
+69,,,3,F24 3445,ABC-7792,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,A,1,0.0001,0.9999,21,2.977527624,18.60954765,20.02103028,20.02103028
+70,,,3,F24 3445,ABC-7792,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,B,1,0.0001,0.9999,21,2.977527624,18.60954765,20.02103028,
+71,,,3,F24 3446,ABC-7816,Indigofera,spicata,Indigofera spicata,A,1.0004,0.0004,1,29.2,4.145329629,25.90831018,28.00898398,28.00898398
+72,,,3,F24 3446,ABC-7816,Indigofera,spicata,Indigofera spicata,B,1.0004,0.0004,1,29.2,4.145329629,25.90831018,28.00898398,
+73,,,3,F24 3447,ABC-7858,Crotalaria,incana,Crotalaria incana,A,1.0005,0.0001,1.0004,32.6,4.62781255,28.92382844,31.03415068,31.03415068
+74,,,3,F24 3447,ABC-7858,Crotalaria,incana,Crotalaria incana,B,1.0005,0.0001,1.0004,32.6,4.62781255,28.92382844,31.03415068,
+75,,,3,F24 3448,ABC-7972,Canavalia,brasiliensis,Canavalia brasiliensis,A,1.0005,0.0004,1.0001,27.5,3.902772329,24.39232705,26.52781626,26.52781626
+76,,,3,F24 3448,ABC-7972,Canavalia,brasiliensis,Canavalia brasiliensis,B,1.0005,0.0004,1.0001,27.5,3.902772329,24.39232705,26.52781626,
+77,,,3,F24 3449,ABC-8205,Indigofera,suffruticosa,Indigofera suffruticosa,A,1.0004,0,1.0004,25.2,3.574095231,22.33809519,24.22786897,24.22786897
+78,,,3,F24 3449,ABC-8205,Indigofera,suffruticosa,Indigofera suffruticosa,B,1.0004,0,1.0004,25.2,3.574095231,22.33809519,24.22786897,
+79,,,3,F24 3450,ABC-8402,Indigofera,suffruticosa,Indigofera suffruticosa,A,1.0005,0,1.0005,27.9,3.958164,24.738525,26.88970109,26.88970109
+80,,,3,F24 3450,ABC-8402,Indigofera,suffruticosa,Indigofera suffruticosa,B,1.0005,0,1.0005,27.9,3.958164,24.738525,26.88970109,
+81,,,3,F24 3451,ABC-8408,Chamaecrista,nictitans,Chamaecrista nictitans,A,1.0001,0,1.0001,24.8,3.518192574,21.98870359,23.37980179,23.37980179
+82,,,3,F24 3451,ABC-8408,Chamaecrista,nictitans,Chamaecrista nictitans,B,1.0001,0,1.0001,24.8,3.518192574,21.98870359,23.37980179,
+83,,,3,F24 3452,ABC-8409,Chamaecrista,nictitans,Chamaecrista nictitans,A,1.0005,0.0003,1.0002,28.8,4.087531647,25.54707279,27.7836572,27.7836572
+84,,,3,F24 3452,ABC-8409,Chamaecrista,nictitans,Chamaecrista nictitans,B,1.0005,0.0003,1.0002,28.8,4.087531647,25.54707279,27.7836572,
+85,,,3,F24 3453,ABC-8719,Canavalia,sp.,Canavalia sp. ,A,1.0004,0.0005,0.9999,21.4,3.034513798,18.96571124,20.28346797,20.28346797
+86,,,3,F24 3453,ABC-8719,Canavalia,sp.,Canavalia sp. ,B,1.0004,0.0005,0.9999,21.4,3.034513798,18.96571124,20.28346797,
+87,,,3,F24 3454,ABC-8797,Desmanthus,virgatus,Desmanthus virgatus,A,1.0003,0,1.0003,27.1,3.845028621,24.03142888,25.88000034,25.88000034
+88,,,3,F24 3454,ABC-8797,Desmanthus,virgatus,Desmanthus virgatus,B,1.0003,0,1.0003,27.1,3.845028621,24.03142888,25.88000034,
+89,,,3,F24 3455,ABC-8819,Coursetia,caribaea,Coursetia caribaea,A,1.0005,0.0006,0.9999,22.6,3.205472322,20.03420201,21.83464401,21.83464401
+90,,,3,F24 3455,ABC-8819,Coursetia,caribaea,Coursetia caribaea,B,1.0005,0.0006,0.9999,22.6,3.205472322,20.03420201,21.83464401,
+91,,,4,F24 3582,ABC-BR02_1752,Urochloa,interespecifico,Brachiaria interespecifico,A,,,,,,,10.91797301,10.91797301
+92,,,4,F24 3582,ABC-BR02_1752,Urochloa,interespecifico,Brachiaria interespecifico,B,,,,,,,10.91797301,
+93,,,4,F24 3583,ABC-BR02_1794,Urochloa,interespecifico,Brachiaria interespecifico,A,,,,,,,9.392254149,9.392254149
+94,,,4,F24 3583,ABC-BR02_1794,Urochloa,interespecifico,Brachiaria interespecifico,B,,,,,,,9.392254149,
+95,,,4,F24 3584,ABC-BR06_0423,Urochloa,interespecifico,Brachiaria interespecifico,A,,,,,,,11.00867792,11.00867792
+96,,,4,F24 3584,ABC-BR06_0423,Urochloa,interespecifico,Brachiaria interespecifico,B,,,,,,,11.00867792,
+97,,,4,F24 3585,ABC-BR09_1232,Urochloa,interespecifico,Brachiaria interespecifico,A,,,,,,,10.08023483,10.08023483
+98,,,4,F24 3585,ABC-BR09_1232,Urochloa,interespecifico,Brachiaria interespecifico,B,,,,,,,10.08023483,
+99,,,4,F24 3586,ABC-BR12_4951,Urochloa,interespecifico,Brachiaria interespecifico,A,,,,,,,11.10404195,11.10404195
+100,,,4,F24 3586,ABC-BR12_4951,Urochloa,interespecifico,Brachiaria interespecifico,B,,,,,,,11.10404195,
+101,,,4,F24 3587,ABC-BR15_0722,Urochloa,interespecifico,Brachiaria interespecifico,A,,,,,,,10.31254646,10.31254646
+102,,,4,F24 3587,ABC-BR15_0722,Urochloa,interespecifico,Brachiaria interespecifico,B,,,,,,,10.31254646,
+103,,,4,F24 3588,ABC-BR15_6487,Urochloa,interespecifico,Brachiaria interespecifico,A,,,,,,,9.608712975,9.608712975
+104,,,4,F24 3588,ABC-BR15_6487,Urochloa,interespecifico,Brachiaria interespecifico,B,,,,,,,9.608712975,
+105,,,4,F24 3589,ABC-BR19_0029,Urochloa,interespecifico,Brachiaria interespecifico,A,,,,,,,10.07879313,10.07879313
+106,,,4,F24 3589,ABC-BR19_0029,Urochloa,interespecifico,Brachiaria interespecifico,B,,,,,,,10.07879313,
+107,,,4,F24 3590,ABC-BR19_0423,Urochloa,interespecifico,Brachiaria interespecifico,A,,,,,,,10.11450669,10.11450669
+108,,,4,F24 3590,ABC-BR19_0423,Urochloa,interespecifico,Brachiaria interespecifico,B,,,,,,,10.11450669,
+109,,,4,F24 3591,ABC-CIAT_6962,Megathyrsus,maximus,Megathyrsus maximus,A,,,,,,,8.588266117,8.588266117
+110,,,4,F24 3591,ABC-CIAT_6962,Megathyrsus,maximus,Megathyrsus maximus,B,,,,,,,8.588266117,
+111,,,4,F24 3592,ABC-Mulato_II,Urochloa,interespecifico,Brachiaria interespecifico,A,,,,,,,11.84729481,11.84729481
+112,,,4,F24 3592,ABC-Mulato_II,Urochloa,interespecifico,Brachiaria interespecifico,B,,,,,,,11.84729481,
+113,,,4,F24 3593,ABC-PM21_0215,Megathyrsus,maximus,Megathyrsus maximus,A,,,,,,,9.725160285,9.725160285
+114,,,4,F24 3593,ABC-PM21_0215,Megathyrsus,maximus,Megathyrsus maximus,B,,,,,,,9.725160285,
+115,,,4,F24 3594,ABC-PM21_0631,Megathyrsus,maximus,Megathyrsus maximus,A,,,,,,,9.055024441,9.055024441
+116,,,4,F24 3594,ABC-PM21_0631,Megathyrsus,maximus,Megathyrsus maximus,B,,,,,,,9.055024441,
+117,,,4,F24 3595,ABC-PM21_2195,Megathyrsus,maximus,Megathyrsus maximus,A,,,,,,,8.717412856,8.717412856
+118,,,4,F24 3595,ABC-PM21_2195,Megathyrsus,maximus,Megathyrsus maximus,B,,,,,,,8.717412856,
+119,,,4,F24 3596,ABC-PM21_3522,Megathyrsus,maximus,Megathyrsus maximus,A,,,,,,,8.710478289,8.710478289
+120,,,4,F24 3596,ABC-PM21_3522,Megathyrsus,maximus,Megathyrsus maximus,B,,,,,,,8.710478289,
+121,,,FAO,FAO,FAO,FAO,FAO,FAO,A,,,,,,,,#DIV/0!
+122,,,FAO,FAO,FAO,FAO,FAO,FAO,B,,,,,,,,
+123,,,5,F24 3597,ABC-PM21_3534,Megathyrsus,maximus,Megathyrsus maximus,A,,,,,,,9.000965172,9.000965172
+124,,,5,F24 3597,ABC-PM21_3534,Megathyrsus,maximus,Megathyrsus maximus,B,,,,,,,9.000965172,
+125,,,5,F24 3598,ABC-PM21_3537,Megathyrsus,maximus,Megathyrsus maximus,A,,,,,,,10.87316719,10.87316719
+126,,,5,F24 3598,ABC-PM21_3537,Megathyrsus,maximus,Megathyrsus maximus,B,,,,,,,10.87316719,
+127,,,5,F24 3599,ABC-PM21_3545,Megathyrsus,maximus,Megathyrsus maximus,A,,,,,,,8.40826817,8.40826817
+128,,,5,F24 3599,ABC-PM21_3545,Megathyrsus,maximus,Megathyrsus maximus,B,,,,,,,8.40826817,
+129,,,5,F24 3600,ABC-PM21_3670,Megathyrsus,maximus,Megathyrsus maximus,A,,,,,,,8.834231116,8.834231116
+130,,,5,F24 3600,ABC-PM21_3670,Megathyrsus,maximus,Megathyrsus maximus,B,,,,,,,8.834231116,
+131,,,5,F24 3601,ABC-PM21_6628,Megathyrsus,maximus,Megathyrsus maximus,A,,,,,,,9.980926223,9.980926223
+132,,,5,F24 3601,ABC-PM21_6628,Megathyrsus,maximus,Megathyrsus maximus,B,,,,,,,9.980926223,
+133,,,5,F24 3602,ABC-BH08_1149,Urochloa,humidicola,Brachiaria humidicola,A,,,,,,,7.526319867,7.526319867
+134,,,5,F24 3602,ABC-BH08_1149,Urochloa,humidicola,Brachiaria humidicola,B,,,,,,,7.526319867,
+135,,,5,F24 3603,ABC-BH16_0550,Urochloa,humidicola,Brachiaria humidicola,A,,,,,,,6.425464292,6.425464292
+136,,,5,F24 3603,ABC-BH16_0550,Urochloa,humidicola,Brachiaria humidicola,B,,,,,,,6.425464292,
+137,,,5,F24 3604,ABC-BH16_0562,Urochloa,humidicola,Brachiaria humidicola,A,,,,,,,5.939448687,5.939448687
+138,,,5,F24 3604,ABC-BH16_0562,Urochloa,humidicola,Brachiaria humidicola,B,,,,,,,5.939448687,
+139,,,5,F24 3605,ABC-BH16_3249,Urochloa,humidicola,Brachiaria humidicola,A,,,,,,,6.64642741,6.64642741
+140,,,5,F24 3605,ABC-BH16_3249,Urochloa,humidicola,Brachiaria humidicola,B,,,,,,,6.64642741,
+141,,,5,F24 3606,ABC-BH16B_0733,Urochloa,humidicola,Brachiaria humidicola,A,,,,,,,8.098687385,8.098687385
+142,,,5,F24 3606,ABC-BH16B_0733,Urochloa,humidicola,Brachiaria humidicola,B,,,,,,,8.098687385,
+143,,,5,F24 3607,ABC-BH16B_0741,Urochloa,humidicola,Brachiaria humidicola,A,,,,,,,7.498562822,7.498562822
+144,,,5,F24 3607,ABC-BH16B_0741,Urochloa,humidicola,Brachiaria humidicola,B,,,,,,,7.498562822,
+145,,,5,F24 3608,ABC-BH16B_1194,Urochloa,humidicola,Brachiaria humidicola,A,,,,,,,5.470321142,5.470321142
+146,,,5,F24 3608,ABC-BH16B_1194,Urochloa,humidicola,Brachiaria humidicola,B,,,,,,,5.470321142,
+147,,,5,F24 3609,ABC-BH16B_1618,Urochloa,humidicola,Brachiaria humidicola,A,,,,,,,8.125850845,8.125850845
+148,,,5,F24 3609,ABC-BH16B_1618,Urochloa,humidicola,Brachiaria humidicola,B,,,,,,,8.125850845,
+149,,,5,F24 3610,ABC-BH16B_1707,Urochloa,humidicola,Brachiaria humidicola,A,,,,,,,5.966437759,5.966437759
+150,,,5,F24 3610,ABC-BH16B_1707,Urochloa,humidicola,Brachiaria humidicola,B,,,,,,,5.966437759,
+151,,,5,F24 3611,ABC-CIAT_16888,Urochloa,humidicola,Brachiaria humidicola,A,,,,,,,6.11164643,6.11164643
+152,,,5,F24 3611,ABC-CIAT_16888,Urochloa,humidicola,Brachiaria humidicola,B,,,,,,,6.11164643,
+153,,,5,F24 3426,ABC-989-1,Indigofera,hirsuta,Indigofera hirsuta,A,1.0004,0.0003,1.0001,26.4,3.746091688,23.41307305,25.3469484,25.3469484
+154,,,5,F24 3426,ABC-989-1,Indigofera,hirsuta,Indigofera hirsuta,B,1.0004,0.0003,1.0001,26.4,3.746091688,23.41307305,25.3469484,
+155,,,5,F24 3427,ABC-1257-1,Stylosanthes,scabra,Stylosanthes scabra,A,1.0004,0.0003,1.0001,18.8,2.663570896,16.6473181,17.95515598,17.95515598
+156,,,5,F24 3427,ABC-1257-1,Stylosanthes,scabra,Stylosanthes scabra,B,1.0004,0.0003,1.0001,18.8,2.663570896,16.6473181,17.95515598,
+157,,,5,F24 3428,ABC-3240-1,Desmodium,cinereum,Desmodium cinereum,A,1.0006,0.0006,1,23.7,3.361848084,21.01155053,22.62704069,22.62704069
+158,,,5,F24 3428,ABC-3240-1,Desmodium,cinereum,Desmodium cinereum,B,1.0006,0.0006,1,23.7,3.361848084,21.01155053,22.62704069,
+159,,,5,F24 3429,ABC-3522-1,Desmodium,incanum,Desmodium incanum,A,1.0004,0.0002,1.0002,18.9,2.677546863,16.73466789,17.94095507,17.94095507
+160,,,5,F24 3429,ABC-3522-1,Desmodium,incanum,Desmodium incanum,B,1.0004,0.0002,1.0002,18.9,2.677546863,16.73466789,17.94095507,
+161,,,5,F24 3430,ABC-4134-1,Macroptilium,lathyroides,Macroptilium lathyroides,A,1.0003,0.0003,1,22.9,3.247887132,20.29929458,22.08537556,22.08537556
+162,,,5,F24 3430,ABC-4134-1,Macroptilium,lathyroides,Macroptilium lathyroides,B,1.0003,0.0003,1,22.9,3.247887132,20.29929458,22.08537556,
+163,,,5,F24 3431,ABC-4279-1,Vigna,umbellata,Vigna umbellata,A,1.0003,0.0003,1,26.4,3.746466297,23.41541436,25.72120617,25.72120617
+164,,,5,F24 3431,ABC-4279-1,Vigna,umbellata,Vigna umbellata,B,1.0003,0.0003,1,26.4,3.746466297,23.41541436,25.72120617,
+165,,,5,F24 3432,ABC-5124-1,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,A,1.0006,0.0006,1,26.6,3.774956535,23.59347834,25.77536281,25.77536281
+166,,,5,F24 3432,ABC-5124-1,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,B,1.0006,0.0006,1,26.6,3.774956535,23.59347834,25.77536281,
+167,,,5,F24 3433,ABC-5234-1,Centrosema,brasilianum,Centrosema brasilianum,A,1.0004,0.0002,1.0002,18,2.549366428,15.93354017,17.21944618,17.21944618
+168,,,5,F24 3433,ABC-5234-1,Centrosema,brasilianum,Centrosema brasilianum,B,1.0004,0.0002,1.0002,18,2.549366428,15.93354017,17.21944618,
+169,,,5,F24 3434,ABC-7292-1,Chamaecrista,desvauxii,Chamaecrista desvauxii,A,1.0006,0.0002,1.0004,33,4.684770243,29.27981402,31.82560604,31.82560604
+170,,,5,F24 3434,ABC-7292-1,Chamaecrista,desvauxii,Chamaecrista desvauxii,B,1.0006,0.0002,1.0004,33,4.684770243,29.27981402,31.82560604,
+171,,,5,F24 3435,ABC-7317-1,Canavalia,sp.,Canavalia sp.,A,1.0006,0.0006,1,24.9,3.532789512,22.07993445,23.8828974,23.8828974
+172,,,5,F24 3435,ABC-7317-1,Canavalia,sp.,Canavalia sp.,B,1.0006,0.0006,1,24.9,3.532789512,22.07993445,23.8828974,
+173,,,5,F24 3436,ABC-7322-1,Canavalia,sp.,Canavalia sp.,A,1.0005,0.0004,1.0001,21.7,3.07663804,19.22898775,21.51684891,21.51684891
+174,,,5,F24 3436,ABC-7322-1,Canavalia,sp.,Canavalia sp.,B,1.0005,0.0004,1.0001,21.7,3.07663804,19.22898775,21.51684891,
+175,,,5,F24 3437,ABC-7339-1,Indigofera,lespedezioides,Indigofera lespedezioides,A,1.0003,0.0003,1,25.9,3.675240702,22.97025439,24.9715208,24.9715208
+176,,,5,F24 3437,ABC-7339-1,Indigofera,lespedezioides,Indigofera lespedezioides,B,1.0003,0.0003,1,25.9,3.675240702,22.97025439,24.9715208,
+177,,,5,F24 3438,ABC-7469-1,Clitoria,ternatea,Clitoria ternatea,A,1.0002,0,1.0002,27.4,3.888139859,24.30087412,26.36670549,26.36670549
+178,,,5,F24 3438,ABC-7469-1,Clitoria,ternatea,Clitoria ternatea,B,1.0002,0,1.0002,27.4,3.888139859,24.30087412,26.36670549,
+179,,,5,F24 3439,ABC-7643-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,A,1.0005,0.0005,1,23.8,3.376093203,21.10058252,22.49012437,22.49012437
+180,,,5,F24 3439,ABC-7643-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,B,1.0005,0.0005,1,23.8,3.376093203,21.10058252,22.49012437,
+181,,,5,F24 3440,ABC-7703-1,Aeschynomene,indica,Aeschynomene indica,A,1.0003,0.0003,1,22.9,3.247887132,20.29929458,22.07736189,22.07736189
+182,,,5,F24 3440,ABC-7703-1,Aeschynomene,indica,Aeschynomene indica,B,1.0003,0.0003,1,22.9,3.247887132,20.29929458,22.07736189,
+183,,,5,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+184,,,5,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+185,,,5,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+186,,,5,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+187,,,5,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+188,,,5,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+189,,,6,F24 3441,ABC-7714-1,Alysicarpus,glumaceus,Alysicarpus glumaceus,A,1.0003,0.0003,1,22.9,3.247887132,20.29929458,21.81506189,21.04962113
+190,,,6,F24 3441,ABC-7714-1,Alysicarpus,glumaceus,Alysicarpus glumaceus,B,1.0006,0.0006,1,21.3,3.019965228,18.87478268,20.28418036,
+191,,,6,F24 3442,ABC-7757-1,Clitoria,ternatea,Clitoria ternatea,A,1.0006,0.0006,1,21.3,3.019965228,18.87478268,20.48925605,22.6154996
+192,,,6,F24 3442,ABC-7757-1,Clitoria,ternatea,Clitoria ternatea,B,1.0004,0.0004,1,25.7,3.646750464,22.7921904,24.74174315,
+193,,,6,F24 3443,ABC-7759-1,Clitoria,ternatea,Clitoria ternatea,A,1.0004,0.0004,1,25.7,3.646750464,22.7921904,24.36583118,20.41590152
+194,,,6,F24 3443,ABC-7759-1,Clitoria,ternatea,Clitoria ternatea,B,1.0004,0.0004,1,17.4,2.464405587,15.40253492,16.46597185,
+195,,,6,F24 3444,ABC-7790-1,Crotalaria,pallida,Crotalaria pallida,A,1.0004,0.0004,1,17.4,2.464405587,15.40253492,16.72167743,22.0861462
+196,,,6,F24 3444,ABC-7790-1,Crotalaria,pallida,Crotalaria pallida,B,1.0003,0.0003,1,28.5,4.045613796,25.28508623,27.45061497,
+197,,,6,F24 3445,ABC-7792-1,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,A,1.0003,0.0003,1,28.5,4.045613796,25.28508623,27.22443596,23.63066193
+198,,,6,F24 3445,ABC-7792-1,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,B,1,0.0001,0.9999,21,2.977527624,18.60954765,20.0368879,
+199,,,6,F24 3446,ABC-7816-1,Indigofera,spicata,Indigofera spicata,A,1,0.0001,0.9999,21,2.977527624,18.60954765,20.11818757,24.06341709
+200,,,6,F24 3446,ABC-7816-1,Indigofera,spicata,Indigofera spicata,B,1.0004,0.0004,1,29.2,4.145329629,25.90831018,28.00864661,
+201,,,6,F24 3447,ABC-7858-1,Crotalaria,incana,Crotalaria incana,A,1.0004,0.0004,1,29.2,4.145329629,25.90831018,27.81204464,29.43059343
+202,,,6,F24 3447,ABC-7858-1,Crotalaria,incana,Crotalaria incana,B,1.0005,0.0001,1.0004,32.6,4.62781255,28.92382844,31.04914222,
+203,,,6,F24 3448,ABC-7972-1,Canavalia,brasiliensis,Canavalia brasiliensis,A,1.0005,0.0001,1.0004,32.6,4.62781255,28.92382844,31.48000483,29.01401583
+204,,,6,F24 3448,ABC-7972-1,Canavalia,brasiliensis,Canavalia brasiliensis,B,1.0005,0.0004,1.0001,27.5,3.902772329,24.39232705,26.54802683,
+205,,,6,F24 3449,ABC-8205-1,Indigofera,suffruticosa,Indigofera suffruticosa,A,1.0005,0.0004,1.0001,27.5,3.902772329,24.39232705,26.44871462,25.335008
+206,,,6,F24 3449,ABC-8205-1,Indigofera,suffruticosa,Indigofera suffruticosa,B,1.0004,0,1.0004,25.2,3.574095231,22.33809519,24.22130138,
+207,,,6,F24 3450,ABC-8402-1,Indigofera,suffruticosa,Indigofera suffruticosa,A,1.0004,0,1.0004,25.2,3.574095231,22.33809519,24.27789935,25.58233898
+208,,,6,F24 3450,ABC-8402-1,Indigofera,suffruticosa,Indigofera suffruticosa,B,1.0005,0,1.0005,27.9,3.958164,24.738525,26.88677861,
+209,,,6,F24 3451,ABC-8408-1,Chamaecrista,nictitans,Chamaecrista nictitans,A,1.0005,0,1.0005,27.9,3.958164,24.738525,26.31287847,24.85046879
+210,,,6,F24 3451,ABC-8408-1,Chamaecrista,nictitans,Chamaecrista nictitans,B,1.0001,0,1.0001,24.8,3.518192574,21.98870359,23.38805912,
+211,,,6,F24 3452,ABC-8409-1,Chamaecrista,nictitans,Chamaecrista nictitans,A,1.0001,0,1.0001,24.8,3.518192574,21.98870359,23.91713839,25.85235955
+212,,,6,F24 3452,ABC-8409-1,Chamaecrista,nictitans,Chamaecrista nictitans,B,1.0005,0.0003,1.0002,28.8,4.087531647,25.54707279,27.78758071,
+213,,,6,F24 3453,ABC-8719-1,Canavalia,sp.,Canavalia sp.,A,1.0005,0.0003,1.0002,28.8,4.087531647,25.54707279,27.31500964,23.79660353
+214,,,6,F24 3453,ABC-8719-1,Canavalia,sp.,Canavalia sp.,B,1.0004,0.0005,0.9999,21.4,3.034513798,18.96571124,20.27819741,
+215,,,6,F24 3454,ABC-8797-1,Desmanthus,virgatus,Desmanthus virgatus,A,1.0004,0.0005,0.9999,21.4,3.034513798,18.96571124,20.40453153,23.1295439
+216,,,6,F24 3454,ABC-8797-1,Desmanthus,virgatus,Desmanthus virgatus,B,1.0003,0,1.0003,27.1,3.845028621,24.03142888,25.85455626,
+217,,,6,F24 3455,ABC-8819-1,Coursetia,caribaea,Coursetia caribaea,A,1.0003,0,1.0003,27.1,3.845028621,24.03142888,26.18410142,24.00645742
+218,,,6,F24 3455,ABC-8819-1,Coursetia,caribaea,Coursetia caribaea,B,1.0005,0.0006,0.9999,22.6,3.205472322,20.03420201,21.82881342,
+219,,,6,F24 3456,ABC-9170-1,Indigofera,lespedezioides,Indigofera lespedezioides,A,1.0005,0.0006,0.9999,22.6,3.205472322,20.03420201,21.52108571,20.75389269
+220,,,6,F24 3456,ABC-9170-1,Indigofera,lespedezioides,Indigofera lespedezioides,B,1.0004,0.0003,1.0001,21,2.976932178,18.60582611,19.98669966,
+221,,,6,F24 3457,ABC-9254-1,Crotalaria,pallida,Crotalaria pallida,A,1.0004,0.0003,1.0001,21,2.976932178,18.60582611,20.48504618,24.64778486
+222,,,6,F24 3457,ABC-9254-1,Crotalaria,pallida,Crotalaria pallida,B,1.0006,0.0003,1.0003,29.5,4.186808943,26.1675559,28.81052353,
+223,,,6,F24 3458,ABC-9283-1,Crotalaria,pallida,Crotalaria pallida,A,1.0006,0.0003,1.0003,29.5,4.186808943,26.1675559,28.1974698,25.55766027
+224,,,6,F24 3458,ABC-9283-1,Crotalaria,pallida,Crotalaria pallida,B,1.0006,0.0001,1.0005,24,3.402882,21.2680125,22.91785074,
+225,,,6,F24 3459,ABC-9288-1,Indigofera,suffruticosa,Indigofera suffruticosa,A,1.0006,0.0001,1.0005,24,3.402882,21.2680125,22.68467015,27.5825287
+226,,,6,F24 3459,ABC-9288-1,Indigofera,suffruticosa,Indigofera suffruticosa,B,1.0002,0.0003,0.9999,34.3,4.87231793,30.45198706,32.48038724,
+227,,,6,F24 3460,ABC-9336-1,Clitoria,ternatea,Clitoria ternatea,A,1.0002,0.0003,0.9999,34.3,4.87231793,30.45198706,33.6886583,31.6648623
+228,,,6,F24 3460,ABC-9336-1,Clitoria,ternatea,Clitoria ternatea,B,1.0004,0.0002,1.0002,30.2,4.286923434,26.79327146,29.64106629,
+229,,,6,F24 3461,ABC-9349-1,Mucuna,pruriens,Mucuna pruriens,A,1.0004,0.0002,1.0002,30.2,4.286923434,26.79327146,29.30719938,30.38137152
+230,,,6,F24 3461,ABC-9349-1,Mucuna,pruriens,Mucuna pruriens,B,1.0004,0.0004,1,32.4,4.601173437,28.75733398,31.45554367,
+231,,,6,F24 3462,ABC-9356-1,Tephrosia,noctiflora,Tephrosia noctiflora,A,1.0004,0.0004,1,32.4,4.601173437,28.75733398,30.91120176,30.62410081
+232,,,6,F24 3462,ABC-9356-1,Tephrosia,noctiflora,Tephrosia noctiflora,B,1.0004,0.0004,1,31.8,4.515702723,28.22314202,30.33699987,
+233,,,6,F24 3463,ABC-9432-1,Clitoria,ternatea,Clitoria ternatea,A,1.0004,0.0004,1,31.8,4.515702723,28.22314202,30.91952213,31.25458694
+234,,,6,F24 3463,ABC-9432-1,Clitoria,ternatea,Clitoria ternatea,B,1.0004,0,1.0004,32.5,4.613573127,28.83483204,31.58965175,
+235,,,6,F24 3464,ABC-9433-1,Clitoria,ternatea,Clitoria ternatea,A,1.0004,0,1.0004,32.5,4.613573127,28.83483204,30.58656643,31.6787523
+236,,,6,F24 3464,ABC-9433-1,Clitoria,ternatea,Clitoria ternatea,B,1.0003,0.0003,1,34.8,4.943056293,30.89410183,32.77093817,
+237,,,6,F24 3465,ABC-9435-1,Desmanthus,pubescens,Desmanthus pubescens,A,1.0005,0.0003,1.0002,28.6,4.059047106,25.36904441,26.8210407,26.77532246
+238,,,6,F24 3465,ABC-9435-1,Desmanthus,pubescens,Desmanthus pubescens,B,1.0005,0.0004,1.0001,28.5,4.045209275,25.28255797,26.72960421,
+239,,,6,F24 3466,ABC-9530-1,Crotalaria,maypurensis,Crotalaria maypurensis,A,1.0002,0.0004,0.9998,34.3,4.872805259,30.45503287,32.65498846,32.65498846
+240,,,6,F24 3466,ABC-9530-1,Crotalaria,maypurensis,Crotalaria maypurensis,B,1.0002,0.0004,0.9998,34.3,4.872805259,30.45503287,32.65498846,
+241,,,6,F24 3467,ABC-9562-1,Eriosema,diffusum,Eriosema diffusum,A,1.0002,0.0003,0.9999,19.2,2.721089838,17.00681149,18.10554432,18.10554432
+242,,,6,F24 3467,ABC-9562-1,Eriosema,diffusum,Eriosema diffusum,B,1.0002,0.0003,0.9999,19.2,2.721089838,17.00681149,18.10554432,
+243,,,6,F24 3468,ABC-9982-1,Crotalaria,incana,Crotalaria incana,A,1.0004,0.0004,1,28.4,4.031368677,25.19605423,26.85672385,26.85672385
+244,,,6,F24 3468,ABC-9982-1,Crotalaria,incana,Crotalaria incana,B,1.0004,0.0004,1,28.4,4.031368677,25.19605423,26.85672385,
+245,,,6,F24 3469,ABC-10647-1,Stylosanthes,scabra,Stylosanthes scabra,A,1.0004,0,1.0004,21,2.976039455,18.6002466,20.01579809,20.01579809
+246,,,6,F24 3469,ABC-10647-1,Stylosanthes,scabra,Stylosanthes scabra,B,1.0004,0,1.0004,21,2.976039455,18.6002466,20.01579809,
+247,,,6,F24 3470,ABC-11194-1,Stylosanthes,hamata,Stylosanthes hamata,A,1.0003,0.0002,1.0001,22.2,3.147856513,19.67410321,21.17967693,21.17967693
+248,,,6,F24 3470,ABC-11194-1,Stylosanthes,hamata,Stylosanthes hamata,B,1.0003,0.0002,1.0001,22.2,3.147856513,19.67410321,21.17967693,
+249,,,6,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+250,,,6,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+251,,,6,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+252,,,6,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+253,,,6,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+254,,,6,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+255,,,7,F24 3471,ABC-11999-1,Stylosanthes,guianensis,Stylosanthes guianensis,A,1.0005,0.0004,1.0001,21.2,3.005419567,18.78387229,20.08914589,20.08914589
+256,,,7,F24 3471,ABC-11999-1,Stylosanthes,guianensis,Stylosanthes guianensis,B,1.0005,0.0004,1.0001,21.2,3.005419567,18.78387229,20.08914589,
+257,,,7,F24 3472,ABC-12318-1,Stylosanthes,hamata,Stylosanthes hamata,A,1.0004,0.0006,0.9998,23.4,3.319776682,20.74860426,22.04897357,22.04897357
+258,,,7,F24 3472,ABC-12318-1,Stylosanthes,hamata,Stylosanthes hamata,B,1.0004,0.0006,0.9998,23.4,3.319776682,20.74860426,22.04897357,
+259,,,7,F24 3473,ABC-13575-1,Desmodium,incanum,Desmodium incanum,A,1.0005,0.0004,1.0001,24.6,3.489705184,21.8106574,23.16919124,23.16919124
+260,,,7,F24 3473,ABC-13575-1,Desmodium,incanum,Desmodium incanum,B,1.0005,0.0004,1.0001,24.6,3.489705184,21.8106574,23.16919124,
+261,,,7,F24 3474,ABC-13609-1,Desmodium,incanum,Desmodium incanum,A,1.0005,0.0003,1.0002,21.1,2.990876815,18.69298009,20.01347066,20.01347066
+262,,,7,F24 3474,ABC-13609-1,Desmodium,incanum,Desmodium incanum,B,1.0005,0.0003,1.0002,21.1,2.990876815,18.69298009,20.01347066,
+263,,,7,F24 3475,ABC-15551-1,Centrosema,molle,Centrosema molle,A,1.0006,0.0004,1.0002,23.6,3.346933578,20.91833486,22.31266675,22.31266675
+264,,,7,F24 3475,ABC-15551-1,Centrosema,molle,Centrosema molle,B,1.0006,0.0004,1.0002,23.6,3.346933578,20.91833486,22.31266675,
+265,,,7,F24 3476,ABC-17024-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,A,1.0004,0.0002,1.0002,25.7,3.64602126,22.78763287,24.6266959,24.6266959
+266,,,7,F24 3476,ABC-17024-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,B,1.0004,0.0002,1.0002,25.7,3.64602126,22.78763287,24.6266959,
+267,,,7,F24 3477,ABC-17091-1,Crotalaria,micans,Crotalaria micans,A,1.0004,0.0002,1.0002,26,3.688748071,23.05467545,24.38060094,24.38060094
+268,,,7,F24 3477,ABC-17091-1,Crotalaria,micans,Crotalaria micans,B,1.0004,0.0002,1.0002,26,3.688748071,23.05467545,24.38060094,
+269,,,7,F24 3478,ABC-17365-1,Clitoria,ternatea,Clitoria ternatea,A,1.0004,0.0002,1.0002,33.8,4.799645174,29.99778234,32.12201646,32.12201646
+270,,,7,F24 3478,ABC-17365-1,Clitoria,ternatea,Clitoria ternatea,B,1.0004,0.0002,1.0002,33.8,4.799645174,29.99778234,32.12201646,
+271,,,7,F24 3479,ABC-17451-1,Canavalia,sp.,Canavalia sp.,A,1.0006,0.0005,1.0001,23.1,3.276049765,20.47531103,22.34228589,22.34228589
+272,,,7,F24 3479,ABC-17451-1,Canavalia,sp.,Canavalia sp.,B,1.0006,0.0005,1.0001,23.1,3.276049765,20.47531103,22.34228589,
+273,,,7,F24 3480,ABC-17775-1,Christia,obcordata,Christia obcordata,A,1.0003,0.0003,1,17.1,2.42167023,15.13543894,16.04996893,16.04996893
+274,,,7,F24 3480,ABC-17775-1,Christia,obcordata,Christia obcordata,B,1.0003,0.0003,1,17.1,2.42167023,15.13543894,16.04996893,
+275,,,7,F24 3481,ABC-18016-1,Sesbania,emerus,Sesbania emerus,A,1.0006,0.0004,1.0002,25.4,3.603294448,22.5205903,24.15784219,24.15784219
+276,,,7,F24 3481,ABC-18016-1,Sesbania,emerus,Sesbania emerus,B,1.0006,0.0004,1.0002,25.4,3.603294448,22.5205903,24.15784219,
+277,,,7,F24 3482,ABC-18044-1,Christia,sp.,Christia sp.,A,1.0003,0,1.0003,22.2,3.147227131,19.67016957,21.00012874,21.00012874
+278,,,7,F24 3482,ABC-18044-1,Christia,sp.,Christia sp.,B,1.0003,0,1.0003,22.2,3.147227131,19.67016957,21.00012874,
+279,,,7,F24 3483,ABC-18288-1,Sesbania,exasperata,Sesbania exasperata,A,1.0006,0.0002,1.0004,24.3,3.445940422,21.53712764,23.18028169,23.18028169
+280,,,7,F24 3483,ABC-18288-1,Sesbania,exasperata,Sesbania exasperata,B,1.0006,0.0002,1.0004,24.3,3.445940422,21.53712764,23.18028169,
+281,,,7,F24 3484,ABC-18447-1,Clitoria,ternatea,Clitoria ternatea,A,1.0005,0.0005,1,30.8,4.373251533,27.33282208,29.41115131,29.41115131
+282,,,7,F24 3484,ABC-18447-1,Clitoria,ternatea,Clitoria ternatea,B,1.0005,0.0005,1,30.8,4.373251533,27.33282208,29.41115131,
+283,,,7,F24 3485,ABC-18455-1,Christia,obcordata,Christia obcordata,A,1.0005,0.0002,1.0003,22.9,3.246913058,20.29320661,21.77303294,21.77303294
+284,,,7,F24 3485,ABC-18455-1,Christia,obcordata,Christia obcordata,B,1.0005,0.0002,1.0003,22.9,3.246913058,20.29320661,21.77303294,
+285,,,7,F24 3486,ABC-18707-1,Crotalaria,pallida,Crotalaria pallida,A,1.0001,0,1.0001,39.2,5.569284601,34.80802875,37.49811369,37.49811369
+286,,,7,F24 3486,ABC-18707-1,Crotalaria,pallida,Crotalaria pallida,B,1.0001,0,1.0001,39.2,5.569284601,34.80802875,37.49811369,
+287,,,7,F24 3487,ABC-18749-1,Arachis,pintoi,Arachis pintoi,A,1.0001,0,1.0001,22.1,3.133612819,19.58508012,21.12793945,21.12793945
+288,,,7,F24 3487,ABC-18749-1,Arachis,pintoi,Arachis pintoi,B,1.0001,0,1.0001,22.1,3.133612819,19.58508012,21.12793945,
+289,,,7,F24 3488,ABC-18813-1,Crotalaria,nitens,Crotalaria nitens,A,1.0004,0.0002,1.0002,17.8,2.520881887,15.75551179,17.16342238,17.16342238
+290,,,7,F24 3488,ABC-18813-1,Crotalaria,nitens,Crotalaria nitens,B,1.0004,0.0002,1.0002,17.8,2.520881887,15.75551179,17.16342238,
+291,,,7,F24 3489,ABC-18848-1,Alysicarpus,rugosus,Alysicarpus rugosus,A,1.0002,0.0002,1,21.3,3.019965228,18.87478268,19.98876765,19.98876765
+292,,,7,F24 3489,ABC-18848-1,Alysicarpus,rugosus,Alysicarpus rugosus,B,1.0002,0.0002,1,21.3,3.019965228,18.87478268,19.98876765,
+293,,,7,F24 3490,ABC-18862-1,Alysicarpus,rugosus,Alysicarpus rugosus,A,1.0004,0.0001,1.0003,25.8,3.659897614,22.87436009,24.57881528,24.57881528
+294,,,7,F24 3490,ABC-18862-1,Alysicarpus,rugosus,Alysicarpus rugosus,B,1.0004,0.0001,1.0003,25.8,3.659897614,22.87436009,24.57881528,
+295,,,7,F24 3491,ABC-18931-1,Tephrosia,linearis,Tephrosia linearis,A,1.0005,0.0005,1,30.1,4.2735357,26.70959813,28.55552953,28.55552953
+296,,,7,F24 3491,ABC-18931-1,Tephrosia,linearis,Tephrosia linearis,B,1.0005,0.0005,1,30.1,4.2735357,26.70959813,28.55552953,
+297,,,7,F24 3492,ABC-19038-1,Canavalia,sp.,Canavalia sp.,A,1.0005,0,1.0005,24.2,3.431358,21.4459875,23.78356078,23.78356078
+298,,,7,F24 3492,ABC-19038-1,Canavalia,sp.,Canavalia sp.,B,1.0005,0,1.0005,24.2,3.431358,21.4459875,23.78356078,
+299,,,7,F24 3493,ABC-19118-1,Alysicarpus,rugosus,Alysicarpus rugosus,A,1.0005,0.0003,1.0002,23.9,3.38966039,21.18537744,22.79950205,22.79950205
+300,,,7,F24 3493,ABC-19118-1,Alysicarpus,rugosus,Alysicarpus rugosus,B,1.0005,0.0003,1.0002,23.9,3.38966039,21.18537744,22.79950205,
+301,,,7,F24 3494,ABC-19127-1,Alysicarpus,rugosus,Alysicarpus rugosus,A,1.0003,0.0003,1,20.3,2.877514038,17.98446274,19.49502682,19.49502682
+302,,,7,F24 3494,ABC-19127-1,Alysicarpus,rugosus,Alysicarpus rugosus,B,1.0003,0.0003,1,20.3,2.877514038,17.98446274,19.49502682,
+303,,,7,F24 3495,ABC-19128-1,Alysicarpus,rugosus,Alysicarpus rugosus,A,1.0005,0.0001,1.0004,17.9,2.534617335,15.84135834,17.09154173,17.09154173
+304,,,7,F24 3495,ABC-19128-1,Alysicarpus,rugosus,Alysicarpus rugosus,B,1.0005,0.0001,1.0004,17.9,2.534617335,15.84135834,17.09154173,
+305,,,7,F24 3496,ABC-19129-1,Alysicarpus,rugosus,Alysicarpus rugosus,A,1.0005,0.0005,1,18.8,2.663837253,16.64898283,17.81459969,17.81459969
+306,,,7,F24 3496,ABC-19129-1,Alysicarpus,rugosus,Alysicarpus rugosus,B,1.0005,0.0005,1,18.8,2.663837253,16.64898283,17.81459969,
+307,,,7,F24 3497,ABC-19133-1,Alysicarpus,rugosus,Alysicarpus rugosus,A,1.0004,0.0003,1.0001,18.4,2.606596117,16.29122573,17.49348196,17.49348196
+308,,,7,F24 3497,ABC-19133-1,Alysicarpus,rugosus,Alysicarpus rugosus,B,1.0004,0.0003,1.0001,18.4,2.606596117,16.29122573,17.49348196,
+309,,,7,F24 3498,ABC-19137-1,Alysicarpus,rugosus,Alysicarpus rugosus,A,1.0003,0,1.0003,19.2,2.720001728,17.0000108,18.129116,18.129116
+310,,,7,F24 3498,ABC-19137-1,Alysicarpus,rugosus,Alysicarpus rugosus,B,1.0003,0,1.0003,19.2,2.720001728,17.0000108,18.129116,
+311,,,7,F24 3499,ABC-19138-1,Alysicarpus,rugosus,Alysicarpus rugosus,A,1.0003,0,1.0003,22.3,3.161467978,19.75917486,21.31731707,21.31731707
+312,,,7,F24 3499,ABC-19138-1,Alysicarpus,rugosus,Alysicarpus rugosus,B,1.0003,0,1.0003,22.3,3.161467978,19.75917486,21.31731707,
+313,,,7,F24 3500,ABC-19139-1,Alysicarpus,ovalifolius,Alysicarpus ovalifolius,A,1.0003,0.0003,1,19.8,2.806288443,17.53930277,18.53940369,18.53940369
+314,,,7,F24 3500,ABC-19139-1,Alysicarpus,ovalifolius,Alysicarpus ovalifolius,B,1.0003,0.0003,1,19.8,2.806288443,17.53930277,18.53940369,
+315,,,7,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+316,,,7,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+317,,,7,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+318,,,7,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+319,,,7,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+320,,,7,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+321,,,8,F25 0772,ICARDA 165563,Trifolium ,pratense,Trifolium pratense,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+322,,,8,F25 0772,ICARDA 165563,Trifolium ,pratense,Trifolium pratense,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+323,,,8,F25 0783,ICARDA J8,Daucus ,carota,Daucus carota,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+324,,,8,F25 0783,ICARDA J8,Daucus ,carota,Daucus carota,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+325,,,8,F25 0784,ICARDA J9,Fumaria , bracteosa,Fumaria bracteosa,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+326,,,8,F25 0784,ICARDA J9,Fumaria , bracteosa,Fumaria bracteosa,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+327,,,8,F25 0788,ICARDA J13,Cichorium ,pumilum,Cichorium pumilum,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+328,,,8,F25 0788,ICARDA J13,Cichorium ,pumilum,Cichorium pumilum,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+329,,,8,F25 0813,ICARDA T216003,Rhus ,tripartita (Ucria) Grande,Rhus tripartita (Ucria) Grande,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+330,,,8,F25 0813,ICARDA T216003,Rhus ,tripartita (Ucria) Grande,Rhus tripartita (Ucria) Grande,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+331,,,8,F25 0820,ICARDA T216010,Retama ,raetam (Forssk.) Webb.,Retama raetam (Forssk.) Webb.,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+332,,,8,F25 0820,ICARDA T216010,Retama ,raetam (Forssk.) Webb.,Retama raetam (Forssk.) Webb.,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+333,,,8,F25 0823,ILRI 6529 2 119707,Labalab , purpureues,Labalab purpureues,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+334,,,8,F25 0823,ILRI 6529 2 119707,Labalab , purpureues,Labalab purpureues,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+335,,,8,F25 0824,ILRI 10925 3 119708,Arachis , glabrata,Arachis glabrata,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+336,,,8,F25 0824,ILRI 10925 3 119708,Arachis , glabrata,Arachis glabrata,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+337,,,8,F25 0825,ILRI 6984 4 119709,Medicago ,sativa,Medicago sativa,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+338,,,8,F25 0825,ILRI 6984 4 119709,Medicago ,sativa,Medicago sativa,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+339,,,8,F25 0837,ILRI 10920 16 119721,Arachis , pintoi,Arachis pintoi,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+340,,,8,F25 0837,ILRI 10920 16 119721,Arachis , pintoi,Arachis pintoi,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+341,,,8,F25 0839,ILRI 7049 18 119723,Trifolium repens, repens,Trifolium repens,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+342,,,8,F25 0839,ILRI 7049 18 119723,Trifolium repens, repens,Trifolium repens,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+343,,,8,F25 0845,ILRI 21682 24 119729,Leucaena, pallida,Leucaena pallida,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+344,,,8,F25 0845,ILRI 21682 24 119729,Leucaena, pallida,Leucaena pallida,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+345,,,8,F25 0848,ILRI 2273 27 119732,Trifolium ,burchellianum,Trifolium burchellianum,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+346,,,8,F25 0848,ILRI 2273 27 119732,Trifolium ,burchellianum,Trifolium burchellianum,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+347,,,8,F25 0861,ILRI 14539 40 119745,Centrosema , virginianum,Centrosema virginianum,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+348,,,8,F25 0861,ILRI 14539 40 119745,Centrosema , virginianum,Centrosema virginianum,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+349,,,8,F25 0868,ILRI 70 47 120164,Leucaena,leucocephala,Leucaena leucocephala,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+350,,,8,F25 0868,ILRI 70 47 120164,Leucaena,leucocephala,Leucaena leucocephala,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+351,,,8,F25 0873,ILRI 7384 52 120169,Chloris gayana, gayana,Chloris gayana,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+352,,,8,F25 0873,ILRI 7384 52 120169,Chloris gayana, gayana,Chloris gayana,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+353,,,8,F25 0904,CIAT ABC 22752 1,Labalab , purpureues,Labalab purpureues,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+354,,,8,F25 0904,CIAT ABC 22752 1,Labalab , purpureues,Labalab purpureues,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+355,,,8,F25 0908,CIAT ABC 22192 1,Leucaena ,diversifolia,Leucaena diversifolia,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+356,,,8,F25 0908,CIAT ABC 22192 1,Leucaena ,diversifolia,Leucaena diversifolia,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+357,,,8,F25 0913,CIAT ABC 1853 1,Stylosanthes , guianensis,Stylosanthes guianensis,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+358,,,8,F25 0913,CIAT ABC 1853 1,Stylosanthes , guianensis,Stylosanthes guianensis,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+359,,,8,F25 0914,CIAT ABC 10625 1,Stylosanthes, scabra,Stylosanthes scabra,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+360,,,8,F25 0914,CIAT ABC 10625 1,Stylosanthes, scabra,Stylosanthes scabra,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+361,,,8,F25 0926,CIAT ABC 6818 1,Panicum , maximum,Panicum maximum,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+362,,,8,F25 0926,CIAT ABC 6818 1,Panicum , maximum,Panicum maximum,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+363,,,8,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+364,,,8,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+365,,,8,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+366,,,8,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+367,,,8,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+368,,,8,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+369,,,9,F25 0990,ABC-PM21_0053,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,14.96531353,14.92263771
+370,,,9,F25 0990,ABC-PM21_0053,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,14.87996188,
+371,,,9,F25 0991,ABC-PM21_3550,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,14.61138437,14.63694296
+372,,,9,F25 0991,ABC-PM21_3550,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,14.66250156,
+373,,,9,F25 0992,ABC-PM21_3595,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,14.24606837,14.25983492
+374,,,9,F25 0992,ABC-PM21_3595,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,14.27360147,
+375,,,9,F25 0993,ABC-PM21_0086,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,14.78636094,14.80638782
+376,,,9,F25 0993,ABC-PM21_0086,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,14.82641469,
+377,,,9,F25 0994,ABC-CIAT_16048,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,17.38158977,17.3378444
+378,,,9,F25 0994,ABC-CIAT_16048,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,17.29409903,
+379,,,9,F25 0995,ABC-PM21_0185,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,16.73943327,16.72567444
+380,,,9,F25 0995,ABC-PM21_0185,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,16.71191561,
+381,,,9,F25 0996,ABC-PM21_0215,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,15.16534338,15.16078345
+382,,,9,F25 0996,ABC-PM21_0215,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,15.15622351,
+383,,,9,F25 0997,ABC-CIAT_16051,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,14.95914637,14.91332159
+384,,,9,F25 0997,ABC-CIAT_16051,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,14.8674968,
+385,,,9,F25 0998,ABC-PM21_6080,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,18.25157098,18.29048196
+386,,,9,F25 0998,ABC-PM21_6080,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,18.32939294,
+387,,,9,F25 0999,ABC-PM21_3684,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,14.74815432,14.78131999
+388,,,9,F25 0999,ABC-PM21_3684,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,14.81448566,
+389,,,9,F25 1000,ABC-PM21_0076,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,16.17987857,16.15211492
+390,,,9,F25 1000,ABC-PM21_0076,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,16.12435126,
+391,,,9,F25 1001,ABC-CIAT_6890,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,15.95943204,15.86572264
+392,,,9,F25 1001,ABC-CIAT_6890,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,15.77201324,
+393,,,9,F25 1002,ABC-PM21_6638,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,14.34328359,14.2420424
+394,,,9,F25 1002,ABC-PM21_6638,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,14.14080122,
+395,,,9,F25 1003,ABC-PM21_0052,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,15.22455413,15.40599
+396,,,9,F25 1003,ABC-PM21_0052,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,15.58742586,
+397,,,9,F25 1004,ABC-PM21_4449,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,14.59080653,14.53670485
+398,,,9,F25 1004,ABC-PM21_4449,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,14.48260316,
+399,,,9,F25 1005,ABC-CIAT_6799,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,13.53725897,13.54429904
+400,,,9,F25 1005,ABC-CIAT_6799,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,13.55133911,
+401,,,9,F25 1006,ABC-PM21_0055,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,16.61401948,16.4819727
+402,,,9,F25 1006,ABC-PM21_0055,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,16.34992592,
+403,,,9,F25 1007,ABC-PM21_6529,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,12.65050808,12.68034511
+404,,,9,F25 1007,ABC-PM21_6529,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,12.71018213,
+405,,,9,F25 1008,ABC-PM21_0047,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,14.15671899,14.14910959
+406,,,9,F25 1008,ABC-PM21_0047,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,14.14150019,
+407,,,9,F25 1009,ABC-PM21_2195,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,15.47973651,15.4919462
+408,,,9,F25 1009,ABC-PM21_2195,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,15.50415588,
+409,,,9,F25 1010,ABC-PM21_2627,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,17.32019145,17.29271543
+410,,,9,F25 1010,ABC-PM21_2627,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,17.2652394,
+411,,,9,F25 1011,ABC-PM21_0059,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,16.6753137,16.70851284
+412,,,9,F25 1011,ABC-PM21_0059,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,16.74171199,
+413,,,9,F25 1012,ABC-PM21_3522,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,13.19408879,13.12453464
+414,,,9,F25 1012,ABC-PM21_3522,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,13.05498049,
+415,,,9,F25 1013,ABC-PM21_0062,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,13.54174136,13.4700851
+416,,,9,F25 1013,ABC-PM21_0062,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,13.39842885,
+417,,,9,F25 1014,ABC-PM21_0906,Megathyrsus ,maximus,Megathyrsus maximus,A,,,,,,,14.75111841,14.66534725
+418,,,9,F25 1014,ABC-PM21_0906,Megathyrsus ,maximus,Megathyrsus maximus,B,,,,,,,14.5795761,
+419,,,9,F24 3501,ABC-19213-1,Clitoria,ternatea,Clitoria ternatea,A,,,,,,,31.12,31.12
+420,,,9,F24 3501,ABC-19213-1,Clitoria,ternatea,Clitoria ternatea,B,,,,,,,31.12,
+421,,,9,F24 3502,ABC-19421-1,Uraria,lagopodioides,Uraria lagopodioides,A,,,,,,,20.04,20.04
+422,,,9,F24 3502,ABC-19421-1,Uraria,lagopodioides,Uraria lagopodioides,B,,,,,,,20.04,
+423,,,9,F24 3503,ABC-19566-1,Tephrosia,noctiflora,Tephrosia noctiflora,A,,,,,,,25.36,25.36
+424,,,9,F24 3503,ABC-19566-1,Tephrosia,noctiflora,Tephrosia noctiflora,B,,,,,,,25.36,
+425,,,9,F24 3504,ABC-19667-1,Indigofera,hirsuta,Indigofera hirsuta,A,,,,,,,26,26
+426,,,9,F24 3504,ABC-19667-1,Indigofera,hirsuta,Indigofera hirsuta,B,,,,,,,26,
+427,,,9,F24 3505,ABC-19673-1,Alysicarpus,rugosus,Alysicarpus rugosus,A,,,,,,,25.41,25.41
+428,,,9,F24 3505,ABC-19673-1,Alysicarpus,rugosus,Alysicarpus rugosus,B,,,,,,,25.41,
+429,,,9,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+430,,,9,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+431,,,9,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+432,,,9,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+433,,,9,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,A,,,,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+434,,,9,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,B,,,,,#DIV/0!,#DIV/0!,#DIV/0!,
+435,,,10,F24-3506,ABC-19895-1,Aeschynomene ,americana,Aeschynomene americana,A,,,,,,,25.26,25.26
+436,,,10,F24-3506,ABC-19895-1,Aeschynomene ,americana,Aeschynomene americana,B,,,,,,,25.26,
+437,,,10,F24-3507,ABC-20093-1,Canavalia ,sp.,Canavalia sp.,A,,,,,,,24.07,24.07
+438,,,10,F24-3507,ABC-20093-1,Canavalia ,sp.,Canavalia sp.,B,,,,,,,24.07,
+439,,,10,F24-3508,ABC-20113-1,Canavalia ,sp.,Canavalia sp.,A,,,,,,,18.07,18.07
+440,,,10,F24-3508,ABC-20113-1,Canavalia ,sp.,Canavalia sp.,B,,,,,,,18.07,
+441,,,10,F24-3509,ABC-20125-1,Coursetia ,caribaea,Coursetia caribaea,A,,,,,,,20.44,20.44
+442,,,10,F24-3509,ABC-20125-1,Coursetia ,caribaea,Coursetia caribaea,B,,,,,,,20.44,
+443,,,10,F24-3510,ABC-20298-1,Canavalia ,sp.,Canavalia sp.,A,,,,,,,22.85,22.85
+444,,,10,F24-3510,ABC-20298-1,Canavalia ,sp.,Canavalia sp.,B,,,,,,,22.85,
+445,,,10,F24-3511,ABC-20305-1,Canavalia ,sp.,Canavalia sp.,A,,,,,,,23.35,23.35
+446,,,10,F24-3511,ABC-20305-1,Canavalia ,sp.,Canavalia sp.,B,,,,,,,23.35,
+447,,,10,F24-3512,ABC-20803-1,Canavalia ,sp.,Canavalia sp.,A,,,,,,,22.07,22.07
+448,,,10,F24-3512,ABC-20803-1,Canavalia ,sp.,Canavalia sp.,B,,,,,,,22.07,
+449,,,10,F24-3513,ABC-21031-1,Christia ,obcordata,Christia obcordata,A,,,,,,,20.42,20.42
+450,,,10,F24-3513,ABC-21031-1,Christia ,obcordata,Christia obcordata,B,,,,,,,20.42,
+451,,,10,F24-3514,ABC-21128-1,Crotalaria,pallida,Crotalaria pallida,A,,,,,,,29.38,29.38
+452,,,10,F24-3514,ABC-21128-1,Crotalaria,pallida,Crotalaria pallida,B,,,,,,,29.38,
+453,,,10,F24-3515,ABC-21212-1,Canavalia ,sp.,Canavalia sp.,A,,,,,,,23.03,22.98
+454,,,10,F24-3515,ABC-21212-1,Canavalia ,sp.,Canavalia sp.,B,,,,,,,22.93,
+455,,,10,F24-3516,ABC-21263-1,Sesbania,rostrata,Sesbania rostrata,A,,,,,,,25.01,25.01
+456,,,10,F24-3516,ABC-21263-1,Sesbania,rostrata,Sesbania rostrata,B,,,,,,,25.01,
+457,,,10,F24-3517,ABC-21514-1,Desmanthus ,virgatus,Desmanthus virgatus,A,,,,,,,23.25,23.25
+458,,,10,F24-3517,ABC-21514-1,Desmanthus ,virgatus,Desmanthus virgatus,B,,,,,,,23.25,
+459,,,10,F24-3518,ABC-21565-1,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,A,,,,,,,19.59,19.59
+460,,,10,F24-3518,ABC-21565-1,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,B,,,,,,,19.59,
+461,,,10,F24-3519,ABC-21709-1,Crotalaria ,juncea,Crotalaria juncea,A,,,,,,,25.97,25.97
+462,,,10,F24-3519,ABC-21709-1,Crotalaria ,juncea,Crotalaria juncea,B,,,,,,,25.97,
+463,,,10,F24-3520,ABC-22286-1,Crotalaria,micans,Crotalaria micans,A,,,,,,,25.3,25.3
+464,,,10,F24-3520,ABC-22286-1,Crotalaria,micans,Crotalaria micans,B,,,,,,,25.3,
+465,,,10,F24-3521,ABC-22475-1,Alysicarpus ,rugosus,Alysicarpus rugosus,A,,,,,,,17.41,17.41
+466,,,10,F24-3521,ABC-22475-1,Alysicarpus ,rugosus,Alysicarpus rugosus,B,,,,,,,17.41,
+467,,,10,F24-3522,ABC-22481-1,Sesbania,cochinchinensis,Sesbania cochinchinensis,A,,,,,,,31.18,31.18
+468,,,10,F24-3522,ABC-22481-1,Sesbania,cochinchinensis,Sesbania cochinchinensis,B,,,,,,,31.18,
+469,,,10,F24-3523,ABC-22520-1,Arachis,pusilla,Arachis pusilla,A,,,,,,,20.36,20.36
+470,,,10,F24-3523,ABC-22520-1,Arachis,pusilla,Arachis pusilla,B,,,,,,,20.36,
+471,,,10,F24-3524,ABC-22570-1,Desmanthus,bicornutus,Desmanthus bicornutus,A,,,,,,,32.64,32.64
+472,,,10,F24-3524,ABC-22570-1,Desmanthus,bicornutus,Desmanthus bicornutus,B,,,,,,,32.64,
+473,,,10,F24-3525,ABC-22594-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,A,,,,,,,27.26,27.26
+474,,,10,F24-3525,ABC-22594-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,B,,,,,,,27.26,
+475,,,10,F24-3526,ABC-22754-1,Lablab ,purpureus,Lablab purpureus,A,,,,,,,30.03,30.03
+476,,,10,F24-3526,ABC-22754-1,Lablab ,purpureus,Lablab purpureus,B,,,,,,,30.03,
+477,,,10,F24-3527,ABC-22915-1,Aeschynomene ,villosa,Aeschynomene villosa,A,,,,,,,27.06,27.06
+478,,,10,F24-3527,ABC-22915-1,Aeschynomene ,villosa,Aeschynomene villosa,B,,,,,,,27.06,
+479,,,10,F24-3528,ABC-23259-1,Desmodium,gangeticum,Desmodium gangeticum,A,,,,,,,23.04,23.04
+480,,,10,F24-3528,ABC-23259-1,Desmodium,gangeticum,Desmodium gangeticum,B,,,,,,,23.04,
+481,,,10,F24-3529,ABC-23339-1,Desmodium,gangeticum,Desmodium gangeticum,A,,,,,,,22.09,22.09
+482,,,10,F24-3529,ABC-23339-1,Desmodium,gangeticum,Desmodium gangeticum,B,,,,,,,22.09,
+483,,,10,F24-3530,ABC-23761-1,Uraria,picta,Uraria picta,A,,,,,,,18.09,18.09
+484,,,10,F24-3530,ABC-23761-1,Uraria,picta,Uraria picta,B,,,,,,,18.09,
+485,,,10,F24-3531,ABC-24360-1,Vigna,umbellata,Vigna umbellata,A,,,,,,,23.17,23.17
+486,,,10,F24-3531,ABC-24360-1,Vigna,umbellata,Vigna umbellata,B,,,,,,,23.17,
+487,,,10,F24-3532,ABC-24466-1,Vigna,umbellata,Vigna umbellata,A,,,,,,,22.39,22.39
+488,,,10,F24-3532,ABC-24466-1,Vigna,umbellata,Vigna umbellata,B,,,,,,,22.39,
+489,,,10,F24-3533,ABC-32246-1,Chamaecrista,nictitans,Chamaecrista nictitans,A,,,,,,,26.83,26.83
+490,,,10,F24-3533,ABC-32246-1,Chamaecrista,nictitans,Chamaecrista nictitans,B,,,,,,,26.83,
+491,,,10,F24-3534,ABC-32365-1,Desmanthus,virgatus,Desmanthus virgatus,A,,,,,,,30.19,30.19
+492,,,10,F24-3534,ABC-32365-1,Desmanthus,virgatus,Desmanthus virgatus,B,,,,,,,30.19,
+493,,,10,F24-3535,ABC-32373-1,Desmanthus,pubescens,Desmanthus pubescens,A,,,,,,,28.4,28.4
+494,,,10,F24-3535,ABC-32373-1,Desmanthus,pubescens,Desmanthus pubescens,B,,,,,,,28.4,
+495,,,10,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,A,,,,,,,,#DIV/0!
+496,,,10,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,B,,,,,,,,
+497,,,10,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,A,,,,,,,,#DIV/0!
+498,,,10,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,B,,,,,,,,
+499,,,10,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,A,,,,,,,,#DIV/0!
+500,,,10,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,B,,,,,,,,
+501,,,11,F25-0769,AMC-ICARDA-156302,Trifolium,repens,Trifolium repens,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+502,,,11,F25-0769,AMC-ICARDA-156302,Trifolium,repens,Trifolium repens,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+503,,,11,F25-0848,ILRI-2273-27,Trifolium ,burchellianum,Trifolium burchellianum,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+504,,,11,F25-0848,ILRI-2273-27,Trifolium ,burchellianum,Trifolium burchellianum,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+505,,,11,F25-0845,ILRI-21682-24,Leucaena,pallida,Leucaena pallida,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+506,,,11,F25-0845,ILRI-21682-24,Leucaena,pallida,Leucaena pallida,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+507,,,11,F25-0907,ABC-17488-1,Leucaena,leucocephala,Leucaena leucocephala,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+508,,,11,F25-0907,ABC-17488-1,Leucaena,leucocephala,Leucaena leucocephala,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+509,,,11,F25-0863,ILRI-10299-42,Erythrina,abyssinica,Erythrina abyssinica,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+510,,,11,F25-0863,ILRI-10299-42,Erythrina,abyssinica,Erythrina abyssinica,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+511,,,11,F25-0897,ABC-21694-1,Erythrina ,velutina,Erythrina velutina,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+512,,,11,F25-0897,ABC-21694-1,Erythrina ,velutina,Erythrina velutina,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+513,,,11,F25-0878,ILRI-7153-57,Panicum,coloratum,Panicum coloratum,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+514,,,11,F25-0878,ILRI-7153-57,Panicum,coloratum,Panicum coloratum,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+515,,,11,F25-0850,ILRI-13946-29,Stylosanthes,fructicosa,Stylosanthes fructicosa,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+516,,,11,F25-0850,ILRI-13946-29,Stylosanthes,fructicosa,Stylosanthes fructicosa,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+517,,,11,F25-0773,AMC-ICARDA-168125,Lathyrus,sylvestris,Lathyrus sylvestris,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+518,,,11,F25-0773,AMC-ICARDA-168125,Lathyrus,sylvestris,Lathyrus sylvestris,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+519,,,11,F25-0798,ICARDA-IFLA-ENT27,Lathyrus,sativus,Lathyrus sativus,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+520,,,11,F25-0798,ICARDA-IFLA-ENT27,Lathyrus,sativus,Lathyrus sativus,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+521,,,11,F25-0814,ICARDA-T-216004,Vicia ,narbonensis ,Vicia narbonensis L.,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+522,,,11,F25-0814,ICARDA-T-216004,Vicia ,narbonensis ,Vicia narbonensis L.,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+523,,,11,F25-0770,AMC-ICARDA-165072,Vicia ,tenuifolia,Vicia tenuifolia,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+524,,,11,F25-0770,AMC-ICARDA-165072,Vicia ,tenuifolia,Vicia tenuifolia,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+525,,,11,F25-0891,ABC-23890-1,Desmodium,heterocarpon,Desmodium heterocarpon,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+526,,,11,F25-0891,ABC-23890-1,Desmodium,heterocarpon,Desmodium heterocarpon,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+527,,,11,F25-0893,ABC-43253-1,Desmodium,scorpiurus,Desmodium scorpiurus,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+528,,,11,F25-0893,ABC-43253-1,Desmodium,scorpiurus,Desmodium scorpiurus,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+529,,,11,F25-0873,ILRI-7384-52,Chloris,gayana,Chloris gayana,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+530,,,11,F25-0873,ILRI-7384-52,Chloris,gayana,Chloris gayana,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+531,,,11,F25-0924,ABC-16666-1,Chloris,gayana,Chloris gayana,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+532,,,11,F25-0924,ABC-16666-1,Chloris,gayana,Chloris gayana,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+533,,,11,F25-0923,ABC-36099-1,Cenchrus,ciliaris,Cenchrus ciliaris,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+534,,,11,F25-0923,ABC-36099-1,Cenchrus,ciliaris,Cenchrus ciliaris,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+535,,,11,F25-0874,ILRI-16791-53,Cenchrus,Purpureues,Cenchrus Purpureues,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+536,,,11,F25-0874,ILRI-16791-53,Cenchrus,Purpureues,Cenchrus Purpureues,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+537,,,11,F25-0867,ILRI-20145-46,Flemingia,macrophylla,Flemingia macrophylla,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+538,,,11,F25-0867,ILRI-20145-46,Flemingia,macrophylla,Flemingia macrophylla,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+539,,,11,F25-0899,ABC-32055-1,Flemingia,macrophylla,Flemingia macrophylla,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+540,,,11,F25-0899,ABC-32055-1,Flemingia,macrophylla,Flemingia macrophylla,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+541,,,11,F25-0883,ABC-20893-1,Cajanus,cajan,Cajanus cajan,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+542,,,11,F25-0883,ABC-20893-1,Cajanus,cajan,Cajanus cajan,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+543,,,11,F25-0869,ILRI-16555-48,Cajanus,cajan,Cajanus cajan,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+544,,,11,F25-0869,ILRI-16555-48,Cajanus,cajan,Cajanus cajan,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+545,,,11,F25-0818,ICARDA-T-216008,Hedysarum,coronarium,Hedysarum coronarium L.,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+546,,,11,F25-0818,ICARDA-T-216008,Hedysarum,coronarium,Hedysarum coronarium L.,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+547,,,11,F25-0819,ICARDA-T-216009,Hedysarum,carnosum,Hedysarum carnosum Desf.,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+548,,,11,F25-0819,ICARDA-T-216009,Hedysarum,carnosum,Hedysarum carnosum Desf.,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+549,,,11,F25-0001,Sample 1,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+550,,,11,F25-0001,Sample 1,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+551,,,11,F25-0002,Sample 2,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+552,,,11,F25-0002,Sample 2,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+553,,,11,F25-0003,Sample 3,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+554,,,11,F25-0003,Sample 3,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+555,,,11,F25-0004,Sample 4,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+556,,,11,F25-0004,Sample 4,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+557,,,11,F25-0005,Sample 5,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+558,,,11,F25-0005,Sample 5,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+559,,,11,F25-0006,Sample 6,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+560,,,11,F25-0006,Sample 6,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+561,,,11,F25-0007,Sample 7,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+562,,,11,F25-0007,Sample 7,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+563,,,11,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+564,,,11,F25 0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,
+565,,,11,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,A,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,#DIV/0!
+566,,,11,F25 0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,B,,,0,,#DIV/0!,#DIV/0!,#DIV/0!,

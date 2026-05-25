@@ -1,0 +1,291 @@
+id_lab,id,tax_name,functional_group,ch4_percentage_in_gas_8h,ch4_percentage_in_gas_24h,methane_intensity,tddm
+123806,10003,Chamaecrista mimosoides,Herbaceous_legumes,4.48,10.17,26.84,57.79
+124102,10179,Trifolium burchellianum,Herbaceous_legumes,3.16,9.61,24.19,78.67
+124103,10195,Trifolium burchellianum,Herbaceous_legumes,5.83,13.02,41.85,80.47
+124104,10203,Trifolium burchellianum,Herbaceous_legumes,5.2,12.47,39.31,82.02
+124105,10207,Trifolium burchellianum,Herbaceous_legumes,5.06,12.28,38.68,80.68
+122839,10245,Trifolium burchellianum  ,Herbaceous_legumes,4.72,11.84,37.57,79.39
+124106,10247,Trifolium burchellianum,Herbaceous_legumes,4.84,12.17,37.74,87.38
+122812,10360,Crotalaria sp.,Herbaceous_legumes,5.58,10.85,29.18,80.45
+122938,10391,Stylosanthes  fruticosa,Herbaceous_legumes,8.14,12.71,44.22,69.45
+122965,104,Desmodium intortum,Herbaceous_legumes,4.94,10.8,29.39,54.18
+122499,1062,Neonotonia wightii  ,Herbaceous_legumes,6.39,12.93,35.74,73.56
+122487,10667,Phaseolus acutifolius,Herbaceous_legumes,9.47,13.15,40.96,76.91
+122488,10695,Phaseolus acutifolius,Herbaceous_legumes,8.71,12.82,38.95,80.02
+122489,10736,Phaseolus acutifolius,Herbaceous_legumes,8.63,12.76,38.73,80.75
+122490,10766,Phaseolus acutifolius,Herbaceous_legumes,8.77,13.03,37.84,79.66
+122491,10840,Phaseolus acutifolius,Herbaceous_legumes,8.71,13.09,38.04,82.15
+123871,10871,Urochloa decumbens,Grass,5.53,10.22,30.79,51.91
+122798,10919,Aeschynomene americana,Shrub_Trees,6.08,11.99,32.08,64.56
+122767,10920,Arachis pintoi,Herbaceous_legumes,5.39,11.31,35.87,81.67
+122943,10923,Arachis pusilla    ,Herbaceous_legumes,7.39,12.61,39.8,87.14
+122939,10925,Arachis glabrata    ,Herbaceous_legumes,8.64,13.23,43.36,80.64
+122979,10965,Aeschynomene americana,Shrub_Trees,7.7,12.15,45.16,56.3
+122980,11035,Aeschynomene americana,Shrub_Trees,8.3,12.63,47.17,54.8
+122768,11049,Stylosanthes mexicana,Herbaceous_legumes,4.28,11.26,29.74,80.43
+124584,11176,Calopogonium caeruleum,Shrub_Trees,6.68,13.57,38.71,62.23
+123741,11232,Stylosanthes viscosa    ,Herbaceous_legumes,5.12,9.78,24.67,50.03
+122973,11243,Stylosanthes scabra,Herbaceous_legumes,4.84,10.9,35.99,63.38
+122822,113,Vigna luteola    ,Herbaceous_legumes,1.93,7.82,16.44,66.22
+123815,11338,Zornia latifolia,Herbaceous_legumes,6.36,13.22,46.18,63.84
+123964,11461,Zornia glabra,Herbaceous_legumes,4.72,10.16,29.66,70.75
+122818,11545,Centrosema pascuorum,Herbaceous_legumes,5.36,11.81,33.65,65.2
+124085,11557,Cajanus cajan,Shrub_Trees,4.98,8.4,22.57,49.18
+122981,11558,Cajanus cajan,Shrub_Trees,7.71,13.08,44.07,54.75
+122502,11562,Cajanus  cajan,Shrub_Trees,8.26,13.33,33.59,70.84
+124733,11978,Vigna unguiculata,Herbaceous_legumes,8.14,13.24,45.06,76.26
+124734,11979,Vigna unguiculata,Herbaceous_legumes,7.78,13.37,46.19,79.15
+124735,11987,Vigna unguiculata,Herbaceous_legumes,7.58,13.16,42.79,75.08
+124736,11989,Vigna unguiculata,Herbaceous_legumes,8.76,13.67,48.26,77.24
+124737,11996,Vigna unguiculata,Herbaceous_legumes,7.96,13.81,45.96,78.94
+124738,12004,Vigna unguiculata,Herbaceous_legumes,9.74,13.97,54.6,68.15
+124739,12007,Vigna unguiculata,Herbaceous_legumes,7.58,12.43,38.34,76.06
+123744,12155,Centrosema macrocarpum    ,Herbaceous_legumes,5.96,12.1,30.04,61.08
+122963,122,Centrosema schottii,Herbaceous_legumes,6.18,11.62,40.28,58.05
+123820,12212,Centrosema brasilianum,Herbaceous_legumes,6.61,11.45,31.46,67.31
+123745,12245,Grona adscendens    ,Herbaceous_legumes,4.36,6.08,14.94,48.33
+122815,12342,Grona heterocarpa,Herbaceous_legumes,4.07,11.71,32.42,72.85
+122821,12401,Centrosema schottii,Herbaceous_legumes,4.22,10.6,30.63,74.6
+122817,12403,Centrosema virginianum,Herbaceous_legumes,5.03,11.89,34.59,65.0
+124107,12431,Trifolium burchellianum,Herbaceous_legumes,5.47,12.1,40.37,86.61
+124108,12433,Trifolium burchellianum,Herbaceous_legumes,6.24,12.99,40.58,83.92
+124109,12483,Trifolium burchellianum,Herbaceous_legumes,6.58,13.19,40.62,84.72
+123824,12490,Trifolium rueppellianum,Herbaceous_legumes,5.97,12.28,40.93,55.43
+123893,1251,Canavalia sp,Herbaceous_legumes,5.88,12.54,39.1,67.16
+122791,12539,Trifolium tembense,Herbaceous_legumes,5.9,12.48,42.96,78.24
+122513,12603,Cajanus  cajan,Herbaceous_legumes,4.11,8.86,21.24,66.31
+124740,12635,Vigna unguiculata,Herbaceous_legumes,8.73,13.97,45.39,75.27
+124741,12650,Vigna unguiculata,Herbaceous_legumes,8.96,13.52,45.37,75.87
+122827,12655,Vigna unguiculata,Herbaceous_legumes,6.15,10.52,25.06,71.97
+122828,12657,Vigna unguiculata,Herbaceous_legumes,5.43,11.1,28.75,72.56
+124742,12657,Vigna unguiculata,Herbaceous_legumes,9.31,14.11,50.1,75.35
+124743,12659,Vigna unguiculata,Herbaceous_legumes,7.92,13.58,45.05,78.3
+124744,12663,Vigna unguiculata,Herbaceous_legumes,7.68,13.35,45.6,77.34
+122816,13143,Alysicarpus rugosus,Herbaceous_legumes,5.27,12.48,35.44,72.86
+124701,13284,Cenchrus ciliaris,Grass,6.96,13.71,38.41,50.1
+124753,13284,Cenchrus ciliaris,Grass,5.4,12.74,44.44,56.28
+123747,13769,Calpurnia aurea,Shrub_Trees,5.07,10.55,30.41,79.38
+122967,13977,Crotalaria sp.,Herbaceous_legumes,8.12,12.02,42.16,57.83
+123872,14355,Cenchrus purpureus,Grass,7.94,14.87,41.19,65.15
+124448,14355,Cenchrus purpureus,Grass,10.18,16.98,49.74,62.59
+122982,14364,Desmanthus tatuhyensis var. tatuhyensis,Shrub_Trees,6.36,11.98,32.54,49.11
+122983,14369,Desmanthus pubescens,Shrub_Trees,6.66,12.09,33.38,46.4
+124088,14376,Desmanthus tatuhyensis var. brevipes,Shrub_Trees,6.02,11.98,35.81,55.39
+124086,14384,Desmanthus covillei,Shrub_Trees,5.54,11.24,32.98,58.43
+124087,14384 (rep 2),Desmanthus covillei,Shrub_Trees,5.62,11.88,34.67,64.25
+122984,14397,Desmanthus leptophyllus,Shrub_Trees,5.24,11.33,31.65,40.23
+123867,144,Megathyrsus maximus,Grass,5.49,14.53,39.68,70.54
+124084,14402,Desmanthus leptophyllus,Shrub_Trees,6.68,13.22,40.94,58.27
+124712,14413,Lablab purpureues,Herbaceous_legumes,7.47,13.24,39.18,73.97
+124713,14438,Lablab purpureues,Herbaceous_legumes,7.01,12.93,41.76,69.8
+122807,14439,Lablab purpureus,Herbaceous_legumes,7.2,13.45,37.1,83.8
+122501,14441,Lablab  purpureus,Herbaceous_legumes,7.24,14.13,38.4,85.87
+122503,14443,Lablab  purpureus,Herbaceous_legumes,7.63,13.29,38.22,84.03
+122516,14447,Lablab  purpureus,Herbaceous_legumes,4.71,12.28,27.73,77.49
+122505,14452,Lablab  purpureus,Herbaceous_legumes,7.7,13.81,38.66,87.8
+122509,14453,Lablab  purpureus,Herbaceous_legumes,8.69,14.4,41.21,85.79
+122508,14458,Lablab  purpureus,Herbaceous_legumes,7.66,13.73,33.83,84.06
+122511,14459,Lablab  purpureus,Herbaceous_legumes,8.12,14.22,36.88,74.35
+122506,14473,Lablab  purpureus,Herbaceous_legumes,7.29,13.53,36.74,89.06
+124714,14485,Lablab purpureues,Herbaceous_legumes,7.29,12.85,38.73,71.09
+124715,14486,Lablab purpureues,Herbaceous_legumes,7.53,13.06,46.0,68.08
+122950,14497,Neonotonia  wightii subsp. Wightii,Herbaceous_legumes,9.33,14.62,37.0,75.85
+123832,14520,Alysicarpus monilifer,Herbaceous_legumes,6.43,12.88,38.2,64.95
+123833,14532,Centrosema acutifolium,Herbaceous_legumes,6.42,12.49,34.13,60.79
+123835,14562,Macrotyloma daltonii,Herbaceous_legumes,6.16,12.15,41.08,60.18
+122480,147,Lablab purpureus,Herbaceous_legumes,8.79,13.36,40.78,80.04
+124719,1486,Avena sativa,Grass,4.34,11.27,36.87,67.36
+123873,14984,Cenchrus purpureus,Grass,8.88,15.8,45.08,63.27
+124720,1499,Avena sativa,Grass,4.12,11.06,39.17,70.46
+123884,1499    p11,Avena sativa,Grass,3.86,9.88,34.85,77.44
+122492,15004,Lupinus angstifolius,Herbaceous_legumes,7.98,11.76,34.98,84.74
+124721,1506,Avena sativa,Grass,4.43,11.11,39.58,62.69
+123885,1513    p12,Avena sativa,Grass,4.34,10.19,38.87,77.18
+123886,1513    p7,Avena sativa,Grass,4.8,10.74,38.55,79.7
+123836,15167,Desmodium intortum,Herbaceous_legumes,4.82,10.59,32.54,55.58
+122795,15217,Vicia sativa,Herbaceous_legumes,8.1,12.55,34.42,70.77
+122493,15609,Lathyrus Sativus,Herbaceous_legumes,10.22,14.26,39.76,78.15
+123874,15743,Cenchrus purpureus,Grass,8.62,15.39,46.48,62.79
+123753,15936,Stylosanthes hamata    ,Herbaceous_legumes,6.07,11.85,36.96,61.7
+123718,16006,Onobyrchis vicifolia,Herbaceous_legumes,4.7,12.42,42.53,65.11
+122512,16077,Sesbania grandiflora  ,Shrub_Trees,1.87,4.82,9.95,83.28
+122769,16246,Bouffordia dichotoma,Herbaceous_legumes,6.11,10.2,22.13,65.58
+123841,16249,Desmodium intortum,Herbaceous_legumes,5.69,11.55,33.74,49.96
+123903,16315,Vicia  sepium,Herbaceous_legumes,6.13,13.91,43.63,67.64
+122814,16349,Desmodium tortuosum,Herbaceous_legumes,5.21,12.11,33.26,72.32
+122496,16528, Cajanus  cajan,Shrub_Trees,9.49,13.84,34.25,63.26
+124702,16630,Cenchrus ciliaris,Grass,7.04,13.48,40.71,51.35
+124754,16630,Cenchrus ciliaris,Grass,5.72,13.32,46.24,51.03
+124703,16660,Cenchrus ciliaris,Grass,7.09,13.5,39.7,51.49
+124755,16660,Cenchrus ciliaris,Grass,6.01,13.26,43.68,49.2
+123875,16791,Cenchrus purpureus,Grass,8.86,14.67,41.45,62.04
+124449,16791,Cenchrus purpureus,Grass,10.14,14.79,42.53,58.74
+123876,16795,Cenchrus purpureus,Grass,8.76,13.99,42.95,59.34
+124450,16795,Cenchrus purpureus,Grass,10.03,14.65,43.97,60.66
+123734,168,Stylosanthes leiocarpa    ,Herbaceous_legumes,4.68,10.94,34.96,63.22
+124446,16801,Cenchrus purpureus,Grass,10.19,15.62,49.47,56.07
+123877,16801,Cenchrus purpureus,Grass,8.51,13.81,43.0,59.37
+123878,16802,Cenchrus purpureus,Grass,9.12,15.05,41.47,61.73
+124451,16802,Cenchrus purpureus,Grass,10.78,15.54,45.94,54.71
+124452,16803,Cenchrus purpureus,Grass,10.52,16.12,46.75,55.5
+123879,16803,Cenchrus purpureus,Grass,8.97,15.03,43.76,59.62
+123880,16804,Cenchrus purpureus,Grass,8.66,15.93,45.72,65.17
+124447,16804,Cenchrus purpureus,Grass,8.21,15.44,41.89,59.11
+124453,16811,Cenchrus purpureus,Grass,10.48,15.5,44.84,55.95
+123881,16811,Cenchrus purpureus,Grass,8.71,14.74,41.01,63.66
+123882,16819,Cenchrus purpureus,Grass,8.83,14.48,42.95,61.31
+124454,16819,Cenchrus purpureus,Grass,10.69,16.7,45.8,59.94
+123883,16839,Cenchrus purpureus,Grass,8.66,14.75,42.94,61.34
+124722,1707,Avena sativa,Grass,4.6,10.81,39.11,52.79
+123887,1720    p 5,Avena sativa,Grass,4.24,10.54,35.44,77.22
+123888,1720    p13,Avena sativa,Grass,4.78,11.15,36.97,76.09
+122966,17757,Indigofera hirsuta,Herbaceous_legumes,5.96,9.94,30.6,42.85
+124704,18071,Cenchrus ciliaris,Grass,6.82,13.67,43.58,48.12
+124756,18071,Cenchrus ciliaris,Grass,5.16,13.1,45.83,55.51
+124757,18077,Cenchrus ciliaris,Grass,5.5,13.88,46.54,53.78
+125314,18077,Cenchrus ciliaris,Grass,8.57,13.8,39.82,52.14
+122504,18557,Neonotonia wightii  ,Herbaceous_legumes,6.43,13.08,35.74,76.97
+124716,18637,Lablab purpureues,Herbaceous_legumes,6.98,12.91,40.17,70.06
+123761,19196,Calopogonium caeruleum    ,Shrub_Trees,6.43,12.77,36.87,60.47
+123762,19240,Calopogonium  mucunoides,Shrub_Trees,5.48,11.52,36.97,63.78
+122771,19338,Chamaecrista nictitans,Herbaceous_legumes,1.08,5.57,8.46,73.84
+125315,19369,Cenchrus ciliaris,Grass,8.06,12.94,35.93,56.21
+124758,19369,Cenchrus ciliaris,Grass,4.97,13.69,41.3,60.52
+124759,19379,Cenchrus ciliaris,Grass,5.61,13.88,46.93,52.07
+125316,19379,Cenchrus ciliaris,Grass,8.03,11.85,32.68,51.55
+124760,19389,Cenchrus ciliaris,Grass,5.69,13.63,46.63,53.11
+125317,19389,Cenchrus ciliaris,Grass,8.34,13.52,37.39,50.91
+124705,19397,Cenchrus ciliaris,Grass,6.82,13.69,44.09,48.1
+124761,19397,Cenchrus ciliaris,Grass,5.61,13.36,47.46,56.9
+124706,19406,Cenchrus ciliaris,Grass,7.01,13.19,40.51,44.14
+124762,19406,Cenchrus ciliaris,Grass,5.91,13.98,45.74,54.63
+124707,19408,Cenchrus ciliaris,Grass,6.89,13.7,45.56,43.48
+124763,19408,Cenchrus ciliaris,Grass,6.49,13.73,44.83,56.79
+124764,19439,Cenchrus ciliaris,Grass,6.51,13.67,44.22,54.92
+125318,19439,Cenchrus ciliaris,Grass,8.2,13.65,38.54,49.97
+124708,19448,Cenchrus ciliaris,Grass,7.17,13.83,45.14,39.37
+124765,19448,Cenchrus ciliaris,Grass,6.28,14.02,46.63,46.17
+125319,19453,Cenchrus ciliaris,Grass,8.03,12.77,35.79,48.98
+124766,19453,Cenchrus ciliaris,Grass,6.17,13.95,45.89,56.16
+124767,19456,Cenchrus ciliaris,Grass,6.22,13.82,44.73,56.6
+124709,19456,Cenchrus ciliaris,Grass,7.18,13.78,43.83,46.12
+124768,19458,Cenchrus ciliaris,Grass,5.71,13.84,43.92,53.47
+125320,19458,Cenchrus ciliaris,Grass,8.13,14.06,36.73,53.5
+124769,19459,Cenchrus ciliaris,Grass,6.39,13.68,45.58,47.13
+124710,19459,Cenchrus ciliaris,Grass,7.06,13.5,42.42,40.97
+124770,19467,Cenchrus ciliaris,Grass,5.87,13.71,46.62,53.81
+124711,19467,Cenchrus ciliaris,Grass,6.88,12.95,37.84,50.04
+122854,19654,Codariocalyx gyroides,Shrub_Trees,4.25,8.27,17.82,56.89
+122796,19978,Dolichos sp.,Herbaceous_legumes,6.63,13.34,37.01,73.33
+122949,20145,Flemingia macrophylla    ,Shrub_Trees,7.99,10.47,26.17,42.2
+122519,20351,Gliricidia sepium,Shrub_Trees,7.26,11.67,28.31,74.71
+122497,20389,Gliricidia  sepium,Shrub_Trees,6.63,11.82,36.89,75.85
+123723,20437,Glycin latifolia,Herbaceous_legumes,5.19,13.14,39.68,74.49
+122942,20476,Glycine sp.,Herbaceous_legumes,8.76,14.01,38.03,80.58
+122837,20578,Hyparrhenia hirta    ,Grass,5.64,11.59,29.31,59.69
+123764,20669,Indigofera  hirsuta,Herbaceous_legumes,3.3,4.88,8.82,52.8
+122810,21029,Lablab purpureus subsp. bengalensis,Herbaceous_legumes,7.07,12.71,41.37,78.73
+124717,21065,Lablab purpureues,Herbaceous_legumes,6.9,13.0,38.76,67.83
+123726,21083,Lablab purprues subsp. Uncinatus,Herbaceous_legumes,5.84,12.79,41.74,58.67
+123970,21101,Lespedeza daurica,Herbaceous_legumes,5.71,11.37,27.97,56.15
+122925,21121,Leucaena collinsii    ,Shrub_Trees,8.83,13.59,33.5,76.91
+122510,21139,Leucaena greggii  ,Shrub_Trees,5.64,5.9,10.34,66.4
+122518,21298,Leucaena leucocephala  ,Shrub_Trees,5.1,8.05,17.69,71.06
+122515,21372,Leucaena  leucocephala,Shrub_Trees,5.1,9.27,22.32,77.39
+122520,21375,Leucaena  leucocephala,Shrub_Trees,4.81,7.91,17.16,77.04
+122972,2145,Stylosanthes fruticosa,Herbaceous_legumes,5.78,10.97,37.61,53.87
+122517,21638,Leucaena leucocephala  ,Shrub_Trees,5.18,9.65,21.57,76.34
+122514,21639,Leucaena leucocephala  ,Shrub_Trees,4.4,9.01,21.46,76.92
+122841,21678,Leucaena  pallida,Shrub_Trees,2.93,4.24,6.06,66.47
+122500,21679,Leucaena  pallida,Shrub_Trees,4.83,5.49,8.97,70.78
+122852,21694,Leucaena pulverulenta ,Shrub_Trees,2.63,4.87,9.58,70.15
+122940,21791,Listia  bainesii,Herbaceous_legumes,6.37,10.91,34.41,84.39
+122773,21893,Macroptilium atropurpureum,Herbaceous_legumes,7.28,12.56,27.87,66.77
+122507,2190,Neonotonia wightii  ,Herbaceous_legumes,9.26,14.37,42.84,68.53
+122774,22059,Macroptilium lathyroides,Herbaceous_legumes,7.27,12.66,42.48,71.93
+122495,22073,Macroptilium lathyroides,Herbaceous_legumes,8.76,12.96,34.56,78.36
+123771,22191,Mucuna pruriens var. utilis  ,Herbaceous_legumes,5.49,9.85,26.86,67.68
+122840,2263,Trifolium burchellianum  ,Herbaceous_legumes,5.09,10.33,28.11,68.76
+122848,2274,Trifolium burchellianum,Herbaceous_legumes,3.51,8.79,21.3,67.45
+122851,2275,Trifolium burchellianum,Herbaceous_legumes,4.33,9.38,29.58,60.3
+124093,2277,Trifolium burchellianum,Herbaceous_legumes,5.94,12.94,43.88,82.58
+123774,22990,Pueraria montana var. lobata  ,Herbaceous_legumes,6.07,13.46,36.68,65.36
+122931,23018,Neustanthus  phaseoloides,Herbaceous_legumes,8.8,13.82,38.79,69.72
+122941,23384,Rhynchosia sublobata    ,Herbaceous_legumes,6.0,8.54,22.66,55.81
+122944,23415,Rhynchosia verdcourtii    ,Herbaceous_legumes,7.21,10.6,28.22,65.2
+123776,23689,Sesbania sesban var. bicolor  ,Shrub_Trees,5.42,10.27,27.28,65.82
+122954,23691,Sesbania sesban var. bicolor  ,Shrub_Trees,8.5,12.21,29.3,82.14
+122498,23693,Sesbania sesban var.nubica  ,Shrub_Trees,6.63,12.32,32.99,82.1
+124585,24,Desmanthus pubescens,Shrub_Trees,5.08,9.15,26.43,49.22
+122976,24107,Teramnus labialis,Herbaceous_legumes,6.69,13.0,41.48,60.69
+122779,24126,Teramnus labialis,Herbaceous_legumes,7.52,13.81,34.5,75.98
+122780,24248,Teramnus repens,Herbaceous_legumes,5.12,12.14,31.92,68.82
+122781,24324,Teramnus uncinatus,Herbaceous_legumes,7.3,13.6,38.04,70.09
+122974,24339,Teramnus volubilis,Herbaceous_legumes,7.01,13.27,40.29,71.69
+122961,24633,Chamaecrista rotundifolia    ,Herbaceous_legumes,7.84,12.16,37.92,69.24
+122971,24645,Chamaecrista rotundifolia,Herbaceous_legumes,6.96,12.48,43.92,53.34
+122964,24684,Clitoria ternatea,Herbaceous_legumes,6.09,12.5,35.48,63.69
+122975,24686,Clitoria ternatea,Herbaceous_legumes,5.86,12.21,34.19,65.31
+123701,248,Centrosema molle,Herbaceous_legumes,6.28,12.28,31.61,61.43
+123777,24831,Leptospron adenanthum    ,Herbaceous_legumes,6.54,12.51,34.54,68.55
+122811,24909,Vigna oblongifolia,Herbaceous_legumes,6.32,12.56,37.1,76.22
+123904,24925,Vigna parkeri,Herbaceous_legumes,7.69,13.29,35.09,71.6
+124745,25093,Vigna unguiculata,Herbaceous_legumes,7.63,13.49,42.92,77.1
+124746,25120,Vigna unguiculata,Herbaceous_legumes,6.9,13.17,43.12,76.8
+124747,25166,Vigna unguiculata,Herbaceous_legumes,6.44,12.83,38.66,76.11
+124748,25335,Vigna unguiculata,Herbaceous_legumes,6.86,12.74,37.02,76.72
+124749,25351,Vigna unguiculata,Herbaceous_legumes,6.57,12.99,42.31,80.42
+124750,25357,Vigna unguiculata,Herbaceous_legumes,6.86,12.54,43.02,75.48
+122977,325,Desmanthus virgatus,Shrub_Trees,6.48,11.94,35.55,45.75
+122947,345,Desmanthus virgatus,Shrub_Trees,4.61,8.82,23.11,52.86
+122985,448,Desmodium cinereum,Shrub_Trees,7.23,12.74,40.25,63.78
+123703,5167,Vicia sativa,Herbaceous_legumes,7.57,14.06,46.52,57.18
+122482,5281,Lathyrus cicera,Herbaceous_legumes,10.08,14.27,41.68,74.31
+122483,5282,Lathyrus cicera,Herbaceous_legumes,10.46,14.71,41.8,78.29
+123702,529,Glycin max,Herbaceous_legumes,7.36,12.77,51.54,62.68
+122783,530,Glycine max,Herbaceous_legumes,7.8,12.8,35.08,78.56
+122485,5327,Lathyrus Sativus,Herbaceous_legumes,10.04,14.86,41.17,81.76
+122481,539,Crotalaria juncea,Herbaceous_legumes,10.11,13.66,41.76,72.02
+124723,5450,Avena sativa,Grass,4.18,10.89,40.76,66.27
+124724,5470,Avena sativa,Grass,4.72,11.52,42.46,58.64
+124725,5500,Avena sativa,Grass,4.38,11.15,39.1,56.24
+124726,5504,Avena sativa,Grass,4.48,11.06,39.42,62.77
+122850,5656,Trifolium repens,Herbaceous_legumes,5.57,12.35,38.75,87.52
+124094,6284,Trifolium burchellianum,Herbaceous_legumes,5.7,12.55,40.53,84.61
+123868,6633,Chloris gayana,Grass,4.8,12.05,28.51,71.41
+124751,6642,Cenchrus ciliaris,Grass,5.33,13.23,42.66,51.37
+124699,6642,Cenchrus ciliaris,Grass,6.91,12.64,33.23,48.69
+124700,6646,Cenchrus ciliaris,Grass,6.82,12.5,33.06,50.19
+124752,6646,Cenchrus ciliaris,Grass,4.9,13.38,40.54,53.24
+122968,6765,Desmodium uncinatum,Herbaceous_legumes,4.98,11.16,72.67,48.5
+122786,6798,Vicia benghalensis,Herbaceous_legumes,8.85,12.76,35.17,70.48
+122486,6871,Lupinus angstifolius,Herbaceous_legumes,7.58,11.37,33.89,85.39
+122962,6984,Medicago sativa,Herbaceous_legumes,5.26,13.0,36.4,78.4
+122765,6990,Desmodium sandwicense,Herbaceous_legumes,5.66,11.36,25.64,68.69
+122782,7000,Chamaecrista pilosa,Herbaceous_legumes,6.97,11.86,37.05,73.46
+123869,7153,Panicum coloratum,Grass,6.04,12.72,37.9,61.16
+123681,7266,Canavalia brasiliensis,Herbaceous_legumes,5.33,12.16,38.98,64.14
+123799,7280,Macroptilium bracteatum,Herbaceous_legumes,6.32,12.65,37.5,59.93
+123710,7315,Lotononis listil,Herbaceous_legumes,5.1,11.91,37.1,75.43
+123870,7384,Chloris gayana,Grass,6.11,13.5,42.51,46.63
+122970,7522,Tephrosia elata,Herbaceous_legumes,5.48,12.02,35.51,55.83
+122960,7559,Rhynchosia minima    ,Herbaceous_legumes,7.24,11.94,35.36,67.26
+122824,7782,Crotalaria incana,Herbaceous_legumes,5.45,10.94,30.84,64.73
+122849,8123,Trifolium burchellianum,Herbaceous_legumes,3.95,9.91,31.09,89.83
+124095,8266,Trifolium burchellianum,Herbaceous_legumes,5.54,12.96,42.8,80.93
+122801,8367,Vicia villosa,Herbaceous_legumes,7.47,13.34,36.85,78.8
+122766,8446,Crotalaria distantiflora,Herbaceous_legumes,6.21,12.03,30.85,75.15
+122853,8624,Trifolium burchellianum,Herbaceous_legumes,4.12,5.27,7.66,62.15
+124098,8680,Trifolium burchellianum,Herbaceous_legumes,5.57,12.79,42.44,83.12
+123711,9270,Mucuan Proiens,Herbaceous_legumes,5.32,12.67,35.93,71.35
+122969,9287,Stylosanthes humilis,Herbaceous_legumes,7.01,12.54,50.43,64.75
+123737,9314,Faidherbia albida    ,Shrub_Trees,4.54,9.2,17.51,37.18
+124727,9334,Vigna unguiculata,Herbaceous_legumes,5.77,12.03,36.42,74.15
+124728,9339,Vigna unguiculata,Herbaceous_legumes,6.48,12.23,42.68,74.98
+124729,9349,Vigna unguiculata,Herbaceous_legumes,7.29,12.89,45.7,73.96
+124730,9353,Vigna unguiculata,Herbaceous_legumes,6.33,12.58,38.61,76.51
+122813,947,Trifolium semipilosum,Herbaceous_legumes,7.0,13.61,44.21,85.42
+124731,9624,Vigna unguiculata,Herbaceous_legumes,6.38,12.71,42.91,76.39
+124732,9643,Vigna unguiculata,Herbaceous_legumes,6.58,12.86,36.07,78.94
+124100,9764,Trifolium burchellianum,Herbaceous_legumes,4.76,12.13,37.34,83.38
+122978,9933,Desmanthus acuminatus,Shrub_Trees,7.11,12.75,38.84,46.25

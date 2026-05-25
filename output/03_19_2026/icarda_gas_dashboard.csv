@@ -1,0 +1,419 @@
+id_lab,id,tax_name,functional_group,ch4_percentage_in_gas_8h,ch4_percentage_in_gas_24h,methane_intensity,tddm
+28,101045,Medicago sativa subsp. Sativa,Herbaceous_legumes,12.13,14.24,41.44,65.73
+29,101063,Medicago sativa,Herbaceous_legumes,12.97,15.01,54.5,53.87
+30,101065,Medicago sativa,Herbaceous_legumes,12.85,14.69,51.99,59.32
+31,101076,Medicago sativa,Herbaceous_legumes,12.95,14.47,52.55,55.19
+32,101077,Medicago sativa,Herbaceous_legumes,12.78,14.6,54.65,54.72
+33,101094,Medicago sativa,Herbaceous_legumes,11.98,14.03,47.59,56.46
+34,101095,Medicago sativa,Herbaceous_legumes,12.23,14.27,53.94,55.38
+35,101097,Medicago sativa,Herbaceous_legumes,12.15,14.24,50.35,63.14
+36,156276,trifolium pratense,Herbaceous_legumes,13.47,15.16,54.19,57.52
+37,156283,trifolium pratense,Herbaceous_legumes,13.09,14.76,49.39,62.1
+38,156292,trifolium pratense,Herbaceous_legumes,12.74,15.05,51.25,65.27
+39,156297,trifolium pratense,Herbaceous_legumes,14.19,15.47,43.79,67.35
+47,16162,Medicago noeana,Herbaceous_legumes,14.42,15.23,43.32,63.17
+40,165072,Vicia tenuifolia,Herbaceous_legumes,14.46,15.32,43.02,72.35
+43,165563,trifolium pratense,Herbaceous_legumes,13.76,14.75,42.48,68.8
+48,16635,Astragalus boeticus,Herbaceous_legumes,13.17,14.19,39.1,75.92
+44,168125,Lathyrus sylvestris,Herbaceous_legumes,15.94,16.22,38.08,55.91
+45,171123,lathyrus latifolius,Herbaceous_legumes,15.44,16.08,42.12,66.38
+46,171152,lathyrus pratense,Herbaceous_legumes,14.83,15.02,29.95,61.35
+49,49164,Pisum sativum,Herbaceous_legumes,14.57,15.23,44.41,79.19
+50,49208,Pisum sativum var. arvense,Herbaceous_legumes,13.77,14.79,39.66,71.75
+51,50542,Pisum sativum subsp. Sativum,Herbaceous_legumes,14.31,15.15,43.83,68.34
+464,nan,Hordeum vulgare,Grass,11.21,11.58,30.78,86.67
+465,nan,Hordeum vulgare,Grass,11.71,11.5,29.87,83.15
+463,nan,Hordeum vulgare,Grass,12.73,12.93,24.96,83.7
+468,nan,Hordeum vulgare,Grass,9.46,8.81,23.73,86.03
+467,nan,Hordeum vulgare,Grass,10.94,10.49,29.96,85.05
+462,nan,Hordeum vulgare,Grass,13.26,13.48,29.03,87.43
+469,nan,Hordeum vulgare,Grass,10.54,10.02,27.67,87.14
+470,nan,Hordeum vulgare,Grass,11.34,10.88,30.47,85.06
+466,nan,Hordeum vulgare,Grass,11.14,10.36,29.53,83.3
+461,nan,Hordeum vulgare,Grass,13.23,12.4,27.55,85.93
+454,nan,Hordeum vulgare,Grass,12.94,12.95,28.3,86.19
+459,nan,Hordeum vulgare,Grass,12.7,12.48,25.08,86.94
+458,nan,Hordeum vulgare,Grass,12.42,12.24,26.65,87.01
+457,nan,Hordeum vulgare,Grass,13.72,13.78,28.52,82.02
+456,nan,Hordeum vulgare,Grass,11.83,12.26,28.18,86.44
+455,nan,Hordeum vulgare,Grass,13.28,13.13,28.4,85.01
+471,nan,Hordeum vulgare,Grass,12.14,11.97,31.03,83.98
+453,nan,Hordeum vulgare,Grass,13.16,12.96,28.7,76.22
+452,nan,Hordeum vulgare,Grass,12.81,12.64,25.06,76.28
+451,nan,Hordeum vulgare,Grass,13.13,12.73,27.1,71.05
+450,nan,Hordeum vulgare,Grass,13.14,13.0,27.75,84.5
+460,nan,Hordeum vulgare,Grass,13.41,13.08,25.69,90.32
+472,nan,Hordeum vulgare,Grass,12.36,7.79,41.31,84.94
+483,nan,Hordeum vulgare,Grass,11.47,10.75,30.74,82.43
+474,nan,Hordeum vulgare,Grass,13.1,12.86,34.38,82.72
+495,nan,Hordeum vulgare,Grass,12.16,11.84,34.91,78.53
+494,nan,Hordeum vulgare,Grass,11.77,11.7,32.47,81.93
+493,nan,Hordeum vulgare,Grass,11.94,11.72,32.74,78.19
+492,nan,Hordeum vulgare,Grass,11.48,10.97,32.34,82.0
+491,nan,Hordeum vulgare,Grass,11.83,11.31,34.26,80.67
+490,nan,Hordeum vulgare,Grass,11.69,11.42,35.21,80.12
+489,nan,Hordeum vulgare,Grass,11.12,10.35,30.15,83.08
+488,nan,Hordeum vulgare,Grass,11.89,11.2,33.6,72.79
+487,nan,Hordeum vulgare,Grass,12.4,11.93,31.32,81.6
+486,nan,Hordeum vulgare,Grass,12.3,12.17,36.93,81.68
+485,nan,Hordeum vulgare,Grass,12.54,12.3,35.7,82.66
+484,nan,Hordeum vulgare,Grass,11.89,11.43,33.4,84.69
+449,nan,Hordeum vulgare,Grass,13.52,13.15,26.81,86.63
+482,nan,Hordeum vulgare,Grass,11.38,10.46,29.46,82.26
+481,nan,Hordeum vulgare,Grass,12.01,11.79,35.55,82.96
+480,nan,Hordeum vulgare,Grass,12.23,12.07,34.56,84.61
+479,nan,Hordeum vulgare,Grass,12.66,12.54,34.82,82.31
+478,nan,Hordeum vulgare,Grass,11.82,9.43,34.79,79.69
+477,nan,Hordeum vulgare,Grass,12.02,11.88,35.04,85.48
+476,nan,Hordeum vulgare,Grass,12.94,12.65,39.45,79.27
+475,nan,Hordeum vulgare,Grass,12.49,12.2,41.62,72.72
+473,nan,Hordeum vulgare,Grass,12.72,12.13,35.23,71.42
+448,nan,Hordeum vulgare,Grass,14.04,14.48,28.55,85.24
+437,nan,Hordeum vulgare,Grass,12.89,14.94,43.13,85.94
+446,nan,Hordeum vulgare,Grass,12.92,12.55,27.33,88.56
+420,nan,Hordeum vulgare,Grass,12.66,14.65,39.86,87.06
+419,nan,Hordeum vulgare,Grass,12.61,14.56,44.06,85.37
+418,nan,Hordeum vulgare,Grass,12.92,14.59,41.94,83.9
+417,nan,Hordeum vulgare,Grass,13.18,15.26,39.07,85.01
+416,nan,Hordeum vulgare,Grass,12.78,15.06,42.94,84.38
+415,nan,Hordeum vulgare,Grass,13.03,15.25,41.06,85.27
+414,nan,Hordeum vulgare,Grass,12.73,14.36,40.49,87.61
+413,nan,Hordeum vulgare,Grass,12.98,14.71,39.43,80.91
+412,nan,Hordeum vulgare,Grass,12.46,14.17,39.6,87.77
+411,nan,Hordeum vulgare,Grass,13.16,14.68,42.9,83.13
+410,nan,Hordeum vulgare,Grass,12.76,14.15,39.39,85.56
+409,nan,Hordeum vulgare,Grass,12.67,14.11,44.53,77.58
+408,nan,Hordeum vulgare,Grass,12.67,13.11,44.67,81.44
+407,nan,Hordeum vulgare,Grass,13.06,14.43,41.83,81.69
+406,nan,Hordeum vulgare,Grass,13.32,14.79,39.05,80.9
+405,nan,Hordeum vulgare,Grass,13.03,14.51,42.87,80.18
+404,nan,Hordeum vulgare,Grass,12.64,14.2,43.5,78.76
+403,nan,Hordeum vulgare,Grass,13.3,14.6,36.79,84.42
+402,nan,Hordeum vulgare,Grass,14.79,14.26,37.2,76.9
+401,nan,Lathyrus sativus,Herbaceous_legumes,14.07,13.45,38.37,78.86
+400,nan,Lathyrus sativus,Herbaceous_legumes,15.23,14.71,41.27,74.63
+421,nan,Hordeum vulgare,Grass,12.76,14.75,39.9,87.49
+447,nan,Hordeum vulgare,Grass,14.12,13.91,25.19,81.74
+422,nan,Hordeum vulgare,Grass,12.94,14.75,40.0,87.08
+424,nan,Hordeum vulgare,Grass,12.69,14.81,43.21,87.05
+445,nan,Hordeum vulgare,Grass,12.66,12.77,27.25,90.82
+444,nan,Hordeum vulgare,Grass,13.3,13.16,26.31,76.99
+443,nan,Hordeum vulgare,Grass,10.73,12.82,33.51,77.5
+442,nan,Hordeum vulgare,Grass,10.98,12.82,32.6,83.02
+441,nan,Hordeum vulgare,Grass,12.37,14.44,36.26,87.83
+440,nan,Hordeum vulgare,Grass,11.91,13.85,36.51,84.37
+439,nan,Hordeum vulgare,Grass,13.04,14.95,38.75,84.89
+438,nan,Hordeum vulgare,Grass,12.19,14.19,38.24,78.42
+496,nan,Hordeum vulgare,Grass,11.99,11.59,33.56,82.8
+436,nan,Hordeum vulgare,Grass,12.89,14.83,41.45,87.58
+435,nan,Hordeum vulgare,Grass,12.63,14.65,39.81,87.58
+434,nan,Hordeum vulgare,Grass,12.63,14.41,38.46,85.29
+433,nan,Hordeum vulgare,Grass,11.97,13.62,39.01,80.03
+432,nan,Hordeum vulgare,Grass,12.39,13.9,40.8,84.79
+431,nan,Hordeum vulgare,Grass,12.51,14.37,43.37,88.2
+430,nan,Hordeum vulgare,Grass,13.06,14.87,40.03,87.73
+429,nan,Hordeum vulgare,Grass,12.6,14.29,39.98,86.29
+428,nan,Hordeum vulgare,Grass,12.93,15.23,42.22,87.26
+427,nan,Hordeum vulgare,Grass,12.76,14.71,41.96,87.8
+426,nan,Hordeum vulgare,Grass,13.23,15.09,38.85,87.99
+425,nan,Hordeum vulgare,Grass,12.26,14.17,39.32,88.74
+423,nan,Hordeum vulgare,Grass,12.39,14.29,38.18,88.43
+497,nan,Hordeum vulgare,Grass,11.42,10.97,32.73,82.03
+499,nan,Hordeum vulgare,Grass,12.13,11.87,34.04,80.72
+763,nan,Hordeum vulgare,Grass,17.38,17.37,49.49,51.92
+762,nan,Hordeum vulgare,Grass,17.68,17.63,57.12,48.26
+761,nan,Hordeum vulgare,Grass,19.31,19.34,69.47,43.0
+760,nan,Hordeum vulgare,Grass,19.3,19.42,64.92,40.48
+759,nan,Hordeum vulgare,Grass,19.25,19.49,63.54,42.78
+758,nan,Hordeum vulgare,Grass,18.91,18.91,58.86,46.89
+757,nan,Hordeum vulgare,Grass,19.01,19.14,57.59,47.8
+756,nan,Hordeum vulgare,Grass,17.78,17.77,57.16,51.11
+755,nan,Hordeum vulgare,Grass,16.97,17.04,42.62,46.87
+754,nan,Hordeum vulgare,Grass,15.91,15.92,47.93,45.95
+753,nan,Hordeum vulgare,Grass,16.0,15.7,42.1,48.19
+752,nan,Hordeum vulgare,Grass,16.21,16.0,43.38,46.59
+751,nan,Hordeum vulgare,Grass,16.39,16.46,46.82,42.44
+750,nan,Hordeum vulgare,Grass,14.02,14.17,49.28,47.39
+749,nan,Hordeum vulgare,Grass,14.27,14.26,49.99,47.12
+748,nan,Hordeum vulgare,Grass,14.37,14.39,46.62,50.54
+747,nan,Hordeum vulgare,Grass,13.92,13.96,47.75,50.81
+746,nan,Hordeum vulgare,Grass,13.93,14.1,51.56,55.63
+745,nan,Hordeum vulgare,Grass,14.47,14.31,49.24,45.06
+744,nan,Hordeum vulgare,Grass,14.31,14.4,49.79,48.22
+743,nan,Hordeum vulgare,Grass,15.96,15.9,63.47,46.01
+764,nan,Hordeum vulgare,Grass,18.65,18.87,55.75,42.74
+742,nan,Hordeum vulgare,Grass,14.83,14.78,54.88,44.04
+765,nan,Hordeum vulgare,Grass,17.97,18.09,51.87,46.68
+767,nan,Hordeum vulgare,Grass,19.29,19.46,53.34,45.93
+788,nan,Hordeum vulgare,Grass,14.9,14.83,55.17,45.75
+787,nan,Hordeum vulgare,Grass,14.22,12.8,27.23,54.24
+786,nan,Hordeum vulgare,Grass,15.34,15.24,47.91,49.53
+785,nan,Hordeum vulgare,Grass,15.63,15.6,55.93,45.87
+784,nan,Hordeum vulgare,Grass,16.79,16.7,54.51,57.3
+783,nan,Hordeum vulgare,Grass,17.51,17.46,61.55,47.15
+782,nan,Hordeum vulgare,Grass,16.72,16.62,54.01,68.75
+781,nan,Hordeum vulgare,Grass,17.82,17.8,55.99,45.48
+780,nan,Hordeum vulgare,Grass,17.72,17.65,52.64,50.89
+779,nan,Hordeum vulgare,Grass,18.0,18.36,59.58,39.4
+778,nan,Hordeum vulgare,Grass,17.5,17.72,90.02,40.21
+777,nan,Hordeum vulgare,Grass,16.9,17.12,64.41,41.15
+776,nan,Hordeum vulgare,Grass,16.87,18.42,120.88,38.5
+775,nan,Hordeum vulgare,Grass,17.6,17.86,57.43,70.58
+774,nan,Hordeum vulgare,Grass,17.51,18.22,87.62,36.62
+773,nan,Hordeum vulgare,Grass,14.51,14.55,124.77,40.89
+772,nan,Hordeum vulgare,Grass,17.36,17.45,109.34,40.26
+771,nan,Hordeum vulgare,Grass,17.82,17.83,125.23,37.29
+770,nan,Hordeum vulgare,Grass,16.96,16.95,83.96,45.88
+769,nan,Hordeum vulgare,Grass,17.85,17.84,74.29,45.24
+768,nan,Hordeum vulgare,Grass,17.39,17.43,67.22,43.14
+766,nan,Hordeum vulgare,Grass,17.88,17.87,58.02,44.41
+741,nan,Hordeum vulgare,Grass,14.74,14.71,57.58,44.68
+740,nan,Hordeum vulgare,Grass,15.12,15.01,52.69,38.98
+739,nan,Hordeum vulgare,Grass,14.6,14.58,49.83,43.13
+712,nan,Hordeum vulgare,Grass,14.78,14.49,65.42,37.04
+711,nan,Hordeum vulgare,Grass,14.49,14.15,65.3,41.53
+710,nan,Hordeum vulgare,Grass,14.82,14.28,69.89,32.91
+709,nan,Hordeum vulgare,Grass,15.21,14.75,64.84,38.39
+708,nan,Hordeum vulgare,Grass,14.84,14.42,69.42,37.86
+707,nan,Hordeum vulgare,Grass,14.12,14.03,72.11,34.74
+706,nan,Hordeum vulgare,Grass,14.56,13.87,73.83,34.43
+705,nan,Hordeum vulgare,Grass,15.72,15.4,64.25,36.01
+704,nan,Hordeum vulgare,Grass,15.03,14.56,151.36,36.06
+703,nan,Hordeum vulgare,Grass,15.12,14.6,56.68,41.76
+702,nan,Hordeum vulgare,Grass,15.27,14.7,52.58,38.43
+399,nan,Lathyrus sativus,Herbaceous_legumes,15.23,14.76,37.26,80.29
+505,nan,Hordeum vulgare,Grass,11.33,10.73,59.73,42.95
+504,nan,Hordeum vulgare,Grass,12.9,12.95,163.86,23.85
+503,nan,Hordeum vulgare,Grass,13.57,13.49,75.01,32.04
+502,nan,Hordeum vulgare,Grass,12.78,12.08,36.29,77.62
+501,nan,Hordeum vulgare,Grass,13.52,13.19,46.01,76.59
+500,nan,Hordeum vulgare,Grass,13.3,13.3,45.72,74.06
+713,nan,Hordeum vulgare,Grass,14.62,14.45,85.19,31.91
+714,nan,Hordeum vulgare,Grass,15.06,14.74,67.73,35.75
+715,nan,Hordeum vulgare,Grass,14.7,14.46,64.79,43.07
+716,nan,Hordeum vulgare,Grass,14.54,14.32,57.21,45.12
+738,nan,Hordeum vulgare,Grass,14.94,15.01,52.42,46.92
+737,nan,Hordeum vulgare,Grass,15.1,15.16,55.51,41.17
+736,nan,Hordeum vulgare,Grass,15.04,15.1,54.68,50.23
+735,nan,Hordeum vulgare,Grass,16.02,15.96,59.7,39.13
+734,nan,Hordeum vulgare,Grass,15.82,15.78,58.8,34.66
+733,nan,Hordeum vulgare,Grass,15.97,15.93,54.28,41.85
+732,nan,Hordeum vulgare,Grass,15.92,15.92,56.6,45.91
+731,nan,Hordeum vulgare,Grass,16.72,16.64,59.73,42.68
+730,nan,Hordeum vulgare,Grass,16.13,16.06,58.24,43.8
+729,nan,Hordeum vulgare,Grass,14.56,14.53,50.85,44.79
+498,nan,Hordeum vulgare,Grass,11.29,7.96,32.84,83.84
+728,nan,Hordeum vulgare,Grass,15.01,14.88,54.08,39.84
+726,nan,Hordeum vulgare,Grass,14.96,14.5,46.62,40.23
+725,nan,Hordeum vulgare,Grass,13.93,13.52,46.43,46.56
+724,nan,Hordeum vulgare,Grass,14.02,13.49,67.98,36.25
+723,nan,Hordeum vulgare,Grass,14.33,14.06,66.23,37.82
+722,nan,Hordeum vulgare,Grass,14.44,13.95,58.76,37.44
+721,nan,Hordeum vulgare,Grass,14.4,13.93,61.1,36.23
+720,nan,Hordeum vulgare,Grass,14.14,13.61,56.64,46.55
+719,nan,Hordeum vulgare,Grass,14.37,13.98,75.47,35.5
+718,nan,Hordeum vulgare,Grass,14.23,13.43,49.05,46.6
+717,nan,Hordeum vulgare,Grass,14.82,14.4,77.2,31.78
+727,nan,Hordeum vulgare,Grass,15.18,15.07,43.35,42.99
+398,nan,Lathyrus sativus,Herbaceous_legumes,14.52,13.96,37.81,77.65
+387,nan,Lathyrus sativus,Herbaceous_legumes,14.86,14.18,40.8,68.51
+396,nan,Lathyrus sativus,Herbaceous_legumes,14.38,13.66,37.22,78.21
+115,nan,trifollium stellatum,Herbaceous_legumes,14.58,16.36,48.31,54.25
+114,nan,Trifolium tomentosum ,Herbaceous_legumes,14.41,16.28,53.07,74.68
+113,nan,Trifolium clypeatum,Herbaceous_legumes,15.22,16.59,51.16,65.12
+112,nan,Trifolium boissieri,Herbaceous_legumes,14.43,15.88,53.85,57.26
+111,nan,Lathyrus cassius,Herbaceous_legumes,15.77,17.04,46.2,72.12
+110,nan,Lathyrus vinealis ,Herbaceous_legumes,14.98,17.14,57.83,73.42
+109,nan,Lathyrus pseudocicera,Herbaceous_legumes,15.04,17.31,58.21,69.64
+108,nan,Lathyrus aphaca var. pseudoaphaca,Herbaceous_legumes,14.58,16.6,47.25,70.35
+107,nan,Lathyrus inconspicuus,Herbaceous_legumes,14.19,16.13,53.23,73.41
+106,nan,Lathyrus aphaca var. floribundus,Herbaceous_legumes,13.68,16.04,48.17,67.78
+105,nan,Lathyrus aphaca var. affinis,Herbaceous_legumes,12.92,15.74,40.24,74.63
+104,nan,Lathyrus chrysanthus,Herbaceous_legumes,14.2,16.01,42.52,75.64
+103,nan,lathyrus aphaca var. aphaca,Herbaceous_legumes,13.68,15.49,42.91,70.58
+102,nan,Lathyrus annuus,Herbaceous_legumes,15.88,17.33,42.89,70.52
+101,nan,Lathyrus aphaca var. modestus,Herbaceous_legumes,14.4,16.15,45.39,73.7
+100,nan,Lathyrus blepharicarpus,Herbaceous_legumes,15.64,17.56,47.31,77.38
+99,nan,Lathyrus gorgoni,Herbaceous_legumes,15.02,17.01,50.19,75.16
+98,nan,Lathyrus aphaca,Herbaceous_legumes,15.74,17.05,44.89,67.1
+97,nan,Lathyrus aphaca var. biflorus,Herbaceous_legumes,14.43,16.68,48.03,70.33
+96,nan,Lathyrus ciliolatus,Herbaceous_legumes,14.88,16.49,49.59,72.13
+95,nan,Lathyrus cicera,Herbaceous_legumes,15.48,17.46,44.64,80.51
+116,nan,Trifolium purpureum,Herbaceous_legumes,13.5,15.74,47.73,67.54
+94,nan,Lathyrus sativus,Herbaceous_legumes,15.18,17.45,45.24,77.22
+117,nan,trifolium argutum,Herbaceous_legumes,14.91,16.73,51.38,74.98
+119,nan,Trifolium echinatum,Herbaceous_legumes,14.06,16.16,47.45,67.58
+140,nan,Trifolium glomeratum,Herbaceous_legumes,13.16,15.29,50.31,59.69
+139,nan,Trifolium constantinopolitanum,Herbaceous_legumes,14.78,16.33,48.99,51.52
+138,nan,Trifolium eriosphaerum,Herbaceous_legumes,13.9,16.1,50.72,74.24
+137,nan,Trifolium brachycarpum,Herbaceous_legumes,14.55,16.63,58.05,59.75
+136,nan,Trifolium scutatum,Herbaceous_legumes,14.36,16.45,57.57,68.27
+135,nan,Trifolium bullatum,Herbaceous_legumes,14.44,16.48,51.14,64.75
+134,nan,Trifolium dasyurum,Herbaceous_legumes,15.49,17.28,55.75,49.83
+133,nan,Trifolium antiabense,Herbaceous_legumes,14.02,16.63,56.38,74.72
+132,nan,Trifolium pratense,Herbaceous_legumes,13.57,15.81,48.15,72.59
+131,nan,Trifolium aureum,Herbaceous_legumes,15.16,17.07,53.39,67.82
+130,nan,Trifolium spumosum,Herbaceous_legumes,14.24,16.59,55.72,77.11
+129,nan,Trifolium pilulare,Herbaceous_legumes,14.77,16.82,49.14,67.23
+128,nan,Trifolium hirtum,Herbaceous_legumes,15.78,17.62,45.51,70.34
+127,nan,Trifolium clusii,Herbaceous_legumes,15.0,16.72,45.69,69.84
+126,nan,Trifolium plebeium,Herbaceous_legumes,13.1,15.92,55.12,64.71
+125,nan,Trifolium sp.,Herbaceous_legumes,14.49,16.84,53.97,69.6
+124,nan,Trifolium leucanthum,Herbaceous_legumes,14.11,15.35,37.65,71.83
+123,nan,Trifolium hybridum,Herbaceous_legumes,13.63,15.76,45.85,65.12
+122,nan,Trifolium resupinatum var. resupinatum,Herbaceous_legumes,14.09,15.86,48.13,79.02
+121,nan,Trifolium globosum,Herbaceous_legumes,13.21,15.4,47.08,69.0
+120,nan,Trifolium angustifolium,Herbaceous_legumes,14.84,16.28,41.71,59.7
+118,nan,trifolium anatolicum,Herbaceous_legumes,14.54,16.59,47.66,70.66
+141,nan,Trifolium erubescens ,Herbaceous_legumes,13.76,16.34,56.02,61.71
+93,nan,vicia lutea subsp. Vestita,Herbaceous_legumes,15.21,17.89,40.62,81.04
+91,nan,vicia noeana,Herbaceous_legumes,14.66,16.41,44.6,76.83
+67,nan,Medicago orbicularis f. biancae,Herbaceous_legumes,13.99,16.24,41.06,80.62
+66,nan,Medicago orbicularis f. marginata,Herbaceous_legumes,14.4,16.29,45.59,72.84
+65,nan,Medicago scutellata,Herbaceous_legumes,13.35,13.9,38.19,73.11
+64,nan,Medicago rotata,Herbaceous_legumes,12.88,13.54,38.88,67.66
+63,nan,Medicago tornata var. rugulosa,Herbaceous_legumes,14.29,14.41,45.0,68.67
+62,nan,Medicago rotata var. eliezeri,Herbaceous_legumes,14.36,15.23,47.48,64.64
+61,nan,Medicago rigidula,Herbaceous_legumes,14.16,12.56,37.06,75.17
+60,nan,Medicago polymorpha var. polymorpha,Herbaceous_legumes,13.21,12.46,44.4,66.77
+59,nan,Medicago orbicularis,Herbaceous_legumes,13.98,14.83,40.08,80.21
+58,nan,Medicago constricta,Herbaceous_legumes,13.64,15.01,45.18,64.21
+57,nan,Medicago bonarotiana,Herbaceous_legumes,12.77,13.89,34.07,76.07
+56,nan,Medicago doliata var. doliata,Herbaceous_legumes,13.17,13.9,39.73,70.87
+55,nan,Pisum sativum subsp. Elatius,Herbaceous_legumes,13.9,14.75,41.94,71.55
+54,nan,Lathyrus ochrus,Herbaceous_legumes,13.16,14.43,40.82,77.55
+53,nan,Pisum sp.,Herbaceous_legumes,13.92,15.19,44.56,80.12
+52,nan,Pisum sativum var. sativum,Herbaceous_legumes,13.99,14.78,40.79,78.53
+48,nan,Astragalus boeticus,Herbaceous_legumes,13.17,14.19,39.1,75.92
+42,nan,trifolium pratense,Herbaceous_legumes,13.85,15.38,43.59,61.07
+41,nan,trifolium pratense,Herbaceous_legumes,13.54,15.62,51.37,62.74
+41,nan,Vicia tenuifolia,Herbaceous_legumes,13.54,15.62,51.37,62.74
+40,nan,Vicia tenuifolia,Herbaceous_legumes,14.46,15.32,43.02,72.35
+68,nan,Medicago doliata,Herbaceous_legumes,14.81,16.52,52.94,74.47
+92,nan,vicia lutea subsp. Vestita,Herbaceous_legumes,14.8,16.62,43.61,75.82
+69,nan,Medicago doliata var. muricata,Herbaceous_legumes,13.95,15.54,43.87,75.12
+71,nan,Medicago intertexta ,Herbaceous_legumes,14.32,16.23,38.63,83.04
+90,nan,vicia noeana,Herbaceous_legumes,15.4,16.89,51.31,73.37
+90,nan,vicia hybrida,Herbaceous_legumes,15.4,16.89,51.31,73.37
+89,nan,vicia hybrida,Herbaceous_legumes,15.82,17.81,48.79,75.99
+88,nan,vicia sativa subsp. Sativa var. melanosperma,Herbaceous_legumes,14.79,16.79,47.52,73.24
+88,nan,vicia sativa subsp. Sativa,Herbaceous_legumes,14.79,16.79,47.52,73.24
+87,nan,vicia sativa subsp. Sativa,Herbaceous_legumes,15.48,17.18,45.75,73.58
+86,nan,vicia ervillia,Herbaceous_legumes,13.61,16.1,51.05,76.88
+85,nan,vicia ervillia,Herbaceous_legumes,14.06,16.24,47.99,81.67
+84,nan,vicia narbonensis var. aegyptiaca,Herbaceous_legumes,14.04,16.46,46.28,77.17
+83,nan,Vicia narbonensis var. narbonensis,Herbaceous_legumes,15.92,17.8,43.04,73.62
+82,nan,Medicago polymorpha var. iraqi,Herbaceous_legumes,14.33,15.9,48.43,77.82
+81,nan,Medicago praecox,Herbaceous_legumes,13.12,14.83,42.35,78.86
+80,nan,Medicago radiata,Herbaceous_legumes,15.46,16.45,40.62,66.42
+79,nan,Medicago turbinata var. aculeata,Herbaceous_legumes,13.7,16.03,47.41,71.53
+78,nan,Medicago turbinata var. spinulosa,Herbaceous_legumes,14.27,15.85,45.32,77.84
+77,nan,Medicago murex,Herbaceous_legumes,14.34,16.02,48.86,72.69
+76,nan,Medicago rigidula var. agrestis,Herbaceous_legumes,14.66,16.13,43.91,75.09
+75,nan,Medicago rigidula var. submitis,Herbaceous_legumes,14.98,16.49,53.69,64.17
+74,nan,Medicago rigidula var. cinerascens,Herbaceous_legumes,14.76,16.14,44.54,70.61
+73,nan,Medicago rotata var. rotata,Herbaceous_legumes,14.66,16.99,43.81,73.77
+72,nan,Medicago rigidula var. rigidula,Herbaceous_legumes,14.97,16.79,38.57,68.45
+70,nan,Medicago intertexta var. ciliaris,Herbaceous_legumes,13.41,15.15,44.25,79.5
+142,nan,Trifolium glanduliferum,Herbaceous_legumes,14.04,16.05,52.44,65.34
+143,nan,Trifolium lappaceum,Herbaceous_legumes,13.1,15.38,51.27,67.49
+144,nan,Trifolium batmanicum,Herbaceous_legumes,13.99,16.14,47.77,77.47
+370,nan,Lathyrus sativus,Herbaceous_legumes,15.94,15.81,37.25,82.24
+369,nan,Lathyrus sativus,Herbaceous_legumes,14.41,14.04,41.41,78.45
+368,nan,Lathyrus sativus,Herbaceous_legumes,14.94,14.69,39.29,80.47
+367,nan,Lathyrus sativus,Herbaceous_legumes,15.74,15.19,31.42,79.7
+366,nan,Lathyrus sativus,Herbaceous_legumes,15.55,15.32,37.73,76.96
+364,nan,Lathyrus sativus,Herbaceous_legumes,15.78,15.53,39.47,77.97
+363,nan,Lathyrus sativus,Herbaceous_legumes,15.24,15.03,44.95,76.13
+362,nan,Lathyrus sativus,Herbaceous_legumes,16.27,15.86,37.44,78.52
+361,nan,Lathyrus sativus,Herbaceous_legumes,15.59,15.22,41.92,73.66
+360,nan,Lathyrus sativus,Herbaceous_legumes,15.64,15.37,37.7,82.21
+359,nan,Lathyrus sativus,Herbaceous_legumes,16.2,15.92,43.47,75.69
+358,nan,Lathyrus sativus,Herbaceous_legumes,17.77,17.66,40.73,74.83
+357,nan,Lathyrus sativus,Herbaceous_legumes,16.71,16.58,40.88,78.02
+356,nan,Lathyrus sativus,Herbaceous_legumes,16.92,16.71,40.58,79.35
+355,nan,Lathyrus sativus,Herbaceous_legumes,16.73,16.32,42.85,77.13
+354,nan,Lathyrus sativus,Herbaceous_legumes,15.91,15.47,40.27,76.8
+353,nan,Lathyrus sativus,Herbaceous_legumes,17.42,16.96,37.27,76.74
+199,nan,Lathyrus cirrhosus,Herbaceous_legumes,13.94,15.79,40.02,68.61
+198,nan,Lathyrus tingitanus,Herbaceous_legumes,14.43,16.2,39.4,74.47
+197,nan,Lathyrus pratensis,Herbaceous_legumes,14.47,17.17,42.97,73.43
+196,nan,Lathyrus latifolius,Herbaceous_legumes,14.39,16.07,42.94,69.93
+371,nan,Lathyrus sativus,Herbaceous_legumes,14.47,14.27,41.34,81.89
+195,nan,vicia palaestina,Herbaceous_legumes,15.05,16.26,49.95,68.18
+372,nan,Lathyrus sativus,Herbaceous_legumes,14.72,14.6,41.98,77.29
+374,nan,Lathyrus sativus,Herbaceous_legumes,13.97,13.87,40.81,80.87
+395,nan,Lathyrus sativus,Herbaceous_legumes,14.64,14.15,37.58,78.87
+394,nan,Lathyrus sativus,Herbaceous_legumes,14.29,13.61,37.67,78.43
+393,nan,Lathyrus sativus,Herbaceous_legumes,14.92,14.37,39.34,76.69
+392,nan,Lathyrus sativus,Herbaceous_legumes,16.16,15.8,42.31,73.67
+391,nan,Lathyrus sativus,Herbaceous_legumes,16.14,15.67,39.7,77.08
+390,nan,Lathyrus sativus,Herbaceous_legumes,16.41,16.01,41.5,73.42
+389,nan,Lathyrus sativus,Herbaceous_legumes,15.56,15.08,38.76,79.55
+388,nan,Lathyrus sativus,Herbaceous_legumes,14.71,14.12,44.09,61.28
+789,nan,Hordeum vulgare,Grass,15.36,15.11,47.08,46.65
+386,nan,Lathyrus sativus,Herbaceous_legumes,16.34,15.87,42.69,75.34
+385,nan,Lathyrus sativus,Herbaceous_legumes,16.37,15.94,40.96,74.56
+384,nan,Lathyrus sativus,Herbaceous_legumes,16.29,15.86,43.02,74.11
+383,nan,Lathyrus sativus,Herbaceous_legumes,16.36,15.72,43.79,73.1
+382,nan,Lathyrus sativus,Herbaceous_legumes,14.74,14.3,38.29,78.81
+381,nan,Lathyrus sativus,Herbaceous_legumes,14.38,14.15,37.58,77.12
+380,nan,Lathyrus sativus,Herbaceous_legumes,14.18,14.02,43.13,77.52
+379,nan,Lathyrus sativus,Herbaceous_legumes,14.5,14.29,39.41,77.94
+378,nan,Lathyrus sativus,Herbaceous_legumes,13.86,13.67,42.09,75.57
+377,nan,Lathyrus sativus,Herbaceous_legumes,14.01,13.9,38.48,81.85
+376,nan,Lathyrus sativus,Herbaceous_legumes,14.44,14.21,39.54,81.78
+375,nan,Lathyrus sativus,Herbaceous_legumes,14.47,13.98,36.23,80.72
+373,nan,Lathyrus sativus,Herbaceous_legumes,14.38,16.41,40.3,81.25
+194,nan,Lathyrus tuberosus,Herbaceous_legumes,14.36,16.36,42.59,73.75
+193,nan,Lathyrus heterophyllus,Herbaceous_legumes,14.21,16.13,34.61,74.88
+192,nan,Lathyrus clymenum,Herbaceous_legumes,13.94,15.37,36.62,77.53
+165,nan,Trifolium dubium,Herbaceous_legumes,14.61,16.67,48.89,74.25
+164,nan,Trifolium chilense,Herbaceous_legumes,11.43,16.55,56.59,55.6
+163,nan,Trifolium cherleri,Herbaceous_legumes,13.37,16.09,56.48,54.54
+162,nan,Trifolium carolinianum,Herbaceous_legumes,13.5,15.33,46.62,71.14
+161,nan,Trifolium campestre,Herbaceous_legumes,14.46,16.42,46.92,70.28
+160,nan,Trifolium arvense var. gracile,Herbaceous_legumes,14.0,16.53,49.62,78.45
+159,nan,Trifolium arvense,Herbaceous_legumes,12.81,15.21,48.49,60.67
+158,nan,Trifolium alexandrinum,Herbaceous_legumes,13.23,15.43,59.58,57.57
+157,nan,Vicia articulata,Herbaceous_legumes,13.51,15.27,42.34,75.96
+156,nan,Trifolium squarrosum,Herbaceous_legumes,14.03,15.78,37.77,70.9
+155,nan,Medicago tornata var. lenticularis,Herbaceous_legumes,15.13,17.11,54.13,68.35
+154,nan,Medicago tornata var. Lanticularis f. aculeata,Herbaceous_legumes,14.6,16.62,55.22,59.12
+153,nan,Lathyrus gloeospermus,Herbaceous_legumes,14.78,16.48,46.96,64.82
+152,nan,Melilotis sulcatus,Herbaceous_legumes,13.9,16.16,50.1,67.18
+151,nan,Hedysarum spinosissimum,Herbaceous_legumes,13.62,15.56,60.37,55.98
+150,nan,Hedysarum spinosissimum,Herbaceous_legumes,13.78,15.62,49.74,65.1
+149,nan,Hedysarum spinosissimum,Herbaceous_legumes,13.54,15.94,53.04,69.59
+148,nan,Hedysarum carnosum,Herbaceous_legumes,13.84,15.55,40.2,62.49
+147,nan,Trifolium meironense,Herbaceous_legumes,14.19,16.39,47.05,59.59
+146,nan,Trifolium isthmocarpum,Herbaceous_legumes,14.34,16.51,51.95,57.88
+145,nan,Trifolium tomentosum var. glabrescens,Herbaceous_legumes,14.33,16.19,50.01,62.55
+166,nan,Trifolium scabrum,Herbaceous_legumes,13.13,15.47,48.28,67.53
+167,nan,Trifolium echinatum var. carmeli,Herbaceous_legumes,12.93,15.55,39.71,70.08
+168,nan,Trifolium gemellum,Herbaceous_legumes,13.51,15.49,53.24,63.18
+169,nan,Trifolium micranthum,Herbaceous_legumes,14.16,16.29,41.68,79.34
+191,nan,Lathyrus odoratus,Herbaceous_legumes,14.7,17.07,42.34,75.07
+190,nan,Medicago polymorpha var. vulgaris ,Herbaceous_legumes,14.1,15.87,46.21,62.68
+189,nan,Trifolium spadiceum ,Herbaceous_legumes,13.88,15.86,38.0,82.91
+188,nan,Trifolium montanum,Herbaceous_legumes,13.96,15.32,40.74,68.34
+187,nan,Avena sterilis,Grass,13.06,14.49,46.12,68.82
+186,nan,Lathyrus chloranthus,Herbaceous_legumes,14.39,16.71,41.77,74.03
+185,nan,Trifolium diffusum,Herbaceous_legumes,15.02,16.76,41.62,81.32
+184,nan,Trifolium affine,Herbaceous_legumes,14.92,16.9,41.54,57.05
+183,nan,Trifolium caudatum,Herbaceous_legumes,13.76,16.32,47.07,73.23
+182,nan,Trifolium speciosum,Herbaceous_legumes,13.4,15.82,53.18,50.08
+397,nan,Lathyrus sativus,Herbaceous_legumes,15.87,15.33,37.48,76.94
+181,nan,Trifolium haussknechtii,Herbaceous_legumes,12.89,15.63,56.16,52.35
+179,nan,Trifolium tomentosum var. cthonocephalum,Herbaceous_legumes,13.57,15.33,40.48,66.32
+178,nan,Lathyrus hirsutus,Herbaceous_legumes,13.67,16.02,44.95,67.11
+177,nan,Trifolium striatum,Herbaceous_legumes,14.08,16.35,40.13,76.83
+176,nan,Vicia michauxii,Herbaceous_legumes,13.64,16.44,53.79,66.92
+175,nan,Pisum sativum subsp. asiaticum,Herbaceous_legumes,13.73,15.52,42.56,71.66
+174,nan,Trifolium vesiculosum,Herbaceous_legumes,13.33,15.82,41.27,79.84
+173,nan,Trifolium squamosum,Herbaceous_legumes,13.09,15.06,39.27,68.31
+172,nan,Trifolium resupinatum,Herbaceous_legumes,12.73,15.01,45.0,76.43
+171,nan,Trifolium palaestinum,Herbaceous_legumes,13.17,15.2,50.62,50.67
+170,nan,Trifolium obscurum,Herbaceous_legumes,12.54,14.92,48.42,62.3
+180,nan,Trifolium pauciflorum,Herbaceous_legumes,13.26,15.87,45.71,62.09
+790,nan,Hordeum vulgare,Grass,14.52,14.42,48.09,50.83

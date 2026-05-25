@@ -1,0 +1,443 @@
+id_lab,id,tax_name,functional_group,net_gas_8h_ml,net_gas_24h_ml,ch4_8h_ml,ch4_24h_ml,ch4_percentage_in_gas_8h,ch4_percentage_in_gas_24h,gas_ml_g_dm_incubated_24h,ch4_ml_g_NDF_digested_24h,methane_intensity,tddm
+F24 3469,ABC-10647,Stylosanthes scabra,Herbaceous_legumes,43.31,79.2,6.9,14.88,15.9,18.79,170.35,151.04,48.31,67.34
+F24-3636,ABC-11162,Stylosanthes scabra,Herbaceous_legumes,44.47,85.2,5.53,12.69,12.44,14.9,27.75,8.39,59.15,52.92
+F24 3470,ABC-11194,Stylosanthes hamata,Herbaceous_legumes,33.85,70.41,5.14,12.69,15.17,18.03,151.51,184.66,46.12,59.25
+F25-0989,ABC-11833,Stylosanthes guianensis,Herbaceous_legumes,33.95,63.44,3.95,8.36,11.63,13.19,17.6,-6.92,63.62,30.51
+F25-0970,ABC-11998,Stylosanthes guianensis,Herbaceous_legumes,30.7,65.21,3.43,7.79,11.18,11.95,16.46,7.28,44.53,41.12
+F24 3471,ABC-11999,Stylosanthes guianensis,Herbaceous_legumes,34.49,78.23,4.5,12.75,12.98,16.25,167.21,139.83,46.61,58.55
+F24 3472,ABC-12318,Stylosanthes hamata,Herbaceous_legumes,39.9,82.4,5.58,14.0,13.99,16.96,175.02,259.42,52.26,56.88
+F24 3427,ABC-1257,Stylosanthes scabra,Herbaceous_legumes,34.23,70.83,5.01,11.62,14.53,16.4,152.7,93.2,43.29,58.67
+F24 3427,ABC-1257,Stylosanthes scabra,Herbaceous_legumes,34.23,70.83,5.01,11.62,14.53,16.4,152.7,93.2,43.29,58.67
+F25-0971,ABC-13149,Desmodium strigillosum,Herbaceous_legumes,32.62,57.39,4.34,8.26,13.32,14.4,17.62,-50.93,108.91,25.02
+F25-0931,ABC-13268,Tadehagi triquetrum,Herbaceous_legumes,21.73,42.65,2.44,5.52,11.21,12.93,11.71,-20.5,30.9,38.94
+F24-3637,ABC-13301,Desmodium sequax,Herbaceous_legumes,22.2,37.7,3.1,6.03,14.0,15.99,13.02,-35.94,98.6,20.19
+F25-0972,ABC-13389,Desmodium sequax,Herbaceous_legumes,23.72,33.74,3.04,4.6,12.72,13.54,9.7,-37.53,48.91,21.43
+F24 3473,ABC-13575,Desmodium incanum,Herbaceous_legumes,25.6,51.93,3.49,8.46,13.6,16.23,110.26,502.53,42.43,42.85
+F24 3474,ABC-13609,Desmodium incanum,Herbaceous_legumes,27.51,50.25,3.77,8.22,13.66,16.31,107.53,-1188.43,46.39,38.4
+F25-0973,ABC-13651,Desmodium heterocarpon,Herbaceous_legumes,26.03,50.46,3.42,7.07,13.13,14.0,14.86,-32.08,133.49,26.57
+F25-0942,ABC-13692,Desmodium velutinum,Shrub_Trees,35.79,60.55,5.54,10.27,15.48,16.96,21.64,-7.33,56.63,40.73
+F25-0974,ABC-13946,Desmodium sequax,Herbaceous_legumes,16.45,21.15,1.86,2.52,11.36,11.89,5.28,-45.73,129.27,11.35
+F24-3540,ABC-1467,Stylosanthes hamata,Herbaceous_legumes,34.86,77.58,4.59,11.53,13.24,14.9,24.89,28.34,111.33,30.52
+F24-3541,ABC-1475,Stylosanthes hamata,Herbaceous_legumes,34.71,72.23,4.6,10.71,13.28,14.85,23.58,17.22,114.49,27.32
+F25-0943,ABC-15121,Centrosema macrocarpum,Herbaceous_legumes,40.37,69.79,5.49,10.58,13.6,15.17,22.53,-10.3,59.58,44.38
+F25-0944,ABC-15150,Centrosema molle,Herbaceous_legumes,33.48,66.25,4.51,9.44,13.48,14.24,20.27,10.15,48.67,43.89
+F25-0945,ABC-15154,Centrosema molle,Herbaceous_legumes,26.8,53.03,3.6,7.53,13.42,14.17,15.94,0.05,50.54,34.19
+F25-0975,ABC-15160,Centrosema molle,Herbaceous_legumes,28.64,56.21,3.87,8.0,13.49,14.23,16.92,-12.26,69.41,30.56
+F24-3638,ABC-15401,Centrosema brasilianum,Herbaceous_legumes,42.9,71.03,5.91,11.14,13.79,15.68,23.89,-9.35,58.85,45.72
+F25-0930,ABC-15470,Centrosema molle,Herbaceous_legumes,30.78,57.8,4.24,8.44,13.77,14.6,17.91,6.75,40.38,45.55
+F25-0929,ABC-15474,Centrosema molle,Herbaceous_legumes,29.46,56.04,3.84,7.63,13.15,13.56,16.12,5.4,35.27,47.0
+F24 3475,ABC-15551,Centrosema molle,Herbaceous_legumes,32.77,65.88,4.86,11.58,14.79,17.49,140.48,290.19,50.03,49.72
+F25-0946,ABC-15561,Centrosema molle,Herbaceous_legumes,33.19,51.45,4.44,8.23,13.26,14.73,18.77,20.93,45.05,43.99
+F25-0947,ABC-15799,Centrosema macrocarpum,Herbaceous_legumes,36.0,57.61,4.77,8.1,13.26,14.06,17.45,11.93,37.78,47.56
+F25-0948,ABC-15816,Centrosema acutifolium,Herbaceous_legumes,40.17,68.86,5.43,10.33,13.39,14.86,21.26,-4.66,47.5,46.2
+F24-3542,ABC-1650,Stylosanthes guianensis,Herbaceous_legumes,32.45,70.06,4.19,9.95,12.89,14.16,21.67,41.47,57.45,39.43
+F25-0976,ABC-17000,Chamaecrista rotundifolia,Herbaceous_legumes,38.72,71.11,1.96,6.5,5.08,9.14,13.73,-24.13,41.66,39.43
+F25-0977,ABC-17009,Canavalia brasiliensis,Herbaceous_legumes,44.37,85.37,6.16,13.99,13.86,16.38,29.46,-32.34,64.86,47.23
+F24 3476,ABC-17024,Desmanthus pernambucanus,Shrub_Trees,28.59,50.44,4.06,8.54,14.17,16.84,108.95,-1508.62,46.29,40.14
+F24-3543,ABC-1706,Stylosanthes humilis,Herbaceous_legumes,35.94,71.93,4.67,10.4,13.0,14.48,22.44,32.67,119.18,32.95
+F24 3477,ABC-17091,Crotalaria micans,Herbaceous_legumes,41.67,87.22,6.32,15.26,15.17,17.46,184.37,212.3,48.83,66.12
+F24-3539,ABC-172,Stylosanthes hamata,Herbaceous_legumes,33.18,72.81,4.39,10.61,13.22,14.59,23.26,18.02,123.41,29.33
+F24-3544,ABC-1727,Stylosanthes humilis,Herbaceous_legumes,36.78,73.8,4.31,10.47,11.83,14.23,22.72,36.99,64.29,36.15
+F24-3639,ABC-17360,Alysicarpus vaginalis,Herbaceous_legumes,37.32,68.34,5.91,11.62,15.82,17.0,25.01,-0.65,40.0,62.7
+F24 3478,ABC-17365,Clitoria ternatea,Herbaceous_legumes,47.57,86.39,7.21,15.21,15.12,17.56,184.9,221.14,51.29,63.39
+F24 3479,ABC-17451,Canavalia sp.,Herbaceous_legumes,35.57,68.16,4.56,10.66,12.8,15.61,148.64,223.01,37.55,62.07
+F24-3640,ABC-17768,Clitoria ternatea,Herbaceous_legumes,48.48,96.71,7.2,15.73,14.83,16.26,33.63,21.6,54.62,62.31
+F24 3480,ABC-17775,Christia obcordata,Herbaceous_legumes,45.41,83.24,6.93,15.36,15.26,18.43,176.41,244.5,55.22,59.09
+F24-3641,ABC-18004,Chamaecrista rotundifolia,Herbaceous_legumes,43.61,92.53,6.02,14.56,13.81,15.73,31.32,9.18,53.53,58.72
+F24 3481,ABC-18016,Sesbania emerus,Shrub_Trees,31.79,61.95,4.53,9.94,14.23,15.96,132.84,612.91,42.47,50.31
+F24-3545,ABC-1803,Stylosanthes humilis,Herbaceous_legumes,32.71,65.49,4.82,10.14,14.73,15.49,22.06,8.54,141.13,29.01
+F24 3482,ABC-18044,Christia sp.,Herbaceous_legumes,36.65,70.55,5.52,12.7,15.28,18.25,150.62,250.94,47.47,58.33
+F24 3483,ABC-18288,Sesbania exasperata,Shrub_Trees,39.46,73.75,5.8,12.35,14.9,16.94,159.19,-1024.53,48.91,55.66
+F24-3642,ABC-18430,Alysicarpus vaginalis,Herbaceous_legumes,42.43,78.86,6.53,13.2,15.38,16.74,28.48,5.75,46.1,62.24
+F25-0983,ABC-18437,Flemingia macrophylla,Shrub_Trees,21.95,33.84,2.66,4.36,12.17,12.92,9.19,-26.5,80.16,17.68
+F24 3484,ABC-18447,Clitoria ternatea,Herbaceous_legumes,45.21,80.39,6.57,13.64,14.51,16.92,172.89,361.74,53.02,55.28
+F24 3485,ABC-18455,Christia obcordata,Herbaceous_legumes,40.14,81.32,6.18,15.16,15.41,18.53,174.41,301.16,54.18,59.86
+F25-0978,ABC-18700,Cajanus cajan,Shrub_Trees,27.7,53.01,3.87,8.24,14.0,15.56,17.54,-36.28,81.31,26.24
+F25-0934,ABC-18701,Cajanus cajan,Shrub_Trees,23.55,47.08,3.14,7.11,13.36,15.11,15.0,-14.45,54.17,31.2
+F24 3486,ABC-18707,Crotalaria pallida,Herbaceous_legumes,36.7,69.77,5.88,15.02,16.06,21.49,150.03,4102.07,60.94,53.89
+F24-3644,ABC-18708,Crotalaria pallida,Herbaceous_legumes,44.0,80.49,6.63,13.82,15.06,17.16,29.73,6.4,49.94,59.88
+F24 3487,ABC-18749,Arachis pintoi,Herbaceous_legumes,24.41,64.46,2.86,10.25,11.69,15.84,139.0,193.52,36.23,61.11
+F24 3488,ABC-18813,Crotalaria nitens,Herbaceous_legumes,27.31,54.58,3.65,9.01,13.41,16.45,118.83,-51.21,38.58,51.23
+F24 3489,ABC-18848,Alysicarpus rugosus,Herbaceous_legumes,32.97,53.64,4.77,9.05,14.5,16.9,113.58,-169.44,34.2,57.17
+F24-3645,ABC-18850,Alysicarpus rugosus,Herbaceous_legumes,37.07,71.34,5.67,11.37,15.3,15.94,24.2,-1.89,41.53,58.68
+F24 3490,ABC-18862,Alysicarpus rugosus,Herbaceous_legumes,32.72,59.3,4.98,10.29,15.2,17.3,127.37,203.33,44.91,49.62
+F24-3646,ABC-18865,Alysicarpus rugosus,Herbaceous_legumes,36.04,71.98,5.18,10.86,14.34,15.09,23.25,-18.32,45.67,51.17
+F25-0979,ABC-18873,Alysicarpus ferrugineus,Herbaceous_legumes,31.59,58.82,4.97,9.59,15.73,16.3,20.17,-20.51,63.06,37.6
+F24 3491,ABC-18931,Tephrosia linearis,Shrub_Trees,30.95,58.9,4.34,9.61,14.06,16.35,125.87,293.07,42.05,49.75
+F24-3647,ABC-19032,Canavalia sp.,Herbaceous_legumes,37.81,80.83,5.02,12.39,13.27,15.33,26.81,-2.5,45.7,59.15
+F24 3492,ABC-19038,Canavalia sp.,Shrub_Trees,33.95,69.38,5.0,12.23,14.78,17.6,153.76,-75.3,43.52,63.37
+F24 3493,ABC-19118,Alysicarpus rugosus,Herbaceous_legumes,35.18,69.18,5.51,12.23,15.71,17.7,148.82,451.56,44.5,59.74
+F24-3648,ABC-19119,Alysicarpus rugosus,Herbaceous_legumes,38.55,66.18,5.44,10.24,14.11,15.47,22.13,-4.97,40.18,56.58
+F24 3494,ABC-19127,Alysicarpus rugosus,Herbaceous_legumes,32.38,61.46,4.99,11.02,15.48,17.96,133.18,435.96,49.24,48.76
+F24 3495,ABC-19128,Alysicarpus rugosus,Herbaceous_legumes,31.15,60.03,4.71,10.6,15.19,17.68,129.47,275.49,49.01,46.81
+F24 3496,ABC-19129,Alysicarpus rugosus,Herbaceous_legumes,34.59,62.25,5.5,11.38,15.91,18.28,133.12,252.14,49.18,49.9
+F24 3497,ABC-19133,Alysicarpus rugosus,Herbaceous_legumes,36.85,65.88,5.75,11.92,15.61,18.06,141.43,-223.92,55.12,48.23
+F24 3498,ABC-19137,Alysicarpus rugosus,Herbaceous_legumes,37.39,67.9,5.72,11.96,15.31,17.59,144.73,578.79,48.49,53.19
+F24 3499,ABC-19138,Alysicarpus rugosus,Herbaceous_legumes,34.15,62.59,5.19,10.99,15.26,17.55,134.98,290.69,43.21,54.86
+F24 3500,ABC-19139,Alysicarpus ovalifolius,Herbaceous_legumes,30.61,56.93,4.38,9.83,14.24,17.2,120.28,239.14,39.75,52.41
+F24 3501,ABC-19213,Clitoria ternatea,Herbaceous_legumes,50.44,71.89,7.58,11.57,14.99,16.09,153.19,194.95,39.14,63.66
+F24 3502,ABC-19421,Uraria lagopodioides,Herbaceous_legumes,41.01,56.9,5.8,8.61,14.13,15.13,120.89,-270.25,33.82,54.27
+F24 3503,ABC-19566,Tephrosia noctiflora,Shrub_Trees,45.23,68.65,6.99,11.18,15.42,16.28,146.32,595.67,37.32,64.11
+F24-3546,ABC-1964,Stylosanthes guianensis,Herbaceous_legumes,29.45,67.21,3.84,9.5,12.98,14.09,21.22,18.28,70.95,34.83
+F24 3504,ABC-19667,Indigofera hirsuta,Herbaceous_legumes,30.63,46.87,4.01,6.71,13.07,14.31,101.39,-324.22,32.52,44.81
+F24 3505,ABC-19673,Alysicarpus rugosus,Herbaceous_legumes,42.48,65.45,6.13,10.41,14.38,15.9,141.49,-505.48,43.95,51.27
+F25-0980,ABC-19867,Uraria lagopodioides,Herbaceous_legumes,37.05,63.24,5.86,10.61,15.8,16.79,22.12,-30.13,65.82,42.37
+F24-3506,ABC-19895,Aeschynomene americana,Herbaceous_legumes,37.07,75.15,5.25,11.73,14.14,15.62,160.96,-419.12,38.27,67.43
+F24-3507,ABC-20093,Canavalia sp.,Herbaceous_legumes,39.24,73.92,5.77,11.79,14.71,15.94,156.59,-309.06,37.98,65.75
+F24-3508,ABC-20113,Canavalia sp.,Herbaceous_legumes,38.5,78.2,5.01,11.81,13.02,15.1,165.17,-163.03,38.26,65.3
+F24-3509,ABC-20125,Coursetia caribaea,Herbaceous_legumes,32.16,63.55,4.97,10.81,15.43,17.01,135.86,-109.43,40.0,57.96
+F25-0981,ABC-20207,Aeschynomene sensitiva,Herbaceous_legumes,33.36,62.01,4.13,8.08,12.38,13.03,17.79,-9.54,46.04,42.06
+F24-3510,ABC-20298,Canavalia sp.,Herbaceous_legumes,34.42,67.23,4.78,10.33,13.89,15.34,143.52,-111.79,39.36,56.36
+F24-3650,ABC-20303,Canavalia brasiliensis,Herbaceous_legumes,39.58,84.67,5.35,13.39,13.51,15.82,30.08,-25.2,52.89,58.61
+F25-0949,ABC-20304,Canavalia brasiliensis,Herbaceous_legumes,46.51,84.69,6.33,14.38,13.52,16.93,30.49,26.48,47.76,65.02
+F24-3511,ABC-20305,Canavalia sp.,Herbaceous_legumes,40.66,68.91,5.16,10.23,12.71,14.72,147.24,-155.89,35.46,62.07
+F24-3651,ABC-20589,Uraria lagopodioides,Herbaceous_legumes,34.42,63.62,5.16,10.49,14.99,16.47,22.78,-16.66,41.75,55.03
+F25-0982,ABC-20709,Calopogonium mucunoides,Herbaceous_legumes,27.46,57.24,4.11,9.13,15.07,16.0,19.43,-35.0,72.84,34.09
+F24-3512,ABC-20803,Canavalia sp.,Herbaceous_legumes,35.35,68.27,4.88,10.92,13.8,15.98,146.13,-111.65,42.62,55.7
+F25-0935,ABC-20891,Cajanus cajan,Shrub_Trees,26.16,45.26,3.38,6.54,12.92,14.44,13.72,-30.93,47.98,29.51
+F24-3513,ABC-21031,Christia obcordata,Herbaceous_legumes,34.52,60.94,4.76,9.52,13.8,15.58,129.5,-88.5,37.14,55.29
+F24-3514,ABC-21128,Crotalaria pallida,Herbaceous_legumes,33.39,65.81,5.05,11.76,15.13,17.95,140.73,-153.59,47.37,53.1
+F24-3515,ABC-21212,Canavalia sp.,Herbaceous_legumes,39.44,77.07,5.27,12.46,13.34,16.14,164.44,-300.85,40.3,66.3
+F24-3516,ABC-21263,Sesbania rostrata,Shrub_Trees,38.45,68.46,5.51,10.33,14.32,15.06,147.82,-179.87,37.31,60.43
+F24-3517,ABC-21514,Desmanthus virgatus,Shrub_Trees,27.93,48.55,3.84,7.3,13.74,15.01,103.75,-38.55,46.93,35.54
+F24-3518,ABC-21565,Chamaecrista rotundifolia,Herbaceous_legumes,36.78,71.66,4.58,10.59,12.47,14.73,154.6,-104.9,39.86,57.7
+F25-0950,ABC-21603,Lablab purpureus,Herbaceous_legumes,47.84,90.39,6.63,14.0,13.82,15.45,29.46,11.23,56.99,53.44
+F24-3652,ABC-21687,Desmanthus virgatus,Shrub_Trees,30.24,58.12,3.82,8.54,12.63,14.66,18.59,-13.86,42.42,45.4
+F24-3519,ABC-21709,Crotalaria juncea,Herbaceous_legumes,39.29,69.74,5.86,11.08,14.92,15.88,151.26,-157.46,42.07,57.17
+F24-3653,ABC-22048,Aeschynomene americana,Herbaceous_legumes,52.31,86.73,7.01,12.73,13.39,14.67,28.47,-9.57,57.52,54.67
+F24-3654,ABC-22156,Arachis pintoi,Herbaceous_legumes,43.04,91.27,5.4,13.15,12.54,14.41,29.31,-3.89,53.45,56.59
+F24-3520,ABC-22286,Crotalaria micans,Herbaceous_legumes,36.48,74.76,5.42,11.93,14.86,15.96,159.67,-205.27,43.2,59.54
+F24-3521,ABC-22475,Alysicarpus rugosus,Herbaceous_legumes,31.22,59.17,4.37,9.19,14.0,15.47,125.62,-51.16,44.51,43.56
+F24-3522,ABC-22481,Sesbania cochinchinensis,Shrub_Trees,30.63,52.58,4.26,7.59,13.89,14.44,114.3,-121.7,31.77,51.99
+F24-3655,ABC-22507,Desmanthus subulatus,Shrub_Trees,30.96,54.95,3.82,7.76,12.33,14.13,17.25,-46.43,66.19,35.99
+F24-3656,ABC-22510,Desmanthus bicornutus,Shrub_Trees,26.3,48.13,3.29,6.95,12.51,14.45,15.8,-63.33,66.14,29.98
+F24-3523,ABC-22520,Arachis pusilla,Herbaceous_legumes,32.8,64.53,4.31,9.67,13.09,14.92,138.62,-85.05,40.72,51.33
+F24-3524,ABC-22570,Desmanthus bicornutus,Shrub_Trees,20.63,28.26,2.76,4.2,13.38,14.62,60.98,-29.93,24.79,36.77
+F24-3525,ABC-22594,Desmanthus pernambucanus,Shrub_Trees,27.09,43.49,3.7,6.52,13.66,14.93,91.94,-43.7,35.36,38.96
+F24-3657,ABC-22598,Lablab purpureus,Herbaceous_legumes,35.6,65.49,5.36,10.38,15.02,15.85,23.34,-16.45,54.86,47.11
+F24-3526,ABC-22754,Lablab purpureus,Herbaceous_legumes,42.1,67.48,5.72,10.23,13.58,15.12,147.12,-134.67,43.13,51.68
+F25-0932,ABC-22768,Lablab purpureus,Herbaceous_legumes,54.92,93.93,7.78,14.76,14.17,15.71,31.33,27.68,49.54,64.18
+F25-0933,ABC-22770,Lablab purpureus,Herbaceous_legumes,50.25,95.85,7.08,14.99,14.1,15.64,32.08,22.53,47.68,68.75
+F24-3658,ABC-22784,Desmanthus bicornutus,Shrub_Trees,28.71,53.0,3.68,7.92,12.84,14.94,17.09,-51.02,51.82,37.08
+F24-3527,ABC-22915,Aeschynomene villosa,Herbaceous_legumes,40.76,72.35,5.59,11.12,13.71,15.35,157.1,1152.49,41.67,58.09
+F25-0951,ABC-23248,Desmodium velutinum,Shrub_Trees,43.81,76.09,6.2,12.36,14.16,16.2,25.88,-11.5,49.94,53.11
+F24-3528,ABC-23259,Desmodium gangeticum,Shrub_Trees,27.44,53.1,4.22,8.94,15.36,16.83,114.3,-78.63,37.41,51.49
+F25-0952,ABC-23271,Desmodium velutinum,Shrub_Trees,43.22,69.01,5.97,11.08,13.81,16.05,23.3,-2.39,45.15,53.06
+F25-0953,ABC-23279,Desmodium velutinum,Shrub_Trees,44.25,75.84,6.38,12.44,14.41,16.41,26.61,-16.85,59.41,46.68
+F25-0954,ABC-23326,Desmodium velutinum,Shrub_Trees,38.25,66.74,5.45,10.99,14.26,16.47,22.92,-33.69,53.1,46.52
+F24-3529,ABC-23339,Desmodium gangeticum,Shrub_Trees,27.34,52.34,4.17,8.84,15.24,16.87,111.66,-87.3,35.07,53.81
+F24-3530,ABC-23761,Uraria picta,Herbaceous_legumes,32.55,50.91,3.99,6.99,12.26,13.68,107.11,-39.21,33.56,44.14
+F24-3531,ABC-24360,Vigna umbellata,Herbaceous_legumes,32.75,57.94,4.58,8.96,13.99,15.44,124.94,-86.14,37.12,52.16
+F24-3532,ABC-24466,Vigna umbellata,Herbaceous_legumes,37.52,60.16,5.12,8.86,13.63,14.71,129.53,-82.4,31.71,61.87
+F24-3659,ABC-25113,Centrosema brasilianum,Herbaceous_legumes,40.17,66.18,5.87,10.38,14.63,15.7,22.6,-4.41,55.26,43.93
+F25-0984,ABC-25522,Centrosema macrocarpum,Herbaceous_legumes,44.23,72.19,6.14,11.05,13.89,15.31,23.18,-11.11,59.89,43.72
+F25-0985,ABC-25704,Centrosema molle x acutifolium,Herbaceous_legumes,31.54,64.03,4.19,9.05,13.27,14.13,18.89,-11.92,63.12,34.37
+F24-3547,ABC-2613,Stylosanthes guianensis,Herbaceous_legumes,28.17,56.3,3.28,6.87,11.55,12.15,14.95,10.2,88.62,30.9
+F25-0960,ABC-3187,Desmodium cajanifolium,Shrub_Trees,42.6,79.96,5.47,11.58,12.83,14.49,24.62,17.34,35.08,70.3
+F24-3533,ABC-32246,Chamaecrista nictitans,Herbaceous_legumes,33.19,55.68,4.48,8.77,13.48,15.7,121.6,-64.54,46.27,42.36
+F24-3534,ABC-32365,Desmanthus virgatus,Shrub_Trees,25.62,39.51,3.31,5.83,12.9,14.73,89.89,-40.16,37.06,35.6
+F24-3535,ABC-32373,Desmanthus pubescens,Shrub_Trees,28.32,43.44,3.49,6.16,12.34,14.13,94.05,-48.51,31.7,42.56
+F24-3536,ABC-32379,Desmanthus pubescens,Shrub_Trees,29.23,58.2,3.66,8.58,12.53,14.73,18.45,36.37,36.5,52.51
+F24-3537,ABC-32380,Desmanthus pubescens,Shrub_Trees,25.84,52.84,3.35,8.05,12.96,15.24,17.25,22.41,44.36,39.27
+F24 3428,ABC-3240,Desmodium cinereum,Herbaceous_legumes,32.36,55.32,5.82,10.22,17.96,18.55,119.07,199.76,39.06,56.51
+F24-3660,ABC-33114,Dendrolobium sp.,Shrub_Trees,25.03,44.0,3.43,6.73,13.69,15.27,14.74,-34.26,58.31,26.15
+F24-3538,ABC-33249,Desmodium velutinum,Shrub_Trees,31.15,61.99,4.51,9.71,14.49,15.65,20.83,26.37,50.33,41.65
+F25-0955,ABC-33255,Desmodium velutinum,Shrub_Trees,40.62,62.27,6.11,10.35,15.04,16.62,21.79,-16.61,49.46,47.06
+F25-0956,ABC-33428,Desmodium velutinum,Shrub_Trees,31.86,55.83,4.62,8.88,14.39,15.82,18.3,5.52,35.5,52.17
+F25-0957,ABC-33451,Desmodium velutinum,Shrub_Trees,28.52,51.7,3.72,7.2,13.04,13.92,15.0,-23.63,43.3,43.25
+F25-0958,ABC-33463,Desmodium velutinum,Shrub_Trees,35.25,57.94,5.12,9.44,14.49,16.29,19.61,-6.33,36.56,57.77
+F25-0986,ABC-33729,Desmodium cinereum,Shrub_Trees,33.51,56.55,4.79,8.43,14.3,14.9,17.89,-45.7,46.49,41.62
+F25-0987,ABC-33827,Desmodium incanum,Herbaceous_legumes,26.03,44.46,3.34,6.66,12.8,14.98,14.18,-58.29,90.32,22.28
+F25-0959,ABC-350,Desmodium heterocarpon,Herbaceous_legumes,24.02,47.61,2.98,6.39,12.3,13.37,13.46,-14.13,32.84,41.39
+F24 3429,ABC-3522,Desmodium incanum,Herbaceous_legumes,23.86,39.39,3.75,6.87,15.64,17.48,84.4,-521.27,39.25,37.71
+F24 3429,ABC-3522,Desmodium incanum,Herbaceous_legumes,23.86,39.39,3.75,6.87,15.64,17.48,84.4,-521.27,39.25,37.71
+F24-3619,ABC-3813,Desmodium sequax,Herbaceous_legumes,19.89,34.94,2.72,5.25,13.71,15.03,11.27,-38.64,47.74,23.81
+F24-3612,ABC-398,Desmodium incanum,Herbaceous_legumes,25.59,55.35,3.58,8.67,13.99,15.66,18.88,-22.33,49.86,37.94
+F25-0961,ABC-4028,Galactia glaucescens,Herbaceous_legumes,19.69,41.07,2.23,5.49,11.34,13.36,11.61,-6.2,40.58,30.53
+F24 3430,ABC-4134,Macroptilium lathyroides,Herbaceous_legumes,37.62,71.3,6.2,12.85,16.37,17.99,155.04,76.0,42.33,66.52
+F24 3431,ABC-4279,Vigna umbellata,Herbaceous_legumes,36.19,73.74,6.05,13.23,16.66,17.91,161.93,114.4,41.87,70.2
+F24 3431,ABC-4279,Vigna umbellata,Herbaceous_legumes,36.19,73.74,6.05,13.23,16.66,17.91,161.93,114.4,41.87,70.2
+F24-3662,ABC-43477,Desmodium cinereum,Shrub_Trees,33.48,57.18,5.11,9.15,15.27,16.01,20.07,-76.71,72.97,32.23
+F24-3613,ABC-438,Centrosema molle x acutifolium,Herbaceous_legumes,27.8,51.32,4.01,8.03,14.41,15.63,17.13,-2.39,44.76,38.37
+F24-3614,ABC-442,Centrosema molle x acutifolium,Herbaceous_legumes,34.84,66.12,5.07,10.52,14.57,15.9,22.38,-2.5,52.27,43.3
+F24-3615,ABC-466,Vigna umbellata,Herbaceous_legumes,44.62,84.7,6.34,13.51,14.22,15.95,29.12,17.06,46.59,62.59
+F24 3432,ABC-5124,Centrosema molle x acutifolium,Herbaceous_legumes,30.99,55.37,5.02,9.69,16.01,17.43,120.22,96.27,36.76,58.03
+F25-0936,ABC-5172,Centrosema molle,Herbaceous_legumes,30.43,54.96,4.0,7.84,13.16,14.26,16.74,-4.38,50.12,35.41
+F24 3433,ABC-5234,Centrosema brasilianum,Herbaceous_legumes,34.71,66.24,4.96,10.72,14.16,16.17,143.11,106.26,37.63,61.53
+F25-0962,ABC-5277,Centrosema acutifolium,Herbaceous_legumes,41.52,79.91,5.51,11.96,13.27,14.97,26.16,30.64,46.87,57.08
+F25-0937,ABC-5452,Centrosema macrocarpum,Herbaceous_legumes,40.81,64.93,5.2,9.34,12.74,14.37,19.7,-26.38,56.12,36.16
+F24-3620,ABC-5512,Centrosema brasilianum,Herbaceous_legumes,45.26,77.92,6.46,12.53,14.28,16.09,27.16,12.07,45.89,59.21
+F24-3621,ABC-5568,Centrosema acutifolium,Herbaceous_legumes,35.23,67.15,4.96,10.7,14.09,15.92,23.35,5.02,52.67,44.5
+F24-3622,ABC-5657,Centrosema brasilianum,Herbaceous_legumes,41.23,72.9,5.27,10.88,12.8,14.93,23.68,8.63,47.4,50.66
+F25-0938,ABC-5733,Centrosema macrocarpum,Herbaceous_legumes,40.26,66.64,5.31,9.81,13.21,14.72,20.58,-17.18,48.62,43.99
+F25-0939,ABC-5735,Centrosema macrocarpum,Herbaceous_legumes,45.14,73.33,6.27,11.22,13.9,15.3,23.86,5.15,47.18,51.89
+F24-3623,ABC-5744,Centrosema macrocarpum,Herbaceous_legumes,33.95,59.04,4.8,9.46,14.14,16.01,20.19,-9.37,55.63,37.76
+F25-0940,ABC-5749,Centrosema plumieri,Herbaceous_legumes,42.87,77.22,5.47,11.58,12.76,14.97,24.86,12.94,59.19,46.65
+F25-0941,ABC-5911,Centrosema macrocarpum,Herbaceous_legumes,46.17,76.43,6.05,11.43,13.1,14.96,23.97,-10.32,61.94,41.46
+F24 3416,ABC-705,Indigofera suffruticosa,Herbaceous_legumes,29.35,61.94,4.18,10.75,14.26,17.35,134.59,149.32,31.84,74.34
+F24 3417,ABC-707,Alysicarpus ovalifolius,Herbaceous_legumes,30.58,66.26,4.14,10.77,13.54,16.24,147.01,125.18,36.44,65.97
+F24 3418,ABC-712,Clitoria ternatea,Herbaceous_legumes,39.78,78.31,5.0,11.59,12.57,14.79,171.45,153.83,40.73,62.66
+F24-3624,ABC-7131,Eriosema diffusum,Herbaceous_legumes,18.61,37.01,2.58,5.6,13.3,14.58,12.13,-24.38,55.01,23.05
+F24-3616,ABC-715,Canavalia ensiformis,Herbaceous_legumes,37.49,72.02,5.21,11.11,13.9,15.43,24.51,-5.86,44.05,55.83
+F25-0963,ABC-7227,Galactia texana,Herbaceous_legumes,32.47,62.26,3.39,7.17,10.43,11.52,15.4,-16.8,31.16,51.21
+F24 3434,ABC-7292,Chamaecrista desvauxii,Herbaceous_legumes,28.77,51.11,4.19,8.17,14.51,16.05,111.04,249.39,36.64,48.53
+F24 3434,ABC-7292,Chamaecrista desvauxii,Herbaceous_legumes,28.77,51.11,4.19,8.17,14.51,16.05,111.04,249.39,36.64,48.53
+F24 3435,ABC-7317,Canavalia sp.,Herbaceous_legumes,34.9,64.66,5.2,10.57,14.86,16.36,139.8,108.22,32.96,69.48
+F24-3625,ABC-7318,Canavalia sp.,Herbaceous_legumes,40.05,81.75,5.07,12.32,12.68,15.06,26.64,-13.15,51.63,53.32
+F24 3436,ABC-7322,Canavalia sp.,Herbaceous_legumes,35.9,73.43,5.78,13.11,15.95,17.8,164.28,133.46,39.25,74.78
+F24 3437,ABC-7339,Indigofera lespedezioides,Herbaceous_legumes,28.5,47.62,4.34,8.06,15.14,16.95,103.48,205.88,32.89,54.07
+F24 3437,ABC-7339,Indigofera lespedezioides,Herbaceous_legumes,28.5,47.62,4.34,8.06,15.14,16.95,103.48,205.88,32.89,54.07
+F24-3626,ABC-7395,Galactia striata,Herbaceous_legumes,33.11,70.1,4.2,10.56,12.69,15.04,23.01,-6.04,51.12,49.13
+F24 3438,ABC-7469,Clitoria ternatea,Herbaceous_legumes,38.78,75.99,6.19,12.94,15.82,17.0,164.84,116.41,42.97,66.22
+F24 3419,ABC-749,Crotalaria juncea,Herbaceous_legumes,35.75,67.64,5.01,10.55,14.03,15.59,147.39,150.15,35.43,65.15
+F24 3439,ABC-7643,Desmanthus pernambucanus,Shrub_Trees,28.58,52.35,4.41,8.99,15.06,16.94,116.87,161.7,42.3,47.11
+F24-3627,ABC-7648,Canavalia brasiliensis,Herbaceous_legumes,38.62,74.52,4.9,11.38,12.69,15.25,24.74,-17.63,52.12,51.9
+F24 3420,ABC-768,Clitoria ternatea,Herbaceous_legumes,33.53,74.13,4.52,11.67,13.49,15.73,160.77,134.6,39.08,64.82
+F24 3440,ABC-7703,Aeschynomene indica,Herbaceous_legumes,34.95,65.78,5.35,10.67,15.23,16.22,143.02,100.78,40.57,57.76
+F24 3440,ABC-7703,Aeschynomene indica,Herbaceous_legumes,34.95,65.78,5.35,10.67,15.23,16.22,143.02,100.78,40.57,57.76
+F24 3441,ABC-7714,Alysicarpus glumaceus,Herbaceous_legumes,36.05,65.7,5.49,10.98,15.09,16.6,141.15,99.24,36.76,64.72
+F24 3421,ABC-772,Clitoria ternatea,Herbaceous_legumes,32.31,75.06,4.33,11.18,13.46,14.99,163.99,77.57,37.92,65.1
+F24-3628,ABC-7746,Crotalaria paulina,Herbaceous_legumes,38.08,72.31,4.9,10.73,12.88,14.83,23.29,1.97,41.13,57.79
+F24 3442,ABC-7757,Clitoria ternatea,Herbaceous_legumes,41.62,78.36,6.6,13.59,15.8,17.25,170.05,145.5,46.06,64.37
+F24 3443,ABC-7759,Clitoria ternatea,Herbaceous_legumes,40.39,84.22,6.41,14.29,15.8,16.82,179.95,120.14,47.01,64.84
+F24 3444,ABC-7790,Crotalaria pallida,Herbaceous_legumes,32.89,69.33,5.31,13.22,16.07,18.9,150.4,101.62,46.83,61.25
+F24 3445,ABC-7792,Chamaecrista rotundifolia,Herbaceous_legumes,40.93,73.08,6.04,12.39,14.69,16.83,157.21,91.88,40.68,65.8
+F24-3629,ABC-7813,Indigofera cryptantha,Herbaceous_legumes,44.47,90.6,6.28,15.55,14.13,17.16,34.48,-24.64,58.94,61.74
+F24 3446,ABC-7816,Indigofera spicata,Herbaceous_legumes,29.44,61.9,3.97,9.96,13.37,15.95,133.76,113.18,32.93,65.79
+F24-3630,ABC-7831,Tephrosia rhodesica,Shrub_Trees,38.43,73.54,5.73,12.93,14.91,17.57,27.61,6.82,54.47,51.58
+F24 3447,ABC-7858,Crotalaria incana,Herbaceous_legumes,46.57,82.39,6.88,13.51,14.73,16.32,176.73,82.63,38.8,75.03
+F24-3631,ABC-7894,Canavalia brasiliensis,Herbaceous_legumes,35.62,68.53,4.42,10.37,12.54,15.22,22.2,-23.08,45.98,49.64
+F24 3448,ABC-7972,Canavalia brasiliensis,Herbaceous_legumes,36.2,67.42,4.98,10.93,13.76,16.13,146.61,115.44,35.17,68.52
+F24-3632,ABC-7991,Indigofera suffruticosa,Herbaceous_legumes,30.66,64.0,4.52,10.75,14.83,16.73,23.12,-54.57,63.57,39.55
+F25-0964,ABC-8013,Crotalaria paulina,Herbaceous_legumes,45.26,88.17,5.97,12.79,13.2,14.51,27.28,42.36,44.51,64.81
+F25-0965,ABC-8156,Chamaecrista rotundifolia,Herbaceous_legumes,42.01,60.39,6.07,9.76,14.43,16.16,20.74,12.11,44.88,48.38
+F24 3422,ABC-819,Indigofera suffruticosa,Herbaceous_legumes,32.19,63.24,4.58,10.73,14.22,16.94,139.32,201.43,39.4,60.93
+F24-3633,ABC-8202,Chamaecrista rotundifolia,Herbaceous_legumes,46.14,74.23,6.28,11.52,13.61,15.52,24.86,-4.86,48.87,51.8
+F24 3449,ABC-8205,Indigofera suffruticosa,Herbaceous_legumes,27.41,57.83,4.67,10.54,16.87,18.02,125.33,172.4,36.31,63.4
+F24 3450,ABC-8402,Indigofera suffruticosa,Herbaceous_legumes,32.59,58.25,5.33,10.46,16.26,17.93,126.58,197.94,35.27,64.85
+F24 3451,ABC-8408,Chamaecrista nictitans,Herbaceous_legumes,32.48,61.75,4.88,11.31,15.03,18.27,131.26,421.29,50.04,48.31
+F24 3452,ABC-8409,Chamaecrista nictitans,Herbaceous_legumes,32.07,54.35,4.94,10.18,15.29,18.6,118.18,178.81,42.31,52.95
+F25-0988,ABC-8512,Calopogonium caeruleum,Herbaceous_legumes,28.25,61.08,4.13,9.78,14.62,15.99,21.03,-31.58,80.58,33.65
+F24 3453,ABC-8719,Canavalia sp.,Herbaceous_legumes,35.73,65.97,5.12,10.94,14.29,16.47,141.01,239.5,34.19,69.74
+F24 3453,ABC-8719,Canavalia sp. ,Herbaceous_legumes,35.73,65.97,5.12,10.94,14.29,16.47,141.01,239.5,34.19,69.74
+F24 3454,ABC-8797,Desmanthus virgatus,Shrub_Trees,29.35,54.44,3.92,8.56,13.23,15.52,117.15,207.39,37.41,49.41
+F24 3455,ABC-8819,Coursetia caribaea,Herbaceous_legumes,30.66,63.85,4.95,11.49,15.99,17.87,139.09,725.23,38.36,65.65
+F24-3617,ABC-887,Calopogonium mucunoides,Herbaceous_legumes,32.87,62.18,4.75,10.09,14.44,16.22,21.88,-7.01,41.52,52.78
+F24 3423,ABC-905,Canavalia brasiliensis,Herbaceous_legumes,38.42,76.32,4.64,11.79,12.08,15.4,166.0,908.11,40.88,63.42
+F24 3424,ABC-913,Cajanus cajan,Shrub_Trees,23.97,58.26,3.24,9.37,13.53,16.14,122.89,102.87,32.83,60.86
+F24 3456,ABC-9170,Indigofera lespedezioides,Herbaceous_legumes,28.1,44.6,4.25,7.44,15.12,16.69,95.77,468.12,38.2,42.54
+F24-3634,ABC-9189,Indigofera suffruticosa,Herbaceous_legumes,36.85,68.25,5.6,11.92,15.22,17.47,25.84,-6.88,45.56,57.89
+F24-3618,ABC-923,Galactia latisiliqua,Herbaceous_legumes,42.36,90.16,5.95,14.7,14.04,16.3,31.65,22.22,49.82,63.67
+F24 3457,ABC-9254,Crotalaria pallida,Herbaceous_legumes,31.49,68.2,5.74,14.2,18.25,20.76,150.13,222.84,52.29,59.58
+F24 3458,ABC-9283,Crotalaria pallida,Herbaceous_legumes,32.82,67.76,5.95,14.12,18.13,20.82,145.95,254.6,50.83,60.12
+F24 3459,ABC-9288,Indigofera suffruticosa,Herbaceous_legumes,39.46,68.94,7.65,15.62,19.38,22.66,147.0,168.5,49.11,68.02
+F25-0966,ABC-9323,Crotalaria vitellina,Herbaceous_legumes,55.63,96.53,8.15,15.19,14.66,15.74,32.86,22.03,51.69,64.57
+F24 3460,ABC-9336,Clitoria ternatea,Herbaceous_legumes,46.54,77.42,8.67,15.66,18.63,20.19,171.22,214.71,50.58,69.14
+F24 3461,ABC-9349,Mucuna pruriens,Herbaceous_legumes,30.09,59.72,5.22,11.06,17.35,18.52,130.61,295.65,43.23,56.47
+F24 3462,ABC-9356,Tephrosia noctiflora,Shrub_Trees,32.3,59.94,6.04,12.28,18.7,20.48,128.77,375.49,49.48,53.77
+F24 3463,ABC-9432,Clitoria ternatea,Herbaceous_legumes,37.61,70.8,6.57,13.42,17.47,18.95,155.06,-897.64,54.34,55.34
+F24 3464,ABC-9433,Clitoria ternatea,Herbaceous_legumes,39.97,68.49,7.18,13.26,17.95,19.36,145.22,817.84,46.43,61.82
+F24-3635,ABC-9434,Clitoria ternatea,Herbaceous_legumes,41.72,82.24,6.21,13.39,14.89,16.28,29.49,-0.47,64.01,52.1
+F24 3465,ABC-9435,Desmanthus pubescens,Shrub_Trees,27.95,48.29,4.49,9.13,16.03,18.91,102.04,938.76,44.69,43.26
+F24 3466,ABC-9530,Crotalaria maypurensis,Herbaceous_legumes,47.13,83.98,8.02,16.13,17.02,19.21,179.98,-1583.5,51.12,68.2
+F25-0967,ABC-9537,Crotalaria sagittalis,Herbaceous_legumes,38.23,84.97,5.21,12.47,13.62,14.68,27.16,27.96,43.17,63.64
+F24 3425,ABC-955,Clitoria ternatea,Herbaceous_legumes,37.78,84.29,4.83,12.25,12.82,14.54,183.5,138.41,45.45,59.65
+F24 3467,ABC-9562,Eriosema diffusum,Herbaceous_legumes,19.25,33.54,3.21,6.04,16.7,18.01,71.37,-159.56,40.6,35.83
+F25-0968,ABC-9690,Aeschynomene histrix,Herbaceous_legumes,44.87,81.63,6.4,12.69,14.26,15.55,27.05,16.74,48.01,58.38
+F24 3426,ABC-989,Indigofera hirsuta,Herbaceous_legumes,24.89,43.03,3.73,6.9,14.92,15.99,93.13,49.86,29.71,50.48
+F24 3426,ABC-989,Indigofera hirsuta,Herbaceous_legumes,24.89,43.03,3.73,6.9,14.92,15.99,93.13,49.86,29.71,50.48
+F25-0969,ABC-9900,Pueraria phaseoloides,Herbaceous_legumes,25.84,60.69,3.63,8.92,14.1,14.7,19.22,-5.05,53.98,41.75
+F24 3468,ABC-9982,Crotalaria incana,Herbaceous_legumes,45.21,84.8,7.72,16.11,17.05,19.0,180.65,178.64,47.26,72.64
+F24 3602,ABC-BH08_1149,Brachiaria humidicola,Grass,37.6,80.76,6.32,15.09,16.71,18.65,171.54,119.09,55.07,58.28
+F24 3606,ABC-BH16B_0733,Brachiaria humidicola,Grass,38.14,82.14,6.36,15.25,16.61,18.55,169.84,119.57,54.65,57.87
+F24 3607,ABC-BH16B_0741,Brachiaria humidicola,Grass,37.84,81.5,6.24,15.23,16.41,18.66,168.39,130.36,53.66,58.82
+F24 3608,ABC-BH16B_1194,Brachiaria humidicola,Grass,39.76,87.64,6.33,15.75,15.93,17.98,180.29,127.72,56.09,57.89
+F24 3609,ABC-BH16B_1618,Brachiaria humidicola,Grass,35.19,77.07,5.78,13.49,16.37,17.53,158.9,126.29,49.87,55.96
+F24 3610,ABC-BH16B_1707,Brachiaria humidicola,Grass,40.01,89.41,6.37,16.1,15.83,17.95,184.66,130.17,58.33,56.99
+F24 3603,ABC-BH16_0550,Brachiaria humidicola,Grass,38.92,85.33,6.36,15.6,16.28,18.26,179.21,128.43,58.06,56.56
+F24 3604,ABC-BH16_0562,Brachiaria humidicola,Grass,39.07,80.07,6.48,15.63,15.85,18.02,180.76,125.98,57.88,56.42
+F24 3605,ABC-BH16_3249,Brachiaria humidicola,Grass,39.61,86.22,6.43,15.67,16.17,18.16,178.91,115.99,55.41,59.07
+F24 3582,ABC-BR02_1752,Brachiaria interespecifico,Grass,37.05,74.98,5.17,10.95,13.98,14.61,156.06,100.28,33.83,67.39
+F24 3583,ABC-BR02_1794,Brachiaria interespecifico,Grass,38.62,76.6,5.32,11.11,13.79,14.51,157.75,116.14,35.77,63.97
+F24 3584,ABC-BR06_0423,Brachiaria interespecifico,Grass,34.15,74.44,4.44,10.69,13.06,14.39,153.75,102.7,34.29,64.5
+F24 3585,ABC-BR09_1232,Brachiaria interespecifico,Grass,39.81,81.29,5.48,11.69,13.76,14.37,167.08,108.2,36.04,66.64
+F24 3586,ABC-BR12_4951,Brachiaria interespecifico,Grass,35.72,75.13,5.13,11.3,14.34,15.02,156.86,103.45,35.76,65.93
+F24 3587,ABC-BR15_0722,Brachiaria interespecifico,Grass,31.69,71.09,4.53,10.48,14.28,14.74,149.27,105.0,36.15,60.89
+F24 3588,ABC-BR15_6487,Brachiaria interespecifico,Grass,33.48,72.69,4.69,10.48,14.01,14.41,152.82,106.37,36.06,61.15
+F24 3589,ABC-BR19_0029,Brachiaria interespecifico,Grass,36.69,76.53,5.1,11.37,13.94,14.86,159.25,117.48,38.23,62.0
+F24 3590,ABC-BR19_0423,Brachiaria interespecifico,Grass,37.69,77.71,5.24,11.2,13.93,14.41,162.91,107.12,37.16,63.48
+F25 0994,ABC-CIAT_16048,Megathyrsus maximus,Grass,35.25,69.05,5.38,11.51,15.24,16.67,141.48,155.1,48.72,48.5
+F25 0997,ABC-CIAT_16051,Megathyrsus maximus,Grass,35.25,69.48,5.28,11.73,14.93,16.89,144.4,212.21,53.87,45.79
+F24 3611,ABC-CIAT_16888,Brachiaria humidicola,Grass,40.65,84.1,6.68,15.36,16.38,18.25,181.95,145.13,62.67,53.26
+F25 1005,ABC-CIAT_6799,Megathyrsus maximus,Grass,27.0,64.22,4.04,10.42,14.92,16.23,133.68,175.55,51.97,42.1
+F25 1001,ABC-CIAT_6890,Megathyrsus maximus,Grass,34.66,73.91,4.99,11.98,14.33,16.21,153.66,104.95,47.38,52.75
+F24 3591,ABC-CIAT_6962,Megathyrsus maximus,Grass,31.3,68.88,4.63,10.93,14.82,15.87,143.8,98.89,40.73,56.51
+F24 3592,ABC-Mulato_II,Brachiaria interespecifico,Grass,33.95,73.8,4.81,10.8,14.21,14.64,152.58,91.55,34.27,65.32
+F25 1008,ABC-PM21_0047,Megathyrsus maximus,Grass,35.1,72.44,5.09,11.69,14.43,16.14,150.62,-90.3,50.93,48.46
+F25 1003,ABC-PM21_0052,Megathyrsus maximus,Grass,33.83,70.08,4.83,11.35,14.21,16.2,146.81,164.15,47.43,50.41
+F25 0990,ABC-PM21_0053,Megathyrsus maximus,Grass,34.66,72.78,5.09,11.94,14.63,16.41,151.89,141.09,49.04,51.43
+F25 1006,ABC-PM21_0055,Megathyrsus maximus,Grass,32.6,67.57,4.63,11.01,14.16,16.3,140.3,197.07,49.43,46.4
+F25 1011,ABC-PM21_0059,Megathyrsus maximus,Grass,33.73,69.68,4.82,11.42,14.2,16.38,142.81,282.6,48.85,49.0
+F25 1013,ABC-PM21_0062,Megathyrsus maximus,Grass,35.01,72.83,4.91,11.52,13.96,15.8,148.33,177.35,51.57,45.37
+F25 1000,ABC-PM21_0076,Megathyrsus maximus,Grass,35.2,71.8,5.26,12.07,14.89,16.81,151.21,81.02,56.0,47.61
+F25 0993,ABC-PM21_0086,Megathyrsus maximus,Grass,34.86,69.24,5.18,11.48,14.82,16.59,141.97,189.58,51.77,45.63
+F25 0995,ABC-PM21_0185,Megathyrsus maximus,Grass,34.76,69.19,5.0,11.41,14.37,16.5,143.33,195.92,50.84,46.9
+F24 3593,ABC-PM21_0215,Megathyrsus maximus,Grass,32.08,68.24,4.74,11.02,14.81,16.18,142.05,115.48,41.92,54.75
+F25 0996,ABC-PM21_0215,Megathyrsus maximus,Grass,33.73,71.21,4.95,11.79,14.64,16.56,148.92,178.23,52.38,47.29
+F24 3594,ABC-PM21_0631,Megathyrsus maximus,Grass,38.59,75.64,5.44,11.96,14.13,15.82,156.18,125.16,43.25,57.12
+F25 1014,ABC-PM21_0906,Megathyrsus maximus,Grass,32.84,66.83,4.53,10.41,13.73,15.55,137.1,142.26,43.95,48.6
+F24 3595,ABC-PM21_2195,Megathyrsus maximus,Grass,34.64,71.64,4.97,11.29,14.39,15.76,147.93,112.15,44.07,52.92
+F25 1009,ABC-PM21_2195,Megathyrsus maximus,Grass,34.17,71.35,4.89,11.37,14.26,15.93,147.06,233.06,49.68,47.86
+F25 1010,ABC-PM21_2627,Megathyrsus maximus,Grass,29.85,64.12,4.28,10.24,14.24,15.97,131.64,154.9,43.9,47.9
+F24 3596,ABC-PM21_3522,Megathyrsus maximus,Grass,36.6,73.45,5.25,11.67,14.39,15.89,152.26,106.77,41.34,58.99
+F25 1012,ABC-PM21_3522,Megathyrsus maximus,Grass,32.7,66.83,4.52,10.45,13.74,15.62,137.5,152.24,50.63,43.41
+F24 3597,ABC-PM21_3534,Megathyrsus maximus,Grass,36.81,75.35,6.32,14.2,17.12,18.84,154.81,115.55,50.14,58.31
+F24 3598,ABC-PM21_3537,Megathyrsus maximus,Grass,42.51,81.69,7.29,15.76,17.09,19.29,168.13,129.62,50.43,65.81
+F24 3599,ABC-PM21_3545,Megathyrsus maximus,Grass,33.47,72.0,5.64,13.77,16.87,18.98,156.09,141.19,51.18,58.21
+F25 0991,ABC-PM21_3550,Megathyrsus maximus,Grass,32.84,66.14,4.82,10.99,14.62,16.61,136.77,172.84,50.76,45.11
+F25 0992,ABC-PM21_3595,Megathyrsus maximus,Grass,31.96,67.27,4.75,10.94,14.84,16.26,140.27,170.26,50.56,45.29
+F24 3600,ABC-PM21_3670,Megathyrsus maximus,Grass,35.02,71.89,5.76,13.47,16.51,18.79,150.95,128.76,48.38,58.76
+F25 0999,ABC-PM21_3684,Megathyrsus maximus,Grass,37.37,75.09,5.46,12.18,14.59,16.22,154.08,115.73,47.31,53.76
+F25 1004,ABC-PM21_4449,Megathyrsus maximus,Grass,29.7,65.7,4.34,10.77,14.56,16.39,136.64,199.67,52.89,42.72
+F25 0998,ABC-PM21_6080,Megathyrsus maximus,Grass,32.2,64.81,4.86,10.91,15.08,16.84,134.46,-490.27,50.46,45.89
+F25 1007,ABC-PM21_6529,Megathyrsus maximus,Grass,30.63,65.85,4.36,10.54,14.17,15.99,136.31,165.2,46.72,46.81
+F24 3601,ABC-PM21_6628,Megathyrsus maximus,Grass,36.86,73.29,6.34,14.13,17.23,19.34,155.16,119.98,49.84,60.12
+F25 1002,ABC-PM21_6638,Megathyrsus maximus,Grass,33.58,67.81,4.75,10.78,14.13,15.91,141.67,152.59,45.83,49.71
+F25-0769,AMC-ICARDA-156302,Trifolium repens,Herbaceous_legumes,37.76,86.99,6.03,14.09,15.97,16.19,191.39,-75.1,43.67,72.0
+F25-1655,CIAT-1992,Stylosanthes guianensis,Herbaceous_legumes,30.06,69.11,3.56,8.99,11.81,13.01,17.54,0.82,48.53,39.69
+F25-1656,CIAT-3001,Codariocalyx gyroides,Shrub_Trees,24.41,49.94,3.07,7.02,12.54,14.04,13.71,-11.84,45.13,34.35
+F25-1657,CIAT-3304,Desmodium cajanifolium,Shrub_Trees,44.82,79.69,5.99,11.61,13.34,14.55,22.52,-12.85,54.83,43.46
+F25-1658,CIAT-5713,Centrosema macrocarpum,Herbaceous_legumes,37.34,72.85,5.2,11.31,13.92,15.52,21.89,-32.88,60.77,38.7
+F25-1659,CIAT-7381,Galactia glaucescens,Herbaceous_legumes,22.05,41.78,2.79,6.1,12.66,14.6,11.72,-34.62,105.18,21.46
+F25-1660,CIAT-7799,Dioclea guianensis,Herbaceous_legumes,18.61,37.16,2.29,5.02,12.31,13.49,9.82,-30.91,102.97,13.27
+F25-1661,CIAT-7803,Dioclea holtiana,Herbaceous_legumes,22.1,43.21,2.52,5.5,11.41,12.73,10.7,-24.17,68.49,24.78
+F25-1651,CIAT-798,Galactia striata,Herbaceous_legumes,36.51,82.59,4.65,12.35,12.72,14.94,24.32,12.98,53.66,49.62
+F25-1662,CIAT-8182,Eriosema diffusum,Herbaceous_legumes,25.0,44.39,3.26,6.46,13.1,14.59,12.51,-25.71,118.46,21.92
+F25-1652,CIAT-822,Calopogonium mucunoides,Herbaceous_legumes,36.85,69.36,5.16,10.57,14.01,15.25,20.43,0.04,43.7,49.82
+F25-1663,CIAT-8434,Dioclea sericea,Herbaceous_legumes,25.25,47.68,3.4,7.17,13.44,15.03,14.18,-27.7,97.89,19.87
+F25-1653,CIAT-852,Dioclea sericea,Herbaceous_legumes,18.07,33.08,2.13,4.31,11.81,13.06,8.39,-37.15,43.16,23.64
+F25-1664,CIAT-8702,Calopogonium caeruleum,Herbaceous_legumes,30.61,56.97,4.43,9.17,14.46,16.11,17.98,-24.55,68.3,31.99
+F25-1665,CIAT-8816,Crotalaria micans,Herbaceous_legumes,49.78,88.1,6.88,13.45,13.81,15.27,26.26,16.7,43.29,62.44
+F25-1654,CIAT-907,Dioclea virgata,Herbaceous_legumes,26.13,62.23,3.54,9.68,13.54,15.55,18.76,-1.67,57.71,36.64
+F25-2145,CIAT-BH16B_2165,Urochloa humidicola,Grass,34.37,88.67,4.32,12.64,12.58,14.24,23.72,36.53,43.54,54.77
+F25-2146,CIAT-BH16B_2167,Urochloa humidicola,Grass,31.62,83.66,4.0,11.6,12.67,13.87,21.41,30.72,43.77,49.81
+F25-2144,CIAT-BH16_1763,Urochloa humidicola,Grass,34.96,84.49,4.29,11.68,12.28,13.82,22.18,31.52,41.73,53.52
+F252178,CIAT-BH22_0071,Urochloa humidicola,Grass,25.0,72.24,3.17,9.86,12.67,13.65,20.3,23.96,44.3,45.85
+F25-2178,CIAT-BH22_0071,Urochloa humidicola,Grass,29.7,77.32,3.84,11.0,13.04,14.37,23.56,-1.84,145.75,27.72
+F25-2172,CIAT-BH22_0132,Urochloa humidicola,Grass,29.11,73.92,3.7,10.25,12.72,13.86,19.32,-2.79,95.25,26.1
+F25-2175,CIAT-BH22_0456,Urochloa humidicola,Grass,34.06,90.72,4.47,12.78,13.02,13.91,26.03,3.94,102.73,34.77
+F252175,CIAT-BH22_0456,Urochloa humidicola,Grass,27.81,81.83,3.56,11.09,12.8,13.55,22.9,26.95,45.49,50.37
+F25-2166,CIAT-BH22_0528,Urochloa humidicola,Grass,26.06,71.42,3.37,10.0,12.93,14.0,18.79,-4.54,146.98,23.11
+F25-2170,CIAT-BH22_0765,Urochloa humidicola,Grass,29.79,72.3,4.03,10.26,13.54,14.22,19.52,0.86,117.87,28.37
+F25-2163,CIAT-BH22_1258,Urochloa humidicola,Grass,31.96,82.13,4.11,11.53,12.87,14.04,21.43,-1.69,82.25,27.68
+F252180,CIAT-BH22_1267,Urochloa humidicola,Grass,27.51,79.47,3.42,10.87,12.43,13.68,22.23,15.04,55.75,39.89
+F25-2180,CIAT-BH22_1267,Urochloa humidicola,Grass,32.29,85.47,4.09,12.08,12.74,14.34,26.42,0.88,270.12,29.82
+F25-2181,CIAT-BH22_1303,Urochloa humidicola,Grass,32.25,83.9,4.2,11.92,13.15,14.47,26.36,4.72,101.14,31.28
+F252181,CIAT-BH22_1303,Urochloa humidicola,Grass,26.48,77.99,3.35,10.74,12.67,13.77,22.16,27.05,47.14,47.07
+F25-2164,CIAT-BH22_1370,Urochloa humidicola,Grass,28.56,74.71,3.68,10.46,12.89,13.99,19.56,3.39,67.25,36.08
+F25-2157,CIAT-BH22_1375,Urochloa humidicola,Grass,35.21,87.95,4.38,12.37,12.44,14.06,23.76,9.28,71.42,38.62
+F25-2161,CIAT-BH22_1706,Urochloa humidicola,Grass,27.48,76.97,3.41,10.69,12.42,13.89,20.08,2.51,82.91,29.45
+F252176,CIAT-BH22_1832,Urochloa humidicola,Grass,28.1,81.68,3.58,11.13,12.73,13.63,22.87,28.45,47.51,48.27
+F25-2176,CIAT-BH22_1832,Urochloa humidicola,Grass,32.84,87.1,4.32,12.28,13.25,14.22,25.77,6.97,141.93,32.5
+F252177,CIAT-BH22_1872,Urochloa humidicola,Grass,28.1,79.47,3.54,11.01,12.6,13.85,22.54,25.97,47.76,47.33
+F25-2177,CIAT-BH22_1872,Urochloa humidicola,Grass,33.58,87.25,4.36,12.53,13.05,14.42,26.18,-5.62,316.34,24.68
+F25-2183,CIAT-BH22_2046,Urochloa humidicola,Grass,34.91,85.53,4.39,11.92,12.75,14.2,26.15,-1.57,102.72,28.61
+F252183,CIAT-BH22_2046,Urochloa humidicola,Grass,30.31,80.21,3.69,10.76,12.2,13.42,22.16,24.17,47.65,46.42
+F25-2174,CIAT-BH22_2074,Urochloa humidicola,Grass,32.6,83.36,4.38,12.1,13.41,14.49,24.98,8.01,71.56,37.63
+F252174,CIAT-BH22_2074,Urochloa humidicola,Grass,28.1,87.46,3.48,12.4,12.4,14.14,25.59,28.72,48.82,52.78
+F25-2169,CIAT-BH22_2189,Urochloa humidicola,Grass,28.61,69.99,3.7,9.83,12.93,14.04,18.84,-6.17,76.17,27.59
+F25-2165,CIAT-BH22_2225,Urochloa humidicola,Grass,31.12,81.0,4.14,11.66,13.31,14.4,21.83,4.47,103.85,30.15
+F252182,CIAT-BH22_2508,Urochloa humidicola,Grass,29.87,79.61,3.87,11.15,12.97,14.01,22.77,29.76,44.9,50.9
+F25-2182,CIAT-BH22_2508,Urochloa humidicola,Grass,35.3,84.94,4.73,12.34,13.44,14.59,25.57,-3.29,111.51,27.25
+F25-2171,CIAT-BH22_2531,Urochloa humidicola,Grass,29.94,77.02,3.78,10.83,12.53,14.02,20.97,1.39,143.87,29.77
+F25-2156,CIAT-BH22_3115,Urochloa humidicola,Grass,31.02,84.54,3.77,11.71,12.14,13.86,22.23,12.06,62.56,37.57
+F25-2167,CIAT-BH22_3507,Urochloa humidicola,Grass,27.98,70.23,3.58,9.8,12.79,13.93,18.59,-7.33,113.16,22.86
+F25-2173,CIAT-BH22_3521,Urochloa humidicola,Grass,29.6,71.27,3.89,9.99,13.17,14.02,18.53,-6.6,121.53,27.73
+F25-2153,CIAT-BH22_4092,Urochloa humidicola,Grass,36.83,84.0,4.64,11.85,12.6,14.1,22.23,22.61,47.17,47.84
+F25-2162,CIAT-BH22_4169,Urochloa humidicola,Grass,26.16,75.45,3.38,10.71,12.93,14.2,19.96,0.19,86.19,27.87
+F25-2168,CIAT-BH22_4253,Urochloa humidicola,Grass,30.68,74.71,3.98,10.46,12.99,14.01,19.88,-4.91,93.59,28.65
+F25-2179,CIAT-BH22_4454,Urochloa humidicola,Grass,34.17,81.3,4.59,11.89,13.6,14.85,25.33,-0.35,131.33,31.18
+F252179,CIAT-BH22_4454,Urochloa humidicola,Grass,30.46,78.29,3.99,11.21,13.1,14.32,22.96,20.89,50.09,45.93
+F25-2160,CIAT-BH22_4865,Urochloa humidicola,Grass,29.01,75.45,3.72,10.64,12.84,14.1,20.23,2.11,69.45,34.09
+F25-1721,CIAT-BR02_0465,Brachiaria interespecifico,Grass,28.28,75.07,3.46,10.6,12.13,14.13,21.88,14.16,51.44,43.68
+F25-1722,CIAT-BR04_3025,Brachiaria interespecifico,Grass,31.48,85.24,4.25,12.47,13.46,14.64,26.01,24.03,54.31,48.78
+F25-1723,CIAT-BR05_1435,Brachiaria interespecifico,Grass,21.01,65.72,2.63,9.37,12.36,14.27,19.49,11.18,45.58,43.49
+F25-2104,CIAT-BR06_1348,Brachiaria interespecifico,Grass,37.03,78.64,4.58,10.92,12.41,13.9,20.82,-8.39,69.37,35.23
+F25-1724,CIAT-BR09_3660,Brachiaria interespecifico,Grass,31.43,73.2,4.07,10.39,12.86,14.23,21.59,8.36,52.53,44.62
+F25-2105,CIAT-BR09_4467,Brachiaria interespecifico,Grass,34.81,74.49,4.35,10.4,12.52,13.97,20.2,-5.35,73.83,37.88
+F25-2106,CIAT-BR09_4777,Brachiaria interespecifico,Grass,36.38,76.9,4.62,10.74,12.72,13.97,20.66,-16.46,89.44,31.32
+F25-2107,CIAT-BR12_0255,Brachiaria interespecifico,Grass,32.33,79.54,3.98,11.1,12.31,13.96,22.48,30.45,37.48,60.12
+F25-2108,CIAT-BR12_0461,Brachiaria interespecifico,Grass,31.39,82.44,3.94,11.76,12.52,14.27,23.05,36.82,37.7,61.59
+F25-1701,CIAT-BR12_1362,Brachiaria interespecifico,Grass,26.87,78.02,3.26,10.73,11.96,13.75,23.2,38.24,36.67,64.41
+F25-2109,CIAT-BR12_1620,Brachiaria interespecifico,Grass,33.11,80.13,4.11,11.15,12.4,13.92,21.48,33.95,36.04,60.13
+F25-2110,CIAT-BR12_1889,Brachiaria interespecifico,Grass,31.2,77.57,3.63,10.88,11.64,14.03,21.2,27.25,36.64,57.98
+F25-1702,CIAT-BR12_2462,Brachiaria interespecifico,Grass,23.92,73.55,3.13,9.63,12.94,13.07,20.12,25.41,35.78,56.21
+F25-1703,CIAT-BR12_3868,Brachiaria interespecifico,Grass,19.25,64.8,2.18,8.78,11.08,13.51,18.64,18.8,33.46,55.88
+F25-2111,CIAT-BR12_4039,Brachiaria interespecifico,Grass,30.95,77.67,3.79,11.09,12.23,14.29,21.38,29.13,38.13,56.17
+F25-1711,CIAT-BR12_4400,Brachiaria interespecifico,Grass,31.79,79.75,3.98,11.15,12.41,13.98,23.73,18.87,46.5,53.36
+F25-2112,CIAT-BR12_4856,Brachiaria interespecifico,Grass,28.94,72.71,3.63,10.26,12.56,14.1,20.06,20.7,40.7,49.55
+F25-2113,CIAT-BR12_5049,Brachiaria interespecifico,Grass,32.03,79.05,4.09,11.53,12.74,14.58,22.5,18.43,44.66,50.57
+F25-2114,CIAT-BR15_1851,Brachiaria interespecifico,Grass,33.8,82.64,4.33,11.87,12.8,14.36,22.93,17.77,45.29,51.12
+F25-1704,CIAT-BR15_2558,Brachiaria interespecifico,Grass,27.9,74.39,3.43,10.2,12.19,13.73,21.86,25.73,38.25,57.33
+F25-1705,CIAT-BR15_2811,Brachiaria interespecifico,Grass,24.56,73.21,2.97,9.65,11.99,13.19,20.6,22.61,36.8,56.83
+F25-1706,CIAT-BR15_2891,Brachiaria interespecifico,Grass,25.99,73.5,3.43,10.32,13.08,14.06,22.0,23.48,40.25,54.93
+F25-2115,CIAT-BR15_3025,Brachiaria interespecifico,Grass,33.56,79.93,4.31,11.42,12.84,14.28,22.16,20.37,42.43,52.27
+F25-2116,CIAT-BR15_3248,Brachiaria interespecifico,Grass,31.79,78.46,4.03,11.36,12.69,14.48,21.9,22.3,40.34,54.32
+F25-1712,CIAT-BR15_3434,Brachiaria interespecifico,Grass,30.8,79.21,4.1,11.24,13.16,14.18,23.74,12.12,49.11,50.69
+F25-1713,CIAT-BR15_3811,Brachiaria interespecifico,Grass,35.67,79.95,4.55,10.97,12.68,13.72,22.77,13.74,48.25,49.7
+F25-1714,CIAT-BR15_6547,Brachiaria interespecifico,Grass,26.63,69.67,3.28,9.56,12.37,13.83,20.18,14.91,41.87,50.44
+F25-1715,CIAT-BR15_7121,Brachiaria interespecifico,Grass,32.03,80.04,3.86,11.28,11.98,14.1,23.78,7.5,50.81,47.76
+F25-2117,CIAT-BR15_7659,Brachiaria interespecifico,Grass,32.92,80.48,4.08,11.33,12.39,14.07,21.66,21.68,41.22,52.92
+F25-1716,CIAT-BR15_8887,Brachiaria interespecifico,Grass,33.26,83.49,4.15,11.91,12.41,14.27,25.12,11.79,55.78,47.56
+F25-2118,CIAT-BR15_8919,Brachiaria interespecifico,Grass,29.97,79.2,3.72,11.11,12.42,14.02,21.96,22.36,43.24,50.93
+F25-1725,CIAT-BR19_1264,Brachiaria interespecifico,Grass,30.84,74.92,3.8,10.6,12.4,14.3,22.02,3.12,49.0,45.45
+F25-1707,CIAT-BR19_1343,Brachiaria interespecifico,Grass,22.84,69.33,2.73,9.22,11.84,13.31,19.58,16.17,39.18,50.61
+F25-1717,CIAT-BR19_4678,Brachiaria interespecifico,Grass,37.58,81.31,4.83,11.29,12.79,13.9,24.34,3.18,51.68,47.83
+F25-1718,CIAT-BR19_5029,Brachiaria interespecifico,Grass,33.2,75.98,4.37,10.95,13.11,14.43,22.89,17.62,45.62,51.34
+F25-1726,CIAT-BR19_5217,Brachiaria interespecifico,Grass,31.04,75.66,3.95,10.7,12.66,14.17,22.24,11.42,51.82,46.22
+F25-1719,CIAT-BR19_5357,Brachiaria interespecifico,Grass,31.28,77.08,4.03,10.97,12.81,14.24,23.2,11.77,49.66,48.47
+F25-1720,CIAT-BR19_5381,Brachiaria interespecifico,Grass,27.79,70.49,3.45,9.89,12.34,14.04,20.9,13.7,46.28,47.56
+F25-2119,CIAT-BR19_5515,Brachiaria interespecifico,Grass,33.06,82.64,4.09,11.6,12.34,14.04,23.48,21.19,45.3,52.02
+F25-2120,CIAT-BR19_5877,Brachiaria interespecifico,Grass,32.43,80.92,4.12,11.53,12.69,14.25,22.63,17.63,46.91,50.01
+F25-2121,CIAT-BR19_6136,Brachiaria interespecifico,Grass,32.03,78.56,4.05,11.11,12.63,14.14,21.86,9.99,48.9,46.05
+F25-2087,CIAT-CIAT_16021,Megathyrsus maximus,Grass,34.17,75.13,5.01,12.16,14.68,16.18,23.65,19.29,55.86,42.94
+F25-2092,CIAT-CIAT_16025,Megathyrsus maximus,Grass,33.68,73.02,4.52,10.94,13.42,14.98,21.85,21.18,49.69,45.83
+F25-2080,CIAT-CIAT_16031,Megathyrsus maximus,Grass,37.91,78.82,5.25,12.2,13.86,15.48,23.99,32.96,42.96,55.93
+F25-2101,CIAT-CIAT_16071,Megathyrsus maximus,Grass,29.9,66.92,4.11,10.53,13.77,15.74,20.63,-12.08,106.37,25.45
+F25-2147,CIAT-CIAT_16886,Urochloa humidicola,Grass,33.29,84.74,4.38,11.96,13.17,14.11,22.12,35.81,40.89,54.54
+F25-2148,CIAT-CIAT_16891,Urochloa humidicola,Grass,30.83,79.63,3.89,11.16,12.63,14.03,20.54,26.35,41.7,49.99
+F25-1708,CIAT-CIAT_26110,Brachiaria interespecifico,Grass,26.33,76.06,3.53,11.04,13.28,14.5,23.5,23.0,48.13,49.44
+F25-1727,CIAT-CIAT_26124,Brachiaria interespecifico,Grass,29.91,75.07,4.06,10.77,13.51,14.35,22.42,13.35,53.17,43.79
+F25-2149,CIAT-CIAT_26146,Urochloa humidicola,Grass,31.22,87.59,3.94,12.33,12.61,14.08,22.48,33.79,44.07,51.97
+F25-2150,CIAT-CIAT_26149,Urochloa humidicola,Grass,34.57,88.18,4.3,12.36,12.44,14.02,22.81,30.29,43.75,52.93
+F25-2151,CIAT-CIAT_26160,Urochloa humidicola,Grass,31.91,84.89,4.09,12.18,12.82,14.34,22.59,30.61,44.14,52.52
+F25-2152,CIAT-CIAT_26415,Urochloa humidicola,Grass,30.48,79.09,3.68,10.8,12.09,13.65,20.19,25.3,42.34,48.43
+F25-2154,CIAT-CIAT_26438,Urochloa humidicola,Grass,33.73,84.44,4.23,11.77,12.53,13.92,21.74,10.35,101.65,34.95
+F25-2155,CIAT-CIAT_26570,Urochloa humidicola,Grass,33.53,78.05,4.45,11.36,13.28,14.55,21.08,4.19,88.85,36.37
+F25-1709,CIAT-CIAT_26646,Brachiaria interespecifico,Grass,25.3,73.85,2.97,10.16,11.56,13.74,21.7,16.03,45.13,49.08
+F25-2081,CIAT-CIAT_26936,Megathyrsus maximus,Grass,35.2,77.93,5.08,12.27,14.43,15.75,23.56,30.79,44.14,53.71
+F25-2158,CIAT-CIAT_6133,Urochloa humidicola,Grass,29.89,83.61,3.69,11.6,12.34,13.88,22.12,10.89,86.18,35.05
+F25-1710,CIAT-CIAT_6297,Brachiaria interespecifico,Grass,26.38,74.14,3.44,10.59,12.91,14.27,22.25,14.83,50.2,47.27
+F25-2159,CIAT-CIAT_679,Urochloa humidicola,Grass,33.09,89.41,4.11,12.48,12.42,13.96,24.04,6.82,80.93,34.05
+F25-2098,CIAT-CIAT_6986,Megathyrsus maximus,Grass,30.43,71.94,4.18,10.88,13.76,15.13,21.61,13.59,89.09,37.94
+F25-2089,CIAT-PM21_0065,Megathyrsus maximus,Grass,40.66,81.18,5.75,12.61,14.13,15.53,24.25,22.26,49.51,49.57
+F25-2093,CIAT-PM21_0070,Megathyrsus maximus,Grass,35.06,77.64,4.82,11.98,13.72,15.4,23.56,16.18,72.54,44.11
+F25-2083,CIAT-PM21_0072,Megathyrsus maximus,Grass,36.88,75.82,5.0,11.56,13.57,15.25,22.66,29.29,42.67,53.17
+F25-2082,CIAT-PM21_0074,Megathyrsus maximus,Grass,39.19,77.0,5.45,11.83,13.9,15.36,22.79,29.96,41.79,54.87
+F25-2100,CIAT-PM21_0078,Megathyrsus maximus,Grass,32.4,72.03,4.46,11.02,13.78,15.3,21.68,2.68,93.99,35.33
+F25-2097,CIAT-PM21_0079,Megathyrsus maximus,Grass,32.75,74.74,4.41,11.19,13.48,14.99,21.84,15.75,58.14,42.24
+F25-2086,CIAT-PM21_0819,Megathyrsus maximus,Grass,38.45,79.36,5.3,12.11,13.78,15.26,23.99,25.77,46.72,51.88
+F25-2102,CIAT-PM21_0876,Megathyrsus maximus,Grass,32.4,72.72,4.35,10.87,13.43,14.94,21.44,1.19,97.08,34.18
+F25-2079,CIAT-PM21_2580,Megathyrsus maximus,Grass,39.93,83.49,5.48,12.84,13.72,15.38,25.66,38.97,42.58,60.3
+F25-2077,CIAT-PM21_3535,Megathyrsus maximus,Grass,34.17,73.66,4.82,11.43,14.12,15.52,22.25,32.59,41.28,53.93
+F25-2103,CIAT-PM21_3641,Megathyrsus maximus,Grass,32.45,72.03,4.34,10.81,13.41,15.01,20.88,6.26,93.13,35.27
+F25-2095,CIAT-PM21_3662,Megathyrsus maximus,Grass,32.6,74.74,4.51,11.43,13.86,15.31,22.2,18.82,64.31,44.73
+F25-2096,CIAT-PM21_4448,Megathyrsus maximus,Grass,30.53,74.98,4.3,11.61,14.09,15.49,22.08,12.73,91.21,37.1
+F25-2099,CIAT-PM21_4852,Megathyrsus maximus,Grass,29.94,70.51,4.13,10.72,13.86,15.24,21.37,8.08,106.21,33.03
+F25-2094,CIAT-PM21_4926,Megathyrsus maximus,Grass,25.52,64.31,3.65,10.11,14.36,15.74,20.09,7.72,73.16,34.14
+F25-2078,CIAT-PM21_6106,Megathyrsus maximus,Grass,35.75,74.98,5.19,12.01,14.51,16.02,23.76,38.06,40.45,58.82
+F25-2084,CIAT-PM21_6598,Megathyrsus maximus,Grass,38.84,79.75,5.23,12.12,13.47,15.17,23.47,24.81,46.34,50.76
+F25-2090,CIAT-PM21_6629,Megathyrsus maximus,Grass,32.16,72.28,4.39,10.95,13.68,15.16,21.07,24.41,47.95,44.82
+F25-2088,CIAT-PM21_6640,Megathyrsus maximus,Grass,32.89,72.57,4.51,11.27,13.7,15.53,22.0,23.66,44.24,49.86
+F25-2091,CIAT-PM21_6641,Megathyrsus maximus,Grass,43.51,81.33,6.26,12.84,14.36,15.81,24.86,23.05,48.44,51.47
+F25-2085,CIAT-PM21_6647,Megathyrsus maximus,Grass,39.38,80.19,5.57,12.41,14.16,15.47,24.27,25.22,48.25,50.51

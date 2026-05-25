@@ -1,0 +1,556 @@
+40qraw_no,40qraw_set_ciat,40qraw_sample_id,40qraw_gene_bank_breeding_program_id,40qraw_genus,40qraw_species,40qraw_tax_name,40qraw_family,40qraw_order,40qraw_functional_group,40qraw_replication_dm_percentage,40qraw_dm_percentage,40qraw_av_dm_105,40qraw_ash_dm,40qraw_av_ash_percentage,40qraw_om_percentage,40qraw_om_percentage,40qraw_pc_percentage_dm,40qraw_av_pc_percentage,40qraw_adf_percentage_dm,40qraw_av_adf_percentage_dm,40qraw_ndf_percentage_dm,40qraw_av_ndf_percentage_dm
+No,Set CIAT,Sample ID,Gene bank /Breeding program ID,Genus,Species,Tax Name,Family,Order,Functional Group,Replication,"DM, %",Av DM 105,Ash/DM,"Av Ash, %","OM, %","OM, %","PC (%), DM","Av PC, %","ADF, % (DM)"," Av ADF, % (DM)","NDF, % (DM)"," Av NDF, % (DM)"
+1,14,F24-3536,ABC-32379-1,Desmanthus,pubescens,Desmanthus pubescens,Fabaceae,Fabales,Shrub,A,92.91,92.94,8.21,8.245,91.79,91.755,27.65,27.65,19.6,18.95,75.23,74.625
+2,14,F24-3536,ABC-32379-1,Desmanthus,pubescens,Desmanthus pubescens,Fabaceae,Fabales,Shrub,B,92.97,,8.28,,91.72,,27.65,,18.3,,74.02,
+3,14,F24-3537,ABC-32380-1,Desmanthus,pubescens,Desmanthus pubescens,Fabaceae,Fabales,Shrub,A,93.26,93.3,8.8,8.765,91.2,91.235,29.33,29.33,31.17,30.895,77.81,78.27
+4,14,F24-3537,ABC-32380-1,Desmanthus,pubescens,Desmanthus pubescens,Fabaceae,Fabales,Shrub,B,93.34,,8.73,,91.27,,29.33,,30.62,,78.73,
+5,14,F24-3538,ABC-33249-1,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,A,93.06,93.13,9.7,9.675,90.3,90.325,16.48,16.48,42.74,42.75,76.85,79.24
+6,14,F24-3538,ABC-33249-1,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,B,93.2,,9.65,,90.35,,16.48,,42.76,,81.63,
+7,14,F24-3612,ABC-398,Desmodium,incanum,Desmodium incanum,Fabaceae,Fabales,Herbaceous,A,91.74,91.785,17.66,17.465,82.34,82.535,17.84,17.92,37.04,37.855,49.71,50.73
+8,14,F24-3612,ABC-398,Desmodium,incanum,Desmodium incanum,Fabaceae,Fabales,Herbaceous,B,91.83,,17.27,,82.73,,18,,38.67,,51.75,
+9,14,F24-3613,ABC-438,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Fabaceae,Fabales,Climber,A,93.67,93.685,15.42,14.475,84.58,85.525,21.03,21.03,39.27,38.17,59.05,60.195
+10,14,F24-3613,ABC-438,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Fabaceae,Fabales,Climber,B,93.7,,13.53,,86.47,,21.03,,37.07,,61.34,
+11,14,F24-3614,ABC-442,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Fabaceae,Fabales,Climber,A,93.91,93.94,16.37,17.645,83.63,82.355,17.82,17.82,30.15,30.335,55.15,55.32
+12,14,F24-3614,ABC-442,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Fabaceae,Fabales,Climber,B,93.97,,18.92,,81.08,,17.82,,30.52,,55.49,
+13,14,F24-3615,ABC-466,Vigna,umbellata,Vigna umbellata,Fabaceae,Fabales,Climber,A,92.8,92.76,18.93,18.265,81.07,81.735,16.36,16.36,18.24,18.73,45.8,45.095
+14,14,F24-3615,ABC-466,Vigna,umbellata,Vigna umbellata,Fabaceae,Fabales,Climber,B,92.72,,17.6,,82.4,,16.36,,19.22,,44.39,
+15,14,F24-3616,ABC-715,Canavalia,ensiformis,Canavalia ensiformis,Fabaceae,Fabales,Climber,A,90.61,90.62,18.58,18.665,81.42,81.335,20.82,20.82,18.29,18.46,42.01,41.73
+16,14,F24-3616,ABC-715,Canavalia,ensiformis,Canavalia ensiformis,Fabaceae,Fabales,Climber,B,90.63,,18.75,,81.25,,20.82,,18.63,,41.45,
+17,14,F24-3617,ABC-887,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,A,92.19,92.18,12.14,12.7,87.86,87.3,21,21,25.68,25.91,42.58,44.125
+18,14,F24-3617,ABC-887,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,B,92.17,,13.26,,86.74,,21,,26.14,,45.67,
+19,14,F24-3618,ABC-923,Galactia,latisiliqua,Galactia latisiliqua,Fabaceae,Fabales,Climber,A,92.77,92.825,15.71,15.71,84.3,84.3,18.23,18.23,16.43,16.145,45.43,46.705
+20,14,F24-3618,ABC-923,Galactia,latisiliqua,Galactia latisiliqua,Fabaceae,Fabales,Climber,B,92.88,,15.71,,84.3,,18.23,,15.86,,47.98,
+21,14,F24-3619,ABC-3813,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,A,93.12,93.1,13.69,13.82,86.31,86.18,17.62,17.62,47.31,46.86,55.32,54.955
+22,14,F24-3619,ABC-3813,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,B,93.08,,13.95,,86.05,,17.62,,46.41,,54.59,
+23,14,F24-3620,ABC-5512,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,A,92.23,92.27,9.71,9.81,90.29,90.19,22.16,22.16,28.75,28.675,44.88,46.385
+24,14,F24-3620,ABC-5512,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,B,92.31,,9.91,,90.09,,22.16,,28.6,,47.89,
+25,14,F24-3621,ABC-5568,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,A,91.54,91.58,11.33,11.85,88.67,88.15,17.29,17.29,40.22,39.06,59.28,58.435
+26,14,F24-3621,ABC-5568,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,B,91.62,,12.37,,87.63,,17.29,,37.9,,57.59,
+27,14,F24-3622,ABC-5657,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,A,91.88,91.835,10.69,10.665,89.31,89.335,21.64,21.64,31.31,30.825,55.32,54
+28,14,F24-3622,ABC-5657,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,B,91.79,,10.64,,89.36,,21.64,,30.34,,52.68,
+29,14,F24-3623,ABC-5744,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,A,93.59,93.595,14.87,14.865,85.13,85.135,17.67,17.67,33.13,33.74,56.74,56.91
+30,14,F24-3623,ABC-5744,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,B,93.6,,14.86,,85.14,,17.67,,34.35,,57.08,
+31,14,F24-3624,ABC-7131,Eriosema,diffusum,Eriosema diffusum,Fabaceae,Fabales,Herbaceous,A,92.13,92.21,6.92,7.09,93.08,92.91,16.02,16.02,50.26,49.775,62.53,61.865
+32,14,F24-3624,ABC-7131,Eriosema,diffusum,Eriosema diffusum,Fabaceae,Fabales,Herbaceous,B,92.29,,7.26,,92.74,,16.02,,49.29,,61.2,
+33,14,F24-3625,ABC-7318,Canavalia,sp.,Canavalia sp.,Fabaceae,Fabales,Climber,A,92.38,92.41,17.45,17.32,82.55,82.68,17.71,17.71,20.25,20.895,41.72,41.255
+34,14,F24-3625,ABC-7318,Canavalia,sp.,Canavalia sp.,Fabaceae,Fabales,Climber,B,92.44,,17.19,,82.81,,17.71,,21.54,,40.79,
+35,14,F24-3626,ABC-7395,Galactia,striata,Galactia striata,Fabaceae,Fabales,Climber,A,91.77,91.725,16.67,16.66,83.33,83.34,13.71,13.71,21.22,20.775,47.32,47.975
+36,14,F24-3626,ABC-7395,Galactia,striata,Galactia striata,Fabaceae,Fabales,Climber,B,91.68,,16.65,,83.35,,13.71,,20.33,,48.63,
+37,14,F24-3627,ABC-7648,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,A,91.95,91.985,18.02,18.015,81.98,81.985,22.05,22.05,18.52,17.995,42.47,40.89
+38,14,F24-3627,ABC-7648,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,B,92.02,,18.01,,81.99,,22.05,,17.47,,39.31,
+39,14,F24-3628,ABC-7746,Crotalaria,paulina,Crotalaria paulina,Fabaceae,Fabales,Herbaceous,A,91.95,92.06,21.97,22.45,78.03,77.55,14.81,14.81,20.58,21.01,41.54,43.06
+40,14,F24-3628,ABC-7746,Crotalaria,paulina,Crotalaria paulina,Fabaceae,Fabales,Herbaceous,B,92.17,,22.93,,77.07,,14.81,,21.44,,44.58,
+41,14,F24-3629,ABC-7813,Indigofera,cryptantha,Indigofera cryptantha,Fabaceae,Fabales,Herbaceous,A,90.15,90.14,14.11,12.325,85.89,87.675,26.44,26.44,20.27,20.9,30.63,30.695
+42,14,F24-3629,ABC-7813,Indigofera,cryptantha,Indigofera cryptantha,Fabaceae,Fabales,Herbaceous,B,90.13,,10.54,,89.46,,26.44,,21.53,,30.76,
+43,14,F24-3630,ABC-7831,Tephrosia,rhodesica,Tephrosia rhodesica,Fabaceae,Fabales,Shrub,A,93.65,93.595,15.1,17.205,84.9,82.795,21.67,21.67,19.71,19.27,50.36,51.965
+44,14,F24-3630,ABC-7831,Tephrosia,rhodesica,Tephrosia rhodesica,Fabaceae,Fabales,Shrub,B,93.54,,19.31,,80.69,,21.67,,18.83,,53.57,
+45,14,F24-3631,ABC-7894,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,A,93.33,93.355,23.39,21.765,76.61,78.235,21.13,21.16,19.73,19.125,40.15,40.92
+46,14,F24-3631,ABC-7894,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,B,93.38,,20.14,,79.86,,21.19,,18.52,,41.69,
+47,14,F24-3632,ABC-7991,Indigofera,suffruticosa,Indigofera suffruticosa,Fabaceae,Fabales,Herbaceous,A,92.89,92.96,19.91,23.025,80.09,76.975,24.54,24.54,22.79,23.24,38.52,39.11
+48,14,F24-3632,ABC-7991,Indigofera,suffruticosa,Indigofera suffruticosa,Fabaceae,Fabales,Herbaceous,B,93.03,,26.14,,73.86,,24.54,,23.69,,39.7,
+49,14,F24-3633,ABC-8202,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,A,92.72,92.655,22.54,17.515,77.46,82.485,24.37,24.37,23.04,22.99,43.77,45.97
+50,14,F24-3633,ABC-8202,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,B,92.59,,12.49,,87.51,,24.37,,22.94,,48.17,
+51,14,F24-3634,ABC-9189,Indigofera,suffruticosa,Indigofera suffruticosa,Fabaceae,Fabales,Herbaceous,A,92.27,92.225,22.87,24.085,77.13,75.915,29.1,29.1,19.07,20.185,37.75,39.405
+52,14,F24-3634,ABC-9189,Indigofera,suffruticosa,Indigofera suffruticosa,Fabaceae,Fabales,Herbaceous,B,92.18,,25.3,,74.7,,29.1,,21.3,,41.06,
+53,14,F24-3635,ABC-9434,Clitoria,ternatea,Clitoria ternatea,Fabaceae,Fabales,Climber,A,90.8,90.765,21.39,16.815,78.61,83.185,25.12,25.12,17.55,17.445,47.76,47.675
+54,14,F24-3635,ABC-9434,Clitoria,ternatea,Clitoria ternatea,Fabaceae,Fabales,Climber,B,90.73,,12.24,,87.76,,25.12,,17.34,,47.59,
+55,14,F24-3636,ABC-11162,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,A,91.47,91.455,20.41,22.305,79.59,77.695,17.11,17.11,22.98,22.995,52.74,51.395
+56,14,F24-3636,ABC-11162,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,B,91.44,,24.2,,75.8,,17.11,,23.01,,50.05,
+57,14,F24-3637,ABC-13301,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,A,92.56,92.57,24.9,20.83,75.1,79.17,19.83,19.83,50.21,51,57.9,58.71
+58,14,F24-3637,ABC-13301,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,B,92.58,,16.76,,83.24,,19.83,,51.79,,59.52,
+59,14,F24-3638,ABC-15401,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,A,93.25,93.225,14.68,17.65,85.32,82.35,17.11,17.11,27.66,28.585,48.77,49.64
+60,14,F24-3638,ABC-15401,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,B,93.2,,20.62,,79.38,,17.11,,29.51,,50.51,
+61,14,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494,0,0,0,0,0,0
+62,14,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,B,91.32173565,,10.12699803,,89.87300197,,0,,0,,0,
+63,14,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,A,89.73205359,89.69309597,6.183844011,6.035393965,93.81615599,93.96460604,0,0,0,0,0,0
+64,14,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,B,89.65413834,,5.886943918,,94.11305608,,0,,0,,0,
+65,14,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,A,93.64063594,93.73093584,11.32941805,11.41385651,88.67058195,88.58614349,0,0,0,0,0,0
+66,14,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,B,93.82123575,,11.49829497,,88.50170503,,0,,0,,0,
+67,15,F24-3639,ABC-17360,Alysicarpus,vaginalis,Alysicarpus vaginalis,Fabaceae,Fabales,Herbaceous,A,92.86,92.855,23.69,21.71,76.31,78.29,24.55,24.55,20.31,20.165,36.14,37.065
+68,15,F24-3639,ABC-17360,Alysicarpus,vaginalis,Alysicarpus vaginalis,Fabaceae,Fabales,Herbaceous,B,92.85,,19.73,,80.27,,24.55,,20.02,,37.99,
+69,15,F24-3640,ABC-17768,Clitoria,ternatea,Clitoria ternatea,Fabaceae,Fabales,Climber,A,93.51,93.485,6.56,6.89,93.44,93.11,15.45,15.45,11.75,12.14,46.4,48.075
+70,15,F24-3640,ABC-17768,Clitoria,ternatea,Clitoria ternatea,Fabaceae,Fabales,Climber,B,93.46,,7.22,,92.78,,15.45,,12.53,,49.75,
+71,15,F24-3641,ABC-18004,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,A,92.81,92.94,7.37,6.785,92.63,93.215,15.74,15.74,15.02,14.895,46.63,45.455
+72,15,F24-3641,ABC-18004,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,B,93.07,,6.2,,93.8,,15.74,,14.77,,44.28,
+73,15,F24-3642,ABC-18430,Alysicarpus,vaginalis,Alysicarpus vaginalis,Fabaceae,Fabales,Herbaceous,A,92.69,92.65,12.12,12.1,87.88,87.9,24.28,24.28,21.69,21.535,39.93,40.065
+74,15,F24-3642,ABC-18430,Alysicarpus,vaginalis,Alysicarpus vaginalis,Fabaceae,Fabales,Herbaceous,B,92.61,,12.08,,87.92,,24.28,,21.38,,40.2,
+75,15,F24-3644,ABC-18708,Crotalaria,pallida,Crotalaria pallida,Fabaceae,Fabales,Herbaceous,A,92.86,92.865,10.77,10.775,89.23,89.225,23.89,23.89,16.58,18.175,41.58,42.86
+76,15,F24-3644,ABC-18708,Crotalaria,pallida,Crotalaria pallida,Fabaceae,Fabales,Herbaceous,B,92.87,,10.78,,89.22,,23.89,,19.77,,44.14,
+77,15,F24-3645,ABC-18850,Alysicarpus,rugosus,Alysicarpus rugosus,Fabaceae,Fabales,Herbaceous,A,93.88,93.935,14.26,14.285,85.74,85.715,23.09,23.09,20.56,20.435,41.49,40.555
+78,15,F24-3645,ABC-18850,Alysicarpus,rugosus,Alysicarpus rugosus,Fabaceae,Fabales,Herbaceous,B,93.99,,14.31,,85.69,,23.09,,20.31,,39.62,
+79,15,F24-3646,ABC-18865,Alysicarpus,rugosus,Alysicarpus rugosus,Fabaceae,Fabales,Herbaceous,A,93.34,93.43,13.48,13.545,86.52,86.455,18.24,18.24,23.95,23.385,42.63,41.27
+80,15,F24-3646,ABC-18865,Alysicarpus,rugosus,Alysicarpus rugosus,Fabaceae,Fabales,Herbaceous,B,93.52,,13.61,,86.39,,18.24,,22.82,,39.91,
+81,15,F24-3647,ABC-19032,Canavalia,sp.,Canavalia sp.,Fabaceae,Fabales,Climber,A,92.45,92.42,14.82,14.725,85.18,85.275,23.96,23.96,17.05,17.665,38.7,39.85
+82,15,F24-3647,ABC-19032,Canavalia,sp.,Canavalia sp.,Fabaceae,Fabales,Climber,B,92.39,,14.63,,85.37,,23.96,,18.28,,41,
+83,15,F24-3648,ABC-19119,Alysicarpus,rugosus,Alysicarpus rugosus,Fabaceae,Fabales,Herbaceous,A,92.49,92.495,23.88,23.765,76.12,76.235,20.28,20.28,21.53,22.195,40.84,41.365
+84,15,F24-3648,ABC-19119,Alysicarpus,rugosus,Alysicarpus rugosus,Fabaceae,Fabales,Herbaceous,B,92.5,,23.65,,76.35,,20.28,,22.86,,41.89,
+85,15,F24-3650,ABC-20303,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,A,88.97,88.975,16.24,16.205,83.76,83.795,21.53,21.53,13.78,12.765,34.89,33.06
+86,15,F24-3650,ABC-20303,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,B,88.98,,16.17,,83.83,,21.53,,11.75,,31.23,
+87,15,F24-3651,ABC-20589,Uraria,lagopodioides,Uraria lagopodioides,Fabaceae,Fabales,Herbaceous,A,92.07,92.035,21.57,21.075,78.43,78.925,20.67,20.68,21.23,21.065,38.96,38.55
+88,15,F24-3651,ABC-20589,Uraria,lagopodioides,Uraria lagopodioides,Fabaceae,Fabales,Herbaceous,B,92,,20.58,,79.42,,20.69,,20.9,,38.14,
+89,15,F24-3652,ABC-21687,Desmanthus,virgatus,Desmanthus virgatus,Fabaceae,Fabales,Shrub,A,91.82,91.865,8.55,8.54,91.45,91.46,28.43,28.43,31.51,32.71,50.32,47.95
+90,15,F24-3652,ABC-21687,Desmanthus,virgatus,Desmanthus virgatus,Fabaceae,Fabales,Shrub,B,91.91,,8.53,,91.47,,28.43,,33.91,,45.58,
+91,15,F24-3653,ABC-22048,Aeschynomene,americana,Aeschynomene americana,Fabaceae,Fabales,Herbaceous,A,89.37,89.405,10.12,10.145,89.88,89.855,21.74,21.74,16.59,16.045,42.8,41.365
+92,15,F24-3653,ABC-22048,Aeschynomene,americana,Aeschynomene americana,Fabaceae,Fabales,Herbaceous,B,89.44,,10.17,,89.83,,21.74,,15.5,,39.93,
+93,15,F24-3654,ABC-22156,Arachis,pintoi,Arachis pintoi,Fabaceae,Fabales,Herbaceous,A,89.6,89.695,10.46,10.45,89.54,89.55,20.83,20.83,24.85,24.715,40.4,41.79
+94,15,F24-3654,ABC-22156,Arachis,pintoi,Arachis pintoi,Fabaceae,Fabales,Herbaceous,B,89.79,,10.44,,89.56,,20.83,,24.58,,43.18,
+95,15,F24-3655,ABC-22507,Desmanthus,subulatus,Desmanthus subulatus,Fabaceae,Fabales,Shrub,A,89.92,89.94,9.54,9.48,90.46,90.52,29.9,29.9,31.9,32.215,42.22,43.71
+96,15,F24-3655,ABC-22507,Desmanthus,subulatus,Desmanthus subulatus,Fabaceae,Fabales,Shrub,B,89.96,,9.42,,90.58,,29.9,,32.53,,45.2,
+97,15,F24-3656,ABC-22510,Desmanthus,bicornutus,Desmanthus bicornutus,Fabaceae,Fabales,Shrub,A,87.91,87.95,10.55,10.545,89.45,89.455,25.93,25.93,36.21,36.07,42.87,42.87
+98,15,F24-3656,ABC-22510,Desmanthus,bicornutus,Desmanthus bicornutus,Fabaceae,Fabales,Shrub,B,87.99,,10.54,,89.46,,25.93,,35.93,,42.87,
+99,15,F24-3657,ABC-22598,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,A,88.99,88.935,12.63,12.58,87.37,87.42,31.13,31.13,30.23,28.04,47.29,45.415
+100,15,F24-3657,ABC-22598,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,B,88.88,,12.53,,87.47,,31.13,,25.85,,43.54,
+101,15,F24-3658,ABC-22784,Desmanthus,bicornutus,Desmanthus bicornutus,Fabaceae,Fabales,Shrub,A,92.57,92.625,10.47,10.43,89.53,89.57,30.03,30.03,30.53,30.63,42.19,41.66
+102,15,F24-3658,ABC-22784,Desmanthus,bicornutus,Desmanthus bicornutus,Fabaceae,Fabales,Shrub,B,92.68,,10.39,,89.61,,30.03,,30.73,,41.13,
+103,15,F24-3659,ABC-25113,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,A,91.78,91.8,11.93,11.89,88.07,88.11,22.96,22.96,29.19,29.7,53.64,53.705
+104,15,F24-3659,ABC-25113,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,B,91.82,,11.85,,88.15,,22.96,,30.21,,53.77,
+105,15,F24-3660,ABC-33114,Dendrolobium,sp.,Dendrolobium sp.,Fabaceae,Fabales,Shrub,A,91.49,91.53,13.57,13.535,86.43,86.465,18.81,18.81,40.39,40.495,54.31,55.005
+106,15,F24-3660,ABC-33114,Dendrolobium,sp.,Dendrolobium sp.,Fabaceae,Fabales,Shrub,B,91.57,,13.5,,86.5,,18.81,,40.6,,55.7,
+107,15,F24-3662,ABC-43477,Desmodium,cinereum,Desmodium cinereum,Fabaceae,Fabales,Shrub,A,91.14,91.145,13.87,13.83,86.13,86.17,24.66,24.66,17.23,17.465,38.34,38.35
+108,15,F24-3662,ABC-43477,Desmodium,cinereum,Desmodium cinereum,Fabaceae,Fabales,Shrub,B,91.15,,13.79,,86.21,,24.66,,17.7,,38.36,
+109,15,F24-3539,ABC-172-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,A,91.15,91.175,10.1,10.025,89.9,89.975,14.34,14.34,35.78,35,85.76,86.21
+110,15,F24-3539,ABC-172-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,B,91.2,,9.95,,90.05,,14.34,,34.22,,86.66,
+111,15,F24-3540,ABC-1467-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,A,92.5,92.615,8.49,8.54,91.51,91.46,13.64,13.64,35.11,34.775,93.96,96.96
+112,15,F24-3540,ABC-1467-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,B,92.73,,8.59,,91.41,,13.64,,34.44,,99.96,
+113,15,F24-3541,ABC-1475-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,A,90.62,90.79,8.7,8.755,91.3,91.245,17.29,17.29,37.69,37.43,86.16,87.795
+114,15,F24-3541,ABC-1475-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,B,90.96,,8.81,,91.19,,17.29,,37.17,,89.43,
+115,15,F24-3542,ABC-1650-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,A,91.91,91.915,12.82,12.67,87.18,87.33,15.65,15.65,35.86,34.65,106.85,103.485
+116,15,F24-3542,ABC-1650-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,B,91.92,,12.52,,87.48,,15.65,,33.44,,100.12,
+117,15,F24-3543,ABC-1706-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,A,92.69,92.695,14.94,14.73,85.06,85.27,19.4,19.4,31.74,31.88,99.03,99.59
+118,15,F24-3543,ABC-1706-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,B,92.7,,14.52,,85.48,,19.4,,32.02,,100.15,
+119,15,F24-3544,ABC-1727-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,A,92.14,92.115,14.04,13.825,85.96,86.175,18.76,18.76,34.73,34.125,101.33,101.345
+120,15,F24-3544,ABC-1727-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,B,92.09,,13.61,,86.39,,18.76,,33.52,,101.36,
+121,15,F24-3545,ABC-1803-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,A,91.87,91.86,8.71,8.67,91.29,91.33,17.76,17.76,33,34.195,77.29,77.62
+122,15,F24-3545,ABC-1803-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,B,91.85,,8.63,,91.37,,17.76,,35.39,,77.95,
+123,15,F24-3546,ABC-1964-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,A,90.29,91.94,9.45,13.265,90.55,86.735,16.9,12.31,34.41,37.205,80,76.95
+124,15,F24-3546,ABC-1964-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,B,90.29,,9.4,,90.6,,16.9,,35.32,,79.5,
+125,15,F24-3547,ABC-2613-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,A,91.88,91.33303174,13.22,10.05857506,86.78,89.94142494,12.31,0,37.18,0,77.11,0
+126,15,F24-3547,ABC-2613-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,B,92,,13.31,,86.69,,12.31,,37.23,,76.79,
+127,15,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,A,91.34432784,89.69309597,9.990152095,6.035393965,90.0098479,93.96460604,0,0,0,0,0,0
+128,15,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,B,91.32173565,,10.12699803,,89.87300197,,0,,0,,0,
+129,15,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,A,89.73205359,93.73093584,6.183844011,11.41385651,93.81615599,88.58614349,0,0,0,0,0,0
+130,15,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,B,89.65413834,,5.886943918,,94.11305608,,0,,0,,0,
+131,15,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,A,93.64063594,92.46,11.32941805,14.015,88.67058195,85.985,0,16.89,0,28.12,0,57.625
+132,15,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,B,93.82123575,,11.49829497,,88.50170503,,0,,0,,0,
+133,16,F25-1701,CIAT-BR12_1362,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.4,95.715,13.93,15.58,86.07,84.42,16.8,12.21,28.07,34.75,57.52,58.715
+134,16,F25-1701,CIAT-BR12_1362,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.52,,14.1,,85.9,,16.98,,28.17,,57.73,
+135,16,F25-1702,CIAT-BR12_2462,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,95.6,94.15,15.7,19.075,84.3,80.925,12.13,16.3,35.15,28.245,59.32,54.33
+136,16,F25-1702,CIAT-BR12_2462,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,95.83,,15.46,,84.54,,12.29,,34.35,,58.11,
+137,16,F25-1703,CIAT-BR12_3868,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,94.06,93.24,18.86,14.12,81.14,85.88,16.14,15.005,28.78,26.555,55.02,57.455
+138,16,F25-1703,CIAT-BR12_3868,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,94.24,,19.29,,80.71,,16.46,,27.71,,53.64,
+139,16,F25-1704,CIAT-BR15_2558,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.18,93.62,14.01,16.265,85.99,83.735,15.05,15.865,26.56,29.125,57.4,55.78
+140,16,F25-1704,CIAT-BR15_2558,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.3,,14.23,,85.77,,14.96,,26.55,,57.51,
+141,16,F25-1705,CIAT-BR15_2811,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.58,93.755,16.34,14.84,83.66,85.16,15.73,15.505,29.31,29.38,56.34,58.9
+142,16,F25-1705,CIAT-BR15_2811,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.66,,16.19,,83.81,,16,,28.94,,55.22,
+143,16,F25-1706,CIAT-BR15_2891,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.76,94.1,14.74,14.51,85.26,85.49,15.41,16.185,29.27,29.835,58.57,58.915
+144,16,F25-1706,CIAT-BR15_2891,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.75,,14.94,,85.06,,15.6,,29.49,,59.23,
+145,16,F25-1707,CIAT-BR19_1343,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,94.02,93.89,14.52,11.93,85.48,88.07,16.18,12.755,30.08,33.24,59.29,65.67
+146,16,F25-1707,CIAT-BR19_1343,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,94.18,,14.5,,85.5,,16.19,,29.59,,58.54,
+147,16,F25-1708,CIAT-CIAT_26110,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.84,93.56,11.98,13.175,88.02,86.825,12.75,14.135,33.32,29.085,65.53,60.645
+148,16,F25-1708,CIAT-CIAT_26110,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.94,,11.88,,88.12,,12.76,,33.16,,65.81,
+149,16,F25-1709,CIAT-CIAT_26646,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.55,95.1,13.12,13.01,86.88,86.99,14.11,14.855,29.05,29.875,60.64,61.91
+150,16,F25-1709,CIAT-CIAT_26646,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.57,,13.23,,86.77,,14.16,,29.12,,60.65,
+151,16,F25-1710,CIAT-CIAT_6297,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,95.02,93.93,12.99,15.305,87.01,84.695,14.89,14.385,30.41,28.07,62.43,57.485
+152,16,F25-1710,CIAT-CIAT_6297,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,95.18,,13.03,,86.97,,14.82,,29.34,,61.39,
+153,16,F25-1711,CIAT-BR12_4400,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.82,93.93,15.33,15.305,84.67,84.695,14.44,14.385,28.18,28.07,57.16,57.485
+154,16,F25-1711,CIAT-BR12_4400,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,94.04,,15.28,,84.72,,14.33,,27.96,,57.81,
+155,16,F25-1712,CIAT-BR15_3434,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,94.66,94.615,14.23,14.2,85.77,85.8,15.22,15.085,27.9,28.255,55.64,56.115
+156,16,F25-1712,CIAT-BR15_3434,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,94.57,,14.17,,85.83,,14.95,,28.61,,56.59,
+157,16,F25-1713,CIAT-BR15_3811,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,96.28,96.295,14.78,14.715,85.22,85.285,15.44,15.49,26.68,26.74,57.94,58.32
+158,16,F25-1713,CIAT-BR15_3811,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,96.31,,14.65,,85.35,,15.54,,26.8,,58.7,
+159,16,F25-1714,CIAT-BR15_6547,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,94.62,94.735,15.42,15.535,84.58,84.465,15.86,15.81,26.8,27.02,58.33,58.245
+160,16,F25-1714,CIAT-BR15_6547,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,94.85,,15.65,,84.35,,15.76,,27.24,,58.16,
+161,16,F25-1715,CIAT-BR15_7121,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,94.87,94.825,15.09,15.195,84.91,84.805,17.16,17.035,26.6,26.45,56.36,56.48
+162,16,F25-1715,CIAT-BR15_7121,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,94.78,,15.3,,84.7,,16.91,,26.3,,56.6,
+163,16,F25-1716,CIAT-BR15_8887,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,94.61,94.77,12.99,12.99,87.01,87.01,14.82,14.755,27.57,27.605,59.42,59.445
+164,16,F25-1716,CIAT-BR15_8887,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,94.93,,12.99,,87.01,,14.69,,27.64,,59.47,
+165,16,F25-1717,CIAT-BR19_4678,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.66,92.765,15.15,15.1,84.85,84.9,15.23,15.195,27.6,27.94,53.84,53.885
+166,16,F25-1717,CIAT-BR19_4678,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.87,,15.05,,84.95,,15.16,,28.28,,53.93,
+167,16,F25-1718,CIAT-BR19_5029,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,95.86,95.62,15.34,15.335,84.66,84.665,15.11,15.06,27.89,27.735,59.49,59.075
+168,16,F25-1718,CIAT-BR19_5029,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,95.38,,15.33,,84.67,,15.01,,27.58,,58.66,
+169,16,F25-1719,CIAT-BR19_5357,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,94.49,94.565,15.4,15.445,84.6,84.555,15.79,15.75,28.37,28.565,57.57,58.405
+170,16,F25-1719,CIAT-BR19_5357,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,94.64,,15.49,,84.51,,15.71,,28.76,,59.24,
+171,16,F25-1720,CIAT-BR19_5381,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,94.5,94.575,14.12,14.1,85.88,85.9,14.76,14.96,31.05,30.84,62.85,62.005
+172,16,F25-1720,CIAT-BR19_5381,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,94.65,,14.08,,85.92,,15.16,,30.63,,61.16,
+173,16,F25-1721,CIAT-BR02_0465,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,96.76,96.88,13.76,13.785,86.24,86.215,13.85,13.865,32.43,32.8,65.34,65.615
+174,16,F25-1721,CIAT-BR02_0465,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,97,,13.81,,86.19,,13.88,,33.17,,65.89,
+175,16,F25-1722,CIAT-BR04_3025,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,95.74,95.835,11.26,11.31,88.74,88.69,12.21,12.25,32.59,32.715,67.01,67.42
+176,16,F25-1722,CIAT-BR04_3025,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,95.93,,11.36,,88.64,,12.29,,32.84,,67.83,
+177,16,F25-1723,CIAT-BR05_1435,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,96.05,96.06,14.48,14.705,85.52,85.295,15.99,16.095,30.77,30.825,63.07,63.965
+178,16,F25-1723,CIAT-BR05_1435,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,96.07,,14.93,,85.07,,16.2,,30.88,,64.86,
+179,16,F25-1724,CIAT-BR09_3660,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,96.18,96.24,13.63,13.64,86.37,86.36,12.69,12.77,29.04,29.05,60.19,61.25
+180,16,F25-1724,CIAT-BR09_3660,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,96.3,,13.65,,86.35,,12.85,,29.06,,62.31,
+181,16,F25-1725,CIAT-BR19_1264,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,96.22,96.295,15.55,15.61,84.45,84.39,18.7,18.565,24.89,25.08,56.9,56.3
+182,16,F25-1725,CIAT-BR19_1264,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,96.37,,15.67,,84.33,,18.43,,25.27,,55.7,
+183,16,F25-1726,CIAT-BR19_5217,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,96.16,96.2,14.33,14.215,85.67,85.785,13.55,13.465,28.61,28.795,60.76,60.705
+184,16,F25-1726,CIAT-BR19_5217,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,96.24,,14.1,,85.9,,13.38,,28.98,,60.65,
+185,16,F25-1727,CIAT-CIAT_26124,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,95.99,96.03,12.86,12.825,87.14,87.175,14.44,14.595,31.93,31.605,64.65,64.875
+186,16,F25-1727,CIAT-CIAT_26124,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,96.07,,12.79,,87.21,,14.75,,31.28,,65.1,
+187,16,F25-2076,ILRI-15551,Leucaena,diversifolia,Leucaena diversifolia,Fabaceae,"	Fabales",Tree,A,96.25,96.335,8.02,7.995,91.98,92.005,26.28,26.315,33.64,33.125,61.29,60.565
+188,16,F25-2076,ILRI-15551,Leucaena,diversifolia,Leucaena diversifolia,Fabaceae,"	Fabales",Tree,B,96.42,,7.97,,92.03,,26.35,,32.61,,59.84,
+189,16,F25-2122,ILRI-15551,Leucaena,diversifolia,Leucaena diversifolia,Fabaceae,"	Fabales",Tree,A,91.1,91.13,7.52,7.535,92.48,92.465,30.08,30.135,23.33,23.98,52.63,51.86
+190,16,F25-2122,ILRI-15551,Leucaena,diversifolia,Leucaena diversifolia,Fabaceae,"	Fabales",Tree,B,91.16,,7.55,,92.45,,30.19,,24.63,,51.09,
+191,16,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494,0,0,0,0,0,0
+192,16,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,B,91.32173565,,10.12699803,,89.87300197,,0,,0,,0,
+193,16,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,A,89.73205359,89.69309597,6.183844011,6.035393965,93.81615599,93.96460604,0,0,0,0,0,0
+194,16,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,B,89.65413834,,5.886943918,,94.11305608,,0,,0,,0,
+195,16,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,A,93.64063594,93.73093584,11.32941805,11.41385651,88.67058195,88.58614349,0,0,0,0,0,0
+196,16,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,B,93.82123575,,11.49829497,,88.50170503,,0,,0,,0,
+197,17,F25-0929,ABC-15474,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,A,92.13,92.3,9.16,9.165,90.84,90.835,30.53,30.58,33.97,34.165,56.45,56.025
+198,17,F25-0929,ABC-15474,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,B,92.47,,9.17,,90.83,,30.63,,34.36,,55.6,
+199,17,F25-0930,ABC-15470,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,A,94.2,94.255,9.23,9.21,90.77,90.79,24.65,24.65,31.74,32.1,57.03,58.385
+200,17,F25-0930,ABC-15470,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,B,94.31,,9.19,,90.81,,24.65,,32.46,,59.74,
+201,17,F25-0931,ABC-13268,Tadehagi,triquetrum,Tadehagi triquetrum,Fabaceae,Fabales,Herbaceous,A,94.1,94.21,7.41,7.535,92.59,92.465,14.85,14.85,43.43,42.805,51.47,50.67
+202,17,F25-0931,ABC-13268,Tadehagi,triquetrum,Tadehagi triquetrum,Fabaceae,Fabales,Herbaceous,B,94.32,,7.66,,92.34,,14.85,,42.18,,49.87,
+203,17,F25-0932,ABC-22768,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,A,93.99,94.185,8.56,8.715,91.44,91.285,23.69,23.69,23.98,23.945,49.29,49.53
+204,17,F25-0932,ABC-22768,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,B,94.38,,8.87,,91.13,,23.69,,23.91,,49.77,
+205,17,F25-0933,ABC-22770,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,A,93.21,93.295,7.64,7.625,92.36,92.375,21.39,21.39,21.82,21.71,39.99,40.34
+206,17,F25-0933,ABC-22770,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,B,93.38,,7.61,,92.39,,21.39,,21.6,,40.69,
+207,17,F25-0934,ABC-18701,Cajanus,cajan,Cajanus cajan,Fabaceae,Fabales,Shrub,A,94.81,94.79,7.07,7.055,92.93,92.945,23.9,23.9,48.36,48.135,60.23,60.12
+208,17,F25-0934,ABC-18701,Cajanus,cajan,Cajanus cajan,Fabaceae,Fabales,Shrub,B,94.77,,7.04,,92.96,,23.9,,47.91,,60.01,
+209,17,F25-0935,ABC-20891,Cajanus,cajan,Cajanus cajan,Fabaceae,Fabales,Shrub,A,95.2,95.25,8.1,8.19,91.9,91.81,20.08,20.08,42.9,43.445,53.62,53.835
+210,17,F25-0935,ABC-20891,Cajanus,cajan,Cajanus cajan,Fabaceae,Fabales,Shrub,B,95.3,,8.28,,91.72,,20.08,,43.99,,54.05,
+211,17,F25-0936,ABC-5172,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,A,93.55,93.66,10.88,10.845,89.12,89.155,26.38,26.38,37.87,37.64,62.1,61.875
+212,17,F25-0936,ABC-5172,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,B,93.77,,10.81,,89.19,,26.38,,37.41,,61.65,
+213,17,F25-0937,ABC-5452,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,A,94.62,94.725,16.66,16.57,83.34,83.43,15.2,15.2,33.95,33.25,50.65,50.51
+214,17,F25-0937,ABC-5452,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,B,94.83,,16.48,,83.52,,15.2,,32.55,,50.37,
+215,17,F25-0938,ABC-5733,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,A,95.1,95.245,12.07,12.325,87.93,87.675,15.96,15.96,29.98,30.015,46.76,47.795
+216,17,F25-0938,ABC-5733,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,B,95.39,,12.58,,87.42,,15.96,,30.05,,48.83,
+217,17,F25-0939,ABC-5735,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,A,93.98,93.995,8.88,8.92,91.12,91.08,26.53,26.53,30.62,30.74,51.17,50.725
+218,17,F25-0939,ABC-5735,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,B,94.01,,8.96,,91.04,,26.53,,30.86,,50.28,
+219,17,F25-0940,ABC-5749,Centrosema,plumieri,Centrosema plumieri,Fabaceae,Fabales,Climber,A,93.07,93.085,8.73,8.695,91.27,91.305,21.39,21.84,25.86,26.07,62.66,61.275
+220,17,F25-0940,ABC-5749,Centrosema,plumieri,Centrosema plumieri,Fabaceae,Fabales,Climber,B,93.1,,8.66,,91.34,,22.29,,26.28,,59.89,
+221,17,F25-0941,ABC-5911,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,A,95.28,95.335,11.41,11.535,88.59,88.465,15.5,15.5,30.6,30.38,52.79,53.065
+222,17,F25-0941,ABC-5911,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,B,95.39,,11.66,,88.34,,15.5,,30.16,,53.34,
+223,17,F25-0942,ABC-13692,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,A,94.85,94.915,10.6,10.585,89.4,89.415,18.55,18.55,32.9,32.175,56.76,55.225
+224,17,F25-0942,ABC-13692,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,B,94.98,,10.57,,89.43,,18.55,,31.45,,53.69,
+225,17,F25-0943,ABC-15121,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,A,93.81,93.915,11.06,11.185,88.94,88.815,19.77,19.77,30.08,30.28,50.42,50.425
+226,17,F25-0943,ABC-15121,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,B,94.02,,11.31,,88.69,,19.77,,30.48,,50.43,
+227,17,F25-0944,ABC-15150,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,A,92.98,93.1,8.67,8.715,91.33,91.285,20.03,20.03,29.19,28.83,63.62,62.445
+228,17,F25-0944,ABC-15150,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,B,93.22,,8.76,,91.24,,20.03,,28.47,,61.27,
+229,17,F25-0945,ABC-15154,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,A,94.27,94.365,7.86,7.93,92.14,92.07,26.23,26.23,32.18,33.335,67.12,65.84
+230,17,F25-0945,ABC-15154,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,B,94.46,,8,,92,,26.23,,34.49,,64.56,
+231,17,F25-0946,ABC-15561,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,A,92.74,92.51,9.54,9.535,90.46,90.465,25.06,25.06,38.8,39.02,69.3,70.835
+232,17,F25-0946,ABC-15561,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,B,92.28,,9.53,,90.47,,25.06,,39.24,,72.37,
+233,17,F25-0947,ABC-15799,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,A,92.72,92.82,19.6,19.53,80.4,80.47,17.46,17.46,32.94,31.86,61.17,59.55
+234,17,F25-0947,ABC-15799,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,B,92.92,,19.46,,80.54,,17.46,,30.78,,57.93,
+235,17,F25-0948,ABC-15816,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,A,95.88,95.735,10.15,10.185,89.85,89.815,20.68,20.6,28.22,27.515,52.12,51.4
+236,17,F25-0948,ABC-15816,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,B,95.59,,10.22,,89.78,,20.52,,26.81,,50.68,
+237,17,F25-0949,ABC-20304,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,A,94.46,94.545,12.12,12.08,87.88,87.92,22.84,22.84,20.34,20.755,46.9,47.58
+238,17,F25-0949,ABC-20304,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,B,94.63,,12.04,,87.96,,22.84,,21.17,,48.26,
+239,17,F25-0950,ABC-21603,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,A,94.11,94.275,8.14,8.465,91.86,91.535,18.15,18.15,19.59,20.07,51.54,52.445
+240,17,F25-0950,ABC-21603,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,B,94.44,,8.79,,91.21,,18.15,,20.55,,53.35,
+241,17,F25-0951,ABC-23248,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,A,94.8,94.94,10.5,10.475,89.5,89.525,18.85,18.85,22.81,22.8,42.46,42.05
+242,17,F25-0951,ABC-23248,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,B,95.08,,10.45,,89.55,,18.85,,22.79,,41.64,
+243,17,F25-0952,ABC-23271,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,A,95,95.055,13.74,13.78,86.26,86.22,17.34,17.34,21.39,21.925,44.33,45.845
+244,17,F25-0952,ABC-23271,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,B,95.11,,13.82,,86.18,,17.34,,22.46,,47.36,
+245,17,F25-0953,ABC-23279,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,A,93.34,93.49,10.56,10.63,89.44,89.37,19.89,19.89,22.15,22.24,44.14,45.635
+246,17,F25-0953,ABC-23279,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,B,93.64,,10.7,,89.3,,19.89,,22.33,,47.13,
+247,17,F25-0954,ABC-23326,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,A,95.77,95.84,14.95,15.05,85.05,84.95,18.11,18.11,23.08,23,40.57,40
+248,17,F25-0954,ABC-23326,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,B,95.91,,15.15,,84.85,,18.11,,22.92,,39.43,
+249,17,F25-0955,ABC-33255,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,A,94.85,94.96,13.82,13.77,86.18,86.23,18.56,18.56,25.84,25.18,45.1,45.4
+250,17,F25-0955,ABC-33255,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,B,95.07,,13.72,,86.28,,18.56,,24.52,,45.7,
+251,17,F25-0956,ABC-33428,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,A,96.1,96.18,9.54,9.495,90.46,90.505,17.04,17.04,34.21,34.06,50.61,50.625
+252,17,F25-0956,ABC-33428,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,B,96.26,,9.45,,90.55,,17.04,,33.91,,50.64,
+253,17,F25-0957,ABC-33451,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,A,95.89,96,7.79,7.795,92.21,92.205,14.71,14.71,34.54,34.35,46.03,45.905
+254,17,F25-0957,ABC-33451,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,B,96.11,,7.8,,92.2,,14.71,,34.16,,45.78,
+255,17,F25-0958,ABC-33463,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,A,96.24,96.225,15.22,15.16,84.78,84.84,16.08,16.13,24.12,23.845,40.18,39.72
+256,17,F25-0958,ABC-33463,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,B,96.21,,15.1,,84.9,,16.18,,23.57,,39.26,
+257,17,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494,0,0,0,0,0,0
+258,17,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,B,91.32173565,,10.12699803,,89.87300197,,0,,0,,0,
+259,17,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,A,89.73205359,89.69309597,6.183844011,6.035393965,93.81615599,93.96460604,0,0,0,0,0,0
+260,17,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,B,89.65413834,,5.886943918,,94.11305608,,0,,0,,0,
+261,17,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,A,93.64063594,93.73093584,11.32941805,11.41385651,88.67058195,88.58614349,0,0,0,0,0,0
+262,17,F25 0019,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,B,93.82123575,,11.49829497,,88.50170503,,0,,0,,0,
+263,18,F25-0959,ABC-350,Desmodium,heterocarpon,Desmodium heterocarpon,Fabaceae,Fabales,Herbaceous,A,94.33,94.335,8.77,8.73,91.23,91.27,14.87,14.87,40.82,40.83,51.14,51.355
+264,18,F25-0959,ABC-350,Desmodium,heterocarpon,Desmodium heterocarpon,Fabaceae,Fabales,Herbaceous,B,94.34,,8.69,,91.31,,14.87,,40.84,,51.57,
+265,18,F25-0960,ABC-3187,Desmodium,cajanifolium,Desmodium cajanifolium,Fabaceae,Fabales,Shrub,A,93.99,94.04,11.83,11.895,88.17,88.105,20.67,20.67,22.06,22.195,35.29,35.935
+266,18,F25-0960,ABC-3187,Desmodium,cajanifolium,Desmodium cajanifolium,Fabaceae,Fabales,Shrub,B,94.09,,11.96,,88.04,,20.67,,22.33,,36.58,
+267,18,F25-0961,ABC-4028,Galactia,glaucescens,Galactia glaucescens,Fabaceae,Fabales,Herbaceous,A,94.44,94.515,11.74,11.85,88.26,88.15,12.55,12.55,47.43,46.68,64.49,65.42
+268,18,F25-0961,ABC-4028,Galactia,glaucescens,Galactia glaucescens,Fabaceae,Fabales,Herbaceous,B,94.59,,11.96,,88.04,,12.55,,45.93,,66.35,
+269,18,F25-0962,ABC-5277,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,A,91.39,91.43,7.47,7.55,92.53,92.45,19.78,19.78,32.2,31.585,62.63,61.88
+270,18,F25-0962,ABC-5277,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,B,91.47,,7.63,,92.37,,19.78,,30.97,,61.13,
+271,18,F25-0963,ABC-7227,Galactia,texana,Galactia texana,Fabaceae,Fabales,Climber,A,93.19,93.045,16.04,16.045,83.96,83.955,12.52,12.52,26.41,26.875,40.77,41.77
+272,18,F25-0963,ABC-7227,Galactia,texana,Galactia texana,Fabaceae,Fabales,Climber,B,92.9,,16.05,,83.95,,12.52,,27.34,,42.77,
+273,18,F25-0964,ABC-8013,Crotalaria,paulina,Crotalaria paulina,Fabaceae,Fabales,Herbaceous,A,93.67,93.735,10.67,10.605,89.33,89.395,22.95,22.95,17.69,17.85,58.43,61.05
+274,18,F25-0964,ABC-8013,Crotalaria,paulina,Crotalaria paulina,Fabaceae,Fabales,Herbaceous,B,93.8,,10.54,,89.46,,22.95,,18.01,,63.67,
+275,18,F25-0965,ABC-8156,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,A,94.04,94.11,9.99,9.97,90.01,90.03,24.22,24.22,33,33.735,59.21,58.735
+276,18,F25-0965,ABC-8156,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,B,94.18,,9.95,,90.05,,24.22,,34.47,,58.26,
+277,18,F25-0966,ABC-9323,Crotalaria,vitellina,Crotalaria vitellina,Fabaceae,Fabales,Herbaceous,A,92.39,92.4,6.06,6.06,93.94,93.94,25.36,25.36,17.53,17.475,44.9,45.445
+278,18,F25-0966,ABC-9323,Crotalaria,vitellina,Crotalaria vitellina,Fabaceae,Fabales,Herbaceous,B,92.41,,6.06,,93.94,,25.36,,17.42,,45.99,
+279,18,F25-0967,ABC-9537,Crotalaria,sagittalis,Crotalaria sagittalis,Fabaceae,Fabales,Herbaceous,A,91.79,91.78,12.96,13.025,87.04,86.975,22.86,22.86,20.06,19.84,49.8,50.48
+280,18,F25-0967,ABC-9537,Crotalaria,sagittalis,Crotalaria sagittalis,Fabaceae,Fabales,Herbaceous,B,91.77,,13.09,,86.91,,22.86,,19.62,,51.16,
+281,18,F25-0968,ABC-9690,Aeschynomene,histrix,Aeschynomene histrix,Fabaceae,Fabales,Herbaceous,A,93.75,93.78,11.33,11.435,88.67,88.565,20.06,20.22,17.12,17.605,48.29,49.99
+282,18,F25-0968,ABC-9690,Aeschynomene,histrix,Aeschynomene histrix,Fabaceae,Fabales,Herbaceous,B,93.81,,11.54,,88.46,,20.38,,18.09,,51.69,
+283,18,F25-0969,ABC-9900,Pueraria,phaseoloides,Pueraria phaseoloides,Fabaceae,Fabales,Climber,A,92.74,92.795,10.48,10.57,89.52,89.43,18.92,18.92,32.59,32.74,54.28,55.455
+284,18,F25-0969,ABC-9900,Pueraria,phaseoloides,Pueraria phaseoloides,Fabaceae,Fabales,Climber,B,92.85,,10.66,,89.34,,18.92,,32.89,,56.63,
+285,18,F25-0970,ABC-11998,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,A,94.64,94.605,12.75,12.785,87.25,87.215,14.22,14.22,32.85,33.375,62.03,63.5
+286,18,F25-0970,ABC-11998,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,B,94.57,,12.82,,87.18,,14.22,,33.9,,64.97,
+287,18,F25-0971,ABC-13149,Desmodium,strigillosum,Desmodium strigillosum,Fabaceae,Fabales,Herbaceous,A,93.7,93.775,8.14,8.185,91.86,91.815,13.45,13.45,35.26,35.325,51,49.675
+288,18,F25-0971,ABC-13149,Desmodium,strigillosum,Desmodium strigillosum,Fabaceae,Fabales,Herbaceous,B,93.85,,8.23,,91.77,,13.45,,35.39,,48.35,
+289,18,F25-0972,ABC-13389,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,A,93.77,93.82,8.21,8.245,91.79,91.755,14.94,14.94,48.58,48.335,57.34,57.13
+290,18,F25-0972,ABC-13389,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,B,93.87,,8.28,,91.72,,14.94,,48.09,,56.92,
+291,18,F25-0973,ABC-13651,Desmodium,heterocarpon,Desmodium heterocarpon,Fabaceae,Fabales,Herbaceous,A,95,95.045,9.19,9.165,90.81,90.835,16.15,16.15,37.77,38.99,54.75,55.595
+292,18,F25-0973,ABC-13651,Desmodium,heterocarpon,Desmodium heterocarpon,Fabaceae,Fabales,Herbaceous,B,95.09,,9.14,,90.86,,16.15,,40.21,,56.44,
+293,18,F25-0974,ABC-13946,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,A,93.83,93.825,6.83,6.805,93.17,93.195,14.37,14.37,52.96,53.08,60.63,60.83
+294,18,F25-0974,ABC-13946,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,B,93.82,,6.78,,93.22,,14.37,,53.2,,61.03,
+295,18,F25-0975,ABC-15160,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,A,94.51,94.535,10.15,10.005,89.85,89.995,21.46,21.46,35.06,35.17,61.9,61.86
+296,18,F25-0975,ABC-15160,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,B,94.56,,9.86,,90.14,,21.46,,35.28,,61.82,
+297,18,F25-0976,ABC-17000,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,A,94.53,94.575,7.86,7.84,92.14,92.16,17.38,17.38,24.57,24.195,48.01,48.795
+298,18,F25-0976,ABC-17000,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,B,94.62,,7.82,,92.18,,17.38,,23.82,,49.58,
+299,18,F25-0977,ABC-17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,A,94.64,94.78,11.71,11.77,88.29,88.23,22.97,22.97,15.61,15.645,39.81,39.875
+300,18,F25-0977,ABC-17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,B,94.92,,11.83,,88.17,,22.97,,15.68,,39.94,
+301,18,F25-0978,ABC-18700,Cajanus,cajan,Cajanus cajan,Fabaceae,Fabales,Shrub,A,93.86,93.9,7.37,7.355,92.63,92.645,23.27,22.875,43.33,42.285,54.44,54.12
+302,18,F25-0978,ABC-18700,Cajanus,cajan,Cajanus cajan,Fabaceae,Fabales,Shrub,B,93.94,,7.34,,92.66,,22.48,,41.24,,53.8,
+303,18,F25-0979,ABC-18873,Alysicarpus,ferrugineus,Alysicarpus ferrugineus,Fabaceae,Fabales,Herbaceous,A,95.08,95.02,9.59,9.335,90.41,90.665,15.36,15.36,34.94,34.52,51.75,51.78
+304,18,F25-0979,ABC-18873,Alysicarpus,ferrugineus,Alysicarpus ferrugineus,Fabaceae,Fabales,Herbaceous,B,94.96,,9.08,,90.92,,15.36,,34.1,,51.81,
+305,18,F25-0980,ABC-19867,Uraria,lagopodioides,Uraria lagopodioides,Fabaceae,Fabales,Herbaceous,A,95.86,95.9,15.49,15.455,84.51,84.545,19.32,19.32,25.22,25.83,43.08,44.285
+306,18,F25-0980,ABC-19867,Uraria,lagopodioides,Uraria lagopodioides,Fabaceae,Fabales,Herbaceous,B,95.94,,15.42,,84.58,,19.32,,26.44,,45.49,
+307,18,F25-0981,ABC-20207,Aeschynomene,sensitiva,Aeschynomene sensitiva,Fabaceae,Fabales,Herbaceous,A,90.66,90.74,5.97,5.985,94.03,94.015,21.92,21.92,25.28,25.335,52.56,52.9
+308,18,F25-0981,ABC-20207,Aeschynomene,sensitiva,Aeschynomene sensitiva,Fabaceae,Fabales,Herbaceous,B,90.82,,6,,94,,21.92,,25.39,,53.24,
+309,18,F25-0982,ABC-20709,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,A,93.88,93.935,8.98,9.01,91.02,90.99,16.64,16.64,33.42,33.13,49.09,48.825
+310,18,F25-0982,ABC-20709,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,B,93.99,,9.04,,90.96,,16.64,,32.84,,48.56,
+311,18,F25-0983,ABC-18437,Flemingia,macrophylla,Flemingia macrophylla,Fabaceae,Fabales,Shrub,A,95.59,95.67,4.87,4.875,95.13,95.125,17.19,17.19,47.36,47.665,64.94,65.075
+312,18,F25-0983,ABC-18437,Flemingia,macrophylla,Flemingia macrophylla,Fabaceae,Fabales,Shrub,B,95.75,,4.88,,95.12,,17.19,,47.97,,65.21,
+313,18,F25-0984,ABC-25522,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,A,95.26,95.305,9.96,9.9,90.04,90.1,20.98,20.98,28.78,28.86,51.41,50.65
+314,18,F25-0984,ABC-25522,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,B,95.35,,9.84,,90.16,,20.98,,28.94,,49.89,
+315,18,F25-0985,ABC-25704,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Fabaceae,Fabales,Climber,A,95.73,95.745,7.13,7.195,92.87,92.805,24.11,24.11,32.1,32.585,60.31,58.64
+316,18,F25-0985,ABC-25704,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Fabaceae,Fabales,Climber,B,95.76,,7.26,,92.74,,24.11,,33.07,,56.97,
+317,18,F25-0986,ABC-33729,Desmodium,cinereum,Desmodium cinereum,Fabaceae,Fabales,Shrub,A,94.11,94.15,15.68,15.73,84.32,84.27,19.2,19.2,22.75,22.875,40.13,40.07
+318,18,F25-0986,ABC-33729,Desmodium,cinereum,Desmodium cinereum,Fabaceae,Fabales,Shrub,B,94.19,,15.78,,84.22,,19.2,,23,,40.01,
+319,18,F25-0987,ABC-33827,Desmodium,incanum,Desmodium incanum,Fabaceae,Fabales,Herbaceous,A,93.81,93.88,15.51,15.545,84.49,84.455,16.09,16.09,40.29,40.085,49.17,49.1
+320,18,F25-0987,ABC-33827,Desmodium,incanum,Desmodium incanum,Fabaceae,Fabales,Herbaceous,B,93.95,,15.58,,84.42,,16.09,,39.88,,49.03,
+321,18,F25-0988,ABC-8512,Calopogonium,caeruleum,Calopogonium caeruleum,Fabaceae,Fabales,Climber,A,92.91,92.935,10.38,10.36,89.62,89.64,22.25,22.41,30.42,30.93,49.06,50.425
+322,18,F25-0988,ABC-8512,Calopogonium,caeruleum,Calopogonium caeruleum,Fabaceae,Fabales,Climber,B,92.96,,10.34,,89.66,,22.57,,31.44,,51.79,
+323,18,F25-0989,ABC-11833,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,A,94.9,94.97,9.83,9.915,90.17,90.085,13.53,13.53,41.53,41.13,63.5,64.995
+324,18,F25-0989,ABC-11833,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,B,95.04,,10,,90,,13.53,,40.73,,66.49,
+325,18,F25-2131,Muestra # 02,Cynodon,nlenfuensis,Cynodon nlemfuensis,Poaceae,Poales,Grasses,A,92.11,92.175,9.45,9.295,90.55,90.705,5.75,5.74,39.56,40.04,77.29,77.785
+326,18,F25-2131,Muestra # 02,Cynodon,nlenfuensis,Cynodon nlemfuensis,Poaceae,Poales,Grasses,B,92.24,,9.14,,90.86,,5.73,,40.52,,78.28,
+327,18,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494,0,0,0,0,0,0
+328,18,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,B,91.32173565,,10.12699803,,89.87300197,,0,,0,,0,
+329,18,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,A,89.73205359,89.69309597,6.183844011,6.035393965,93.81615599,93.96460604,0,0,0,0,0,0
+330,18,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,B,89.65413834,,5.886943918,,94.11305608,,0,,0,,0,
+331,18,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,A,93.64063594,93.73093584,11.32941805,11.41385651,88.67058195,88.58614349,0,0,0,0,0,0
+332,18,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,B,93.82123575,,11.49829497,,88.50170503,,0,,0,,0,
+333,19,F25-2077,CIAT-PM21_3535,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,95.15096981,95.23688806,13.80491403,13.78641395,86.19508597,86.21358605,11.94935933,11.94955278,34.67300136,34.87636775,68.02021381,68.35141909
+334,19,F25-2077,CIAT-PM21_3535,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,95.32280632,,13.76791387,,86.23208613,,11.94974623,,35.07973413,,68.68262437,
+335,19,F25-2078,CIAT-PM21_6106,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.92182345,93.92273463,13.03872396,12.98888633,86.96127604,87.01111367,15.78289046,15.69078512,30.68006565,30.98964348,66.42010347,66.48146257
+336,19,F25-2078,CIAT-PM21_6106,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.92364581,,12.9390487,,87.0609513,,15.59867979,,31.2992213,,66.54282167,
+337,19,F25-2079,CIAT-PM21_2580,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.74062594,93.75655847,12.77649512,12.7905719,87.22350488,87.2094281,16.11512141,16.16985275,31.64792899,31.1999177,65.46164169,65.04687659
+338,19,F25-2079,CIAT-PM21_2580,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.772491,,12.80464867,,87.19535133,,16.22458409,,30.7519064,,64.63211148,
+339,19,F25-2080,CIAT-CIAT_16031,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.72313843,93.76718809,13.2282927,13.21428268,86.7717073,86.78571732,13.85520271,13.81829259,32.16971892,32.3727052,65.74187636,65.74011748
+340,19,F25-2080,CIAT-CIAT_16031,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.81123775,,13.20027266,,86.79972734,,13.78138247,,32.57569147,,65.73835861,
+341,19,F25-2081,CIAT-CIAT_26936,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,95.08049195,95.08524598,10.37912138,10.32179751,89.62087862,89.67820249,13.70022176,13.54794525,36.11869384,36.61931982,66.35439376,66.88561711
+342,19,F25-2081,CIAT-CIAT_26936,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,95.09,,10.26447363,,89.73552637,,13.39566874,,37.1199458,,67.41684045,
+343,19,F25-2082,CIAT-PM21_0074,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,94.55163451,94.59108573,13.65469596,13.60320748,86.34530404,86.39679252,13.3085608,13.09757769,31.23107192,30.94161477,64.2189463,64.42410002
+344,19,F25-2082,CIAT-PM21_0074,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,94.63053695,,13.55171899,,86.44828101,,12.88659459,,30.65215761,,64.62925375,
+345,19,F25-2083,CIAT-PM21_0072,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.29335332,93.40297414,14.37137145,14.40419578,85.62862855,85.59580422,14.85435615,14.70263093,29.46040652,29.07617508,66.42196818,66.22559012
+346,19,F25-2083,CIAT-PM21_0072,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.51259496,,14.43702011,,85.56297989,,14.55090571,,28.69194363,,66.02921206,
+347,19,F25-2084,CIAT-PM21_6598,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,94.66106779,94.63634215,14.54752607,14.45172655,85.45247393,85.54827345,12.94692051,12.93760614,28.89728235,28.83298392,65.51948085,65.49131011
+348,19,F25-2084,CIAT-PM21_6598,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,94.61161652,,14.35592703,,85.64407297,,12.92829178,,28.7686855,,65.46313936,
+349,19,F25-2085,CIAT-PM21_6647,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.17204839,93.15808096,13.10282261,13.00967033,86.89717739,86.99032967,12.3953928,12.43261804,29.36944155,29.48714945,65.69429819,66.17398685
+350,19,F25-2085,CIAT-PM21_6647,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.14411353,,12.91651804,,87.08348196,,12.46984328,,29.60485736,,66.65367552,
+351,19,F25-2086,CIAT-PM21_0819,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,92.45226432,92.49725082,14.28803026,14.12591192,85.71196974,85.87408808,15.25863791,15.22376149,28.32837063,28.56854291,64.12497436,64.82090113
+352,19,F25-2086,CIAT-PM21_0819,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,92.54223733,,13.96379357,,86.03620643,,15.18888508,,28.8087152,,65.5168279,
+353,19,F25-2087,CIAT-CIAT_16021,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,94.39112178,94.47664845,11.83124574,11.8194827,88.16875426,88.1805173,12.62232853,12.61425972,32.63545255,32.73112151,70.65797414,70.70047666
+354,19,F25-2087,CIAT-CIAT_16021,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,94.56217513,,11.80771965,,88.19228035,,12.60619091,,32.82679047,,70.74297919,
+355,19,F25-2088,CIAT-PM21_6640,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.03209037,93.04639215,15.224395,15.15069352,84.775605,84.84930648,15.92494983,15.77972035,26.4928033,26.64682894,65.84631097,65.68077158
+356,19,F25-2088,CIAT-PM21_6640,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.06069393,,15.07699204,,84.92300796,,15.63449088,,26.80085457,,65.51523219,
+357,19,F25-2089,CIAT-PM21_0065,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,94.11176647,94.03648711,13.76712015,13.68806804,86.23287985,86.31193196,14.30942397,14.18151108,31.1616676,30.72193547,65.18294898,64.86665785
+358,19,F25-2089,CIAT-PM21_0065,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.96120776,,13.60901593,,86.39098407,,14.05359819,,30.28220333,,64.55036672,
+359,19,F25-2090,CIAT-PM21_6629,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.83369978,93.85746177,11.34018929,11.33180456,88.65981071,88.66819544,11.22901061,11.28064926,37.9270778,37.88398585,73.26063017,73.00289439
+360,19,F25-2090,CIAT-PM21_6629,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.88122376,,11.32341982,,88.67658018,,11.3322879,,37.84089391,,72.7451586,
+361,19,F25-2091,CIAT-PM21_6641,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,94.15116977,94.15116977,15.49325688,15.34989912,84.50674312,84.65010088,15.54928312,15.59452659,28.78851284,28.72505982,62.76133027,63.06903313
+362,19,F25-2091,CIAT-PM21_6641,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,94.15116977,,15.20654136,,84.79345864,,15.63977006,,28.66160681,,63.37673598,
+363,19,F25-2092,CIAT-CIAT_16025,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,92.34,92.3965094,14.96809792,14.72709647,85.03190208,85.27290353,14.28299887,14.42724325,32.23716115,32.29916795,68.45911401,68.72612896
+364,19,F25-2092,CIAT-CIAT_16025,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,92.45301879,,14.48609501,,85.51390499,,14.57148764,,32.36117475,,68.99314391,
+365,19,F25-2093,CIAT-PM21_0070,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,94.3916825,94.3969608,13.46037842,13.51794696,86.53962158,86.48205304,14.84734964,14.88862415,29.56002239,29.67274596,66.1530826,66.68183337
+366,19,F25-2093,CIAT-PM21_0070,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,94.4022391,,13.57551551,,86.42448449,,14.92989867,,29.78546952,,67.21058415,
+367,19,F25-2094,CIAT-PM21_4926,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.68,93.66595221,11.86130044,11.76346445,88.13869956,88.23653555,14.74382631,14.67398894,30.24084285,30.02790274,72.35649109,71.36580711
+368,19,F25-2094,CIAT-PM21_4926,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.65190443,,11.66562846,,88.33437154,,14.60415157,,29.81496262,,70.37512312,
+369,19,F25-2095,CIAT-PM21_3662,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.27067293,93.28033647,14.34242482,14.51466791,85.65757518,85.48533209,11.67986436,11.57892028,31.4482921,32.04889937,67.23751574,68.08565132
+370,19,F25-2095,CIAT-PM21_3662,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.29,,14.686911,,85.313089,,11.47797621,,32.64950664,,68.9337869,
+371,19,F25-2096,CIAT-PM21_4448,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,95.45227386,95.49113693,11.22056248,11.26525632,88.77943752,88.73474368,11.96656091,12.02554234,30.79602825,31.22290886,71.78222876,72.06703828
+372,19,F25-2096,CIAT-PM21_4448,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,95.53,,11.30995017,,88.69004983,,12.08452376,,31.64978948,,72.3518478,
+373,19,F25-2097,CIAT-PM21_0079,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.89061094,93.9112157,12.75545421,12.48805,87.24454579,87.51195,13.46657868,13.4793065,31.70428497,31.24368586,69.24058237,68.55329219
+374,19,F25-2097,CIAT-PM21_0079,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.93182045,,12.2206458,,87.7793542,,13.49203431,,30.78308674,,67.86600201,
+375,19,F25-2098,CIAT-CIAT_6986,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,92.5714857,92.57611381,11.81494015,11.85333378,88.18505985,88.14666622,12.24520283,12.26267653,33.01324087,33.48122332,71.50151476,71.82219522
+376,19,F25-2098,CIAT-CIAT_6986,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,92.58074193,,11.89172742,,88.10827258,,12.28015023,,33.94920577,,72.14287567,
+377,19,F25-2099,CIAT-PM21_4852,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,92.70218934,92.71682153,11.3214094,11.02004092,88.6785906,88.97995908,10.67380305,10.66096705,35.20547094,34.88998796,72.84545848,72.85679583
+378,19,F25-2099,CIAT-PM21_4852,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,92.73145371,,10.71867244,,89.28132756,,10.64813104,,34.57450498,,72.86813318,
+379,19,F25-2100,CIAT-PM21_0078,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,92.54223733,92.59758808,13.8622932,13.65109593,86.1377068,86.34890407,13.78059732,13.8395443,32.26759711,31.98433369,66.65642334,66.45391224
+380,19,F25-2100,CIAT-PM21_0078,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,92.65293882,,13.43989865,,86.56010135,,13.89849127,,31.70107026,,66.25140114,
+381,19,F25-2101,CIAT-CIAT_16071,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,92.96,93.03103469,13.59761293,13.62781153,86.40238707,86.37218847,16.8760352,16.9551522,28.86014504,28.87010673,66.56506406,66.51376933
+382,19,F25-2101,CIAT-CIAT_16071,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.10206938,,13.65801013,,86.34198987,,17.0342692,,28.88006841,,66.4624746,
+383,19,F25-2102,CIAT-PM21_0876,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,92.4115177,92.48761792,13.29641823,13.20796993,86.70358177,86.79203007,13.13035586,13.10094191,30.76177444,31.06988518,66.00707517,66.6826844
+384,19,F25-2102,CIAT-PM21_0876,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,92.56371814,,13.11952163,,86.88047837,,13.07152797,,31.37799592,,67.35829363,
+385,19,F25-2103,CIAT-PM21_3641,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,A,93.68126375,93.72156759,12.69464519,12.53401011,87.30535481,87.46598989,12.33750379,12.36729865,32.41143537,32.19256094,69.17003565,69.05784329
+386,19,F25-2103,CIAT-PM21_3641,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,B,93.76187144,,12.37337503,,87.62662497,,12.3970935,,31.9736865,,68.94565093,
+387,19,F25-2104,CIAT-BR06_1348,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.02139572,93.09138172,14.27344002,14.47749973,85.72655998,85.52250027,12.27493536,12.22902015,25.42988884,25.64188675,59.23822696,59.7591323
+388,19,F25-2104,CIAT-BR06_1348,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.16136773,,14.68155945,,85.31844055,,12.18310493,,25.85388467,,60.28003764,
+389,19,F25-2105,CIAT-BR09_4467,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.32460524,92.30730262,14.58381132,14.62610329,85.41618868,85.37389671,13.61137379,13.65570256,24.69071535,24.32148476,59.75374265,58.96260766
+390,19,F25-2105,CIAT-BR09_4467,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.29,,14.66839526,,85.33160474,,13.70003134,,23.95225418,,58.17147267,
+391,19,F25-2106,CIAT-BR09_4777,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.63254698,93.67658746,13.5732037,13.67664208,86.4267963,86.32335792,12.91360434,12.75992054,24.86774358,24.43479859,59.85162133,58.97358036
+392,19,F25-2106,CIAT-BR09_4777,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.72062794,,13.78008047,,86.21991953,,12.60623674,,24.0018536,,58.09553939,
+393,19,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494,0,0,0,0,0,0
+394,19,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,B,91.32173565,,10.12699803,,89.87300197,,0,,0,,0,
+395,19,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,A,89.73205359,89.69309597,6.183844011,6.035393965,93.81615599,93.96460604,0,0,0,0,0,0
+396,19,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,B,89.65413834,,5.886943918,,94.11305608,,0,,0,,0,
+397,19,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,A,93.64063594,93.73093584,11.32941805,11.41385651,88.67058195,88.58614349,0,0,0,0,0,0
+398,19,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,B,93.82123575,,11.49829497,,88.50170503,,0,,0,,0,
+399,20,F25-2107,CIAT-BR12_0255,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,91.80245926,91.85365817,14.52962949,14.2282416,85.47037051,85.7717584,14.95263578,14.9579123,24.37122496,24.63463089,56.62619189,57.34218878
+400,20,F25-2107,CIAT-BR12_0255,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,91.90485709,,13.92685371,,86.07314629,,14.96318881,,24.89803681,,58.05818566,
+401,20,F25-2108,CIAT-BR12_0461,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.79072093,92.82036046,14.79053418,14.72124596,85.20946582,85.27875404,13.21826375,13.23602025,25.99250217,25.60164458,61.15973328,60.78860674
+402,20,F25-2108,CIAT-BR12_0461,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.85,,14.65195775,,85.34804225,,13.25377674,,25.21078699,,60.41748021,
+403,20,F25-2109,CIAT-BR12_1620,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.64063594,93.54630017,13.86340572,13.78721298,86.13659428,86.21278702,13.22499278,13.21811495,25.32588125,25.37685971,60.2469476,60.35987767
+404,20,F25-2109,CIAT-BR12_1620,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.45196441,,13.71102024,,86.28897976,,13.21123713,,25.42783817,,60.47280774,
+405,20,F25-2110,CIAT-BR12_1889,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,91.36,91.34586683,14.96509965,15.0894734,85.03490035,84.9105266,14.78608608,14.81552708,23.01845575,23.38894132,57.53390373,57.75338296
+406,20,F25-2110,CIAT-BR12_1889,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,91.33173365,,15.21384715,,84.78615285,,14.84496807,,23.75942689,,57.97286218,
+407,20,F25-2111,CIAT-BR12_4039,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.10157968,92.1061843,13.67712776,13.60181991,86.32287224,86.39818009,15.20918528,15.16824631,27.15807688,27.46824758,61.64920669,61.83770541
+408,20,F25-2111,CIAT-BR12_4039,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.11078892,,13.52651206,,86.47348794,,15.12730733,,27.77841828,,62.02620413,
+409,20,F25-2112,CIAT-BR12_4856,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.56074393,92.58148163,12.76585545,12.91035301,87.23414455,87.08964699,13.01529418,13.00823577,28.50942747,27.75186073,65.11674561,63.62626174
+410,20,F25-2112,CIAT-BR12_4856,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.60221933,,13.05485058,,86.94514942,,13.00117736,,26.99429399,,62.13577786,
+411,20,F25-2113,CIAT-BR12_5049,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.21311475,92.25232822,14.61709034,14.47224325,85.38290966,85.52775675,14.58818011,14.56019901,26.72963598,26.52233592,60.67073868,60.59714531
+412,20,F25-2113,CIAT-BR12_5049,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.29154169,,14.32739616,,85.67260384,,14.53221791,,26.31503586,,60.52355195,
+413,20,F25-2114,CIAT-BR15_1851,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.13157369,92.16773587,15.2083551,14.81567797,84.7916449,85.18432203,11.37076189,11.25064192,25.87762523,26.14383314,59.51040984,59.44090944
+414,20,F25-2114,CIAT-BR15_1851,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.20389805,,14.42300085,,85.57699915,,11.13052196,,26.41004105,,59.37140903,
+415,20,F25-2115,CIAT-BR15_3025,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,91.95241428,92.02357871,14.15516801,14.13675561,85.84483199,85.86324439,12.34322122,12.31612962,27.1082734,26.72055284,60.45345802,59.9419802
+416,20,F25-2115,CIAT-BR15_3025,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.09474315,,14.11834321,,85.88165679,,12.28903802,,26.33283228,,59.43050239,
+417,20,F25-2116,CIAT-BR15_3248,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.13393303,92.16196652,15.79037882,15.89740581,84.20962118,84.10259419,13.93219872,13.91229411,24.42984137,24.29020216,58.98557403,58.78803907
+418,20,F25-2116,CIAT-BR15_3248,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.19,,16.0044328,,83.9955672,,13.8923895,,24.15056295,,58.59050411,
+419,20,F25-2117,CIAT-BR15_7659,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.27134573,93.33100333,13.93684634,13.72863021,86.06315366,86.27136979,12.29695883,12.33363569,27.15746881,26.95129104,60.44628058,60.11864972
+420,20,F25-2117,CIAT-BR15_7659,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.39066093,,13.52041409,,86.47958591,,12.37031255,,26.74511327,,59.79101886,
+421,20,F25-2118,CIAT-BR15_8919,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.46130774,93.51661808,13.62052304,13.48621622,86.37947696,86.51378378,11.79150243,11.758873,27.38608801,26.98267253,63.98853999,63.20760754
+422,20,F25-2118,CIAT-BR15_8919,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.57192842,,13.3519094,,86.6480906,,11.72624358,,26.57925705,,62.4266751,
+423,20,F25-2119,CIAT-BR19_5515,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.39304278,92.42689835,14.48133214,14.52677724,85.51866786,85.47322276,11.20421303,11.19403356,26.67884636,26.9558564,60.72756041,60.88519916
+424,20,F25-2119,CIAT-BR19_5515,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.46075392,,14.57222234,,85.42777766,,11.1838541,,27.23286644,,61.0428379,
+425,20,F25-2120,CIAT-BR19_5877,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,93.40197941,93.48727519,12.97113652,13.0079115,87.02886348,86.9920885,12.44418661,12.43047201,25.93043378,26.06732092,60.47889876,60.58683674
+426,20,F25-2120,CIAT-BR19_5877,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,93.57257097,,13.04468648,,86.95531352,,12.41675741,,26.20420805,,60.69477471,
+427,20,F25-2121,CIAT-BR19_6136,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,A,92.89284286,92.92247861,14.8559083,14.78672107,85.1440917,85.21327893,13.27526237,13.3259947,26.18873097,25.86817235,60.32899751,59.52582632
+428,20,F25-2121,CIAT-BR19_6136,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,B,92.95211437,,14.71753384,,85.28246616,,13.37672704,,25.54761373,,58.72265513,
+429,20,F25-1651,CIAT-798,Galactia,striata,Galactia striata,Fabaceae,Fabales,Climber,A,92.59074093,92.61258014,11.098894,11.09612094,88.901106,88.90387906,17.13448106,17.14905641,24.78973458,24.94540367,56.07531623,56.89266389
+430,20,F25-1651,CIAT-798,Galactia,striata,Galactia striata,Fabaceae,Fabales,Climber,B,92.63441935,,11.09334788,,88.90665212,,17.16363176,,25.10107275,,57.71001155,
+431,20,F25-1652,CIAT-822,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,A,94.03238705,94.05208276,6.706366116,6.642926026,93.29363388,93.35707397,17.00895537,17.00895537,27.16761458,26.71941801,47.17079133,46.80180129
+432,20,F25-1652,CIAT-822,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,B,94.07177847,,6.579485935,,93.42051406,,17.00895537,,26.27122145,,46.43281125,
+433,20,F25-1653,CIAT-852,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,A,93.72313843,93.7684251,9.540020776,9.555531325,90.45997922,90.44446867,14.73367257,14.73367257,45.57818948,45.61641176,64.52916051,63.41092761
+434,20,F25-1653,CIAT-852,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,B,93.81371177,,9.571041874,,90.42895813,,14.73367257,,45.65463403,,62.29269472,
+435,20,F25-1654,CIAT-907,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,A,92.92212336,92.96745912,9.290787184,9.284946755,90.70921282,90.71505325,16.70905083,16.70905083,33.0690178,33.35026429,61.15222931,61.77493281
+436,20,F25-1654,CIAT-907,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,B,93.01279488,,9.279106326,,90.72089367,,16.70905083,,33.63151079,,62.39763632,
+437,20,F25-1655,CIAT-1992,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,A,93.64,92.46630611,8.467949386,8.31531848,91.53205061,91.68468152,19.94531352,19.94531352,37.8621994,38.55258672,60.93641064,60.22108633
+438,20,F25-1655,CIAT-1992,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,B,91.29261222,,8.162687575,,91.83731243,,19.94531352,,39.24297403,,59.50576202,
+439,20,F25-1656,CIAT-3001,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,A,94.43111378,94.49582886,6.961877939,6.972807418,93.03812206,93.02719258,15.81615439,15.81615439,39.57242705,40.09354549,58.11104238,57.839963
+440,20,F25-1656,CIAT-3001,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,B,94.56054395,,6.983736897,,93.0162631,,15.81615439,,40.61466393,,57.56888362,
+441,20,F25-1657,CIAT-3304,Desmodium,cajanifolium,Desmodium cajanifolium,Fabaceae,Fabales,Shrub,A,94.87102579,94.91076537,8.19553428,8.195944015,91.80446572,91.80405598,20.82484313,20.82484313,24.77690357,24.96748591,47.72310356,46.60975324
+442,20,F25-1657,CIAT-3304,Desmodium,cajanifolium,Desmodium cajanifolium,Fabaceae,Fabales,Shrub,B,94.95050495,,8.196353751,,91.80364625,,20.82484313,,25.15806825,,45.49640292,
+443,20,F25-1658,CIAT-5713,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,A,94.60269865,94.6424129,9.377996552,9.341498746,90.62200345,90.65850125,15.88423229,15.88423229,24.7272453,24.60852453,45.3831957,45.89872594
+444,20,F25-1658,CIAT-5713,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,B,94.68212715,,9.305000939,,90.69499906,,15.88423229,,24.48980377,,46.41425618,
+445,20,F25-1659,CIAT-7381,Galactia,glaucescens,Galactia glaucescens,Fabaceae,Fabales,Herbaceous,A,94.14175747,94.47087874,12.68793541,12.77452078,87.31206459,87.22547922,13.57733849,13.57733849,46.78905476,46.85874716,69.35196774,68.33942305
+446,20,F25-1659,CIAT-7381,Galactia,glaucescens,Galactia glaucescens,Fabaceae,Fabales,Herbaceous,B,94.8,,12.86110616,,87.13889384,,13.57733849,,46.92843955,,67.32687836,
+447,20,F25-1660,CIAT-7799,Dioclea,guianensis,Dioclea guianensis,Fabaceae,Fabales,Climber,A,93.39198241,93.46293104,7.818936959,7.769646262,92.18106304,92.23035374,20.9527222,20.37739203,52.63036648,52.91980391,65.46390562,65.24709435
+448,20,F25-1660,CIAT-7799,Dioclea,guianensis,Dioclea guianensis,Fabaceae,Fabales,Climber,B,93.53387967,,7.720355565,,92.27964444,,19.80206186,,53.20924133,,65.03028307,
+449,20,F25-1661,CIAT-7803,Dioclea,holtiana,Dioclea holtiana,Fabaceae,Fabales,Climber,A,94.21289355,94.24259232,11.443454,11.45463261,88.556546,88.54536739,20.26242214,20.30719452,42.34795436,41.01564449,57.90467215,58.23852862
+450,20,F25-1661,CIAT-7803,Dioclea,holtiana,Dioclea holtiana,Fabaceae,Fabales,Climber,B,94.27229108,,11.46581123,,88.53418877,,20.3519669,,39.68333463,,58.57238508,
+451,20,F25-1662,CIAT-8182,Eriosema,diffusum,Eriosema diffusum,Fabaceae,Fabales,Herbaceous,A,93.16478465,93.32304419,7.26000462,7.31538588,92.73999538,92.68461412,13.82686494,13.82686494,47.43167711,46.99468757,63.34230175,63.36005574
+452,20,F25-1662,CIAT-8182,Eriosema,diffusum,Eriosema diffusum,Fabaceae,Fabales,Herbaceous,B,93.48130374,,7.37076714,,92.62923286,,13.82686494,,46.55769802,,63.37780974,
+453,20,F25-1663,CIAT-8434,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,A,93.49195241,93.51597621,8.41315038,8.366292233,91.58684962,91.63370777,18.04924226,18.04924226,45.53654535,46.46920206,63.32727069,62.40995594
+454,20,F25-1663,CIAT-8434,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,B,93.54,,8.319434086,,91.68056591,,18.04924226,,47.40185878,,61.49264118,
+455,20,F25-1664,CIAT-8702,Calopogonium,caeruleum,Calopogonium caeruleum,Fabaceae,Fabales,Climber,A,92.91495953,93.00885921,8.670523453,8.677197194,91.32947655,91.32280281,23.9176173,23.9176173,31.95085835,31.38909249,50.63369361,50.99436438
+456,20,F25-1664,CIAT-8702,Calopogonium,caeruleum,Calopogonium caeruleum,Fabaceae,Fabales,Climber,B,93.1027589,,8.683870935,,91.31612906,,23.9176173,,30.82732663,,51.35503515,
+457,20,F25-1665,CIAT-8816,Crotalaria,micans,Crotalaria micans,Fabaceae,Fabales,Herbaceous,A,93.40065993,93.44598084,9.319961125,9.292747145,90.68003887,90.70725285,25.37682176,25.37682176,21.39620134,21.11361378,41.25203665,41.71649983
+458,20,F25-1665,CIAT-8816,Crotalaria,micans,Crotalaria micans,Fabaceae,Fabales,Herbaceous,B,93.49130174,,9.265533166,,90.73446683,,25.37682176,,20.83102622,,42.18096301,
+459,20,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494,0,0,0,0,0,0
+460,20,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,B,91.32173565,,10.12699803,,89.87300197,,0,,0,,0,
+461,20,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,A,89.73205359,89.69309597,6.183844011,6.035393965,93.81615599,93.96460604,0,0,0,0,0,0
+462,20,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,B,89.65413834,,5.886943918,,94.11305608,,0,,0,,0,
+463,20,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,A,93.64063594,93.73093584,11.32941805,11.41385651,88.67058195,88.58614349,0,0,0,0,0,0
+464,20,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,B,93.82123575,,11.49829497,,88.50170503,,0,,0,,0,
+465,21,F25-2144,CIAT-BH16_1763,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.8006598,97.8306508,11.80257511,11.86388719,88.19742489,88.13611281,7.192786651,7.199626591,31.39214749,30.67751367,68.65038177,67.86718898
+466,21,F25-2144,CIAT-BH16_1763,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.86064181,,11.92519926,,88.07480074,,7.206466532,,29.96287985,,67.0839962,
+467,21,F25-2145,CIAT-BH16B_2165,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.76111944,97.83097955,10.82959886,10.77905201,89.17040114,89.22094799,6.603699049,6.571491796,31.49180774,31.34856331,71.70594479,71.26472689
+468,21,F25-2145,CIAT-BH16B_2165,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.90083966,,10.72850515,,89.27149485,,6.539284544,,31.20531888,,70.82350899,
+469,21,F25-2146,CIAT-BH16B_2167,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,98.03059082,98.09575518,11.39360922,11.50964423,88.60639078,88.49035577,6.322386427,6.34006315,34.94812449,34.92353196,72.17789063,72.44612146
+470,21,F25-2146,CIAT-BH16B_2167,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.16091954,,11.62567925,,88.37432075,,6.357739874,,34.89893943,,72.71435229,
+471,21,F25-2147,CIAT-CIAT_16886,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,98.04058782,98.05048787,12.22472661,11.5625465,87.77527339,88.4374535,7.964929874,7.953394856,35.20556322,34.95159448,71.04635023,70.81214188
+472,21,F25-2147,CIAT-CIAT_16886,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.06038792,,10.90036639,,89.09963361,,7.941859838,,34.69762574,,70.57793352,
+473,21,F25-2148,CIAT-CIAT_16891,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,98.30101939,98.40058469,13.81276843,12.84579563,86.18723157,87.15420437,6.724630905,6.699651885,31.55483773,31.55743911,67.95195666,67.90742691
+474,21,F25-2148,CIAT-CIAT_16891,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.50014999,,11.87882283,,88.12117717,,6.674672865,,31.5600405,,67.86289717,
+475,21,F25-2149,CIAT-CIAT_26146,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,98.72076754,98.77561768,13.13301498,12.17799646,86.86698502,87.82200354,6.497229609,6.524523344,34.9732557,34.82664036,72.79086648,72.5393789
+476,21,F25-2149,CIAT-CIAT_26146,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.83046781,,11.22297793,,88.77702207,,6.551817079,,34.68002502,,72.28789132,
+477,21,F25-2150,CIAT-CIAT_26149,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,98.34033193,98.43523946,13.99625239,14.71308744,86.00374761,85.28691256,6.828594215,6.868664724,29.50916117,29.44111087,67.57939008,67.52131692
+478,21,F25-2150,CIAT-CIAT_26149,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.53014699,,15.42992249,,84.57007751,,6.908735234,,29.37306056,,67.46324376,
+479,21,F25-2151,CIAT-CIAT_26160,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,98.02079168,98.10048683,15.03978098,14.13489443,84.96021902,85.86510557,6.928458766,6.851123536,32.74717546,32.94546282,68.31097712,68.42476287
+480,21,F25-2151,CIAT-CIAT_26160,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.18018198,,13.23000787,,86.76999213,,6.773788306,,33.14375017,,68.53854862,
+481,21,F25-2152,CIAT-CIAT_26415,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.72136718,97.76134319,13.07503578,13.33571867,86.92496422,86.66428133,6.672053015,6.654139334,31.74217619,31.58478047,69.59048182,69.03751703
+482,21,F25-2152,CIAT-CIAT_26415,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.80131921,,13.59640155,,86.40359845,,6.636225653,,31.42738474,,68.48455224,
+483,21,F25-2153,CIAT-BH22_4092,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,98.23053084,98.21535541,15.10512208,14.51615247,84.89487792,85.48384753,7.367217231,7.385670197,30.60957756,30.64081824,66.94601648,67.40069492
+484,21,F25-2153,CIAT-BH22_4092,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.20017998,,13.92718285,,86.07281715,,7.404123164,,30.67205893,,67.85537336,
+485,21,F25-2154,CIAT-CIAT_26438,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.88,98.00509349,12.51975746,12.57524545,87.48024254,87.42475455,7.449016932,7.381771382,34.54959471,34.69244536,72.50604864,72.55429654
+486,21,F25-2154,CIAT-CIAT_26438,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.13018698,,12.63073345,,87.36926655,,7.314525832,,34.83529602,,72.60254445,
+487,21,F25-2155,CIAT-CIAT_26570,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.78044391,97.83043391,13.86816556,13.76085846,86.13183444,86.23914154,7.809431252,7.799983143,30.10264668,29.97759785,66.44507852,66.41597069
+488,21,F25-2155,CIAT-CIAT_26570,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.88042392,,13.65355135,,86.34644865,,7.790535034,,29.85254903,,66.38686286,
+489,21,F25-2156,CIAT-BH22_3115,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.49025097,97.62057531,11.20553334,11.24993159,88.79446666,88.75006841,5.664369187,5.653108263,33.79087159,33.37475685,71.98398427,70.98921544
+490,21,F25-2156,CIAT-BH22_3115,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.75089964,,11.29432984,,88.70567016,,5.641847339,,32.95864212,,69.99444661,
+491,21,F25-2157,CIAT-BH22_1375,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.19056189,97.27028094,14.11248576,13.89286341,85.88751424,86.10713659,7.600521119,7.609083719,32.29512085,32.46785919,67.29892482,67.66044365
+492,21,F25-2157,CIAT-BH22_1375,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.35,,13.67324107,,86.32675893,,7.617646318,,32.64059754,,68.02196249,
+493,21,F25-2158,CIAT-CIAT_6133,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,98.32033593,98.3854004,11.62541638,11.51306361,88.37458362,88.48693639,6.562519625,6.574016526,33.85188508,33.67410337,73.06607359,72.89463033
+494,21,F25-2158,CIAT-CIAT_6133,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.45046486,,11.40071084,,88.59928916,,6.585513427,,33.49632166,,72.72318708,
+495,21,F25-2159,CIAT-CIAT_679,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.2,97.32025595,12.14546744,12.00556361,87.85453256,87.99443639,6.166136676,6.189963155,31.25765239,31.71853479,70.45349654,70.7733983
+496,21,F25-2159,CIAT-CIAT_679,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.4405119,,11.86565977,,88.13434023,,6.213789634,,32.1794172,,71.09330005,
+497,21,F25-2160,CIAT-BH22_4865,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.33080076,97.48075577,15.10614296,15.16254743,84.89385704,84.83745257,8.767376851,8.77320935,32.37951604,32.48394849,67.41040777,67.33040602
+498,21,F25-2160,CIAT-BH22_4865,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.63071079,,15.2189519,,84.7810481,,8.77904185,,32.58838094,,67.25040428,
+499,21,F25-2161,CIAT-BH22_1706,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.65023498,97.70511749,11.49261922,11.63136471,88.50738078,88.36863529,5.63082443,5.658259019,34.57037428,34.5841574,72.42761002,72.36616736
+500,21,F25-2161,CIAT-BH22_1706,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.76,,11.7701102,,88.2298898,,5.685693607,,34.59794052,,72.30472471,
+501,21,F25-2162,CIAT-BH22_4169,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.54122939,97.63072868,12.37720765,12.26702467,87.62279235,87.73297533,7.411183055,7.40724886,35.71838082,35.73863513,72.23847788,72.26186249
+502,21,F25-2162,CIAT-BH22_4169,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.72022798,,12.15684168,,87.84315832,,7.403314666,,35.75888944,,72.28524711,
+503,21,F25-2163,CIAT-BH22_1258,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.65117441,97.72580716,12.57994529,12.52556324,87.42005471,87.47443676,7.00339702,7.02190421,34.12215936,34.17543822,70.86531813,71.11368504
+504,21,F25-2163,CIAT-BH22_1258,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.80043991,,12.4711812,,87.5288188,,7.040411401,,34.22871708,,71.36205195,
+505,21,F25-2164,CIAT-BH22_1370,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.61,97.72021696,15.51367821,15.35865839,84.48632179,84.64134161,8.719286695,8.665439214,29.81896216,29.64117134,66.31169838,66.1673892
+506,21,F25-2164,CIAT-BH22_1370,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.83043391,,15.20363857,,84.79636143,,8.611591733,,29.46338052,,66.02308002,
+507,21,F25-2165,CIAT-BH22_2225,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,98.10018998,98.0553934,10.05453525,10.19626372,89.94546475,89.80373628,6.651601914,6.619562922,36.11201689,36.2547633,72.76559713,73.12233208
+508,21,F25-2165,CIAT-BH22_2225,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.01059682,,10.33799219,,89.66200781,,6.587523931,,36.39750972,,73.47906703,
+509,21,F25-2166,CIAT-BH22_0528,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,98.22017798,98.21035891,15.07836781,13.77901606,84.92163219,86.22098394,8.72979258,8.766536374,36.95942436,36.79674098,73.73777137,73.55562007
+510,21,F25-2166,CIAT-BH22_0528,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,98.20053984,,12.4796643,,87.5203357,,8.803280168,,36.6340576,,73.37346877,
+511,21,F25-2167,CIAT-BH22_3507,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.91104448,97.94102949,12.22573732,12.17981427,87.77426268,87.82018573,6.616281129,6.61117864,35.19497726,35.28924312,72.10376767,71.86724574
+512,21,F25-2167,CIAT-BH22_3507,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.97101449,,12.13389121,,87.86610879,,6.60607615,,35.38350897,,71.63072382,
+513,21,F25-2168,CIAT-BH22_4253,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.95081967,97.9656118,12.81569908,13.12314906,87.18430092,86.87685094,8.496684574,8.470464368,32.33298485,32.10494149,68.45003315,68.01386275
+514,21,F25-2168,CIAT-BH22_4253,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.98040392,,13.43059905,,86.56940095,,8.444244161,,31.87689813,,67.57769235,
+515,21,F25-2169,CIAT-BH22_2189,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,96.85157421,96.89594009,15.77192894,15.58933529,84.22807106,84.41066471,8.01664,8.007660286,33.94509939,33.24245098,68.8231406,68.20306424
+516,21,F25-2169,CIAT-BH22_2189,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,96.94030597,,15.40674164,,84.59325836,,7.998680571,,32.53980257,,67.58298788,
+517,21,F25-2170,CIAT-BH22_0765,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.37026297,97.48525147,10.96466485,10.74926919,89.03533515,89.25073081,9.797891651,9.787499801,37.41345348,36.16142426,73.32411739,72.25733601
+518,21,F25-2170,CIAT-BH22_0765,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.60023998,,10.53387353,,89.46612647,,9.77710795,,34.90939504,,71.19055463,
+519,21,F25-2171,CIAT-BH22_2531,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,96.47176412,96.45123899,12.31094913,12.33871005,87.68905087,87.66128995,6.210809926,6.221073081,32.77607573,33.04362964,70.93908626,71.21900706
+520,21,F25-2171,CIAT-BH22_2531,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,96.43071386,,12.36647098,,87.63352902,,6.231336235,,33.31118355,,71.49892785,
+521,21,F25-2172,CIAT-BH22_0132,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,96.53034697,96.52534747,10.85616616,10.95975553,89.14383384,89.04024447,6.605148052,6.603827682,35.11802313,35.41690731,71.07530804,71.89493823
+522,21,F25-2172,CIAT-BH22_0132,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,96.52034797,,11.0633449,,88.9366551,,6.602507313,,35.71579149,,72.71456842,
+523,21,F25-2173,CIAT-BH22_3521,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.39156506,97.40591152,11.31695787,11.33518476,88.68304213,88.66481524,8.409007726,8.413893019,27.95015921,27.68683307,67.54347471,67.7929552
+524,21,F25-2173,CIAT-BH22_3521,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.42025797,,11.35341165,,88.64658835,,8.418778313,,27.42350693,,68.04243569,
+525,21,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494,0,0,0,0,0,0
+526,21,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,B,91.32173565,,10.12699803,,89.87300197,,0,,0,,0,
+527,21,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,A,89.73205359,89.69309597,6.183844011,6.035393965,93.81615599,93.96460604,0,0,0,0,0,0
+528,21,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,B,89.65413834,,5.886943918,,94.11305608,,0,,0,,0,
+529,21,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,A,93.64063594,93.73093584,11.32941805,11.41385651,88.67058195,88.58614349,0,0,0,0,0,0
+530,21,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,B,93.82123575,,11.49829497,,88.50170503,,0,,0,,0,
+531,22,F25-2174,CIAT-BH22_2074,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,96.77161419,96.84142485,13.62371869,13.33538275,86.37628131,86.66461725,7.589883903,7.652005953,31.69203302,31.55528452,68.09051511,67.79857367
+532,22,F25-2174,CIAT-BH22_2074,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,96.91123551,,13.0470468,,86.9529532,,7.714128003,,31.41853601,,67.50663223,
+533,22,F25-2175,CIAT-BH22_0456,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,96.61033897,96.71032897,11.06286187,10.98531844,88.93713813,89.01468156,6.042491889,6.020004014,29.57505781,29.80071497,68.05008874,67.90360723
+534,22,F25-2175,CIAT-BH22_0456,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,96.81031897,,10.90777502,,89.09222498,,5.99751614,,30.02637212,,67.75712573,
+535,22,F25-2176,CIAT-BH22_1832,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.31161303,97.35080652,10.89219309,10.81841978,89.10780691,89.18158022,6.654398504,6.640333527,32.46886362,32.59587571,72.17855871,72.55825504
+536,22,F25-2176,CIAT-BH22_1832,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.39,,10.74464647,,89.25535353,,6.626268549,,32.72288779,,72.93795138,
+537,22,F25-2177,CIAT-BH22_1872,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.54122939,97.62630128,11.63039334,11.57350867,88.36960666,88.42649133,6.98310489,6.895026897,33.32298508,33.73371071,70.46696043,71.30774858
+538,22,F25-2177,CIAT-BH22_1872,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.71137318,,11.516624,,88.483376,,6.806948905,,34.14443634,,72.14853673,
+539,22,F25-2178,CIAT-BH22_0071,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.03118752,97.09144825,13.36349422,13.53199964,86.63650578,86.46800036,7.377718474,7.411669525,37.43111341,36.87789805,71.71758682,70.97224392
+540,22,F25-2178,CIAT-BH22_0071,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.15170897,,13.70050507,,86.29949493,,7.445620577,,36.32468269,,70.22690103,
+541,22,F25-2179,CIAT-BH22_4454,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.46025397,97.61035094,10.97109989,11.16004263,89.02890011,88.83995737,6.538680055,6.525313077,32.07086068,31.1246096,70.10903111,68.57518088
+542,22,F25-2179,CIAT-BH22_4454,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.76044791,,11.34898536,,88.65101464,,6.511946099,,30.17835851,,67.04133065,
+543,22,F25-2180,CIAT-BH22_1267,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.65046991,97.71556785,10.49776268,10.31820044,89.50223732,89.68179956,6.062272028,5.990733796,32.89242637,32.7650623,70.56489953,70.79286283
+544,22,F25-2180,CIAT-BH22_1267,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.7806658,,10.1386382,,89.8613618,,5.919195565,,32.63769824,,71.02082612,
+545,22,F25-2181,CIAT-BH22_1303,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,96.80095971,96.85578879,11.54979392,11.54004873,88.45020608,88.45995127,7.591035388,7.588758988,34.72920939,35.25135619,71.30896955,72.11901345
+546,22,F25-2181,CIAT-BH22_1303,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,96.91061788,,11.53030354,,88.46969646,,7.586482588,,35.77350299,,72.92905736,
+547,22,F25-2182,CIAT-BH22_2508,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,97.85107446,97.89074419,13.01821566,13.18868956,86.98178434,86.81131044,8.619583105,8.681365205,34.02226269,33.87672656,70.90609393,70.42722596
+548,22,F25-2182,CIAT-BH22_2508,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.93041392,,13.35916345,,86.64083655,,8.743147304,,33.73119043,,69.94835798,
+549,22,F25-2183,CIAT-BH22_2046,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,A,96.93092072,97.08059885,10.38001107,10.3501499,89.61998893,89.6498501,6.817642035,6.705620313,32.14666522,32.1820102,70.19878031,70.29114373
+550,22,F25-2183,CIAT-BH22_2046,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,B,97.23027697,,10.32028873,,89.67971127,,6.59359859,,32.21735518,,70.38350715,
+,22,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,A,89.73205359,89.69309597,6.183844011,6.035393965,93.81615599,93.96460604,0,0,0,0,0,0
+,22,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,B,89.65413834,,5.886943918,,94.11305608,,0,,0,,0,
+,22,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,A,93.64063594,93.73093584,11.32941805,11.41385651,88.67058195,88.58614349,0,0,0,0,0,0
+,22,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,B,93.82123575,,11.49829497,,88.50170503,,0,,0,,0,

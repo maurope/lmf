@@ -1,0 +1,286 @@
+42_no,42_column1,42_ciat_lab_id,42_requisitioner,42_gene_bank_breeding_program_id,42_genus,42_species,42_tax_name,42_dm_percentage,42_ash_dm_percentage,42_protein_dm_percentage,42_adf_dm_percentage,42_ndf_dm_percentage,42_remarks
+No,Column1,CIAT Lab-ID,Requisitioner,Gene bank /Breeding program ID,Genus,Species,Tax Name,"DM, %","Ash (DM), %","Protein (DM), %","ADF (DM), %"," NDF (DM), %",Remarks
+1,1,F24 3416,,ABC-705-1,Indigofera,suffruticosa,Indigofera suffruticosa,91.97040346,12.67737636,33.01052157,28.05113538,45.22272398,
+2,1,F24 3417,Genetic bank,ABC-707-1,Alysicarpus,ovalifolius,Alysicarpus ovalifolius,90.09244937,12.07446643,25.39749175,25.44058874,54.10826554,
+3,1,F24 3418,Genetic bank,ABC-712-1,Clitoria,ternatea,Clitoria ternatea,91.30260413,7.76302443,31.19171324,25.82373269,54.87890628,
+4,1,F24 3419,Genetic bank,ABC-749-1,Crotalaria,juncea,Crotalaria juncea,91.74582542,11.547012,27.94809909,28.74740224,50.9986235,
+5,1,F24 3420,Genetic bank,ABC-768-1,Clitoria,ternatea,Clitoria ternatea,92.16577684,8.700864207,29.46000546,25.72686234,54.20871271,
+6,1,F24 3421,Genetic bank,ABC-772-1,Clitoria,ternatea,Clitoria ternatea,91.48585141,6.180664135,18.97317122,16.74207055,67.4182344,
+7,1,F24 3422,Genetic bank,ABC-819-1,Indigofera,suffruticosa,Indigofera suffruticosa,90.755,17.05691212,26.78170271,26.08685186,53.05046945,
+8,1,F24 3423,Genetic bank,ABC-905-1,Canavalia,brasiliensis,Canavalia brasiliensis,91.88080884,14.53371512,24.61245901,17.08170091,36.56131246,
+9,1,F24 3424,Genetic bank,ABC-913-1,Cajanus,cajan,Cajanus cajan,94.77077977,9.205037554,25.17714256,40.42406934,60.86165589,
+10,1,F24 3425,Genetic bank,ABC-955-1,Clitoria,ternatea,Clitoria ternatea,91.81540996,5.695924509,22.01184157,21.54706139,61.6731124,
+11,1,F24 1047,Genetic bank,,0,0,Albizzia saman,95.59132642,3.953147877,27.50772584,64.39270201,57.73693714,Ensayo interno
+12,1,F24 1070,LMF,,0,0,Gliricidia sepium,95.10622858,11.55274975,19.36781668,45.20354088,57.90099126,Ensayo interno
+13,1,F24 1075,LMF,,0,0,Leucaena diversifolia,95.62218891,10.22771083,26.34325807,54.91455416,58.12306651,Ensayo interno
+14,1,F24 1084,LMF,,0,0,Brachiaria decumbens,95.31093277,10.87269937,6.473549068,63.590479,58.44146809,Ensayo interno
+15,1,F24 1095,LMF,,0,0,Setaria sphacelata,95.41068439,14.94897596,18.94965969,59.69016425,58.14538218,Ensayo interno
+16,2,F24 3426,LMF,ABC-989-1,Indigofera,hirsuta,Indigofera hirsuta,92.37038196,13.66171032,25.3469484,47.62549013,53.10107125,Eliminados
+17,2,F24 3427,Genetic bank,ABC-1257-1,Stylosanthes,scabra,Stylosanthes scabra,92.71608732,9.516947912,17.95515598,35.89620842,69.9050053,Eliminados
+18,2,F24 3428,Genetic bank,ABC-3240-1,Desmodium,cinereum,Desmodium cinereum,92.86035596,12.00668593,22.62704069,24.90728416,56.33867198,Eliminados
+19,2,F24 3429,Genetic bank,ABC-3522-1,Desmodium,incanum,Desmodium incanum,93.27634916,11.05100511,17.94095507,47.9701854,64.48155421,Eliminados
+20,2,F24 3430,Genetic bank,ABC-4134-1,Macroptilium,lathyroides,Macroptilium lathyroides,91.91283399,14.35643896,22.08537556,24.28674512,43.64614315,Eliminados
+21,2,F24 3431,Genetic bank,ABC-4279-1,Vigna,umbellata,Vigna umbellata,91.03544446,11.01713418,25.72120617,14.1254966,84.17240098,Eliminados
+22,2,F24 3432,Genetic bank,ABC-5124-1,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,91.535,10.36216711,25.77536281,37.54664403,65.50813774,Eliminados
+23,2,F24 3433,Genetic bank,ABC-5234-1,Centrosema,brasilianum,Centrosema brasilianum,92.53224525,11.21974911,17.21944618,33.31727006,60.62801841,Eliminados
+24,2,F24 3434,Genetic bank,ABC-7292-1,Chamaecrista,desvauxii,Chamaecrista desvauxii,92.00080584,9.417483983,31.82560604,44.08080067,59.53002965,Eliminados
+25,2,F24 3435,Genetic bank,ABC-7317-1,Canavalia,sp.,Canavalia sp.,92.45081984,19.06227474,23.8828974,24.67008166,52.25784177,Eliminados
+26,2,F24 3436,Genetic bank,ABC-7322-1,Canavalia,sp.,Canavalia sp.,89.36711797,15.19263964,21.51684891,18.09453556,47.53834417,Eliminados
+27,2,F24 3437,Genetic bank,ABC-7339-1,Indigofera,lespedezioides,Indigofera lespedezioides,91.98580484,16.46288643,24.9715208,42.64975005,57.93782208,Eliminados
+28,2,F24 3438,Genetic bank,ABC-7469-1,Clitoria,ternatea,Clitoria ternatea,92.165,8.094191443,26.36670549,22.47667027,60.52862179,Eliminados
+29,2,F24 3439,Genetic bank,ABC-7643-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,93.8215466,7.352550439,22.49012437,37.74177758,66.98254594,Eliminados
+30,2,F24 3440,Genetic bank,ABC-7703-1,Aeschynomene,indica,Aeschynomene indica,91.94619664,8.846261932,22.07736189,32.03650832,67.28945857,Eliminados
+31,3,F24 3441,Genetic bank,ABC-7714,Alysicarpus,glumaceus,Alysicarpus glumaceus,93.05,17.46376309,20.28455956,27.78830201,52.26265146,
+32,3,F24 3442,Genetic bank,ABC-7757,Clitoria,ternatea,Clitoria ternatea,92.1,8.251909837,24.74722085,21.95422173,57.24279253,
+33,3,F24 3443,Genetic bank,ABC-7759,Clitoria,ternatea,Clitoria ternatea,93.55,5.879210659,16.46449484,14.68149842,60.81175965,
+34,3,F24 3444,Genetic bank,ABC-7790,Crotalaria,pallida,Crotalaria pallida,92.15,5.859953696,27.43905179,20.07772175,67.5835542,
+35,3,F24 3445,Genetic bank,ABC-7792,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,92.95,8.068856558,20.02103028,23.48182591,63.94342997,
+36,3,F24 3446,Genetic bank,ABC-7816,Indigofera,spicata,Indigofera spicata,92.5,17.62152534,28.00898398,23.10670087,54.74329686,
+37,3,F24 3447,Genetic bank,ABC-7858,Crotalaria,incana,Crotalaria incana,93.2,9.173772741,31.03415068,23.56845153,60.72538106,
+38,3,F24 3448,Genetic bank,ABC-7972,Canavalia,brasiliensis,Canavalia brasiliensis,91.95,17.83560818,26.52781626,23.8526448,56.06643684,
+39,3,F24 3449,Genetic bank,ABC-8205,Indigofera,suffruticosa,Indigofera suffruticosa,92.2,14.64198202,24.22786897,26.75974916,51.20819381,
+40,3,F24 3450,Genetic bank,ABC-8402,Indigofera,suffruticosa,Indigofera suffruticosa,92,17.71729409,26.88970109,18.99519674,47.90480151,
+41,3,F24 3451,Genetic bank,ABC-8408,Chamaecrista,nictitans,Chamaecrista nictitans,94.05,6.858027902,23.37980179,38.36972369,58.63328794,
+42,3,F24 3452,Genetic bank,ABC-8409,Chamaecrista,nictitans,Chamaecrista nictitans,91.95,7.667183139,27.7836572,38.02222478,61.8471383,
+43,3,F24 3453,Genetic bank,ABC-8719,Canavalia,sp.,Canavalia sp. ,93.5032967,17.10315828,20.28346797,15.80770956,40.19522125,
+44,3,F24 3454,Genetic bank,ABC-8797,Desmanthus,virgatus,Desmanthus virgatus,92.85714286,7.046730897,25.88000034,30.2474918,60.00899649,
+45,3,F24 3455,Genetic bank,ABC-8819,Coursetia,caribaea,Coursetia caribaea,91.7541958,13.94313434,21.83464401,20.9311004,36.01389313,
+46,4,F24 3582,Genetic bank,ABC-BR02_1752,Urochloa,interespecifico,Brachiaria interespecifico,96.02539292,15.70260308,10.91797301,21.14081447,55.41185871,F24 3548
+47,4,F24 3583,Breeding,ABC-BR02_1794,Urochloa,interespecifico,Brachiaria interespecifico,97.04515148,15.01802548,9.392254149,21.83535497,55.76175346,F24 3549
+48,4,F24 3584,Breeding,ABC-BR06_0423,Urochloa,interespecifico,Brachiaria interespecifico,96.76581878,15.96755672,11.00867792,22.02334064,57.36436861,F24 3550
+49,4,F24 3585,Breeding,ABC-BR09_1232,Urochloa,interespecifico,Brachiaria interespecifico,97.23582925,13.79735773,10.08023483,21.03258278,55.65771615,F24 3551
+50,4,F24 3586,Breeding,ABC-BR12_4951,Urochloa,interespecifico,Brachiaria interespecifico,95.7458233,15.47538705,11.10404195,23.28964746,56.86413105,F24 3552
+51,4,F24 3587,Breeding,ABC-BR15_0722,Urochloa,interespecifico,Brachiaria interespecifico,95.2154929,14.05618126,10.31254646,26.17777008,60.21275449,F24 3553
+52,4,F24 3588,Breeding,ABC-BR15_6487,Urochloa,interespecifico,Brachiaria interespecifico,95.07,13.5689492,9.608712975,24.55349937,59.72506873,F24 3554
+53,4,F24 3589,Breeding,ABC-BR19_0029,Urochloa,interespecifico,Brachiaria interespecifico,96.07039092,14.1288488,10.07879313,23.97575256,58.41008046,F24 3555
+54,4,F24 3590,Breeding,ABC-BR19_0423,Urochloa,interespecifico,Brachiaria interespecifico,95.34544891,13.90068579,10.11450669,24.49388118,59.22404943,F24 3556
+55,4,F24 3591,Breeding,ABC-CIAT_6962,Megathyrsus,maximus,Megathyrsus maximus,95.7256628,14.24692367,8.588266117,32.14264215,67.62478303,F24 3557
+56,4,F24 3592,Breeding,ABC-Mulato_II,Urochloa,interespecifico,Brachiaria interespecifico,96.66083628,14.97129758,11.84729481,24.36365449,59.41988072,F24 3558
+57,4,F24 3593,Breeding,ABC-PM21_0215,Megathyrsus,maximus,Megathyrsus maximus,96.01559232,15.052585,9.725160285,29.90976266,65.23814446,F24 3559
+58,4,F24 3594,Breeding,ABC-PM21_0631,Megathyrsus,maximus,Megathyrsus maximus,96.79563434,13.98543619,9.055024441,28.77503778,62.86207095,F24 3560
+59,4,F24 3595,Breeding,ABC-PM21_2195,Megathyrsus,maximus,Megathyrsus maximus,96.76047086,14.14104437,8.717412856,30.92212321,68.05113316,F24 3561
+60,4,F24 3596,Breeding,ABC-PM21_3522,Megathyrsus,maximus,Megathyrsus maximus,96.41535846,15.65465388,8.710478289,29.81695123,64.71518053,F24 3562
+61,FAO,0,Breeding,FAO,0,0,FAO,,,,,,FAO
+62,5,F24 3597,,ABC-PM21_3534,Megathyrsus,maximus,Megathyrsus maximus,97.28525795,14.47659551,9.000965172,30.91522792,67.23315691,F24 3563
+63,5,F24 3598,Breeding,ABC-PM21_3537,Megathyrsus,maximus,Megathyrsus maximus,97.12,14.78068369,10.87316719,26.81044889,61.93762764,F24 3564
+64,5,F24 3599,Breeding,ABC-PM21_3545,Megathyrsus,maximus,Megathyrsus maximus,97.13028697,14.59748816,8.40826817,30.00475359,65.74084764,F24 3565
+65,5,F24 3600,Breeding,ABC-PM21_3670,Megathyrsus,maximus,Megathyrsus maximus,95.21546891,14.10342923,8.834231116,29.25564376,64.38415589,F24 3566
+66,5,F24 3601,Breeding,ABC-PM21_6628,Megathyrsus,maximus,Megathyrsus maximus,94.42555189,13.31603681,9.980926223,29.82723766,64.96026167,F24 3567
+67,5,F24 3602,Breeding,ABC-BH08_1149,Urochloa,humidicola,Brachiaria humidicola,94.11,11.5237488,7.526319867,28.61056023,68.72940855,F24 3568
+68,5,F24 3603,Breeding,ABC-BH16_0550,Urochloa,humidicola,Brachiaria humidicola,95.16621668,11.17239453,6.425464292,30.14508217,69.15978352,F24 3569
+69,5,F24 3604,Breeding,ABC-BH16_0562,Urochloa,humidicola,Brachiaria humidicola,95.8156214,12.04215411,5.939448687,30.46611447,69.59254363,F24 3570
+70,5,F24 3605,Breeding,ABC-BH16_3249,Urochloa,humidicola,Brachiaria humidicola,96.30536946,12.640814,6.64642741,28.8604292,69.64533207,F24 3571
+71,5,F24 3606,Breeding,ABC-BH16B_0733,Urochloa,humidicola,Brachiaria humidicola,96.66535293,14.22808985,8.098687385,29.35547793,68.83461568,F24 3572
+72,5,F24 3607,Breeding,ABC-BH16B_0741,Urochloa,humidicola,Brachiaria humidicola,96.735,11.91399183,7.498562822,28.13819685,65.68321921,F24 3573
+73,5,F24 3608,Breeding,ABC-BH16B_1194,Urochloa,humidicola,Brachiaria humidicola,97.16070232,13.97849497,5.470321142,29.53819758,67.77363719,F24 3574
+74,5,F24 3609,Breeding,ABC-BH16B_1618,Urochloa,humidicola,Brachiaria humidicola,96.95029294,10.5197972,8.125850845,28.04747157,66.3853,F24 3575
+75,5,F24 3610,Breeding,ABC-BH16B_1707,Urochloa,humidicola,Brachiaria humidicola,96.78015898,11.69085862,5.966437759,26.73881247,68.58525194,F24 3576
+76,5,F24 3611,Breeding,ABC-CIAT_16888,Urochloa,humidicola,Brachiaria humidicola,92.37038196,13.66171032,6.11164643,30.80701399,69.99815476,F24 3577
+77,5,F24 3426,Breeding,ABC-989-1,Indigofera,hirsuta,Indigofera hirsuta,92.37038196,13.66171032,25.3469484,47.62549013,53.10107125,Reproceso OT-033
+78,5,F24 3427,Genetic bank,ABC-1257-1,Stylosanthes,scabra,Stylosanthes scabra,92.71608732,9.516947912,17.95515598,35.89620842,69.9050053,Reproceso OT-033
+79,5,F24 3428,Genetic bank,ABC-3240-1,Desmodium,cinereum,Desmodium cinereum,92.86035596,12.00668593,22.62704069,24.90728416,56.33867198,Reproceso OT-033
+80,5,F24 3429,Genetic bank,ABC-3522-1,Desmodium,incanum,Desmodium incanum,93.27634916,11.05100511,17.94095507,47.9701854,64.48155421,Reproceso OT-033
+81,5,F24 3430,Genetic bank,ABC-4134-1,Macroptilium,lathyroides,Macroptilium lathyroides,91.91283399,14.35643896,22.08537556,24.28674512,43.64614315,Reproceso OT-033
+82,5,F24 3431,Genetic bank,ABC-4279-1,Vigna,umbellata,Vigna umbellata,91.03544446,11.01713418,25.72120617,13.14422147,52.82497596,Reproceso OT-033
+83,5,F24 3432,Genetic bank,ABC-5124-1,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,91.535,10.36216711,25.77536281,37.6144658,65.50813774,Reproceso OT-033
+84,5,F24 3433,Genetic bank,ABC-5234-1,Centrosema,brasilianum,Centrosema brasilianum,92.53224525,11.21974911,17.21944618,33.37983721,60.62801841,Reproceso OT-033
+85,5,F24 3434,Genetic bank,ABC-7292-1,Chamaecrista,desvauxii,Chamaecrista desvauxii,92.00080584,9.417483983,31.82560604,44.14408862,59.53002965,Reproceso OT-033
+86,5,F24 3435,Genetic bank,ABC-7317-1,Canavalia,sp.,Canavalia sp.,92.45081984,19.06227474,23.8828974,24.73436997,52.25784177,Reproceso OT-033
+87,5,F24 3436,Genetic bank,ABC-7322-1,Canavalia,sp.,Canavalia sp.,89.36711797,15.19263964,21.51684891,18.1626666,47.53834417,Reproceso OT-033
+88,5,F24 3437,Genetic bank,ABC-7339-1,Indigofera,lespedezioides,Indigofera lespedezioides,91.98580484,16.46288643,24.9715208,42.71416967,57.93782208,Reproceso OT-033
+89,5,F24 3438,Genetic bank,ABC-7469-1,Clitoria,ternatea,Clitoria ternatea,92.165,8.094191443,26.36670549,22.54261885,60.52862179,Reproceso OT-033
+90,5,F24 3439,Genetic bank,ABC-7643-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,93.8215466,7.352550439,22.49012437,37.80469398,66.98254594,Reproceso OT-033
+91,5,F24 3440,Genetic bank,ABC-7703-1,Aeschynomene,indica,Aeschynomene indica,91.94619664,8.846261932,22.07736189,32.10105566,67.28945857,Reproceso OT-033
+92,5,F25 0017,Genetic bank,Hohenheimer Heustandard,0,0,Hohenheimer Heustandard,91.33303174,10.05857506,,,,
+93,5,F25 0018,LMF,Homenheim Concentrate,0,0,Homenheim Concentrate,89.69309597,6.035393965,,,,
+94,5,F25 0019,LMF,Sample 8,0,0,Cynodon nlemfuensis ,93.73093584,11.41385651,,,,
+95,6,F24 3441,LMF,ABC-7714-1,Alysicarpus,glumaceus,Alysicarpus glumaceus,93.05173955,17.45368866,21.04962113,27.78778253,82.34850817,
+96,6,F24 3442,Genetic bank,ABC-7757-1,Clitoria,ternatea,Clitoria ternatea,92.12039046,8.244234424,22.6154996,21.94936226,57.23012208,
+97,6,F24 3443,Genetic bank,ABC-7759-1,Clitoria,ternatea,Clitoria ternatea,93.54160845,5.862227412,20.41590152,14.68281549,60.81721503,
+98,6,F24 3444,Genetic bank,ABC-7790-1,Crotalaria,pallida,Crotalaria pallida,92.11118315,5.850741122,22.0861462,20.08618277,67.61203479,
+99,6,F24 3445,Genetic bank,ABC-7792-1,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,92.87643743,8.05209851,23.63066193,23.50042464,63.99407622,
+100,6,F24 3446,Genetic bank,ABC-7816-1,Indigofera,spicata,Indigofera spicata,92.50111417,17.58626282,24.06341709,23.10642255,54.74263748,
+101,6,F24 3447,Genetic bank,ABC-7858-1,Crotalaria,incana,Crotalaria incana,93.155,9.146013912,29.43059343,23.57983665,60.75471542,
+102,6,F24 3448,Genetic bank,ABC-7972-1,Canavalia,brasiliensis,Canavalia brasiliensis,91.88,17.8164834,29.01401583,23.87081726,56.1091518,
+103,6,F24 3449,Genetic bank,ABC-8205-1,Indigofera,suffruticosa,Indigofera suffruticosa,92.225,14.65425381,25.335008,26.75249523,51.19431248,
+104,6,F24 3450,Genetic bank,ABC-8402-1,Indigofera,suffruticosa,Indigofera suffruticosa,92.01,17.72088972,25.58233898,18.99313227,47.89959503,
+105,6,F24 3451,Genetic bank,ABC-8408-1,Chamaecrista,nictitans,Chamaecrista nictitans,94.01679496,6.884976232,24.85046879,38.38327518,58.65399616,
+106,6,F24 3452,Genetic bank,ABC-8409-1,Chamaecrista,nictitans,Chamaecrista nictitans,91.93701698,7.660929259,25.85235955,38.02759415,61.85587213,
+107,6,F24 3453,Genetic bank,ABC-8719-1,Canavalia,sp.,Canavalia sp.,93.52759939,17.13245986,23.79660353,16.09918371,40.18477672,
+108,6,F24 3454,Genetic bank,ABC-8797-1,Desmanthus,virgatus,Desmanthus virgatus,92.94852574,7.059427508,23.1295439,30.21775381,59.9499983,
+109,6,F24 3455,Genetic bank,ABC-8819-1,Coursetia,caribaea,Coursetia caribaea,91.77870381,13.95647988,24.00645742,18.24323904,51.97573659,
+110,6,F24 3456,Genetic bank,ABC-9170-1,Indigofera,lespedezioides,Indigofera lespedezioides,93.09103769,15.38048733,20.75389269,41.98638116,54.57173406,
+111,6,F24 3457,Genetic bank,ABC-9254-1,Crotalaria,pallida,Crotalaria pallida,90.82638109,6.638052507,24.64778486,20.57624578,55.33710134,
+112,6,F24 3458,Genetic bank,ABC-9283-1,Crotalaria,pallida,Crotalaria pallida,92.80107782,8.193728449,25.55766027,15.01232891,54.1619301,
+113,6,F24 3459,Genetic bank,ABC-9288-1,Indigofera,suffruticosa,Indigofera suffruticosa,93.755,11.90871169,27.5825287,16.46284897,52.41146942,
+114,6,F24 3460,Genetic bank,ABC-9336-1,Clitoria,ternatea,Clitoria ternatea,90.39240088,8.112591028,31.6648623,19.15227714,48.60971355,
+115,6,F24 3461,Genetic bank,ABC-9349-1,Mucuna,pruriens,Mucuna pruriens,91.42214894,8.633607276,30.38137152,27.80099367,55.5632413,
+116,6,F24 3462,Genetic bank,ABC-9356-1,Tephrosia,noctiflora,Tephrosia noctiflora,93.0320801,8.360226701,30.62410081,20.60305675,55.97912636,
+117,6,F24 3463,Genetic bank,ABC-9432-1,Clitoria,ternatea,Clitoria ternatea,91.27936032,8.031756823,31.25458694,17.91608339,44.95314053,
+118,6,F24 3464,Genetic bank,ABC-9433-1,Clitoria,ternatea,Clitoria ternatea,94.27286357,9.441272076,31.6787523,21.94377376,43.14194918,
+119,6,F24 3465,Genetic bank,ABC-9435-1,Desmanthus,pubescens,Desmanthus pubescens,94.58635365,8.482190043,26.77532246,36.05686171,53.82572072,
+120,6,F24 3466,Genetic bank,ABC-9530-1,Crotalaria,maypurensis,Crotalaria maypurensis,93.26303362,8.793760286,32.65498846,10.83686663,32.19897401,
+121,6,F24 3467,Genetic bank,ABC-9562-1,Eriosema,diffusum,Eriosema diffusum,93.93151174,8.403009219,18.10554432,51.96325733,64.55154831,
+122,6,F24 3468,Genetic bank,ABC-9982-1,Crotalaria,incana,Crotalaria incana,93.81655922,8.64768717,26.85672385,14.32890927,46.83102013,
+123,6,F24 3469,Genetic bank,ABC-10647-1,Stylosanthes,scabra,Stylosanthes scabra,92.92782887,9.358364243,20.01579809,32.44224002,56.19410887,
+124,6,F24 3470,Genetic bank,ABC-11194-1,Stylosanthes,hamata,Stylosanthes hamata,92.89142264,9.606070391,21.17967693,30.17992448,55.93710804,
+125,6,F25 0017,Genetic bank,Hohenheimer Heustandard,0,0,Hohenheimer Heustandard,91.33303174,10.05857506,,,,
+126,6,F25 0018,LMF,Homenheim Concentrate,0,0,Homenheim Concentrate,89.69309597,6.035393965,,,,
+127,6,F25 0019,LMF,Sample 8,0,0,Cynodon nlemfuensis ,93.73093584,11.41385651,,,,
+128,7,F24 3471,LMF,ABC-11999-1,Stylosanthes,guianensis,Stylosanthes guianensis,93.5025929,10.465,20.08914589,33.8951169,61.31669822,
+129,7,F24 3472,Genetic bank,ABC-12318-1,Stylosanthes,hamata,Stylosanthes hamata,94.102359,11.085,22.04897357,29.34322756,55.25520846,
+130,7,F24 3473,Genetic bank,ABC-13575-1,Desmodium,incanum,Desmodium incanum,94.13646412,11.515,23.16919124,44.08764943,57.60611616,
+131,7,F24 3474,Genetic bank,ABC-13609-1,Desmodium,incanum,Desmodium incanum,93.40199114,11.575,20.01347066,40.85292871,58.78077664,
+132,7,F24 3475,Genetic bank,ABC-15551-1,Centrosema,molle,Centrosema molle,93.75094022,10.485,22.31266675,23.67242922,61.58812353,
+133,7,F24 3476,Genetic bank,ABC-17024-1,Desmanthus,pernambucanus,Desmanthus pernambucanus,92.53223803,8.23,24.6266959,32.03196846,58.23503518,
+134,7,F24 3477,Genetic bank,ABC-17091-1,Crotalaria,micans,Crotalaria micans,94.56155534,8.37,24.38060094,17.15303522,49.73373546,
+135,7,F24 3478,Genetic bank,ABC-17365-1,Clitoria,ternatea,Clitoria ternatea,93.3869839,7.63,32.12201646,23.36870323,51.72327633,
+136,7,F24 3479,Genetic bank,ABC-17451-1,Canavalia,sp.,Canavalia sp.,91.64376079,19.475,22.34228589,20.07506852,49.14213417,
+137,7,F24 3480,Genetic bank,ABC-17775-1,Christia,obcordata,Christia obcordata,94.3019828,10.725,16.04996893,26.03646082,54.96795705,
+138,7,F24 3481,Genetic bank,ABC-18016-1,Sesbania,emerus,Sesbania emerus,93.22268986,7.685,24.15784219,28.11638345,56.38157902,
+139,7,F24 3482,Genetic bank,ABC-18044-1,Christia,sp.,Christia sp.,93.66689993,14.44,21.00012874,22.6938603,54.67917535,
+140,7,F24 3483,Genetic bank,ABC-18288-1,Sesbania,exasperata,Sesbania exasperata,92.91141465,8.89,23.18028169,27.95025006,51.10366055,
+141,7,F24 3484,Genetic bank,ABC-18447-1,Clitoria,ternatea,Clitoria ternatea,92.93353323,7.5,29.41115131,26.19653597,54.05004759,
+142,7,F24 3485,Genetic bank,ABC-18455-1,Christia,obcordata,Christia obcordata,93.2033983,14.45,21.77303294,22.27016756,52.42690104,
+143,7,F24 3486,Genetic bank,ABC-18707-1,Crotalaria,pallida,Crotalaria pallida,92.82607932,7.44,37.49811369,22.03122998,51.92656888,
+144,7,F24 3487,Genetic bank,ABC-18749-1,Arachis,pintoi,Arachis pintoi,92.69753995,14.32,21.12793945,27.42442885,51.5288203,
+145,7,F24 3488,Genetic bank,ABC-18813-1,Crotalaria,nitens,Crotalaria nitens,91.79702881,16.91,17.16342238,28.68680636,52.37107717,
+146,7,F24 3489,Genetic bank,ABC-18848-1,Alysicarpus,rugosus,Alysicarpus rugosus,94.4269452,24.505,19.98876765,28.13229937,48.33421443,
+147,7,F24 3490,Genetic bank,ABC-18862-1,Alysicarpus,rugosus,Alysicarpus rugosus,93.06534847,16.355,24.57881528,21.71893469,49.433281,
+148,7,F24 3491,Genetic bank,ABC-18931-1,Tephrosia,linearis,Tephrosia linearis,93.53564287,10.785,28.55552953,19.07405185,61.08643903,
+149,7,F24 3492,Genetic bank,ABC-19038-1,Canavalia,sp.,Canavalia sp.,90.17147475,16.035,23.78356078,17.61119084,47.64742547,
+150,7,F24 3493,Genetic bank,ABC-19118-1,Alysicarpus,rugosus,Alysicarpus rugosus,92.92035146,11.39,22.79950205,24.1800352,44.31262576,
+151,7,F24 3494,Genetic bank,ABC-19127-1,Alysicarpus,rugosus,Alysicarpus rugosus,92.25154138,10.385,19.49502682,34.90972739,57.93355379,
+152,7,F24 3495,Genetic bank,ABC-19128-1,Alysicarpus,rugosus,Alysicarpus rugosus,92.68536796,9.45,17.09154173,40.01004818,61.97315593,
+153,7,F24 3496,Genetic bank,ABC-19129-1,Alysicarpus,rugosus,Alysicarpus rugosus,93.45695735,11.985,17.81459969,36.71002423,62.07653936,
+154,7,F24 3497,Genetic bank,ABC-19133-1,Alysicarpus,rugosus,Alysicarpus rugosus,93.12740464,11.81,17.49348196,35.05733935,55.15014717,
+155,7,F24 3498,Genetic bank,ABC-19137-1,Alysicarpus,rugosus,Alysicarpus rugosus,93.77186844,10.965,18.129116,33.34237695,57.06964178,
+156,7,F24 3499,Genetic bank,ABC-19138-1,Alysicarpus,rugosus,Alysicarpus rugosus,92.69072086,11.37,21.31731707,32.53670505,54.0327314,
+157,7,F24 3500,Genetic bank,ABC-19139-1,Alysicarpus,ovalifolius,Alysicarpus ovalifolius,94.60553889,12.045,18.53940369,35.03283324,58.30815457,
+158,7,F25 0017,Genetic bank,Hohenheimer Heustandard,0,0,Hohenheimer Heustandard,91.33303174,,,,,
+159,7,F25 0018,LMF,Homenheim Concentrate,0,0,Homenheim Concentrate,89.69309597,,,,,
+160,7,F25 0019,LMF,Sample 8,0,0,Cynodon nlemfuensis ,93.73093584,,,,,
+161,8,F25 0772,LMF,ICARDA 165563,Trifolium ,pratense,Trifolium pratense,90.56425487,,,,,Piloto
+162,8,F25 0783,LMF,ICARDA J8,Daucus ,carota,Daucus carota,90.88455772,,,,,Piloto
+163,8,F25 0784,LMF,ICARDA J9,Fumaria , bracteosa,Fumaria bracteosa,92.62184602,,,,,Piloto
+164,8,F25 0788,LMF,ICARDA J13,Cichorium ,pumilum,Cichorium pumilum,90.75825528,,,,,Piloto
+165,8,F25 0813,LMF,ICARDA T216003,Rhus ,tripartita (Ucria) Grande,Rhus tripartita (Ucria) Grande,93.54532447,,,,,Piloto
+166,8,F25 0820,LMF,ICARDA T216010,Retama ,raetam (Forssk.) Webb.,Retama raetam (Forssk.) Webb.,93.71125775,,,,,Piloto
+167,8,F25 0823,LMF,ILRI 6529 2 119707,Labalab , purpureues,Labalab purpureues,91.25305991,,,,,Piloto
+168,8,F25 0824,LMF,ILRI 10925 3 119708,Arachis , glabrata,Arachis glabrata,89.92902779,,,,,Piloto
+169,8,F25 0825,LMF,ILRI 6984 4 119709,Medicago ,sativa,Medicago sativa,90.28742629,,,,,Piloto
+170,8,F25 0837,LMF,ILRI 10920 16 119721,Arachis , pintoi,Arachis pintoi,90.69733371,,,,,Piloto
+171,8,F25 0839,LMF,ILRI 7049 18 119723,Trifolium repens, repens,Trifolium repens,88.91942862,,,,,Piloto
+172,8,F25 0873,LMF,ILRI 7384 52 120169,Chloris gayana, gayana,Chloris gayana,90.91725624,,,,,Piloto
+173,8,F25 0904,LMF,CIAT ABC 22752 1,Labalab , purpureues,Labalab purpureues,91.28891722,,,,,Piloto
+174,8,F25 0913,LMF,CIAT ABC 1853 1,Stylosanthes , guianensis,Stylosanthes guianensis,92.7875256,,,,,Piloto
+175,8,F25 0914,LMF,CIAT ABC 10625 1,Stylosanthes, scabra,Stylosanthes scabra,91.77246826,,,,,Piloto
+176,8,F25 0926,LMF,CIAT ABC 6818 1,Panicum , maximum,Panicum maximum,92.08816615,,,,,Piloto
+177,8,F25 0845,LMF,ILRI 21682 24 119729,Leucaena, pallida,Leucaena pallida,89.7410259,,,,,Piloto
+178,8,F25 0848,LMF,ILRI 2273 27 119732,Trifolium ,burchellianum,Trifolium burchellianum,91.10044896,,,,,Piloto
+179,8,F25 0861,LMF,ILRI 14539 40 119745,Centrosema , virginianum,Centrosema virginianum,92.16470118,,,,,Piloto
+180,8,F25 0868,LMF,ILRI 70 47 120164,Leucaena,leucocephala,Leucaena leucocephala,92.44302871,,,,,Piloto
+181,8,F25 0908,LMF,CIAT ABC 22192 1,Leucaena ,diversifolia,Leucaena diversifolia,91.38301193,,,,,Piloto
+182,8,F25 0017,LMF,Hohenheimer Heustandard,0,0,Hohenheimer Heustandard,91.33303174,,,,,
+183,8,F25 0018,LMF,Homenheim Concentrate,0,0,Homenheim Concentrate,89.69309597,,,,,
+184,8,F25 0019,LMF,Sample 8,0,0,Cynodon nlemfuensis ,93.73093584,,,,,
+185,9,F25 0990,LMF,ABC-PM21_0053,Megathyrsus ,maximus,Megathyrsus maximus,95.80083983,11.41385651,14.92263771,32.65995062,67.93183843,
+186,9,F25 0991,Breeding,ABC-PM21_3550,Megathyrsus ,maximus,Megathyrsus maximus,96.67566487,14.27167899,14.63694296,30.13686542,69.1807804,
+187,9,F25 0992,Breeding,ABC-PM21_3595,Megathyrsus ,maximus,Megathyrsus maximus,95.88144873,16.60842131,14.25983492,30.86053506,68.73254854,
+188,9,F25 0993,Breeding,ABC-PM21_0086,Megathyrsus ,maximus,Megathyrsus maximus,97.47142219,15.36018425,14.80638782,31.01613067,67.37598947,
+189,9,F25 0994,Breeding,ABC-CIAT_16048,Megathyrsus ,maximus,Megathyrsus maximus,97.56082966,15.2774384,17.3378444,31.99715999,67.10207687,
+190,9,F25 0995,Breeding,ABC-PM21_0185,Megathyrsus ,maximus,Megathyrsus maximus,96.48588277,13.88457253,16.72567444,27.90094408,66.83112433,
+191,9,F25 0996,Breeding,ABC-PM21_0215,Megathyrsus ,maximus,Megathyrsus maximus,95.59088182,13.71195482,15.16078345,30.24515529,67.2344246,
+192,9,F25 0997,Breeding,ABC-CIAT_16051,Megathyrsus ,maximus,Megathyrsus maximus,96.15135501,13.97827277,14.91332159,31.61010586,68.2189537,
+193,9,F25 0998,Breeding,ABC-PM21_6080,Megathyrsus ,maximus,Megathyrsus maximus,96.34700339,15.44086948,18.29048196,31.99374341,67.46820868,
+194,9,F25 0999,Breeding,ABC-PM21_3684,Megathyrsus ,maximus,Megathyrsus maximus,97.38068626,13.45926704,14.78131999,30.38588054,70.03250777,
+195,9,F25 1000,Breeding,ABC-PM21_0076,Megathyrsus ,maximus,Megathyrsus maximus,94.90703719,15.42471957,16.15211492,32.19080267,67.60458566,
+196,9,F25 1001,Breeding,ABC-CIAT_6890,Megathyrsus ,maximus,Megathyrsus maximus,96.16595925,12.31936474,15.86572264,34.27013017,71.38638313,
+197,9,F25 1002,Breeding,ABC-PM21_6638,Megathyrsus ,maximus,Megathyrsus maximus,95.66649521,16.6457702,14.2420424,34.5406945,67.33885028,
+198,9,F25 1003,Breeding,ABC-PM21_0052,Megathyrsus ,maximus,Megathyrsus maximus,95.43591282,14.13231366,15.40599,31.81079165,65.12700898,
+199,9,F25 1004,Breeding,ABC-PM21_4449,Megathyrsus ,maximus,Megathyrsus maximus,96.14097667,12.80091692,14.53670485,32.66650116,70.17727731,
+200,9,F25 1005,Breeding,ABC-CIAT_6799,Megathyrsus ,maximus,Megathyrsus maximus,96.01124357,12.65618459,13.54429904,33.69825288,71.54773333,
+201,9,F25 1006,Breeding,ABC-PM21_0055,Megathyrsus ,maximus,Megathyrsus maximus,96.30167473,13.33227816,16.4819727,31.62422417,65.67783936,
+202,9,F25 1007,Breeding,ABC-PM21_6529,Megathyrsus ,maximus,Megathyrsus maximus,96.55621386,14.92388537,12.68034511,30.14537777,68.17657505,
+203,9,F25 1008,Breeding,ABC-PM21_0047,Megathyrsus ,maximus,Megathyrsus maximus,96.13019148,14.93213407,14.14910959,32.29175037,65.85180487,
+204,9,F25 1009,Breeding,ABC-PM21_2195,Megathyrsus ,maximus,Megathyrsus maximus,96.99650175,13.99866042,15.4919462,30.71226819,67.21269134,
+205,9,F25 1010,Breeding,ABC-PM21_2627,Megathyrsus ,maximus,Megathyrsus maximus,97.37051387,14.90398649,17.29271543,33.54419935,65.78624543,
+206,9,F25 1011,Breeding,ABC-PM21_0059,Megathyrsus ,maximus,Megathyrsus maximus,97.53036744,14.03454709,16.70851284,31.69637596,65.4591281,
+207,9,F25 1012,Breeding,ABC-PM21_3522,Megathyrsus ,maximus,Megathyrsus maximus,97.17612955,14.59651288,13.12453464,24.90305717,66.46570475,
+208,9,F25 1013,Breeding,ABC-PM21_0062,Megathyrsus ,maximus,Megathyrsus maximus,98.12048183,15.74178972,13.4700851,24.4222486,67.94162001,
+209,9,F25 1014,Breeding,ABC-PM21_0906,Megathyrsus ,maximus,Megathyrsus maximus,97.40642121,15.32423106,14.66534725,19.49710017,67.20085773,
+210,9,F24 3501,Breeding,ABC-19213-1,Clitoria,ternatea,Clitoria ternatea,93.84,11.79,31.12,37.55754652,51.31080464,
+211,9,F24 3502,Genetic bank,ABC-19421-1,Uraria,lagopodioides,Uraria lagopodioides,94.09,18.675,20.04,27.79536475,46.04271357,
+212,9,F24 3503,Genetic bank,ABC-19566-1,Tephrosia,noctiflora,Tephrosia noctiflora,93.745,12.425,25.36,19.495,42.59773976,
+213,9,F24 3504,Genetic bank,ABC-19667-1,Indigofera,hirsuta,Indigofera hirsuta,92.42,9.955,26,37.555,50.52940068,
+214,9,F24 3505,Genetic bank,ABC-19673-1,Alysicarpus,rugosus,Alysicarpus rugosus,92.51,11.98,25.41,27.795,53.07571035,
+215,9,F25 0017,Genetic bank,Hohenheimer Heustandard,0,0,Hohenheimer Heustandard,91.33303174,,,,,
+216,9,F25 0018,LMF,Homenheim Concentrate,0,0,Homenheim Concentrate,89.69309597,,,,,
+217,9,F25 0019,LMF,Sample 8,0,0,Cynodon nlemfuensis ,93.73093584,,,,,
+218,10,F24-3506,LMF,ABC-19895-1,0,0,Aeschynomene americana,93.355,11.41385651,25.26,25.71,62.05894102,
+219,10,F24-3507,Genetic bank,ABC-20093-1,0,0,Canavalia sp.,94.365,12.87,24.07,16.585,50.41174401,
+220,10,F24-3508,Genetic bank,ABC-20113-1,0,0,Canavalia sp.,94.64,15.79,18.07,15.925,48.42732425,
+221,10,F24-3509,Genetic bank,ABC-20125-1,0,0,Coursetia caribaea,93.495,13.235,20.44,18.085,44.2288339,
+222,10,F24-3510,Genetic bank,ABC-20298-1,0,0,Canavalia sp.,93.665,16.19,22.85,21.715,43.09103349,
+223,10,F24-3511,Genetic bank,ABC-20305-1,0,0,Canavalia sp.,93.545,18.34,23.35,19.375,39.69699346,
+224,10,F24-3512,Genetic bank,ABC-20803-1,0,0,Canavalia sp.,93.375,15.935,22.07,15.58,49.53319645,
+225,10,F24-3513,Genetic bank,ABC-21031-1,0,0,Christia obcordata,94.065,19.67,20.42,8.94,46.57256845,
+226,10,F24-3514,Genetic bank,ABC-21128-1,0,0,Crotalaria pallida,93.46,10.345,29.38,36.545,43.83586534,
+227,10,F24-3515,Genetic bank,ABC-21212-1,0,0,Canavalia sp.,93.67,14.995,22.98,20.77,39.81578459,
+228,10,F24-3516,Genetic bank,ABC-21263-1,0,0,Sesbania rostrata,92.58,13.365,25.01,15.325,40.69445959,
+229,10,F24-3517,Genetic bank,ABC-21514-1,0,0,Desmanthus virgatus,93.55,9.915,23.25,15.23,55.94515835,
+230,10,F24-3518,Genetic bank,ABC-21565-1,0,0,Chamaecrista rotundifolia,92.64,7.89,19.59,33.72,58.2973873,
+231,10,F24-3519,Genetic bank,ABC-21709-1,0,0,Crotalaria juncea,92.165,16.8,25.97,23.18,43.05742015,
+232,10,F24-3520,Genetic bank,ABC-22286-1,0,0,Crotalaria micans,93.585,10.405,25.3,24.475,43.5874985,
+233,10,F24-3521,Genetic bank,ABC-22475-1,0,0,Alysicarpus rugosus,94.16,12.425,17.41,31.675,64.14768061,
+234,10,F24-3522,Genetic bank,ABC-22481-1,0,0,Sesbania cochinchinensis,91.97,10.46,31.18,26.64,61.9555076,
+235,10,F24-3523,Genetic bank,ABC-22520-1,0,0,Arachis pusilla,93.06,14.93,20.36,22.79,61.21755346,
+236,10,F24-3524,Genetic bank,ABC-22570-1,0,0,Desmanthus bicornutus,92.67,8.455,32.64,19.865,64.70825457,
+237,10,F24-3525,Genetic bank,ABC-22594-1,0,0,Desmanthus pernambucanus,94.58,8.87,27.26,23.955,58.57618253,
+238,10,F24-3526,Genetic bank,ABC-22754-1,0,0,Lablab purpureus,91.685,12.14,30.03,24.885,51.33967367,
+239,10,F24-3527,Genetic bank,ABC-22915-1,0,0,Aeschynomene villosa,92.065,7.925,27.06,34.545,64.50973724,
+240,10,F24-3528,Genetic bank,ABC-23259-1,0,0,Desmodium gangeticum,92.86,12.965,23.04,24.965,56.45462089,
+241,10,F24-3529,Genetic bank,ABC-23339-1,0,0,Desmodium gangeticum,93.7,14.995,22.09,14.565,55.6778598,
+242,10,F24-3530,Genetic bank,ABC-23761-1,0,0,Uraria picta,95.005,13.685,18.09,26.645,61.9022359,
+243,10,F24-3531,Genetic bank,ABC-24360-1,0,0,Vigna umbellata,92.73,17.215,23.17,28.73,53.68275229,
+244,10,F24-3532,Genetic bank,ABC-24466-1,0,0,Vigna umbellata,92.855,19.77,22.39,19.995,37.53168225,
+245,10,F24-3533,Genetic bank,ABC-32246-1,0,0,Chamaecrista nictitans,91.535,8.03,26.83,26.6427393,79.3952483,
+246,10,F24-3534,Genetic bank,ABC-32365-1,0,0,Desmanthus virgatus,90.925,7.505,30.19,28.73342378,75.75668294,
+247,10,F24-3535,Genetic bank,ABC-32373-1,0,0,Desmanthus pubescens,92.335,8.66,28.4,19.99378193,77.88576233,
+248,10,F25 0017,Genetic bank,Hohenheimer Heustandard,0,0,Hohenheimer Heustandard,91.33303174,,,,,
+249,10,F25 0018,LMF,Homenheim Concentrate,0,0,Homenheim Concentrate,89.69309597,,,,,
+250,10,F25 0019,LMF,Sample 8,0,0,Cynodon nlemfuensis ,93.73093584,,,,,
+251,11,F25-0769,LMF,AMC-ICARDA-156302,0,0,Trifolium repens,90.82,,,,,
+252,11,F25-0848,LMF,ILRI-2273-27,0,0,Trifolium burchellianum,91.285,,,,,
+253,11,F25-0845,LMF,ILRI-21682-24,0,0,Leucaena pallida,90.915,,,,,
+254,11,F25-0907,LMF,ABC-17488-1,0,0,Leucaena leucocephala,90.82,,,,,
+255,11,F25-0863,LMF,ILRI-10299-42,0,0,Erythrina abyssinica,90.82,,,,,
+256,11,F25-0897,LMF,ABC-21694-1,0,0,Erythrina velutina,90.82,,,,,
+257,11,F25-0878,LMF,ILRI-7153-57,0,0,Panicum coloratum,90.82,,,,,
+258,11,F25-0850,LMF,ILRI-13946-29,0,0,Stylosanthes fructicosa,90.82,,,,,
+259,11,F25-0773,LMF,AMC-ICARDA-168125,0,0,Lathyrus sylvestris,90.82,,,,,
+260,11,F25-0798,LMF,ICARDA-IFLA-ENT27,0,0,Lathyrus sativus,90.82,,,,,
+261,11,F25-0814,LMF,ICARDA-T-216004,0,0,Vicia narbonensis L.,90.82,,,,,
+262,11,F25-0770,LMF,AMC-ICARDA-165072,0,0,Vicia tenuifolia,90.82,,,,,
+263,11,F25-0891,LMF,ABC-23890-1,0,0,Desmodium heterocarpon,90.82,,,,,
+264,11,F25-0893,LMF,ABC-43253-1,0,0,Desmodium scorpiurus,90.82,,,,,
+265,11,F25-0873,LMF,ILRI-7384-52,0,0,Chloris gayana,90.915,,,,,
+266,11,F25-0924,LMF,ABC-16666-1,0,0,Chloris gayana,90.82,,,,,
+267,11,F25-0923,LMF,ABC-36099-1,0,0,Cenchrus ciliaris,90.82,,,,,
+268,11,F25-0874,LMF,ILRI-16791-53,0,0,Cenchrus Purpureues,90.82,,,,,
+269,11,F25-0867,LMF,ILRI-20145-46,0,0,Flemingia macrophylla,90.82,,,,,
+270,11,F25-0899,LMF,ABC-32055-1,0,0,Flemingia macrophylla,90.82,,,,,
+271,11,F25-0883,LMF,ABC-20893-1,0,0,Cajanus cajan,90.82,,,,,
+272,11,F25-0869,LMF,ILRI-16555-48,0,0,Cajanus cajan,90.82,,,,,
+273,11,F25-0818,LMF,ICARDA-T-216008,0,0,Hedysarum coronarium L.,90.82,,,,,
+274,11,F25-0819,LMF,ICARDA-T-216009,0,0,Hedysarum carnosum Desf.,90.82,,,,,
+275,11,F25-0001,LMF,Sample 1,0,0,Cynodon nlemfuensis ,90.82,,,,,
+276,11,F25-0002,LMF,Sample 2,0,0,Cynodon nlemfuensis ,90.82,,,,,
+277,11,F25-0003,LMF,Sample 3,0,0,Cynodon nlemfuensis ,90.82,,,,,
+278,11,F25-0004,LMF,Sample 4,0,0,Cynodon nlemfuensis ,90.82,,,,,
+279,11,F25-0005,LMF,Sample 5,0,0,Cynodon nlemfuensis ,90.82,,,,,
+280,11,F25-0006,LMF,Sample 6,0,0,Cynodon nlemfuensis ,90.82,,,,,
+281,11,F25-0007,LMF,Sample 7,0,0,Cynodon nlemfuensis ,90.82,,,,,
+282,11,F25 0017,LMF,Hohenheimer Heustandard,0,0,Hohenheimer Heustandard,91.33303174,,,,,
+283,11,F25 0018,LMF,Homenheim Concentrate,0,0,Homenheim Concentrate,89.69309597,,,,,
+284,#VALUE!,#VALUE!,LMF,#VALUE!,#VALUE!,#VALUE!,#VALUE!,92.82607932,7.44,,22.03122998,51.92656888,

@@ -1,0 +1,270 @@
+21_no,21_date,21_requisitioner,21_set_ciat,21_ciat_lab_id,21_gene_bank_breeding_program_id,21_genus,21_species,21_tax_name,21_family,21_order,21_functional_group,21_ot,21_replication,21_dm_percentage,21_av_dm_105,21_ash_percentage,21_av_ash_percentage,21_om_percentage,21_av_om_percentage
+No,Date,Requisitioner,Set CIAT,CIAT Lab-ID,Gene bank /Breeding program ID,Genus,Species,Tax Name,Family,Order,Functional Group,,Replication,"DM, %",Av DM 105,"Ash, %","Av Ash, %","OM, %","Av OM, %"
+1,,Genetic bank,23,F243540,ABC-1467-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,A,92.5,92.615,8.49,8.54,91.51,91.46
+2,,Genetic bank,23,F243540,ABC-1467-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,B,92.73,,8.59,,91.41,
+3,,Genetic bank,23,F243541,ABC-1475-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,A,90.62,90.79,8.7,8.755,91.3,91.245
+4,,Genetic bank,23,F243541,ABC-1475-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,B,90.96,,8.81,,91.19,
+5,,Genetic bank,23,F25-0954,ABC-23326,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,OT-005,A,95.77,95.84,14.95,15.05,85.05,84.95
+6,,Genetic bank,23,F25-0954,ABC-23326,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,OT-005,B,95.91,,15.15,,84.85,
+7,,Genetic bank,23,F25-0971,ABC-13149,Desmodium,strigillosum,Desmodium strigillosum,Fabaceae,Fabales,Herbaceous,OT-005,A,93.7,93.775,8.14,8.185,91.86,91.815
+8,,Genetic bank,23,F25-0971,ABC-13149,Desmodium,strigillosum,Desmodium strigillosum,Fabaceae,Fabales,Herbaceous,OT-005,B,93.85,,8.23,,91.77,
+9,,Genetic bank,23,F25-0974,ABC-13946,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,OT-005,A,93.83,93.825,6.83,6.805,93.17,93.195
+10,,Genetic bank,23,F25-0974,ABC-13946,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,OT-005,B,93.82,,6.78,,93.22,
+11,,Genetic bank,23,F25-0980,ABC-19867,Uraria,lagopodioides,Uraria lagopodioides,Fabaceae,Fabales,Herbaceous,OT-005,A,95.86,95.9,15.49,15.455,84.51,84.545
+12,,Genetic bank,23,F25-0980,ABC-19867,Uraria,lagopodioides,Uraria lagopodioides,Fabaceae,Fabales,Herbaceous,OT-005,B,95.94,,15.42,,84.58,
+13,,Genetic bank,23,F25-1651,CIAT-798,Galactia,striata,Galactia striata,Fabaceae,Fabales,Climber,OT-008,A,92.59074093,92.61258014,11.098894,11.09612094,88.901106,88.90387906
+14,,Genetic bank,23,F25-1651,CIAT-798,Galactia,striata,Galactia striata,Fabaceae,Fabales,Climber,OT-008,B,92.63441935,,11.09334788,,88.90665212,
+15,,Genetic bank,23,F25-1652,CIAT-822,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,OT-008,A,94.03238705,94.05208276,6.706366116,6.642926026,93.29363388,93.35707397
+16,,Genetic bank,23,F25-1652,CIAT-822,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,OT-008,B,94.07177847,,6.579485935,,93.42051406,
+17,,Genetic bank,23,F25-1653,CIAT-852,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,OT-008,A,93.72313843,93.7684251,9.540020776,9.555531325,90.45997922,90.44446867
+18,,Genetic bank,23,F25-1653,CIAT-852,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,OT-008,B,93.81371177,,9.571041874,,90.42895813,
+19,,Genetic bank,23,F25-1654,CIAT-907,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,OT-008,A,92.92212336,92.96745912,9.290787184,9.284946755,90.70921282,90.71505325
+20,,Genetic bank,23,F25-1654,CIAT-907,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,OT-008,B,93.01279488,,9.279106326,,90.72089367,
+21,,Genetic bank,23,F25-1655,CIAT-1992,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-008,A,93.64,92.46630611,8.467949386,8.31531848,91.53205061,91.68468152
+22,,Genetic bank,23,F25-1655,CIAT-1992,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-008,B,91.29261222,,8.162687575,,91.83731243,
+23,,Genetic bank,23,F25-1656,CIAT-3001,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,OT-008,A,94.43111378,94.49582886,6.961877939,6.972807418,93.03812206,93.02719258
+24,,Genetic bank,23,F25-1656,CIAT-3001,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,OT-008,B,94.56054395,,6.983736897,,93.0162631,
+25,,Genetic bank,23,F25-1657,CIAT-3304,Desmodium,cajanifolium,Desmodium cajanifolium,Fabaceae,Fabales,Shrub,OT-008,A,94.87102579,94.91076537,8.19553428,8.195944015,91.80446572,91.80405598
+26,,Genetic bank,23,F25-1657,CIAT-3304,Desmodium,cajanifolium,Desmodium cajanifolium,Fabaceae,Fabales,Shrub,OT-008,B,94.95050495,,8.196353751,,91.80364625,
+27,,Genetic bank,23,F25-1658,CIAT-5713,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,OT-008,A,94.60269865,94.6424129,9.377996552,9.341498746,90.62200345,90.65850125
+28,,Genetic bank,23,F25-1658,CIAT-5713,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,OT-008,B,94.68212715,,9.305000939,,90.69499906,
+29,,Genetic bank,23,F25-1659,CIAT-7381,Galactia,glaucescens,Galactia glaucescens,Fabaceae,Fabales,Herbaceous,OT-008,A,94.14175747,94.47087874,12.68793541,12.77452078,87.31206459,87.22547922
+30,,Genetic bank,23,F25-1659,CIAT-7381,Galactia,glaucescens,Galactia glaucescens,Fabaceae,Fabales,Herbaceous,OT-008,B,94.8,,12.86110616,,87.13889384,
+31,,Genetic bank,23,F25-1660,CIAT-7799,Dioclea,guianensis,Dioclea guianensis,Fabaceae,Fabales,Climber,OT-008,A,93.39198241,93.46293104,7.818936959,7.769646262,92.18106304,92.23035374
+32,,Genetic bank,23,F25-1660,CIAT-7799,Dioclea,guianensis,Dioclea guianensis,Fabaceae,Fabales,Climber,OT-008,B,93.53387967,,7.720355565,,92.27964444,
+33,,Genetic bank,23,F25-1661,CIAT-7803,Dioclea,holtiana,Dioclea holtiana,Fabaceae,Fabales,Climber,OT-008,A,94.21289355,94.24259232,11.443454,11.45463261,88.556546,88.54536739
+34,,Genetic bank,23,F25-1661,CIAT-7803,Dioclea,holtiana,Dioclea holtiana,Fabaceae,Fabales,Climber,OT-008,B,94.27229108,,11.46581123,,88.53418877,
+35,,Genetic bank,23,F25-1662,CIAT-8182,Eriosema,diffusum,Eriosema diffusum,Fabaceae,Fabales,Herbaceous,OT-008,A,93.16478465,93.32304419,7.26000462,7.31538588,92.73999538,92.68461412
+36,,Genetic bank,23,F25-1662,CIAT-8182,Eriosema,diffusum,Eriosema diffusum,Fabaceae,Fabales,Herbaceous,OT-008,B,93.48130374,,7.37076714,,92.62923286,
+37,,Genetic bank,23,F25-1663,CIAT-8434,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,OT-008,A,93.49195241,93.51597621,8.41315038,8.366292233,91.58684962,91.63370777
+38,,Genetic bank,23,F25-1663,CIAT-8434,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,OT-008,B,93.54,,8.319434086,,91.68056591,
+39,,Genetic bank,23,F25-1664,CIAT-8702,Calopogonium,caeruleum,Calopogonium caeruleum,Fabaceae,Fabales,Climber,OT-008,A,92.91495953,93.00885921,8.670523453,8.677197194,91.32947655,91.32280281
+40,,Genetic bank,23,F25-1664,CIAT-8702,Calopogonium,caeruleum,Calopogonium caeruleum,Fabaceae,Fabales,Climber,OT-008,B,93.1027589,,8.683870935,,91.31612906,
+41,,Genetic bank,23,F25-1665,CIAT-8816,Crotalaria,micans,Crotalaria micans,Fabaceae,Fabales,Herbaceous,OT-008,A,93.40065993,93.44598084,9.319961125,9.292747145,90.68003887,90.70725285
+42,,Genetic bank,23,F25-1665,CIAT-8816,Crotalaria,micans,Crotalaria micans,Fabaceae,Fabales,Herbaceous,OT-008,B,93.49130174,,9.265533166,,90.73446683,
+43,,Genetic bank,23,F25-1666,CIAT-8826,Zapoteca,formosa,Zapoteca formosa,Fabaceae,Fabales,Shrub,OT-008,A,93.62063794,93.70687069,9.560776092,9.521533042,90.43922391,90.47846696
+44,,Genetic bank,23,F25-1666,CIAT-8826,Zapoteca,formosa,Zapoteca formosa,Fabaceae,Fabales,Shrub,OT-008,B,93.79310345,,9.482289992,,90.51771001,
+45,,Genetic bank,23,F25-1667,CIAT-9578,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,OT-008,A,95.05049495,95.07598225,7.22507715,7.245384357,92.77492285,92.75461564
+46,,Genetic bank,23,F25-1667,CIAT-9578,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,OT-008,B,95.10146956,,7.265691564,,92.73430844,
+47,,Genetic bank,23,F25-1668,CIAT-9740,Chamaecrista,desvauxii,Chamaecrista desvauxii,Fabaceae,Fabales,Herbaceous,OT-008,A,95.26189524,95.38162242,8.258246254,8.269140098,91.74175375,91.7308599
+48,,Genetic bank,23,F25-1668,CIAT-9740,Chamaecrista,desvauxii,Chamaecrista desvauxii,Fabaceae,Fabales,Herbaceous,OT-008,B,95.5013496,,8.280033942,,91.71996606,
+49,,Genetic bank,23,F25-1669,CIAT-9934,Aeschynomene,americana,Aeschynomene americana,Fabaceae,Fabales,Herbaceous,OT-008,A,93.82,93.805,7.899365705,7.856724055,92.10063429,92.14327594
+50,,Genetic bank,23,F25-1669,CIAT-9934,Aeschynomene,americana,Aeschynomene americana,Fabaceae,Fabales,Herbaceous,OT-008,B,93.79,,7.814082405,,92.1859176,
+51,,Breeding,23,F25-2096,CIAT-PM21_4448,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,grasses,OT-013,A,95.45,95.49,11.22,11.265,88.78,88.735
+52,,Breeding,23,F25-2096,CIAT-PM21_4448,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,grasses,OT-013,B,95.53,,11.31,,88.69,
+53,,Breeding,23,F25-2101,CIAT-CIAT_16071,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,grasses,OT-013,A,92.96,93.03,13.6,13.63,86.4,86.37
+54,,Breeding,23,F25-2101,CIAT-CIAT_16071,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,grasses,OT-013,B,93.1,,13.66,,86.34,
+55,,Breeding,23,F25-2105,CIAT-BR09_4467,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,grasses,OT-013,A,92.32,92.305,14.58,14.625,85.42,85.375
+56,,Breeding,23,F25-2105,CIAT-BR09_4467,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,grasses,OT-013,B,92.29,,14.67,,85.33,
+57,,LMF-invivo,23,F25-2131,Muestra # 02,Cynodon,nlenfuensis,Cynodon nlemfuensis, Poaceae,Poales,grasses,OT-016,A,92.11,92.175,9.45,9.295,90.55,90.705
+58,,LMF-invivo,23,F25-2131,Muestra # 02,Cynodon,nlenfuensis,Cynodon nlemfuensis, Poaceae,Poales,grasses,OT-016,B,92.24,,9.14,,90.86,
+59,,Breeding,23,F25-2170,CIAT-BH22_0765,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,OT-020,A,97.37,97.485,10.96,10.745,89.04,89.255
+60,,Breeding,23,F25-2170,CIAT-BH22_0765,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,OT-020,B,97.6,,10.53,,89.47,
+61,,Breeding,23,F25-2171,CIAT-BH22_2531,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,OT-020,A,96.47,96.45,12.31,12.34,87.69,87.66
+62,,Breeding,23,F25-2171,CIAT-BH22_2531,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,OT-020,B,96.43,,12.37,,87.63,
+63,,LMF,23,F25-0017,Hohenheimer Heustandard,Hohenheimer,Heustandard,Hohenheimer Heustandard,0,0,0,OT-002,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494
+64,,LMF,23,F25-0017,Hohenheimer Heustandard,Hohenheimer,Heustandard,Hohenheimer Heustandard,0,0,0,OT-002,B,91.32173565,,10.12699803,,89.87300197,
+65,,LMF,23,F25-0008,Sample 8,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,0,0,0,OT-001,A,93.64063594,93.73093584,11.33,11.415,88.67058195,88.58614349
+66,,LMF,23,F25-0008,Sample 8,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,0,0,0,OT-001,B,93.82123575,,11.5,,88.50170503,
+67,,Genetic bank,24,F25-1667,CIAT-9578,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,OT-008,A,95.05049495,95.07598225,7.22507715,7.245384357,92.77492285,92.75461564
+68,,Genetic bank,24,F25-1667,CIAT-9578,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,OT-008,B,95.10146956,,7.265691564,,92.73430844,
+69,,Genetic bank,24,F25-1670,CIAT-13158,Desmodium,strigillosum,Desmodium strigillosum,Fabaceae,Fabales,Herbaceous,OT-008,A,93.45196441,93.51726569,7.29058379,7.322286218,92.70941621,92.67771378
+70,,Genetic bank,24,F25-1670,CIAT-13158,Desmodium,strigillosum,Desmodium strigillosum,Fabaceae,Fabales,Herbaceous,OT-008,B,93.58256697,,7.353988645,,92.64601135,
+71,,Genetic bank,24,F25-1671,CIAT-13329,Desmodium,cajanifolium,Desmodium cajanifolium,Fabaceae,Fabales,Shrub,OT-008,A,94.08295852,94.17205315,11.51570699,11.52274237,88.48429301,88.47725763
+72,,Genetic bank,24,F25-1671,CIAT-13329,Desmodium,cajanifolium,Desmodium cajanifolium,Fabaceae,Fabales,Shrub,OT-008,B,94.26114777,,11.52977775,,88.47022225,
+73,,Genetic bank,24,F25-1672,CIAT-13387,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Shrub,OT-008,A,92.5214957,92.57795752,5.216181392,5.231331626,94.78381861,94.76866837
+74,,Genetic bank,24,F25-1672,CIAT-13387,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Shrub,OT-008,B,92.63441935,,5.246481861,,94.75351814,
+75,,Genetic bank,24,F25-1673,CIAT-13547,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,OT-008,A,94.74210316,94.80758966,7.654552961,7.606351872,92.34544704,92.39364813
+76,,Genetic bank,24,F25-1673,CIAT-13547,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,OT-008,B,94.87307615,,7.558150783,,92.44184922,
+77,,Genetic bank,24,F25-1674,CIAT-13953,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,OT-008,A,92.87,92.93534997,10.04999713,10.14094696,89.95000287,89.85905304
+78,,Genetic bank,24,F25-1674,CIAT-13953,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,OT-008,B,93.00069993,,10.2318968,,89.7681032,
+79,,Genetic bank,24,F25-1675,CIAT-15086,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,OT-008,A,95.03049695,95.09597426,6.624223698,6.670867898,93.3757763,93.3291321
+80,,Genetic bank,24,F25-1675,CIAT-15086,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,OT-008,B,95.16145156,,6.717512097,,93.2824879,
+81,,Genetic bank,24,F25-1676,CIAT-17403,Flemingia,macrophylla,Flemingia macrophylla,Fabaceae,Fabales,Shrub,OT-008,A,93.93121376,93.94560688,5.842638524,6.104011992,94.15736148,93.89598801
+82,,Genetic bank,24,F25-1676,CIAT-17403,Flemingia,macrophylla,Flemingia macrophylla,Fabaceae,Fabales,Shrub,OT-008,B,93.96,,6.365385459,,93.63461454,
+83,,Genetic bank,24,F25-1677,CIAT-17519,Mimosa,somnians,Mimosa somnians,Fabaceae,Fabales,Herbaceous,OT-008,A,93.99,94.495,8.741203238,8.751785809,91.25879676,91.24821419
+84,,Genetic bank,24,F25-1677,CIAT-17519,Mimosa,somnians,Mimosa somnians,Fabaceae,Fabales,Herbaceous,OT-008,B,95,,8.762368379,,91.23763162,
+85,,Genetic bank,24,F25-1678,CIAT-17896,Chamaecrista,desvauxii,Chamaecrista desvauxii,Fabaceae,Fabales,Herbaceous,OT-008,A,94.68319009,94.70712194,6.363179501,6.327503235,93.6368205,93.67249677
+86,,Genetic bank,24,F25-1678,CIAT-17896,Chamaecrista,desvauxii,Chamaecrista desvauxii,Fabaceae,Fabales,Herbaceous,OT-008,B,94.73105379,,6.291826968,,93.70817303,
+87,,Genetic bank,24,F25-1679,CIAT-18123,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,OT-008,A,94.48055194,94.60711918,8.190953434,8.309968172,91.80904657,91.69003183
+88,,Genetic bank,24,F25-1679,CIAT-18123,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,OT-008,B,94.73368642,,8.42898291,,91.57101709,
+89,,Genetic bank,24,F25-1680,CIAT-18126,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,OT-008,A,92.79072093,92.79715956,10.27945913,10.30433129,89.72054087,89.69566871
+90,,Genetic bank,24,F25-1680,CIAT-18126,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,OT-008,B,92.8035982,,10.32920344,,89.67079656,
+91,,Genetic bank,24,F25-1681,CIAT-18127,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,OT-008,A,94.04416908,94.18765143,9.134931263,9.200904419,90.86506874,90.79909558
+92,,Genetic bank,24,F25-1681,CIAT-18127,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,OT-008,B,94.33113377,,9.266877576,,90.73312242,
+93,,Genetic bank,24,F25-1682,CIAT-18668,Cratylia,argentea,Cratylia argentea,Fabaceae,Fabales,Shrub,OT-008,A,94.07237105,94.10677141,12.8632167,12.82200635,87.1367833,87.17799365
+94,,Genetic bank,24,F25-1682,CIAT-18668,Cratylia,argentea,Cratylia argentea,Fabaceae,Fabales,Shrub,OT-008,B,94.14117177,,12.78079601,,87.21920399,
+95,,Genetic bank,24,F25-1683,CIAT-19228,Eriosema,psoraleoides,Eriosema psoraleoides,Fabaceae,Fabales,Herbaceous,OT-008,A,93.71125775,93.68689637,9.444469501,9.422186265,90.5555305,90.57781374
+96,,Genetic bank,24,F25-1683,CIAT-19228,Eriosema,psoraleoides,Eriosema psoraleoides,Fabaceae,Fabales,Herbaceous,OT-008,B,93.66253499,,9.399903029,,90.60009697,
+97,,Genetic bank,24,F25-1684,CIAT-19537,Crotalaria,verrucosa,Crotalaria verrucosa,Fabaceae,Fabales,Herbaceous,OT-008,A,93.42131574,93.50065787,9.003483535,9.03646922,90.99651646,90.96353078
+98,,Genetic bank,24,F25-1684,CIAT-19537,Crotalaria,verrucosa,Crotalaria verrucosa,Fabaceae,Fabales,Herbaceous,OT-008,B,93.58,,9.069454904,,90.9305451,
+99,,Genetic bank,24,F25-1685,CIAT-20208,Aeschynomene,sensitiva,Aeschynomene sensitiva,Fabaceae,Fabales,Herbaceous,OT-008,A,95.33140058,95.4561422,7.812763536,7.865523699,92.18723646,92.1344763
+100,,Genetic bank,24,F25-1685,CIAT-20208,Aeschynomene,sensitiva,Aeschynomene sensitiva,Fabaceae,Fabales,Herbaceous,OT-008,B,95.58088382,,7.918283861,,92.08171614,
+101,,Genetic bank,24,F25-1686,CIAT-20345,Pachyrhizus,erosus,Pachyrhizus erosus,Fabaceae,Fabales,Climber,OT-008,A,94.20231907,93.71751299,10.6980961,10.62876647,89.3019039,89.37123353
+102,,Genetic bank,24,F25-1686,CIAT-20345,Pachyrhizus,erosus,Pachyrhizus erosus,Fabaceae,Fabales,Climber,OT-008,B,93.23270692,,10.55943683,,89.44056317,
+103,,Genetic bank,24,F25-1687,CIAT-20927,Mimosa,albida,Mimosa albida,Fabaceae,Fabales,Herbaceous,OT-008,A,93.82,93.67532347,8.753639375,8.619775455,91.24636062,91.38022454
+104,,Genetic bank,24,F25-1687,CIAT-20927,Mimosa,albida,Mimosa albida,Fabaceae,Fabales,Herbaceous,OT-008,B,93.53064694,,8.485911535,,91.51408847,
+105,,Genetic bank,24,F25-1688,CIAT-21849,Chamaecrista,desvauxii,Chamaecrista desvauxii,Fabaceae,Fabales,Herbaceous,OT-008,A,94.86,94.9010116,5.900885466,5.920771925,94.09911453,94.07922808
+106,,Genetic bank,24,F25-1688,CIAT-21849,Chamaecrista,desvauxii,Chamaecrista desvauxii,Fabaceae,Fabales,Herbaceous,OT-008,B,94.94202319,,5.940658384,,94.05934162,
+107,,Genetic bank,24,F25-1689,CIAT-22072,Bauhinia,sp.,Bauhinia sp.,Fabaceae,Fabales,Shrub,OT-008,A,93.57257097,93.61192036,7.827068545,7.779789906,92.17293146,92.22021009
+108,,Genetic bank,24,F25-1689,CIAT-22072,Bauhinia,sp.,Bauhinia sp.,Fabaceae,Fabales,Shrub,OT-008,B,93.65126975,,7.732511268,,92.26748873,
+109,,Genetic bank,24,F25-1690,CIAT-22409,Cratylia,argentea,Cratylia argentea,Fabaceae,Fabales,Shrub,OT-008,A,92.86428143,92.92854215,11.36751052,11.38478179,88.63248948,88.61521821
+110,,Genetic bank,24,F25-1690,CIAT-22409,Cratylia,argentea,Cratylia argentea,Fabaceae,Fabales,Shrub,OT-008,B,92.99280288,,11.40205307,,88.59794693,
+111,,Genetic bank,24,F25-1691,CIAT-22692,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,OT-008,A,92.17156569,92.2669285,7.314267831,7.389746311,92.68573217,92.61025369
+112,,Genetic bank,24,F25-1691,CIAT-22692,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,OT-008,B,92.36229131,,7.465224791,,92.53477521,
+113,,Genetic bank,24,F25-1692,CIAT-23715,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Shrub,OT-008,A,93.76374175,93.79248875,5.199855362,5.216884679,94.80014464,94.78311532
+114,,Genetic bank,24,F25-1692,CIAT-23715,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Shrub,OT-008,B,93.82123575,,5.233913996,,94.766086,
+115,,Genetic bank,24,F25-1693,CIAT-23746,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,OT-008,A,93.77124575,93.8365376,6.882935393,6.88259135,93.11706461,93.11740865
+116,,Genetic bank,24,F25-1693,CIAT-23746,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,OT-008,B,93.90182945,,6.882247306,,93.11775269,
+117,,Genetic bank,24,F25-1694,CIAT-23985,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,OT-008,A,95.10048995,95.16548345,12.03047019,12.04097715,87.96952981,87.95902285
+118,,Genetic bank,24,F25-1694,CIAT-23985,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,OT-008,B,95.23047695,,12.05148411,,87.94851589,
+119,,Genetic bank,24,F25-1695,CIAT-32265,Chamaecrista,diphylla,Chamaecrista diphylla,Fabaceae,Fabales,Herbaceous,OT-008,A,95.76,95.80582967,8.068402546,8.040705499,91.93159745,91.9592945
+120,,Genetic bank,24,F25-1695,CIAT-32265,Chamaecrista,diphylla,Chamaecrista diphylla,Fabaceae,Fabales,Herbaceous,OT-008,B,95.85165934,,8.013008451,,91.98699155,
+121,,Genetic bank,24,F25-1696,CIAT-33070,Desmodium,oblongum,Desmodium oblongum,Fabaceae,Fabales,Shrub,OT-008,A,96.01,95.99560282,10.0108752,10.01978804,89.9891248,89.98021196
+122,,Genetic bank,24,F25-1696,CIAT-33070,Desmodium,oblongum,Desmodium oblongum,Fabaceae,Fabales,Shrub,OT-008,B,95.98120564,,10.02870088,,89.97129912,
+123,,Genetic bank,24,F25-1697,CIAT-33079,Desmodium,oblongum,Desmodium oblongum,Fabaceae,Fabales,Shrub,OT-008,A,95.6117553,95.65609263,10.481287,10.50899172,89.518713,89.49100828
+124,,Genetic bank,24,F25-1697,CIAT-33079,Desmodium,oblongum,Desmodium oblongum,Fabaceae,Fabales,Shrub,OT-008,B,95.70042996,,10.53669643,,89.46330357,
+125,,Genetic bank,24,F25-1698,CIAT-33131,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,OT-008,A,94.82,94.83654407,6.906620295,6.904549551,93.09337971,93.09545045
+126,,Genetic bank,24,F25-1698,CIAT-33131,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,OT-008,B,94.85308815,,6.902478808,,93.09752119,
+127,,Genetic bank,24,F25-1699,CIAT-33195,Dalea,carthagenensis,Dalea carthagenensis,Fabaceae,Fabales,Herbaceous,OT-008,A,95.68043196,95.71149321,6.310000876,6.438946834,93.68999912,93.56105317
+128,,Genetic bank,24,F25-1699,CIAT-33195,Dalea,carthagenensis,Dalea carthagenensis,Fabaceae,Fabales,Herbaceous,OT-008,B,95.74255447,,6.567892791,,93.43210721,
+129,,Genetic bank,24,F25-1700,CIAT-43055,Desmodium,discolor,Desmodium discolor,Fabaceae,Fabales,Herbaceous,OT-008,A,94.75209916,94.82283683,8.992126422,9.01712506,91.00787358,90.98287494
+130,,Genetic bank,24,F25-1700,CIAT-43055,Desmodium,discolor,Desmodium discolor,Fabaceae,Fabales,Herbaceous,OT-008,B,94.8935745,,9.042123699,,90.9578763,
+131,,LMF,24,F25-0017,Hohenheimer Heustandard,Hohenheimer,Heustandard,Hohenheimer Heustandard,0,0,0,OT-002,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494
+132,,LMF,24,F25-0017,Hohenheimer Heustandard,Hohenheimer,Heustandard,Hohenheimer Heustandard,0,0,0,OT-002,B,91.32173565,,10.12699803,,89.87300197,
+133,,LMF,24,F25-0008,Sample 8,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,0,0,0,OT-001,A,93.64063594,93.73093584,11.33,11.415,88.67058195,88.58614349
+134,,LMF,24,F25-0008,Sample 8,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,0,0,0,OT-001,B,93.82123575,,11.5,,88.50170503,
+135,,Benchmark,25,F25-2136,CIAT_6962_Mombaza _Ex,Megathyrsus ,maximus,Megathyrsus maximus,Poaceae,Poales,grasses,OT-018,A,96.92184689,96.9368379,12.06247745,12.02639311,87.93752255,87.97360689
+136,,Benchmark,25,F25-2136,CIAT_6962_Mombaza _Ex,Megathyrsus ,maximus,Megathyrsus maximus,Poaceae,Poales,grasses,OT-018,B,96.9518289,,11.99030878,,88.00969122,
+137,,Benchmark,25,F25-2137,CIAT_606_Basilisk_Opt,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,grasses,OT-018,A,96.70032997,96.78532147,10.74435663,10.5945555,89.25564337,89.4054445
+138,,Benchmark,25,F25-2137,CIAT_606_Basilisk_Opt,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,grasses,OT-018,B,96.87031297,,10.44475438,,89.55524562,
+139,,Benchmark,25,F25-2138,CIAT_6294_Marandu_Opt,Brachiaria,interespecifico,Brachiaria interespecifico ,Poaceae,Poales,grasses,OT-018,A,96.07196402,96.11598201,11.35559613,11.29601044,88.64440387,88.70398956
+140,,Benchmark,25,F25-2138,CIAT_6294_Marandu_Opt,Brachiaria,interespecifico,Brachiaria interespecifico ,Poaceae,Poales,grasses,OT-018,B,96.16,,11.23642476,,88.76357524,
+141,,Benchmark,25,F25-2139,CIAT_36087_MulatoII_Opt,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,grasses,OT-018,A,96.97151424,96.95106406,11.51551858,11.54818282,88.48448142,88.45181718
+142,,Benchmark,25,F25-2139,CIAT_36087_MulatoII_Opt,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,grasses,OT-018,B,96.93061388,,11.58084706,,88.41915294,
+143,,Benchmark,25,F25-2140,CIAT_6133_Llanero _Opt,Brachiaria,humidicola,Brachiaria humidicola,Poaceae,Poales,grasses,OT-018,A,97.32,97.39012699,12.96846035,13.06021458,87.03153965,86.93978542
+144,,Benchmark,25,F25-2140,CIAT_6133_Llanero _Opt,Brachiaria,humidicola,Brachiaria humidicola,Poaceae,Poales,grasses,OT-018,B,97.46025397,,13.15196881,,86.84803119,
+145,,Benchmark,25,F25-2141,CIAT_6962_Mombaza _Opt,Megathyrsus ,maximus,Megathyrsus maximus ,Poaceae,Poales,grasses,OT-018,A,97.50024998,97.52061679,12.37563247,12.24052503,87.62436753,87.75947497
+146,,Benchmark,25,F25-2141,CIAT_6962_Mombaza _Opt,Megathyrsus ,maximus,Megathyrsus maximus ,Poaceae,Poales,grasses,OT-018,B,97.54098361,,12.10541758,,87.89458242,
+147,,Benchmark,25,F252566,Paja Sabana Madura,0,0,0,Poaceae,Poales,grasses,OT-028,A,92.41075892,92.40537946,7.304039123,7.326048086,92.69596088,92.67395191
+148,,Benchmark,25,F252566,Paja Sabana Madura,0,0,0,Poaceae,Poales,grasses,OT-028,B,92.4,,7.34805705,,92.65194295,
+149,,Benchmark,25,F252567,Humidicola 679,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,OT-028,A,92.21389305,92.24733249,6.002592416,6.074248511,93.99740758,93.92575149
+150,,Benchmark,25,F252567,Humidicola 679,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,OT-028,B,92.28077192,,6.145904606,,93.85409539,
+151,,Benchmark,25,F252568,Sabana Quemada,0,0,0,Poaceae,Poales,grasses,OT-028,A,93.75374775,93.61850306,11.39048531,11.39105455,88.60951469,88.60894545
+152,,Benchmark,25,F252568,Sabana Quemada,0,0,0,Poaceae,Poales,grasses,OT-028,B,93.48325837,,11.39162379,,88.60837621,
+153,,Genetic bank,25,F24-3548,ABC-2783-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033,A,89.80305908,89.74756033,10.11423239,10.10916793,89.88576761,89.89083207
+154,,Genetic bank,25,F24-3548,ABC-2783-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033,B,89.69206159,,10.10410348,,89.89589652,
+155,,Genetic bank,25,F24-3549,ABC-10440-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033,A,90.2509749,90.24048745,11.72305514,11.90648605,88.27694486,88.09351395
+156,,Genetic bank,25,F24-3549,ABC-10440-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033,B,90.23,,12.08991696,,87.91008304,
+157,,Genetic bank,25,F24-3550,ABC-10613-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,A,92.82287085,92.83643543,8.92611321,7.893821676,91.07388679,92.10617832
+158,,Genetic bank,25,F24-3550,ABC-10613-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,B,92.85,,6.861530143,,93.13846986,
+159,,Genetic bank,25,F24-3551,ABC-10627-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,A,93.35,93.38631547,13.71721321,13.71447086,86.28278679,86.28552914
+160,,Genetic bank,25,F24-3551,ABC-10627-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,B,93.42263095,,13.71172852,,86.28827148,
+161,,Genetic bank,25,F24-3552,ABC-10634-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,A,92.91,93.02,10.52461836,10.56224468,89.47538164,89.43775532
+162,,Genetic bank,25,F24-3552,ABC-10634-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,B,93.13,,10.599871,,89.400129,
+163,,Genetic bank,25,F24-3553,ABC-10639-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,A,93.19,93.2,11.25536481,11.08369099,88.74463519,88.91630901
+164,,Genetic bank,25,F24-3553,ABC-10639-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,B,93.21,,10.91201717,,89.08798283,
+165,,Genetic bank,25,F24-3554,ABC-10725-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,A,92.41227632,92.39151962,11.44783309,11.55179076,88.55216691,88.44820924
+166,,Genetic bank,25,F24-3554,ABC-10725-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,B,92.37076292,,11.65574844,,88.34425156,
+167,,Genetic bank,25,F24-3555,ABC-11199-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,A,91.73248026,91.81704997,8.699477626,8.770691309,91.30052237,91.22930869
+168,,Genetic bank,25,F24-3555,ABC-11199-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,B,91.90161968,,8.841904992,,91.15809501,
+169,,Genetic bank,25,F24-3556,ABC-11215-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,A,92.88,92.9,10.48439182,10.52206674,89.51560818,89.47793326
+170,,Genetic bank,25,F24-3556,ABC-11215-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,B,92.92,,10.55974166,,89.44025834,
+171,,Genetic bank,25,F24-3557,ABC-11220-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,A,91.84081592,91.8762168,8.412652748,8.423114233,91.58734725,91.57688577
+172,,Genetic bank,25,F24-3557,ABC-11220-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,B,91.91161768,,8.433575717,,91.56642428,
+173,,Genetic bank,25,F24-3558,ABC-11232-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,A,91.22087791,91.23043896,7.310425274,7.316271422,92.68957473,92.68372858
+174,,Genetic bank,25,F24-3558,ABC-11232-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,B,91.24,,7.32211757,,92.67788243,
+175,,Genetic bank,25,F24-3559,ABC-11313-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-033,A,92.11,92.18538696,11.55280718,11.53595966,88.44719282,88.46404034
+176,,Genetic bank,25,F24-3559,ABC-11313-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-033,B,92.26077392,,11.51911215,,88.48088785,
+177,,Genetic bank,25,F24-3560,ABC-11417-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-033,A,91.48170366,91.50254715,11.93170767,12.06160643,88.06829233,87.93839357
+178,,Genetic bank,25,F24-3560,ABC-11417-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-033,B,91.52339064,,12.19150519,,87.80849481,
+179,,Genetic bank,25,F24-3561,ABC-11624-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033,A,92.03,92.04039746,12.04905705,12.0430228,87.95094295,87.9569772
+180,,Genetic bank,25,F24-3561,ABC-11624-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033,B,92.05079492,,12.03698856,,87.96301144,
+181,,Genetic bank,25,F24-3562,ABC-11690-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033,A,91.04,90.675,12.3628343,12.88668321,87.6371657,87.11331679
+182,,Genetic bank,25,F24-3562,ABC-11690-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033,B,90.31,,13.41053212,,86.58946788,
+183,,Genetic bank,25,F24-3563,ABC-11762-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,A,90.65186963,90.70639677,7.969178081,8.057764328,92.03082192,91.94223567
+184,,Genetic bank,25,F24-3563,ABC-11762-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,B,90.76092391,,8.146350574,,91.85364943,
+185,,Genetic bank,25,F24-3564,ABC-11778-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,A,91.94161168,92.05580584,8.612617363,8.580889697,91.38738264,91.4191103
+186,,Genetic bank,25,F24-3564,ABC-11778-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,B,92.17,,8.549162031,,91.45083797,
+187,,Genetic bank,25,F24-3565,ABC-11784-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,A,92.20077992,92.30076992,8.742281443,8.64478388,91.25771856,91.35521612
+188,,Genetic bank,25,F24-3565,ABC-11784-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033,B,92.40075992,,8.547286318,,91.45271368,
+189,,Genetic bank,25,F24-3566,ABC-11820-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,A,91.72082792,91.80541396,9.268678957,11.13177764,90.73132104,88.86822236
+190,,Genetic bank,25,F24-3566,ABC-11820-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033,B,91.89,,12.99487632,,87.00512368,
+191,,Genetic bank,25,F24-3567,ABC-12042-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033,A,91.25087491,91.34629329,14.62419946,15.08316523,85.37580054,84.91683477
+192,,Genetic bank,25,F24-3567,ABC-12042-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033,B,91.44171166,,15.542131,,84.457869,
+193,,LMF-invivo,25,Dieta 1_Exp1,Dieta 1_Exp1,Dieta 1_Exp1,Dieta 1_Exp1,Dieta 1_Exp1,0,0,0,0,A,89,89,9.5,9.5,89.53,89.53
+194,,LMF-invivo,25,Dieta 1_Exp1,Dieta 1_Exp1,Dieta 1_Exp1,Dieta 1_Exp1,Dieta 1_Exp1,0,0,0,0,B,89,,9.5,,89.53,
+195,,LMF-invivo,25,Dieta 2_Exp1,Dieta 2_Exp1,Dieta 2_Exp1,Dieta 2_Exp1,Dieta 2_Exp1,0,0,0,0,A,89,89,9.1,9.1,89.58,89.58
+196,,LMF-invivo,25,Dieta 2_Exp1,Dieta 2_Exp1,Dieta 2_Exp1,Dieta 2_Exp1,Dieta 2_Exp1,0,0,0,0,B,89,,9.1,,89.58,
+197,,LMF,25,F25-0017,Hohenheimer Heustandard,0,0,Hohenheimer Heustandard,0,0,0,OT-002,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494
+198,,LMF,25,F25-0017,Hohenheimer Heustandard,0,0,Hohenheimer Heustandard,0,0,0,OT-002,B,91.32173565,,10.12699803,,89.87300197,
+199,,LMF,25,F25-0008,Sample 8,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,0,0,0,OT-001,A,93.64063594,93.73093584,11.33,11.415,88.67058195,88.58614349
+200,,LMF,25,F25-0008,Sample 8,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,0,0,0,OT-001,B,93.82123575,,11.5,,88.50170503,
+201,,LMF,26,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,0,0,0,OT-001,A,93.64063594,93.73093584,11.33,11.415,88.67058195,88.58614349
+202,,LMF,26,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,0,0,0,OT-001,B,93.82123575,,11.5,,88.50170503,
+203,,Benchmark,26,F252624,CIAT_6294_Marandu_Exc,Urochloa, interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,OT-032,A,96.08039196,96.18019598,10.35452673,10.3030587,89.64547327,89.6969413
+204,,Benchmark,26,F252624,CIAT_6294_Marandu_Exc,Urochloa, interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,OT-032,B,96.28,,10.25159067,,89.74840933,
+205,,Benchmark,26,F252625,CIAT_36087_MulatoII_Exc,Urochloa, interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,OT-032,A,96.9518289,97.01106094,10.47705443,10.32506735,89.52294557,89.67493265
+206,,Benchmark,26,F252625,CIAT_36087_MulatoII_Exc,Urochloa, interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,OT-032,B,97.07029297,,10.17308027,,89.82691973,
+207,,Benchmark,26,F252626,CIAT_606_Basilisk_Exc,Urochloa, interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,OT-032,A,96.88187088,96.87624838,9.480640983,9.456735773,90.51935902,90.54326423
+208,,Benchmark,26,F252626,CIAT_606_Basilisk_Exc,Urochloa, interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,OT-032,B,96.87062587,,9.432830563,,90.56716944,
+209,,Benchmark,26,F252627,BR02_1752_Cayman_Exc,Urochloa, interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,OT-032,A,96.6,96.6359984,17.22960416,17.20892552,82.77039584,82.79107448
+210,,Benchmark,26,F252627,BR02_1752_Cayman_Exc,Urochloa, interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,OT-032,B,96.6719968,,17.18824688,,82.81175312,
+211,,Benchmark,26,F252628, BR06_423_Cayman_Exc,Urochloa, interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,OT-032,A,96.57,96.67048435,10.41682998,10.42560924,89.58317002,89.57439076
+212,,Benchmark,26,F252628, BR06_423_Cayman_Exc,Urochloa, interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,OT-032,B,96.77096871,,10.43438851,,89.56561149,
+213,,Breeding,26,F252629,CIAT 20692,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,A,95.49180328,95.52112412,8.664773788,8.697476899,91.33522621,91.3025231
+214,,Breeding,26,F252629,CIAT 20692,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,B,95.55044496,,8.73018001,,91.26981999,
+215,,Breeding,26,F252630,CIAT 20692,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,A,93.89061094,93.88652898,7.423112927,7.342148182,92.57688707,92.65785182
+216,,Breeding,26,F252630,CIAT 20692,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,B,93.88244702,,7.261183436,,92.73881656,
+217,,Breeding,26,F252631,CIAT 17768,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,A,92.81143771,92.80787756,7.616364546,7.679453105,92.38363545,92.3205469
+218,,Breeding,26,F252631,CIAT 17768,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,B,92.80431741,,7.742541663,,92.25745834,
+219,,Breeding,26,F252632,CIAT 17768,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,A,93.46196141,93.46598071,7.829377709,7.766357636,92.17062229,92.23364236
+220,,Breeding,26,F252632,CIAT 17768,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,B,93.47,,7.703337563,,92.29666244,
+221,,Breeding,26,F252633,CIAT 712,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,A,95.13,95.1054919,8.401197281,8.421382404,91.59880272,91.5786176
+222,,Breeding,26,F252633,CIAT 712,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,B,95.0809838,,8.441567527,,91.55843247,
+223,,Breeding,26,F252634,CIAT 712,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,A,91.31086891,91.26306988,7.165380339,7.147163922,92.83461966,92.85283608
+224,,Breeding,26,F252634,CIAT 712,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,B,91.21527084,,7.128947504,,92.8710525,
+225,,Breeding,26,F252635,CIAT 9432,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,A,96.38,96.33018598,8.387817295,8.439297566,91.61218271,91.56070243
+226,,Breeding,26,F252635,CIAT 9432,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,B,96.28037196,,8.490777837,,91.50922216,
+227,,Breeding,26,F252636,CIAT 9432,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,A,94.35282359,94.46668277,6.85613322,7.005689889,93.14386678,92.99431011
+228,,Breeding,26,F252636,CIAT 9432,Clitoria ,ternatea,Clitoria ternatea ,Fabaceae,Fabales,Herbáceas ,OT-033,B,94.58054195,,7.155246558,,92.84475344,
+229,,Breeding,26,F25-2637,CIAT 17462,Leucaena ,leucocephala ,Leucaena leucocephala ,Leguminosae,Fabales,Arbustiva ,OT-033,A,92.6114777,92.62610682,6.940499259,6.876076172,93.05950074,93.12392383
+230,,Breeding,26,F25-2637,CIAT 17462,Leucaena ,leucocephala ,Leucaena leucocephala ,Leguminosae,Fabales,Arbustiva ,OT-033,B,92.64073593,,6.811653086,,93.18834691,
+231,,Breeding,26,F252638,N/A,Tithonia ,diversifolia ,Tithonia diversifolia,Compositae,Asterales,Arbustiva ,OT-033,A,92.22388806,92.20889555,17.6900981,17.70635738,82.3099019,82.29364262
+232,,Breeding,26,F252638,N/A,Tithonia ,diversifolia ,Tithonia diversifolia,Compositae,Asterales,Arbustiva ,OT-033,B,92.19390305,,17.72261666,,82.27738334,
+233,,Breeding,26,F252639,N/A,Gliricidia  ,sepium,Gliricidia sepium ,Fabaceae,Fabales,Arbustiva ,OT-033,A,88.90665601,88.948328,10.82001841,10.81202193,89.17998159,89.18797807
+234,,Breeding,26,F252639,N/A,Gliricidia  ,sepium,Gliricidia sepium ,Fabaceae,Fabales,Arbustiva ,OT-033,B,88.99,,10.80402546,,89.19597454,
+235,,LMF,26,Dieta 1_2,Dieta 1_Exp2,Dieta 1_Exp2,Dieta 1_Exp2,Dieta 1_Exp2,0,0,0,0,A,89,89,9.5,9.5,89.53,89.53
+236,,LMF,26,Dieta 1_2,Dieta 1_Exp2,Dieta 1_Exp2,Dieta 1_Exp2,Dieta 1_Exp2,0,0,0,0,B,89,,9.5,,89.53,
+237,,LMF,26,Dieta 2_2,Dieta 2_Exp2,Dieta 2_Exp2,Dieta 2_Exp2,Dieta 2_Exp2,0,0,0,0,A,89,89,9.5,9.5,89.53,89.53
+238,,LMF,26,Dieta 2_2,Dieta 2_Exp2,Dieta 2_Exp2,Dieta 2_Exp2,Dieta 2_Exp2,0,0,0,0,B,89,,9.5,,89.53,
+239,,Genetic bank,26,F24-3568,ABC-12115-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,92.4,92.47574485,9.10509022,8.914978922,90.89490978,91.08502108
+240,,Genetic bank,26,F24-3568,ABC-12115-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,92.5514897,,8.724867624,,91.27513238,
+241,,Genetic bank,26,F24-3569,ABC-12140-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,91.55,91.57,11.27006662,11.21546358,88.72993338,88.78453642
+242,,Genetic bank,26,F24-3569,ABC-12140-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,91.59,,11.16086054,,88.83913946,
+243,,Genetic bank,26,F24-3570,ABC-12184-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,92.14078592,92.53645314,10.22197607,10.36679888,89.77802393,89.63320112
+244,,Genetic bank,26,F24-3570,ABC-12184-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,92.93212036,,10.51162169,,89.48837831,
+245,,Genetic bank,26,F24-3571,ABC-12202-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,92.5814837,92.62647471,10.68595175,10.68055481,89.31404825,89.31944519
+246,,Genetic bank,26,F24-3571,ABC-12202-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,92.67146571,,10.67515786,,89.32484214,
+247,,Genetic bank,26,F24-3572,ABC-12311-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,91.67333067,91.76207279,15.02198652,15.03513625,84.97801348,84.96486375
+248,,Genetic bank,26,F24-3572,ABC-12311-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,91.85081492,,15.04828598,,84.95171402,
+249,,Genetic bank,26,F24-3573,ABC-12381-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,92.2523243,92.24616215,13.23235332,13.21265705,86.76764668,86.78734295
+250,,Genetic bank,26,F24-3573,ABC-12381-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,92.24,,13.19296079,,86.80703921,
+251,,Genetic bank,26,F24-3574,ABC-12374-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,91.27,91.94036946,8.407623381,8.793284266,91.59237662,91.20671573
+252,,Genetic bank,26,F24-3574,ABC-12374-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,92.61073893,,9.178945151,,90.82105485,
+253,,Genetic bank,26,F24-3575,ABC-12457-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,93.63,93.69531197,11.84691077,11.90501352,88.15308923,88.09498648
+254,,Genetic bank,26,F24-3575,ABC-12457-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,93.76062394,,11.96311627,,88.03688373,
+255,,Genetic bank,26,F24-3576,ABC-12462-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,92.4615077,92.55185752,9.484676576,9.446397189,90.51532342,90.55360281
+256,,Genetic bank,26,F24-3576,ABC-12462-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,92.64220734,,9.408117802,,90.5918822,
+257,,Genetic bank,26,F24-3577,ABC-12485-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,94.06118776,93.95090185,13.11061017,13.34540708,86.88938983,86.65459292
+258,,Genetic bank,26,F24-3577,ABC-12485-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,93.84061594,,13.580204,,86.419796,
+259,,Genetic bank,26,F24-3578,ABC-12615-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,89.78306508,89.75704599,10.41388533,10.3982165,89.58611467,89.6017835
+260,,Genetic bank,26,F24-3578,ABC-12615-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,89.7310269,,10.38254768,,89.61745232,
+261,,Genetic bank,26,F24-3579,ABC-12686-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,90.94,90.95545145,10.2357801,10.24626166,89.7642199,89.75373834
+262,,Genetic bank,26,F24-3579,ABC-12686-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,90.97090291,,10.25674321,,89.74325679,
+263,,Genetic bank,26,F24-3580,ABC-12710-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,91.68,91.725,10.74952303,11.20741346,89.25047697,88.79258654
+264,,Genetic bank,26,F24-3580,ABC-12710-1,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,91.77,,11.6653039,,88.3346961,
+265,,Genetic bank,26,F24-3581,ABC-12758-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),A,91.36,91.37586083,9.466395087,9.520156742,90.53360491,90.47984326
+266,,Genetic bank,26,F24-3581,ABC-12758-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,OT-033 (2024),B,91.39172166,,9.573918397,,90.4260816,
+267,,LMF,26,F25-2134,Hohenheimer Heustandard IAG 2025/1 S1,Hohenheimer,Heustandard,Hohenheimer Heustandard, Heustandard,Green meal ,0,OT-017,A,91.34432784,91.33303174,9.990152095,10.05857506,90.0098479,89.94142494
+268,,LMF,26,F25-2134,Hohenheimer Heustandard IAG 2025/1 S1,Hohenheimer,Heustandard,Hohenheimer Heustandard, Heustandard,Green meal ,0,OT-017,B,91.32173565,,10.12699803,,89.87300197,
