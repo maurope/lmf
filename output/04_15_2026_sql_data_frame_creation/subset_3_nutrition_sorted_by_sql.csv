@@ -1,16 +1,16 @@
 subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functional_group,set_ciat,dm_percentage,ash_dm,om_percentage,pc_percentage_dm,adf_percentage_dm,ndf_percentage_dm
-3,1,Genetic bank,F24-3540,ABC-1467,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,23,92.5,8.49,91.51,13.64,35.11,53.65239714
-3,2,Genetic bank,F24-3540,ABC-1467,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,23,92.73,8.59,91.41,13.64,34.44,52.20219129
-3,3,Genetic bank,F24-3541,ABC-1475,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,23,90.62,8.7,91.3,17.29,37.69,58.2158637
-3,4,Genetic bank,F24-3541,ABC-1475,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,23,90.96,8.81,91.19,17.29,37.17,54.69038649
-3,5,Genetic bank,F25-0954,ABC-23326,Fabales,Fabaceae,Desmodium,velutinum,Desmodium velutinum,Shrub_Trees,23,95.77,14.95,85.05,18.11,23.08,40.57
-3,6,Genetic bank,F25-0954,ABC-23326,Fabales,Fabaceae,Desmodium,velutinum,Desmodium velutinum,Shrub_Trees,23,95.91,15.15,84.85,18.11,22.92,39.43
-3,7,Genetic bank,F25-0971,ABC-13149,Fabales,Fabaceae,Desmodium,strigillosum,Desmodium strigillosum,Herbaceous_legumes,23,93.7,8.14,91.86,13.45,35.26,51.0
-3,8,Genetic bank,F25-0971,ABC-13149,Fabales,Fabaceae,Desmodium,strigillosum,Desmodium strigillosum,Herbaceous_legumes,23,93.85,8.23,91.77,13.45,35.39,48.35
-3,9,Genetic bank,F25-0974,ABC-13946,Fabales,Fabaceae,Desmodium,sequax,Desmodium sequax,Herbaceous_legumes,23,93.83,6.83,93.17,14.37,52.96,60.63
-3,10,Genetic bank,F25-0974,ABC-13946,Fabales,Fabaceae,Desmodium,sequax,Desmodium sequax,Herbaceous_legumes,23,93.82,6.78,93.22,14.37,53.2,61.03
-3,11,Genetic bank,F25-0980,ABC-19867,Fabales,Fabaceae,Uraria,lagopodioides,Uraria lagopodioides,Herbaceous_legumes,23,95.86,15.49,84.51,19.32,25.22,43.08
-3,12,Genetic bank,F25-0980,ABC-19867,Fabales,Fabaceae,Uraria,lagopodioides,Uraria lagopodioides,Herbaceous_legumes,23,95.94,15.42,84.58,19.32,26.44,45.49
+3,1,Genetic bank,F24-3540,CIAT-1467,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,23,92.5,8.49,91.51,13.64,35.11,53.65239714
+3,2,Genetic bank,F24-3540,CIAT-1467,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,23,92.73,8.59,91.41,13.64,34.44,52.20219129
+3,3,Genetic bank,F24-3541,CIAT-1475,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,23,90.62,8.7,91.3,17.29,37.69,58.2158637
+3,4,Genetic bank,F24-3541,CIAT-1475,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,23,90.96,8.81,91.19,17.29,37.17,54.69038649
+3,5,Genetic bank,F25-0954,CIAT-23326,Fabales,Fabaceae,Desmodium,velutinum,Desmodium velutinum,Shrub_Trees,23,95.77,14.95,85.05,18.11,23.08,40.57
+3,6,Genetic bank,F25-0954,CIAT-23326,Fabales,Fabaceae,Desmodium,velutinum,Desmodium velutinum,Shrub_Trees,23,95.91,15.15,84.85,18.11,22.92,39.43
+3,7,Genetic bank,F25-0971,CIAT-13149,Fabales,Fabaceae,Desmodium,strigillosum,Desmodium strigillosum,Herbaceous_legumes,23,93.7,8.14,91.86,13.45,35.26,51.0
+3,8,Genetic bank,F25-0971,CIAT-13149,Fabales,Fabaceae,Desmodium,strigillosum,Desmodium strigillosum,Herbaceous_legumes,23,93.85,8.23,91.77,13.45,35.39,48.35
+3,9,Genetic bank,F25-0974,CIAT-13946,Fabales,Fabaceae,Desmodium,sequax,Desmodium sequax,Herbaceous_legumes,23,93.83,6.83,93.17,14.37,52.96,60.63
+3,10,Genetic bank,F25-0974,CIAT-13946,Fabales,Fabaceae,Desmodium,sequax,Desmodium sequax,Herbaceous_legumes,23,93.82,6.78,93.22,14.37,53.2,61.03
+3,11,Genetic bank,F25-0980,CIAT-19867,Fabales,Fabaceae,Uraria,lagopodioides,Uraria lagopodioides,Herbaceous_legumes,23,95.86,15.49,84.51,19.32,25.22,43.08
+3,12,Genetic bank,F25-0980,CIAT-19867,Fabales,Fabaceae,Uraria,lagopodioides,Uraria lagopodioides,Herbaceous_legumes,23,95.94,15.42,84.58,19.32,26.44,45.49
 3,13,Genetic bank,F25-1651,CIAT-798,Fabales,Fabaceae,Galactia,striata,Galactia striata,Herbaceous_legumes,23,92.59074093,11.098894,88.901106,17.13448106,24.78973458,56.07531623
 3,14,Genetic bank,F25-1651,CIAT-798,Fabales,Fabaceae,Galactia,striata,Galactia striata,Herbaceous_legumes,23,92.63441935,11.09334788,88.90665212,17.16363176,25.10107275,57.71001155
 3,15,Genetic bank,F25-1652,CIAT-822,Fabales,Fabaceae,Calopogonium,mucunoides,Calopogonium mucunoides,Herbaceous_legumes,23,94.03238705,6.706366116,93.29363388,17.00895537,27.16761458,47.17079133
@@ -96,7 +96,7 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 3,81,Genetic bank,F25-1676,CIAT-17403,Fabales,Fabaceae,Flemingia,macrophylla,Flemingia macrophylla,Shrub_Trees,24,93.93121376,5.842638524,94.15736148,18.3851851,51.52755452,63.61391173
 3,82,Genetic bank,F25-1676,CIAT-17403,Fabales,Fabaceae,Flemingia,macrophylla,Flemingia macrophylla,Shrub_Trees,24,93.96,6.365385459,93.63461454,18.3851851,52.30099778,64.76631348
 3,83,Genetic bank,F25-1677,CIAT-17519,Fabales,Fabaceae,Mimosa,somnians,Mimosa somnians,Herbaceous_legumes,24,93.99,8.741203238,91.25879676,17.65179446,25.59568862,46.60433872
-3,84,Genetic bank,F25-1677,CIAT-17519,Fabales,Fabaceae,Mimosa,somnians,Mimosa somnians,Herbaceous_legumes,24,95.0,8.762368379,91.23763162,17.65179446,25.52665638,45.80949958
+3,84,Genetic bank,F25-1677,CIAT-17519,Fabales,Fabaceae,Mimosa,somnians,Mimosa somnians,Herbaceous_legumes,24,95,8.762368379,91.23763162,17.65179446,25.52665638,45.80949958
 3,85,Genetic bank,F25-1678,CIAT-17896,Fabales,Fabaceae,Chamaecrista,desvauxii,Chamaecrista desvauxii,Herbaceous_legumes,24,94.68319009,6.363179501,93.6368205,15.64033488,39.38483751,52.92619891
 3,86,Genetic bank,F25-1678,CIAT-17896,Fabales,Fabaceae,Chamaecrista,desvauxii,Chamaecrista desvauxii,Herbaceous_legumes,24,94.73105379,6.291826968,93.70817303,15.64033488,41.27596095,50.55721229
 3,87,Genetic bank,F25-1679,CIAT-18123,Fabales,Fabaceae,Dioclea,virgata,Dioclea virgata,Herbaceous_legumes,24,94.48055194,8.190953434,91.80904657,14.9986906,42.28676206,63.71362875
@@ -175,50 +175,50 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 3,150,Benchmark,F25-2567,Humidicola-679,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,25,92.28077192,6.145904606,93.85409539,2.283021015,44.61206996,82.81717242
 3,151,Benchmark,F25-2568,Sabana-Quemada,Poales,Poaceae,,,,Grass,25,93.75374775,11.39048531,88.60951469,4.055548602,51.04375622,78.63735444
 3,152,Benchmark,F25-2568,Sabana-Quemada,Poales,Poaceae,,,,Grass,25,93.48325837,11.39162379,88.60837621,4.085688827,48.27991085,77.02451491
-3,153,Genetic bank,F24-3548,ABC-2783,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,89.80305908,10.11423239,89.88576761,17.78325823,31.10006232,49.93660615
-3,154,Genetic bank,F24-3548,ABC-2783,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,89.69206159,10.10410348,89.89589652,17.78325823,31.49852885,49.35950353
-3,155,Genetic bank,F24-3549,ABC-10440,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,90.2509749,11.72305514,88.27694486,19.4411267,31.24625668,52.05369224
-3,156,Genetic bank,F24-3549,ABC-10440,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,90.23,12.08991696,87.91008304,19.4411267,31.49043116,51.49097562
-3,157,Genetic bank,F24-3550,ABC-10613,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,92.82287085,8.92611321,91.07388679,15.96040922,45.358954,59.70617907
-3,158,Genetic bank,F24-3550,ABC-10613,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,92.85,6.861530143,93.13846986,15.96040922,47.06857275,59.31905266
-3,159,Genetic bank,F24-3551,ABC-10627,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,93.35,13.71721321,86.28278679,11.82940985,39.45479194,58.35505896
-3,160,Genetic bank,F24-3551,ABC-10627,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,93.42263095,13.71172852,86.28827148,11.82940985,39.7289378,56.63666224
-3,161,Genetic bank,F24-3552,ABC-10634,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,92.91,10.52461836,89.47538164,15.7419787,33.72865462,57.2811761
-3,162,Genetic bank,F24-3552,ABC-10634,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,93.13,10.599871,89.400129,15.7419787,33.45600945,56.69545701
-3,163,Genetic bank,F24-3553,ABC-10639,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,93.19,11.25536481,88.74463519,15.71943231,35.55480029,54.97199008
-3,164,Genetic bank,F24-3553,ABC-10639,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,93.21,10.91201717,89.08798283,15.71943231,34.5339845,52.90663325
-3,165,Genetic bank,F24-3554,ABC-10725,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,92.41227632,11.44783309,88.55216691,15.00091825,40.30334159,58.24573888
-3,166,Genetic bank,F24-3554,ABC-10725,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,92.37076292,11.65574844,88.34425156,15.00091825,41.87903418,59.36724757
-3,167,Genetic bank,F24-3555,ABC-11199,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.73248026,8.699477626,91.30052237,14.80076413,36.49417764,57.1970024
-3,168,Genetic bank,F24-3555,ABC-11199,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.90161968,8.841904992,91.15809501,14.80076413,36.11531634,59.36102501
-3,169,Genetic bank,F24-3556,ABC-11215,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,92.88,10.48439182,89.51560818,18.30888052,28.43807975,54.30137458
-3,170,Genetic bank,F24-3556,ABC-11215,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,92.92,10.55974166,89.44025834,18.30888052,27.30742426,50.75264587
-3,171,Genetic bank,F24-3557,ABC-11220,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.84081592,8.412652748,91.58734725,17.36776998,25.67973267,55.61370624
-3,172,Genetic bank,F24-3557,ABC-11220,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.91161768,8.433575717,91.56642428,17.36776998,26.94573244,58.29340512
-3,173,Genetic bank,F24-3558,ABC-11232,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.22087791,7.310425274,92.68957473,15.08813852,34.31355844,54.27373961
-3,174,Genetic bank,F24-3558,ABC-11232,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.24,7.32211757,92.67788243,15.08813852,34.95786124,54.13347738
-3,175,Genetic bank,F24-3559,ABC-11313,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,25,92.11,11.55280718,88.44719282,14.93631922,38.48584936,55.72613235
-3,176,Genetic bank,F24-3559,ABC-11313,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,25,92.26077392,11.51911215,88.48088785,14.93631922,39.16068084,56.20183527
-3,177,Genetic bank,F24-3560,ABC-11417,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,25,91.48170366,11.93170767,88.06829233,12.26457661,41.32332356,57.71167596
-3,178,Genetic bank,F24-3560,ABC-11417,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,25,91.52339064,12.19150519,87.80849481,12.26457661,41.63203801,56.74075483
-3,179,Genetic bank,F24-3561,ABC-11624,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,92.03,12.04905705,87.95094295,15.6237236,33.92655369,56.3179606
-3,180,Genetic bank,F24-3561,ABC-11624,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,92.05079492,12.03698856,87.96301144,15.6237236,33.53378972,53.44333665
-3,181,Genetic bank,F24-3562,ABC-11690,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,91.04,12.3628343,87.6371657,16.73097066,33.91666319,54.57110674
-3,182,Genetic bank,F24-3562,ABC-11690,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,90.31,13.41053212,86.58946788,16.73097066,33.11052362,54.08506308
-3,183,Genetic bank,F24-3563,ABC-11762,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,90.65186963,7.969178081,92.03082192,15.948572,39.51782231,57.93619465
-3,184,Genetic bank,F24-3563,ABC-11762,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,90.76092391,8.146350574,91.85364943,15.948572,40.09159782,59.51552365
-3,185,Genetic bank,F24-3564,ABC-11778,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.94161168,8.612617363,91.38738264,16.98998622,26.82255337,53.88886015
-3,186,Genetic bank,F24-3564,ABC-11778,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,92.17,8.549162031,91.45083797,16.98998622,25.71750744,54.53584203
-3,187,Genetic bank,F24-3565,ABC-11784,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,92.20077992,8.742281443,91.25771856,16.92081178,35.05749648,58.07859794
-3,188,Genetic bank,F24-3565,ABC-11784,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,92.40075992,8.547286318,91.45271368,16.88618505,36.76114368,60.70632222
-3,189,Genetic bank,F24-3566,ABC-11820,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,91.72082792,9.268678957,90.73132104,18.05508462,31.61176221,53.22390107
-3,190,Genetic bank,F24-3566,ABC-11820,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,91.89,12.99487632,87.00512368,18.05508462,31.14419337,52.56462172
-3,191,Genetic bank,F24-3567,ABC-12042,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,91.25087491,14.62419946,85.37580054,17.67538478,31.69802268,53.88658337
-3,192,Genetic bank,F24-3567,ABC-12042,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,91.44171166,15.542131,84.457869,17.67538478,31.08405347,53.73959026
-3,193,LMF-invivo,Dieta-1_Exp1,Dieta-1-Exp-1,,,Dieta 1_Exp1,Dieta 1_Exp1,Dieta 1_Exp1,,25,89.0,9.5,89.53,13.79,35.48,71.52
-3,194,LMF-invivo,Dieta-1_Exp1,Dieta-1-Exp-1,,,Dieta 1_Exp1,Dieta 1_Exp1,Dieta 1_Exp1,,25,89.0,9.5,89.53,13.79,35.48,71.52
-3,195,LMF-invivo,Dieta-2_Exp1,Dieta-2-Exp-1,,,Dieta 2_Exp1,Dieta 2_Exp1,Dieta 2_Exp1,,25,89.0,9.1,89.58,13.29,33.91,67.86
-3,196,LMF-invivo,Dieta-2_Exp1,Dieta-2-Exp-1,,,Dieta 2_Exp1,Dieta 2_Exp1,Dieta 2_Exp1,,25,89.0,9.1,89.58,13.29,33.91,67.86
+3,153,Genetic bank,F24-3548,CIAT-2783,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,89.80305908,10.11423239,89.88576761,17.78325823,31.10006232,49.93660615
+3,154,Genetic bank,F24-3548,CIAT-2783,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,89.69206159,10.10410348,89.89589652,17.78325823,31.49852885,49.35950353
+3,155,Genetic bank,F24-3549,CIAT-10440,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,90.2509749,11.72305514,88.27694486,19.4411267,31.24625668,52.05369224
+3,156,Genetic bank,F24-3549,CIAT-10440,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,90.23,12.08991696,87.91008304,19.4411267,31.49043116,51.49097562
+3,157,Genetic bank,F24-3550,CIAT-10613,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,92.82287085,8.92611321,91.07388679,15.96040922,45.358954,59.70617907
+3,158,Genetic bank,F24-3550,CIAT-10613,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,92.85,6.861530143,93.13846986,15.96040922,47.06857275,59.31905266
+3,159,Genetic bank,F24-3551,CIAT-10627,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,93.35,13.71721321,86.28278679,11.82940985,39.45479194,58.35505896
+3,160,Genetic bank,F24-3551,CIAT-10627,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,93.42263095,13.71172852,86.28827148,11.82940985,39.7289378,56.63666224
+3,161,Genetic bank,F24-3552,CIAT-10634,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,92.91,10.52461836,89.47538164,15.7419787,33.72865462,57.2811761
+3,162,Genetic bank,F24-3552,CIAT-10634,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,93.13,10.599871,89.400129,15.7419787,33.45600945,56.69545701
+3,163,Genetic bank,F24-3553,CIAT-10639,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,93.19,11.25536481,88.74463519,15.71943231,35.55480029,54.97199008
+3,164,Genetic bank,F24-3553,CIAT-10639,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,93.21,10.91201717,89.08798283,15.71943231,34.5339845,52.90663325
+3,165,Genetic bank,F24-3554,CIAT-10725,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,92.41227632,11.44783309,88.55216691,15.00091825,40.30334159,58.24573888
+3,166,Genetic bank,F24-3554,CIAT-10725,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,92.37076292,11.65574844,88.34425156,15.00091825,41.87903418,59.36724757
+3,167,Genetic bank,F24-3555,CIAT-11199,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.73248026,8.699477626,91.30052237,14.80076413,36.49417764,57.1970024
+3,168,Genetic bank,F24-3555,CIAT-11199,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.90161968,8.841904992,91.15809501,14.80076413,36.11531634,59.36102501
+3,169,Genetic bank,F24-3556,CIAT-11215,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,92.88,10.48439182,89.51560818,18.30888052,28.43807975,54.30137458
+3,170,Genetic bank,F24-3556,CIAT-11215,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,92.92,10.55974166,89.44025834,18.30888052,27.30742426,50.75264587
+3,171,Genetic bank,F24-3557,CIAT-11220,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.84081592,8.412652748,91.58734725,17.36776998,25.67973267,55.61370624
+3,172,Genetic bank,F24-3557,CIAT-11220,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.91161768,8.433575717,91.56642428,17.36776998,26.94573244,58.29340512
+3,173,Genetic bank,F24-3558,CIAT-11232,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.22087791,7.310425274,92.68957473,15.08813852,34.31355844,54.27373961
+3,174,Genetic bank,F24-3558,CIAT-11232,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.24,7.32211757,92.67788243,15.08813852,34.95786124,54.13347738
+3,175,Genetic bank,F24-3559,CIAT-11313,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,25,92.11,11.55280718,88.44719282,14.93631922,38.48584936,55.72613235
+3,176,Genetic bank,F24-3559,CIAT-11313,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,25,92.26077392,11.51911215,88.48088785,14.93631922,39.16068084,56.20183527
+3,177,Genetic bank,F24-3560,CIAT-11417,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,25,91.48170366,11.93170767,88.06829233,12.26457661,41.32332356,57.71167596
+3,178,Genetic bank,F24-3560,CIAT-11417,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,25,91.52339064,12.19150519,87.80849481,12.26457661,41.63203801,56.74075483
+3,179,Genetic bank,F24-3561,CIAT-11624,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,92.03,12.04905705,87.95094295,15.6237236,33.92655369,56.3179606
+3,180,Genetic bank,F24-3561,CIAT-11624,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,92.05079492,12.03698856,87.96301144,15.6237236,33.53378972,53.44333665
+3,181,Genetic bank,F24-3562,CIAT-11690,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,91.04,12.3628343,87.6371657,16.73097066,33.91666319,54.57110674
+3,182,Genetic bank,F24-3562,CIAT-11690,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,90.31,13.41053212,86.58946788,16.73097066,33.11052362,54.08506308
+3,183,Genetic bank,F24-3563,CIAT-11762,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,90.65186963,7.969178081,92.03082192,15.948572,39.51782231,57.93619465
+3,184,Genetic bank,F24-3563,CIAT-11762,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,90.76092391,8.146350574,91.85364943,15.948572,40.09159782,59.51552365
+3,185,Genetic bank,F24-3564,CIAT-11778,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,91.94161168,8.612617363,91.38738264,16.98998622,26.82255337,53.88886015
+3,186,Genetic bank,F24-3564,CIAT-11778,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,92.17,8.549162031,91.45083797,16.98998622,25.71750744,54.53584203
+3,187,Genetic bank,F24-3565,CIAT-11784,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,92.20077992,8.742281443,91.25771856,16.92081178,35.05749648,58.07859794
+3,188,Genetic bank,F24-3565,CIAT-11784,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,25,92.40075992,8.547286318,91.45271368,16.88618505,36.76114368,60.70632222
+3,189,Genetic bank,F24-3566,CIAT-11820,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,91.72082792,9.268678957,90.73132104,18.05508462,31.61176221,53.22390107
+3,190,Genetic bank,F24-3566,CIAT-11820,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,25,91.89,12.99487632,87.00512368,18.05508462,31.14419337,52.56462172
+3,191,Genetic bank,F24-3567,CIAT-12042,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,91.25087491,14.62419946,85.37580054,17.67538478,31.69802268,53.88658337
+3,192,Genetic bank,F24-3567,CIAT-12042,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,25,91.44171166,15.542131,84.457869,17.67538478,31.08405347,53.73959026
+3,193,LMF-invivo,Dieta-1_Exp1,Dieta-1-Exp-1,,,Dieta 1_Exp1,Dieta 1_Exp1,Dieta 1_Exp1,,25,89,9.5,89.53,13.79,35.48,71.52
+3,194,LMF-invivo,Dieta-1_Exp1,Dieta-1-Exp-1,,,Dieta 1_Exp1,Dieta 1_Exp1,Dieta 1_Exp1,,25,89,9.5,89.53,13.79,35.48,71.52
+3,195,LMF-invivo,Dieta-2_Exp1,Dieta-2-Exp-1,,,Dieta 2_Exp1,Dieta 2_Exp1,Dieta 2_Exp1,,25,89,9.1,89.58,13.29,33.91,67.86
+3,196,LMF-invivo,Dieta-2_Exp1,Dieta-2-Exp-1,,,Dieta 2_Exp1,Dieta 2_Exp1,Dieta 2_Exp1,,25,89,9.1,89.58,13.29,33.91,67.86
 3,197,LMF,F25-0017,Hohenheimer-Heustandard,,,Hohenheimer,Heustandard,Hohenheimer Heustandard,,23,91.34432784,9.990152095,90.0098479,,,
 3,197,LMF,F25-0017,Hohenheimer-Heustandard,,,Hohenheimer,Heustandard,Hohenheimer Heustandard,,24,91.34432784,9.990152095,90.0098479,,,
 3,197,LMF,F25-0017,Hohenheimer-Heustandard,,,,,Hohenheimer Heustandard,,25,91.34432784,9.990152095,90.0098479,,,
@@ -273,37 +273,37 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 3,232,Breeding,F25-2638,nan,Asterales,Compositae,Tithonia ,diversifolia ,Tithonia diversifolia,Shrub_Trees,26,92.19390305,17.72261666,82.27738334,16.54964653,28.38643471,42.3084164
 3,233,Breeding,F25-2639,nan,Fabales,Fabaceae,Gliricidia  ,sepium,Gliricidia sepium ,Shrub_Trees,26,88.90665601,10.82001841,89.17998159,22.53378675,19.09963007,39.34867028
 3,234,Breeding,F25-2639,nan,Fabales,Fabaceae,Gliricidia  ,sepium,Gliricidia sepium ,Shrub_Trees,26,88.99,10.80402546,89.19597454,22.51709305,20.03324883,42.17018241
-3,235,LMF,Dieta-1_2,Dieta-1-Exp-2,,,Dieta 1_Exp2,Dieta 1_Exp2,Dieta 1_Exp2,,26,89.0,9.5,89.53,,,
-3,236,LMF,Dieta-1_2,Dieta-1-Exp-2,,,Dieta 1_Exp2,Dieta 1_Exp2,Dieta 1_Exp2,,26,89.0,9.5,89.53,,,
-3,237,LMF,Dieta-2_2,Dieta-2-Exp-2,,,Dieta 2_Exp2,Dieta 2_Exp2,Dieta 2_Exp2,,26,89.0,9.5,89.53,,,
-3,238,LMF,Dieta-2_2,Dieta-2-Exp-2,,,Dieta 2_Exp2,Dieta 2_Exp2,Dieta 2_Exp2,,26,89.0,9.5,89.53,,,
-3,239,Genetic bank,F24-3568,ABC-12115,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.4,9.10509022,90.89490978,15.32414022,35.06593749,54.65835442
-3,240,Genetic bank,F24-3568,ABC-12115,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.5514897,8.724867624,91.27513238,15.32414022,34.35660123,56.43903036
-3,241,Genetic bank,F24-3569,ABC-12140,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,91.55,11.27006662,88.72993338,19.39058885,28.380861,53.46449684
-3,242,Genetic bank,F24-3569,ABC-12140,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,91.59,11.16086054,88.83913946,19.39058885,28.08818978,54.83809555
-3,243,Genetic bank,F24-3570,ABC-12184,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.14078592,10.22197607,89.77802393,15.38042263,25.75981408,46.83641859
-3,244,Genetic bank,F24-3570,ABC-12184,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.93212036,10.51162169,89.48837831,15.38042263,25.58105041,50.13548697
-3,245,Genetic bank,F24-3571,ABC-12202,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.5814837,10.68595175,89.31404825,18.21514073,24.87410292,47.97015418
-3,246,Genetic bank,F24-3571,ABC-12202,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.67146571,10.67515786,89.32484214,18.21514073,23.29131201,48.14743247
-3,247,Genetic bank,F24-3572,ABC-12311,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,91.67333067,15.02198652,84.97801348,16.63289803,35.04148121,52.67527835
-3,248,Genetic bank,F24-3572,ABC-12311,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,91.85081492,15.04828598,84.95171402,16.63289803,34.54240517,54.6880891
-3,249,Genetic bank,F24-3573,ABC-12381,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,92.2523243,13.23235332,86.76764668,17.10536308,33.29359135,56.60893353
-3,250,Genetic bank,F24-3573,ABC-12381,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,92.24,13.19296079,86.80703921,17.10536308,33.20684116,57.00320067
-3,251,Genetic bank,F24-3574,ABC-12374,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,91.27,8.407623381,91.59237662,17.41634934,30.45973111,56.96825623
-3,252,Genetic bank,F24-3574,ABC-12374,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,92.61073893,9.178945151,90.82105485,17.41634934,30.57751847,55.56060956
-3,253,Genetic bank,F24-3575,ABC-12457,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,93.63,11.84691077,88.15308923,16.95910506,28.31125958,57.25213931
-3,254,Genetic bank,F24-3575,ABC-12457,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,93.76062394,11.96311627,88.03688373,16.95910506,27.06610183,53.60740415
-3,255,Genetic bank,F24-3576,ABC-12462,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,92.4615077,9.484676576,90.51532342,19.36295011,27.16457821,59.10634175
-3,256,Genetic bank,F24-3576,ABC-12462,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,92.64220734,9.408117802,90.5918822,19.36295011,26.26126203,55.78740844
-3,257,Genetic bank,F24-3577,ABC-12485,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,26,94.06118776,13.11061017,86.88938983,14.59175284,30.83407709,56.53726026
-3,258,Genetic bank,F24-3577,ABC-12485,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,26,93.84061594,13.580204,86.419796,14.59175284,30.71810744,55.03309286
-3,259,Genetic bank,F24-3578,ABC-12615,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,89.78306508,10.41388533,89.58611467,14.06737697,35.9821802,54.7603639
-3,260,Genetic bank,F24-3578,ABC-12615,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,89.7310269,10.38254768,89.61745232,14.06737697,34.6482243,52.16414567
-3,261,Genetic bank,F24-3579,ABC-12686,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,90.94,10.2357801,89.7642199,16.00449418,33.80115551,47.42377574
-3,262,Genetic bank,F24-3579,ABC-12686,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,90.97090291,10.25674321,89.74325679,16.00449418,35.23146734,50.46250358
-3,263,Genetic bank,F24-3580,ABC-12710,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,26,91.68,10.74952303,89.25047697,11.49501692,38.95588039,58.26437237
-3,264,Genetic bank,F24-3580,ABC-12710,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,26,91.77,11.6653039,88.3346961,11.49501692,37.90430417,58.4861562
-3,265,Genetic bank,F24-3581,ABC-12758,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,91.36,9.466395087,90.53360491,14.95347019,33.00440393,58.26469765
-3,266,Genetic bank,F24-3581,ABC-12758,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,91.39172166,9.573918397,90.4260816,14.95347019,35.21337701,55.66886158
+3,235,LMF,Dieta-1_2,Dieta-1-Exp-2,,,Dieta 1_Exp2,Dieta 1_Exp2,Dieta 1_Exp2,,26,89,9.5,89.53,,,
+3,236,LMF,Dieta-1_2,Dieta-1-Exp-2,,,Dieta 1_Exp2,Dieta 1_Exp2,Dieta 1_Exp2,,26,89,9.5,89.53,,,
+3,237,LMF,Dieta-2_2,Dieta-2-Exp-2,,,Dieta 2_Exp2,Dieta 2_Exp2,Dieta 2_Exp2,,26,89,9.5,89.53,,,
+3,238,LMF,Dieta-2_2,Dieta-2-Exp-2,,,Dieta 2_Exp2,Dieta 2_Exp2,Dieta 2_Exp2,,26,89,9.5,89.53,,,
+3,239,Genetic bank,F24-3568,CIAT-12115,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.4,9.10509022,90.89490978,15.32414022,35.06593749,54.65835442
+3,240,Genetic bank,F24-3568,CIAT-12115,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.5514897,8.724867624,91.27513238,15.32414022,34.35660123,56.43903036
+3,241,Genetic bank,F24-3569,CIAT-12140,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,91.55,11.27006662,88.72993338,19.39058885,28.380861,53.46449684
+3,242,Genetic bank,F24-3569,CIAT-12140,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,91.59,11.16086054,88.83913946,19.39058885,28.08818978,54.83809555
+3,243,Genetic bank,F24-3570,CIAT-12184,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.14078592,10.22197607,89.77802393,15.38042263,25.75981408,46.83641859
+3,244,Genetic bank,F24-3570,CIAT-12184,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.93212036,10.51162169,89.48837831,15.38042263,25.58105041,50.13548697
+3,245,Genetic bank,F24-3571,CIAT-12202,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.5814837,10.68595175,89.31404825,18.21514073,24.87410292,47.97015418
+3,246,Genetic bank,F24-3571,CIAT-12202,Fabales,Fabaceae,Stylosanthes,humilis,Stylosanthes humilis,Herbaceous_legumes,26,92.67146571,10.67515786,89.32484214,18.21514073,23.29131201,48.14743247
+3,247,Genetic bank,F24-3572,CIAT-12311,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,91.67333067,15.02198652,84.97801348,16.63289803,35.04148121,52.67527835
+3,248,Genetic bank,F24-3572,CIAT-12311,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,91.85081492,15.04828598,84.95171402,16.63289803,34.54240517,54.6880891
+3,249,Genetic bank,F24-3573,CIAT-12381,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,92.2523243,13.23235332,86.76764668,17.10536308,33.29359135,56.60893353
+3,250,Genetic bank,F24-3573,CIAT-12381,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,92.24,13.19296079,86.80703921,17.10536308,33.20684116,57.00320067
+3,251,Genetic bank,F24-3574,CIAT-12374,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,91.27,8.407623381,91.59237662,17.41634934,30.45973111,56.96825623
+3,252,Genetic bank,F24-3574,CIAT-12374,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,92.61073893,9.178945151,90.82105485,17.41634934,30.57751847,55.56060956
+3,253,Genetic bank,F24-3575,CIAT-12457,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,93.63,11.84691077,88.15308923,16.95910506,28.31125958,57.25213931
+3,254,Genetic bank,F24-3575,CIAT-12457,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,93.76062394,11.96311627,88.03688373,16.95910506,27.06610183,53.60740415
+3,255,Genetic bank,F24-3576,CIAT-12462,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,92.4615077,9.484676576,90.51532342,19.36295011,27.16457821,59.10634175
+3,256,Genetic bank,F24-3576,CIAT-12462,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,92.64220734,9.408117802,90.5918822,19.36295011,26.26126203,55.78740844
+3,257,Genetic bank,F24-3577,CIAT-12485,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,26,94.06118776,13.11061017,86.88938983,14.59175284,30.83407709,56.53726026
+3,258,Genetic bank,F24-3577,CIAT-12485,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,26,93.84061594,13.580204,86.419796,14.59175284,30.71810744,55.03309286
+3,259,Genetic bank,F24-3578,CIAT-12615,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,89.78306508,10.41388533,89.58611467,14.06737697,35.9821802,54.7603639
+3,260,Genetic bank,F24-3578,CIAT-12615,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,89.7310269,10.38254768,89.61745232,14.06737697,34.6482243,52.16414567
+3,261,Genetic bank,F24-3579,CIAT-12686,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,90.94,10.2357801,89.7642199,16.00449418,33.80115551,47.42377574
+3,262,Genetic bank,F24-3579,CIAT-12686,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,26,90.97090291,10.25674321,89.74325679,16.00449418,35.23146734,50.46250358
+3,263,Genetic bank,F24-3580,CIAT-12710,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,26,91.68,10.74952303,89.25047697,11.49501692,38.95588039,58.26437237
+3,264,Genetic bank,F24-3580,CIAT-12710,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,26,91.77,11.6653039,88.3346961,11.49501692,37.90430417,58.4861562
+3,265,Genetic bank,F24-3581,CIAT-12758,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,91.36,9.466395087,90.53360491,14.95347019,33.00440393,58.26469765
+3,266,Genetic bank,F24-3581,CIAT-12758,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,26,91.39172166,9.573918397,90.4260816,14.95347019,35.21337701,55.66886158
 3,267,LMF,F25-2134,Hohenheimer-Heustandard-IAG-2025/1-S-1,Green meal , Heustandard,Hohenheimer,Heustandard,Hohenheimer Heustandard,,26,91.34432784,9.990152095,90.0098479,,,
 3,268,LMF,F25-2134,Hohenheimer-Heustandard-IAG-2025/1-S-1,Green meal , Heustandard,Hohenheimer,Heustandard,Hohenheimer Heustandard,,26,91.32173565,10.12699803,89.87300197,,,

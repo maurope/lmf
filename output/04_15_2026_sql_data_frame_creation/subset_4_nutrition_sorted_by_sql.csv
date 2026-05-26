@@ -58,21 +58,21 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 4,57,Genbank,F25-1756,CIAT-13260,Fabales,Fabaceae,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Shrub_Trees,27,94.04119176,9.352221123,90.64777888,15.81342541,57.3984177,63.65754994
 4,58,Genbank,F25-1756,CIAT-13260,Fabales,Fabaceae,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Shrub_Trees,27,94.11176647,14.81328743,85.18671257,15.81342541,57.38673539,66.72961043
 4,59,Genbank,F25-1757,CIAT-17263,Fabales,Fabaceae,Leucaena,leucocephala,Leucaena leucocephala,Shrub_Trees,27,94.41335199,15.42394278,84.57605722,27.42940648,36.70931262,58.98462636
-4,60,Genbank,F25-1757,CIAT-17263,Fabales,Fabaceae,Leucaena,leucocephala,Leucaena leucocephala,Shrub_Trees,27,94.53,12.20471626,87.79528374,0.0,35.82530414,56.53985285
+4,60,Genbank,F25-1757,CIAT-17263,Fabales,Fabaceae,Leucaena,leucocephala,Leucaena leucocephala,Shrub_Trees,27,94.53,12.20471626,87.79528374,0,35.82530414,56.53985285
 4,61,Isabel Molina,F25-2640,Cayman-Br-02-1752,Poales,Poaceae,Urochloa,interespecifico,Urochloa interespecifico,Grass,27,97.01089673,9.625873976,90.37412602,8.04101047,26.26702185,62.42092434
 4,62,Isabel Molina,F25-2640,Cayman-Br-02-1752,Poales,Poaceae,Urochloa,interespecifico,Urochloa interespecifico,Grass,27,96.99120352,9.676436997,90.323563,8.067760916,26.21660937,61.84637727
 4,63,Mauricio Sotelo,F25-2641,nan,Fabales,Fabaceae,Gliricidia  ,sepium,Gliricidia sepium ,Shrub_Trees,27,93.53258697,9.42965823,90.57034177,22.32,22.47,47.82
 4,64,Mauricio Sotelo,F25-2641,nan,Fabales,Fabaceae,Gliricidia  ,sepium,Gliricidia sepium ,Shrub_Trees,27,93.46196141,9.387831748,90.61216825,22.43,21.41,46.59
-4,65,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.3,11.3,88.7,0.0,0.0,76.1
-4,65,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0.0,0.0,76.1
-4,65,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0.0,0.0,76.1
-4,65,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.3,11.3,88.7,0.0,0.0,76.1
-4,65,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.3,11.3,88.7,0.0,0.0,76.1
-4,66,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.8,11.5,88.5,0.0,0.0,76.1
-4,66,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0.0,0.0,76.1
-4,66,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0.0,0.0,76.1
-4,66,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.8,11.5,88.5,0.0,0.0,76.1
-4,66,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.8,11.5,88.5,0.0,0.0,76.1
+4,65,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.3,11.3,88.7,0,0,76.1
+4,65,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0,0,76.1
+4,65,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0,0,76.1
+4,65,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.3,11.3,88.7,0,0,76.1
+4,65,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.3,11.3,88.7,0,0,76.1
+4,66,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.8,11.5,88.5,0,0,76.1
+4,66,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0,0,76.1
+4,66,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0,0,76.1
+4,66,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.8,11.5,88.5,0,0,76.1
+4,66,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.8,11.5,88.5,0,0,76.1
 4,67,Genbank,F25-1758,CIAT-17459,Fabales,Fabaceae,Erythrina,berteroana,Erythrina berteroana,Shrub_Trees,28,94.51219512,10.82166446,89.17833554,24.25144619,37.93629902,50.64633656
 4,68,Genbank,F25-1758,CIAT-17459,Fabales,Fabaceae,Erythrina,berteroana,Erythrina berteroana,Shrub_Trees,28,94.66213515,12.91413474,87.08586526,24.25144619,38.57445837,53.30717782
 4,69,Genbank,F25-1759,CIAT-17482,Fabales,Fabaceae,Leucaena,leucocephala,Leucaena leucocephala,Shrub_Trees,28,92.6214757,14.78198755,85.21801245,26.54232304,32.66674732,49.50527116
@@ -131,17 +131,17 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 4,122,Genbank,F25-2193,CIAT-BH-22-0521,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,28,96.62202678,10.94378898,89.05621102,9.055084304,31.86231547,66.5730951
 4,123,Genbank,F25-2574,CIAT-326,Fabales,Fabaceae,Desmodium,scorpiurus,Desmodium scorpiurus,Herbaceous_legumes,28,91.67249825,13.39088534,86.60911466,28.60156825,39.48848273,56.2323033
 4,124,Genbank,F25-2574,CIAT-326,Fabales,Fabaceae,Desmodium,scorpiurus,Desmodium scorpiurus,Herbaceous_legumes,28,91.68083192,12.95729083,87.04270917,28.6458768,38.38394148,55.07818776
-4,125,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.3,11.3,88.7,0.0,0.0,76.1
-4,125,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0.0,0.0,76.1
-4,125,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0.0,0.0,76.1
-4,125,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.3,11.3,88.7,0.0,0.0,76.1
-4,125,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.3,11.3,88.7,0.0,0.0,76.1
-4,126,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.8,11.5,88.5,0.0,0.0,76.1
-4,126,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0.0,0.0,76.1
-4,126,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0.0,0.0,76.1
-4,126,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.8,11.5,88.5,0.0,0.0,76.1
-4,126,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.8,11.5,88.5,0.0,0.0,76.1
-4,127,Genbank,F25-2575,CIAT-415,Fabales,Fabaceae,Vigna,radiata,Vigna radiata,Herbaceous_legumes,28,92.0,21.24289414,78.75710586,26.95773609,25.37871278,41.71108525
+4,125,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.3,11.3,88.7,0,0,76.1
+4,125,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0,0,76.1
+4,125,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0,0,76.1
+4,125,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.3,11.3,88.7,0,0,76.1
+4,125,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.3,11.3,88.7,0,0,76.1
+4,126,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.8,11.5,88.5,0,0,76.1
+4,126,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0,0,76.1
+4,126,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0,0,76.1
+4,126,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.8,11.5,88.5,0,0,76.1
+4,126,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.8,11.5,88.5,0,0,76.1
+4,127,Genbank,F25-2575,CIAT-415,Fabales,Fabaceae,Vigna,radiata,Vigna radiata,Herbaceous_legumes,28,92,21.24289414,78.75710586,26.95773609,25.37871278,41.71108525
 4,128,Genbank,F25-2575,CIAT-415,Fabales,Fabaceae,Vigna,radiata,Vigna radiata,Herbaceous_legumes,28,91.8732507,19.2881855,80.7118145,26.95773609,25.17044227,42.68538652
 4,129,Genbank,F25-2576,CIAT-416,Fabales,Fabaceae,Vigna,radiata,Vigna radiata,Herbaceous_legumes,28,91.40343862,10.76909636,89.23090364,26.83737782,24.61392416,46.38298015
 4,130,Genbank,F25-2576,CIAT-416,Fabales,Fabaceae,Vigna,radiata,Vigna radiata,Herbaceous_legumes,28,91.45427286,10.74615599,89.25384401,26.83737782,23.34699537,44.53640422
@@ -199,16 +199,16 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 4,182,Genbank,F25-2602,CIAT-18277,Fabales,Fabaceae,Indigofera,jamaicensis,Indigofera jamaicensis,Herbaceous_legumes,28,89.9910009,9.773304922,90.22669508,21.9401464,32.18717684,48.59846477
 4,183,Genbank,F25-2603,CIAT-18952,Fabales,Fabaceae,Indigofera,atriceps,Indigofera atriceps,Herbaceous_legumes,28,90.28485757,17.74570271,82.25429729,16.68180624,41.73947776,48.97461106
 4,184,Genbank,F25-2603,CIAT-18952,Fabales,Fabaceae,Indigofera,atriceps,Indigofera atriceps,Herbaceous_legumes,28,90.4009599,18.43900578,81.56099422,16.63454072,40.24238981,47.3171395
-4,185,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.3,11.3,88.7,0.0,0.0,76.1
-4,185,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0.0,0.0,76.1
-4,185,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0.0,0.0,76.1
-4,185,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.3,11.3,88.7,0.0,0.0,76.1
-4,185,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.3,11.3,88.7,0.0,0.0,76.1
-4,186,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.8,11.5,88.5,0.0,0.0,76.1
-4,186,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0.0,0.0,76.1
-4,186,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0.0,0.0,76.1
-4,186,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.8,11.5,88.5,0.0,0.0,76.1
-4,186,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.8,11.5,88.5,0.0,0.0,76.1
+4,185,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.3,11.3,88.7,0,0,76.1
+4,185,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0,0,76.1
+4,185,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0,0,76.1
+4,185,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.3,11.3,88.7,0,0,76.1
+4,185,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.3,11.3,88.7,0,0,76.1
+4,186,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.8,11.5,88.5,0,0,76.1
+4,186,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0,0,76.1
+4,186,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0,0,76.1
+4,186,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.8,11.5,88.5,0,0,76.1
+4,186,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.8,11.5,88.5,0,0,76.1
 4,187,Genbank,F25-2604,CIAT-18953,Fabales,Fabaceae,Indigofera,atriceps,Indigofera atriceps,Herbaceous_legumes,29,89.52,13.61454923,86.38545077,13.46691821,44.85763775,52.56458331
 4,188,Genbank,F25-2604,CIAT-18953,Fabales,Fabaceae,Indigofera,atriceps,Indigofera atriceps,Herbaceous_legumes,29,89.55313406,10.32787624,89.67212376,13.46691821,44.56453144,52.86756172
 4,189,Genbank,F25-2605,CIAT-18954,Fabales,Fabaceae,Indigofera,atriceps,Indigofera atriceps,Herbaceous_legumes,29,92.92141572,18.88991662,81.11008338,17.60529835,45.5644788,53.16702551
@@ -251,16 +251,16 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 4,226,Genbank,F25-2623,CIAT-34347,Fabales,Fabaceae,Vigna,unguiculata,Vigna unguiculata,Herbaceous_legumes,29,89.52314306,12.07558493,87.92441507,32.42041442,27.22562713,42.12928707
 4,227,Genbank,F25-1692,CIAT-23715,Fabales,Fabaceae,Desmodium,sequax,Desmodium sequax,Shrub_Trees,29,93.76374175,5.199855362,94.80014464,16.813217,58.10429458,64.69971686
 4,228,Genbank,F25-1692,CIAT-23715,Fabales,Fabaceae,Desmodium,sequax,Desmodium sequax,Shrub_Trees,29,93.82123575,5.233913996,94.766086,16.813217,60.17266582,66.13655172
-4,229,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.3,11.3,88.7,0.0,0.0,76.1
-4,229,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0.0,0.0,76.1
-4,229,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0.0,0.0,76.1
-4,229,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.3,11.3,88.7,0.0,0.0,76.1
-4,229,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.3,11.3,88.7,0.0,0.0,76.1
-4,230,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.8,11.5,88.5,0.0,0.0,76.1
-4,230,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0.0,0.0,76.1
-4,230,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0.0,0.0,76.1
-4,230,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.8,11.5,88.5,0.0,0.0,76.1
-4,230,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.8,11.5,88.5,0.0,0.0,76.1
+4,229,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.3,11.3,88.7,0,0,76.1
+4,229,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0,0,76.1
+4,229,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.3,11.3,88.7,0,0,76.1
+4,229,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.3,11.3,88.7,0,0,76.1
+4,229,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.3,11.3,88.7,0,0,76.1
+4,230,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.8,11.5,88.5,0,0,76.1
+4,230,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0,0,76.1
+4,230,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.8,11.5,88.5,0,0,76.1
+4,230,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,29,93.8,11.5,88.5,0,0,76.1
+4,230,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.8,11.5,88.5,0,0,76.1
 4,,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.6,11.3,88.7,13.1,37.8,76.1
 4,,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.8,11.5,88.5,13.1,37.8,76.1
 4,,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,28,93.6,11.3,88.7,13.1,37.8,76.1
