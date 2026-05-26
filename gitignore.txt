@@ -251,3 +251,21 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
 
+# Conda/env
+.env
+.venv/
+
+# Bioinformatics
+*.bam
+*.fastq
+*.fq
+*.h5
+*.hdf5
+
+# Security / SSH keys
+*.pem
+*.key
+id_ed25519
+id_ed25519.pub
+.ssh/
+keys/
