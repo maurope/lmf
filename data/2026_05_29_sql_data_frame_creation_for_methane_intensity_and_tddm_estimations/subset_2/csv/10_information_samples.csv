@@ -1,0 +1,288 @@
+10_sample_serial_no,10_date,10_requisitioner,10_requisitioner_2,10_set_ciat,10_ciat_lab_id,10_gene_bank_breeding_program_id,10_genus,10_species,10_tax_name,10_family,10_order,10_functional_group,10_remarks,10_id_lab,10_remarks
+Sample serial No,"Date (M,D.Y)",Requisitioner,Requisitioner (2),Set CIAT,CIAT Lab-ID,Gene bank /Breeding program ID,Genus,Species,Tax Name,Family,Order,Functional Group,Remarks,ID LAB,Remarks
+1,45789,Genetic bank,Juan Jose Gonzáles,14,F24-3536,ABC-32379-1,Desmanthus,pubescens,Desmanthus pubescens,Fabaceae,Fabales,Shrub,,OT-033,
+2,45789,Genetic bank,Juan Jose Gonzáles,14,F24-3537,ABC-32380-1,Desmanthus,pubescens,Desmanthus pubescens,Fabaceae,Fabales,Shrub,,OT-033,
+3,45789,Genetic bank,Juan Jose Gonzáles,14,F24-3538,ABC-33249-1,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,,OT-033,
+4,45789,Genetic bank,Jorge Peñafiel,14,F24-3612,ABC-398,Desmodium,incanum,Desmodium incanum,Fabaceae,Fabales,Herbaceous,,OT-036,
+5,45789,Genetic bank,Jorge Peñafiel,14,F24-3613,ABC-438,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Fabaceae,Fabales,Climber,,OT-036,
+6,45789,Genetic bank,Jorge Peñafiel,14,F24-3614,ABC-442,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Fabaceae,Fabales,Climber,,OT-036,
+7,45789,Genetic bank,Jorge Peñafiel,14,F24-3615,ABC-466,Vigna,umbellata,Vigna umbellata,Fabaceae,Fabales,Climber,,OT-036,
+8,45789,Genetic bank,Jorge Peñafiel,14,F24-3616,ABC-715,Canavalia,ensiformis,Canavalia ensiformis,Fabaceae,Fabales,Climber,,OT-036,
+9,45789,Genetic bank,Jorge Peñafiel,14,F24-3617,ABC-887,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,,OT-036,
+10,45789,Genetic bank,Jorge Peñafiel,14,F24-3618,ABC-923,Galactia,latisiliqua,Galactia latisiliqua,Fabaceae,Fabales,Climber,,OT-036,
+11,45789,Genetic bank,Jorge Peñafiel,14,F24-3619,ABC-3813,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,,OT-036,
+12,45789,Genetic bank,Jorge Peñafiel,14,F24-3620,ABC-5512,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,,OT-036,
+13,45789,Genetic bank,Jorge Peñafiel,14,F24-3621,ABC-5568,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,,OT-036,
+14,45789,Genetic bank,Jorge Peñafiel,14,F24-3622,ABC-5657,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,,OT-036,
+15,45789,Genetic bank,Jorge Peñafiel,14,F24-3623,ABC-5744,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,,OT-036,
+16,45789,Genetic bank,Jorge Peñafiel,14,F24-3624,ABC-7131,Eriosema,diffusum,Eriosema diffusum,Fabaceae,Fabales,Herbaceous,,OT-036,
+17,45789,Genetic bank,Jorge Peñafiel,14,F24-3625,ABC-7318,Canavalia,sp.,Canavalia sp.,Fabaceae,Fabales,Climber,,OT-036,
+18,45789,Genetic bank,Jorge Peñafiel,14,F24-3626,ABC-7395,Galactia,striata,Galactia striata,Fabaceae,Fabales,Climber,,OT-036,
+19,45789,Genetic bank,Jorge Peñafiel,14,F24-3627,ABC-7648,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,,OT-036,
+20,45789,Genetic bank,Jorge Peñafiel,14,F24-3628,ABC-7746,Crotalaria,paulina,Crotalaria paulina,Fabaceae,Fabales,Herbaceous,,OT-036,
+21,45789,Genetic bank,Jorge Peñafiel,14,F24-3629,ABC-7813,Indigofera,cryptantha,Indigofera cryptantha,Fabaceae,Fabales,Herbaceous,,OT-036,
+22,45789,Genetic bank,Jorge Peñafiel,14,F24-3630,ABC-7831,Tephrosia,rhodesica,Tephrosia rhodesica,Fabaceae,Fabales,Shrub,,OT-036,
+23,45789,Genetic bank,Jorge Peñafiel,14,F24-3631,ABC-7894,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,,OT-036,
+24,45789,Genetic bank,Jorge Peñafiel,14,F24-3632,ABC-7991,Indigofera,suffruticosa,Indigofera suffruticosa,Fabaceae,Fabales,Herbaceous,,OT-036,
+25,45789,Genetic bank,Jorge Peñafiel,14,F24-3633,ABC-8202,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,,OT-036,
+26,45789,Genetic bank,Jorge Peñafiel,14,F24-3634,ABC-9189,Indigofera,suffruticosa,Indigofera suffruticosa,Fabaceae,Fabales,Herbaceous,,OT-036,
+27,45789,Genetic bank,Jorge Peñafiel,14,F24-3635,ABC-9434,Clitoria,ternatea,Clitoria ternatea,Fabaceae,Fabales,Climber,,OT-036,
+28,45789,Genetic bank,Jorge Peñafiel,14,F24-3636,ABC-11162,Stylosanthes,scabra,Stylosanthes scabra,Fabaceae,Fabales,Herbaceous,,OT-036,
+29,45789,Genetic bank,Jorge Peñafiel,14,F24-3637,ABC-13301,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,,OT-036,
+30,45789,Genetic bank,Jorge Peñafiel,14,F24-3638,ABC-15401,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,,OT-036,
+31,45789,LMF,,14,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,,OT-002,
+32,45789,LMF,,14,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,,OT-002,
+33,45789,LMF,,14,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,,OT-001,
+34,45798,Genetic bank,Jorge Peñafiel,15,F24-3639,ABC-17360,Alysicarpus,vaginalis,Alysicarpus vaginalis,Fabaceae,Fabales,Herbaceous,,OT-036,
+35,45798,Genetic bank,Jorge Peñafiel,15,F24-3640,ABC-17768,Clitoria,ternatea,Clitoria ternatea,Fabaceae,Fabales,Climber,,OT-036,
+36,45798,Genetic bank,Jorge Peñafiel,15,F24-3641,ABC-18004,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,,OT-036,
+37,45798,Genetic bank,Jorge Peñafiel,15,F24-3642,ABC-18430,Alysicarpus,vaginalis,Alysicarpus vaginalis,Fabaceae,Fabales,Herbaceous,,OT-036,
+38,45798,Genetic bank,Jorge Peñafiel,15,F24-3644,ABC-18708,Crotalaria,pallida,Crotalaria pallida,Fabaceae,Fabales,Herbaceous,,OT-036,
+39,45798,Genetic bank,Jorge Peñafiel,15,F24-3645,ABC-18850,Alysicarpus,rugosus,Alysicarpus rugosus,Fabaceae,Fabales,Herbaceous,,OT-036,
+40,45798,Genetic bank,Jorge Peñafiel,15,F24-3646,ABC-18865,Alysicarpus,rugosus,Alysicarpus rugosus,Fabaceae,Fabales,Herbaceous,,OT-036,
+41,45798,Genetic bank,Jorge Peñafiel,15,F24-3647,ABC-19032,Canavalia,sp.,Canavalia sp.,Fabaceae,Fabales,Climber,,OT-036,
+42,45798,Genetic bank,Jorge Peñafiel,15,F24-3648,ABC-19119,Alysicarpus,rugosus,Alysicarpus rugosus,Fabaceae,Fabales,Herbaceous,,OT-036,
+43,45798,Genetic bank,Jorge Peñafiel,15,F24-3650,ABC-20303,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,,OT-036,
+44,45798,Genetic bank,Jorge Peñafiel,15,F24-3651,ABC-20589,Uraria,lagopodioides,Uraria lagopodioides,Fabaceae,Fabales,Herbaceous,,OT-036,
+45,45798,Genetic bank,Jorge Peñafiel,15,F24-3652,ABC-21687,Desmanthus,virgatus,Desmanthus virgatus,Fabaceae,Fabales,Shrub,,OT-036,
+46,45798,Genetic bank,Jorge Peñafiel,15,F24-3653,ABC-22048,Aeschynomene,americana,Aeschynomene americana,Fabaceae,Fabales,Herbaceous,,OT-036,
+47,45798,Genetic bank,Jorge Peñafiel,15,F24-3654,ABC-22156,Arachis,pintoi,Arachis pintoi,Fabaceae,Fabales,Herbaceous,,OT-036,
+48,45798,Genetic bank,Jorge Peñafiel,15,F24-3655,ABC-22507,Desmanthus,subulatus,Desmanthus subulatus,Fabaceae,Fabales,Shrub,,OT-036,
+49,45798,Genetic bank,Jorge Peñafiel,15,F24-3656,ABC-22510,Desmanthus,bicornutus,Desmanthus bicornutus,Fabaceae,Fabales,Shrub,,OT-036,
+50,45798,Genetic bank,Jorge Peñafiel,15,F24-3657,ABC-22598,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,,OT-036,
+51,45798,Genetic bank,Jorge Peñafiel,15,F24-3658,ABC-22784,Desmanthus,bicornutus,Desmanthus bicornutus,Fabaceae,Fabales,Shrub,,OT-036,
+52,45798,Genetic bank,Jorge Peñafiel,15,F24-3659,ABC-25113,Centrosema,brasilianum,Centrosema brasilianum,Fabaceae,Fabales,Climber,,OT-036,
+53,45798,Genetic bank,Jorge Peñafiel,15,F24-3660,ABC-33114,Dendrolobium,sp.,Dendrolobium sp.,Fabaceae,Fabales,Shrub,,OT-036,
+54,45798,Genetic bank,Jorge Peñafiel,15,F24-3662,ABC-43477,Desmodium,cinereum,Desmodium cinereum,Fabaceae,Fabales,Shrub,,OT-036,
+55,45798,Genetic bank,Juan Jose Gonzáles,15,F24-3539,ABC-172-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,,OT-033,
+56,45798,Genetic bank,Juan Jose Gonzáles,15,F24-3540,ABC-1467-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,Eliminado,OT-033,
+57,45798,Genetic bank,Juan Jose Gonzáles,15,F24-3541,ABC-1475-1,Stylosanthes,hamata,Stylosanthes hamata,Fabaceae,Fabales,Herbaceous,Eliminado,OT-033,
+58,45798,Genetic bank,Juan Jose Gonzáles,15,F24-3542,ABC-1650-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,,OT-033,
+59,45798,Genetic bank,Juan Jose Gonzáles,15,F24-3543,ABC-1706-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,,OT-033,
+60,45798,Genetic bank,Juan Jose Gonzáles,15,F24-3544,ABC-1727-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,,OT-033,
+61,45798,Genetic bank,Juan Jose Gonzáles,15,F24-3545,ABC-1803-1,Stylosanthes,humilis,Stylosanthes humilis,Fabaceae,Fabales,Herbaceous,Eliminado,OT-033,
+62,45798,Genetic bank,Juan Jose Gonzáles,15,F24-3546,ABC-1964-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,,OT-033,
+63,45798,Genetic bank,Juan Jose Gonzáles,15,F24-3547,ABC-2613-1,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,,OT-033,
+64,45798,LMF,,15,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,,OT-002,
+65,45798,LMF,,15,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,,OT-002,
+66,45798,LMF,,15,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,,OT-001,
+67,45811,Breding ,María José Garzón Gurial,16,F25-1701,CIAT-BR12_1362,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+68,45811,Breding ,María José Garzón Gurial,16,F25-1702,CIAT-BR12_2462,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+69,45811,Breding ,María José Garzón Gurial,16,F25-1703,CIAT-BR12_3868,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+70,45811,Breding ,María José Garzón Gurial,16,F25-1704,CIAT-BR15_2558,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+71,45811,Breding ,María José Garzón Gurial,16,F25-1705,CIAT-BR15_2811,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+72,45811,Breding ,María José Garzón Gurial,16,F25-1706,CIAT-BR15_2891,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+73,45811,Breding ,María José Garzón Gurial,16,F25-1707,CIAT-BR19_1343,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+74,45811,Breding ,María José Garzón Gurial,16,F25-1708,CIAT-CIAT_26110,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+75,45811,Breding ,María José Garzón Gurial,16,F25-1709,CIAT-CIAT_26646,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+76,45811,Breding ,María José Garzón Gurial,16,F25-1710,CIAT-CIAT_6297,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+77,45811,Breding ,María José Garzón Gurial,16,F25-1711,CIAT-BR12_4400,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+78,45811,Breding ,María José Garzón Gurial,16,F25-1712,CIAT-BR15_3434,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+79,45811,Breding ,María José Garzón Gurial,16,F25-1713,CIAT-BR15_3811,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+80,45811,Breding ,María José Garzón Gurial,16,F25-1714,CIAT-BR15_6547,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+81,45811,Breding ,María José Garzón Gurial,16,F25-1715,CIAT-BR15_7121,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+82,45811,Breding ,María José Garzón Gurial,16,F25-1716,CIAT-BR15_8887,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+83,45811,Breding ,María José Garzón Gurial,16,F25-1717,CIAT-BR19_4678,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+84,45811,Breding ,María José Garzón Gurial,16,F25-1718,CIAT-BR19_5029,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+85,45811,Breding ,María José Garzón Gurial,16,F25-1719,CIAT-BR19_5357,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+86,45811,Breding ,María José Garzón Gurial,16,F25-1720,CIAT-BR19_5381,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+87,45811,Breding ,María José Garzón Gurial,16,F25-1721,CIAT-BR02_0465,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+88,45811,Breding ,María José Garzón Gurial,16,F25-1722,CIAT-BR04_3025,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+89,45811,Breding ,María José Garzón Gurial,16,F25-1723,CIAT-BR05_1435,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+90,45811,Breding ,María José Garzón Gurial,16,F25-1724,CIAT-BR09_3660,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+91,45811,Breding ,María José Garzón Gurial,16,F25-1725,CIAT-BR19_1264,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+92,45811,Breding ,María José Garzón Gurial,16,F25-1726,CIAT-BR19_5217,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+93,45811,Breding ,María José Garzón Gurial,16,F25-1727,CIAT-CIAT_26124,Brachiaria,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-009,
+94,45811,LMF,,16,F25-2076,ILRI-15551,Leucaena,diversifolia,Leucaena diversifolia,Fabaceae,"	Fabales",Tree,Muestra liofilizada ,OT-012,
+95,45811,LMF-invivo,,16,F25-2122,ILRI-15551,Leucaena,diversifolia,Leucaena diversifolia,Fabaceae,"	Fabales",Tree,Muestra Henificada,OT-014,
+96,45811,LMF,,16,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,,OT-002,
+97,45811,LMF,,16,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,,OT-002,
+98,45811,LMF,,16,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,,OT-001,
+99,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0929,ABC-15474,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+100,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0930,ABC-15470,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+101,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0931,ABC-13268,Tadehagi,triquetrum,Tadehagi triquetrum,Fabaceae,Fabales,Herbaceous,,OT-005,"30,31,32"
+102,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0932,ABC-22768,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+103,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0933,ABC-22770,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+104,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0934,ABC-18701,Cajanus,cajan,Cajanus cajan,Fabaceae,Fabales,Shrub,,OT-005,"30,31,32"
+105,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0935,ABC-20891,Cajanus,cajan,Cajanus cajan,Fabaceae,Fabales,Shrub,,OT-005,"30,31,32"
+106,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0936,ABC-5172,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+107,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0937,ABC-5452,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+108,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0938,ABC-5733,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+109,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0939,ABC-5735,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+110,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0940,ABC-5749,Centrosema,plumieri,Centrosema plumieri,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+111,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0941,ABC-5911,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+112,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0942,ABC-13692,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,,OT-005,"30,31,32"
+113,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0943,ABC-15121,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+114,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0944,ABC-15150,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+115,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0945,ABC-15154,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+116,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0946,ABC-15561,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+117,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0947,ABC-15799,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+118,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0948,ABC-15816,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+119,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0949,ABC-20304,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+120,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0950,ABC-21603,Lablab,purpureus,Lablab purpureus,Fabaceae,Fabales,Climber,,OT-005,"30,31,32"
+121,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0951,ABC-23248,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,,OT-005,"30,31,32"
+122,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0952,ABC-23271,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,,OT-005,"30,31,32"
+123,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0953,ABC-23279,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,,OT-005,"30,31,32"
+124,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0954,ABC-23326,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,Eliminado,OT-005,"30,31,32"
+125,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0955,ABC-33255,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,,OT-005,"30,31,32"
+126,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0956,ABC-33428,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,,OT-005,"30,31,32"
+127,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0957,ABC-33451,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,,OT-005,"30,31,32"
+128,45826,Genetic bank,Jorge E.  Peñafiel,17,F25-0958,ABC-33463,Desmodium,velutinum,Desmodium velutinum,Fabaceae,Fabales,Shrub,,OT-005,"30,31,32"
+129,45826,LMF,,17,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,,OT-002,"30,31,32"
+130,45826,LMF,,17,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,,OT-002,"30,31,32"
+131,45826,LMF,,17,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,,OT-001,"30,31,32"
+132,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0959,ABC-350,Desmodium,heterocarpon,Desmodium heterocarpon,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+133,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0960,ABC-3187,Desmodium,cajanifolium,Desmodium cajanifolium,Fabaceae,Fabales,Shrub,,OT-005,"33,34,35"
+134,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0961,ABC-4028,Galactia,glaucescens,Galactia glaucescens,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+135,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0962,ABC-5277,Centrosema,acutifolium,Centrosema acutifolium,Fabaceae,Fabales,Climber,,OT-005,"33,34,35"
+136,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0963,ABC-7227,Galactia,texana,Galactia texana,Fabaceae,Fabales,Climber,,OT-005,"33,34,35"
+137,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0964,ABC-8013,Crotalaria,paulina,Crotalaria paulina,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+138,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0965,ABC-8156,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+139,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0966,ABC-9323,Crotalaria,vitellina,Crotalaria vitellina,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+140,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0967,ABC-9537,Crotalaria,sagittalis,Crotalaria sagittalis,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+141,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0968,ABC-9690,Aeschynomene,histrix,Aeschynomene histrix,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+142,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0969,ABC-9900,Pueraria,phaseoloides,Pueraria phaseoloides,Fabaceae,Fabales,Climber,,OT-005,"33,34,35"
+143,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0970,ABC-11998,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+144,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0971,ABC-13149,Desmodium,strigillosum,Desmodium strigillosum,Fabaceae,Fabales,Herbaceous,Eliminado,OT-005,"33,34,35"
+145,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0972,ABC-13389,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+146,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0973,ABC-13651,Desmodium,heterocarpon,Desmodium heterocarpon,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+147,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0974,ABC-13946,Desmodium,sequax,Desmodium sequax,Fabaceae,Fabales,Herbaceous,Eliminado,OT-005,"33,34,35"
+148,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0975,ABC-15160,Centrosema,molle,Centrosema molle,Fabaceae,Fabales,Climber,,OT-005,"33,34,35"
+149,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0976,ABC-17000,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+150,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0977,ABC-17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceae,Fabales,Climber,,OT-005,"33,34,35"
+151,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0978,ABC-18700,Cajanus,cajan,Cajanus cajan,Fabaceae,Fabales,Shrub,,OT-005,"33,34,35"
+152,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0979,ABC-18873,Alysicarpus,ferrugineus,Alysicarpus ferrugineus,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+153,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0980,ABC-19867,Uraria,lagopodioides,Uraria lagopodioides,Fabaceae,Fabales,Herbaceous,Eliminado,OT-005,"33,34,35"
+154,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0981,ABC-20207,Aeschynomene,sensitiva,Aeschynomene sensitiva,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+155,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0982,ABC-20709,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,,OT-005,"33,34,35"
+156,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0983,ABC-18437,Flemingia,macrophylla,Flemingia macrophylla,Fabaceae,Fabales,Shrub,,OT-005,"33,34,35"
+157,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0984,ABC-25522,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,,OT-005,"33,34,35"
+158,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0985,ABC-25704,Centrosema,molle x acutifolium,Centrosema molle x acutifolium,Fabaceae,Fabales,Climber,,OT-005,"33,34,35"
+159,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0986,ABC-33729,Desmodium,cinereum,Desmodium cinereum,Fabaceae,Fabales,Shrub,,OT-005,"33,34,35"
+160,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0987,ABC-33827,Desmodium,incanum,Desmodium incanum,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+161,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0988,ABC-8512,Calopogonium,caeruleum,Calopogonium caeruleum,Fabaceae,Fabales,Climber,,OT-005,"33,34,35"
+162,45845,Genetic bank,Jorge E.  Peñafiel,18,F25-0989,ABC-11833,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,,OT-005,"33,34,35"
+163,45845,LMF-invivo,,18,F25-2131,Muestra # 02,Cynodon,nlenfuensis,Cynodon nlemfuensis,Poaceae,Poales,Grasses,Eliminado,OT-016,"33,34,35"
+164,45845,LMF,,18,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,,OT-002,"33,34,35"
+165,45845,LMF,,18,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,,OT-002,"33,34,35"
+166,45845,LMF,,18,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,,OT-001,"33,34,35"
+167,45854,Breding ,María José Garzón Gurial,19,F25-2077,CIAT-PM21_3535,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+168,45854,Breding ,María José Garzón Gurial,19,F25-2078,CIAT-PM21_6106,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+169,45854,Breding ,María José Garzón Gurial,19,F25-2079,CIAT-PM21_2580,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+170,45854,Breding ,María José Garzón Gurial,19,F25-2080,CIAT-CIAT_16031,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+171,45854,Breding ,María José Garzón Gurial,19,F25-2081,CIAT-CIAT_26936,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+172,45854,Breding ,María José Garzón Gurial,19,F25-2082,CIAT-PM21_0074,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+173,45854,Breding ,María José Garzón Gurial,19,F25-2083,CIAT-PM21_0072,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+174,45854,Breding ,María José Garzón Gurial,19,F25-2084,CIAT-PM21_6598,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+175,45854,Breding ,María José Garzón Gurial,19,F25-2085,CIAT-PM21_6647,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+176,45854,Breding ,María José Garzón Gurial,19,F25-2086,CIAT-PM21_0819,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+177,45854,Breding ,María José Garzón Gurial,19,F25-2087,CIAT-CIAT_16021,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+178,45854,Breding ,María José Garzón Gurial,19,F25-2088,CIAT-PM21_6640,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+179,45854,Breding ,María José Garzón Gurial,19,F25-2089,CIAT-PM21_0065,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+180,45854,Breding ,María José Garzón Gurial,19,F25-2090,CIAT-PM21_6629,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+181,45854,Breding ,María José Garzón Gurial,19,F25-2091,CIAT-PM21_6641,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+182,45854,Breding ,María José Garzón Gurial,19,F25-2092,CIAT-CIAT_16025,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+183,45854,Breding ,María José Garzón Gurial,19,F25-2093,CIAT-PM21_0070,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+184,45854,Breding ,María José Garzón Gurial,19,F25-2094,CIAT-PM21_4926,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+185,45854,Breding ,María José Garzón Gurial,19,F25-2095,CIAT-PM21_3662,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+186,45854,Breding ,María José Garzón Gurial,19,F25-2096,CIAT-PM21_4448,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,Eliminado,OT-013,"36,37,38"
+187,45854,Breding ,María José Garzón Gurial,19,F25-2097,CIAT-PM21_0079,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+188,45854,Breding ,María José Garzón Gurial,19,F25-2098,CIAT-CIAT_6986,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+189,45854,Breding ,María José Garzón Gurial,19,F25-2099,CIAT-PM21_4852,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+190,45854,Breding ,María José Garzón Gurial,19,F25-2100,CIAT-PM21_0078,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+191,45854,Breding ,María José Garzón Gurial,19,F25-2101,CIAT-CIAT_16071,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,Eliminado,OT-013,"36,37,38"
+192,45854,Breding ,María José Garzón Gurial,19,F25-2102,CIAT-PM21_0876,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+193,45854,Breding ,María José Garzón Gurial,19,F25-2103,CIAT-PM21_3641,Megathyrsus,maximus,Megathyrsus maximus,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+194,45854,Breding ,María José Garzón Gurial,19,F25-2104,CIAT-BR06_1348,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+195,45854,Breding ,María José Garzón Gurial,19,F25-2105,CIAT-BR09_4467,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,Eliminado,OT-013,"36,37,38"
+196,45854,Breding ,María José Garzón Gurial,19,F25-2106,CIAT-BR09_4777,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"36,37,38"
+197,45854,LMF,,19,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,,OT-002,"36,37,38"
+198,45854,LMF,,19,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,,OT-002,"36,37,38"
+199,45854,LMF,,19,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,,OT-001,"36,37,38"
+200,45866,Breding ,María José Garzón Gurial,20,F25-2107,CIAT-BR12_0255,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+201,45866,Breding ,María José Garzón Gurial,20,F25-2108,CIAT-BR12_0461,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+202,45866,Breding ,María José Garzón Gurial,20,F25-2109,CIAT-BR12_1620,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+203,45866,Breding ,María José Garzón Gurial,20,F25-2110,CIAT-BR12_1889,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+204,45866,Breding ,María José Garzón Gurial,20,F25-2111,CIAT-BR12_4039,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+205,45866,Breding ,María José Garzón Gurial,20,F25-2112,CIAT-BR12_4856,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+206,45866,Breding ,María José Garzón Gurial,20,F25-2113,CIAT-BR12_5049,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+207,45866,Breding ,María José Garzón Gurial,20,F25-2114,CIAT-BR15_1851,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+208,45866,Breding ,María José Garzón Gurial,20,F25-2115,CIAT-BR15_3025,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+209,45866,Breding ,María José Garzón Gurial,20,F25-2116,CIAT-BR15_3248,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+210,45866,Breding ,María José Garzón Gurial,20,F25-2117,CIAT-BR15_7659,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+211,45866,Breding ,María José Garzón Gurial,20,F25-2118,CIAT-BR15_8919,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+212,45866,Breding ,María José Garzón Gurial,20,F25-2119,CIAT-BR19_5515,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+213,45866,Breding ,María José Garzón Gurial,20,F25-2120,CIAT-BR19_5877,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+214,45866,Breding ,María José Garzón Gurial,20,F25-2121,CIAT-BR19_6136,Urochloa,interespecifico,Brachiaria interespecifico,Poaceae,Poales,Grasses,,OT-013,"39,40,41"
+215,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1651,CIAT-798,Galactia,striata,Galactia striata,Fabaceae,Fabales,Climber,,OT-008,"39,40,41"
+216,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1652,CIAT-822,Calopogonium,mucunoides,Calopogonium mucunoides,Fabaceae,Fabales,Climber,,OT-008,"39,40,41"
+217,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1653,CIAT-852,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,,OT-008,"39,40,41"
+218,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1654,CIAT-907,Dioclea,virgata,Dioclea virgata,Fabaceae,Fabales,Climber,,OT-008,"39,40,41"
+219,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1655,CIAT-1992,Stylosanthes,guianensis,Stylosanthes guianensis,Fabaceae,Fabales,Herbaceous,,OT-008,"39,40,41"
+220,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1656,CIAT-3001,Codariocalyx,gyroides,Codariocalyx gyroides,Fabaceae,Fabales,Shrub,,OT-008,"39,40,41"
+221,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1657,CIAT-3304,Desmodium,cajanifolium,Desmodium cajanifolium,Fabaceae,Fabales,Shrub,Eliminado,OT-008,"39,40,41"
+222,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1658,CIAT-5713,Centrosema,macrocarpum,Centrosema macrocarpum,Fabaceae,Fabales,Climber,,OT-008,"39,40,41"
+223,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1659,CIAT-7381,Galactia,glaucescens,Galactia glaucescens,Fabaceae,Fabales,Herbaceous,Eliminado,OT-008,"39,40,41"
+224,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1660,CIAT-7799,Dioclea,guianensis,Dioclea guianensis,Fabaceae,Fabales,Climber,Eliminado,OT-008,"39,40,41"
+225,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1661,CIAT-7803,Dioclea,holtiana,Dioclea holtiana,Fabaceae,Fabales,Climber,Eliminado,OT-008,"39,40,41"
+226,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1662,CIAT-8182,Eriosema,diffusum,Eriosema diffusum,Fabaceae,Fabales,Herbaceous,Eliminado,OT-008,"39,40,41"
+227,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1663,CIAT-8434,Dioclea,sericea,Dioclea sericea,Fabaceae,Fabales,Climber,Eliminado,OT-008,"39,40,41"
+228,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1664,CIAT-8702,Calopogonium,caeruleum,Calopogonium caeruleum,Fabaceae,Fabales,Climber,,OT-008,"39,40,41"
+229,45866,Genetic bank,Jorge E.  Peñafiel,20,F25-1665,CIAT-8816,Crotalaria,micans,Crotalaria micans,Fabaceae,Fabales,Herbaceous,,OT-008,"39,40,41"
+230,45866,LMF,,20,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,,OT-002,"36,37,38"
+231,45866,LMF,,20,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,,OT-002,"36,37,38"
+232,45866,LMF,,20,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,,OT-001,"36,37,38"
+233,45880,Breding ,María José Garzón Gurial,21,F25-2144,CIAT-BH16_1763,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+234,45880,Breding ,María José Garzón Gurial,21,F25-2145,CIAT-BH16B_2165,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+235,45880,Breding ,María José Garzón Gurial,21,F25-2146,CIAT-BH16B_2167,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+236,45880,Breding ,María José Garzón Gurial,21,F25-2147,CIAT-CIAT_16886,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+237,45880,Breding ,María José Garzón Gurial,21,F25-2148,CIAT-CIAT_16891,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+238,45880,Breding ,María José Garzón Gurial,21,F25-2149,CIAT-CIAT_26146,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+239,45880,Breding ,María José Garzón Gurial,21,F25-2150,CIAT-CIAT_26149,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+240,45880,Breding ,María José Garzón Gurial,21,F25-2151,CIAT-CIAT_26160,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+241,45880,Breding ,María José Garzón Gurial,21,F25-2152,CIAT-CIAT_26415,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+242,45880,Breding ,María José Garzón Gurial,21,F25-2153,CIAT-BH22_4092,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+243,45880,Breding ,María José Garzón Gurial,21,F25-2154,CIAT-CIAT_26438,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+244,45880,Breding ,María José Garzón Gurial,21,F25-2155,CIAT-CIAT_26570,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+245,45880,Breding ,María José Garzón Gurial,21,F25-2156,CIAT-BH22_3115,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+246,45880,Breding ,María José Garzón Gurial,21,F25-2157,CIAT-BH22_1375,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+247,45880,Breding ,María José Garzón Gurial,21,F25-2158,CIAT-CIAT_6133,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+248,45880,Breding ,María José Garzón Gurial,21,F25-2159,CIAT-CIAT_679,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+249,45880,Breding ,María José Garzón Gurial,21,F25-2160,CIAT-BH22_4865,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+250,45880,Breding ,María José Garzón Gurial,21,F25-2161,CIAT-BH22_1706,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+251,45880,Breding ,María José Garzón Gurial,21,F25-2162,CIAT-BH22_4169,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+252,45880,Breding ,María José Garzón Gurial,21,F25-2163,CIAT-BH22_1258,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+253,45880,Breding ,María José Garzón Gurial,21,F25-2164,CIAT-BH22_1370,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+254,45880,Breding ,María José Garzón Gurial,21,F25-2165,CIAT-BH22_2225,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+255,45880,Breding ,María José Garzón Gurial,21,F25-2166,CIAT-BH22_0528,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,Eliminado,OT-020,"42,43,44"
+256,45880,Breding ,María José Garzón Gurial,21,F25-2167,CIAT-BH22_3507,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+257,45880,Breding ,María José Garzón Gurial,21,F25-2168,CIAT-BH22_4253,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+258,45880,Breding ,María José Garzón Gurial,21,F25-2169,CIAT-BH22_2189,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+259,45880,Breding ,María José Garzón Gurial,21,F25-2170,CIAT-BH22_0765,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,Eliminado,OT-020,"42,43,44"
+260,45880,Breding ,María José Garzón Gurial,21,F25-2171,CIAT-BH22_2531,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,Eliminado,OT-020,"42,43,44"
+261,45880,Breding ,María José Garzón Gurial,21,F25-2172,CIAT-BH22_0132,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+262,45880,Breding ,María José Garzón Gurial,21,F25-2173,CIAT-BH22_3521,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"42,43,44"
+263,45880,LMF,,21,F25-0017,Hohenheimer Heustandard,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,Forage,Forage,,OT-002,"42,43,45"
+264,45880,LMF,,21,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,,OT-002,"42,43,46"
+265,45880,LMF,,21,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,,OT-001,"42,43,47"
+266,45894,Breding ,,22,F25-2174,CIAT-BH22_2074,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"45,46,47"
+267,45894,Breding ,,22,F25-2175,CIAT-BH22_0456,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"45,46,47"
+268,45894,Breding ,,22,F25-2176,CIAT-BH22_1832,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"45,46,47"
+269,45894,Breding ,,22,F25-2177,CIAT-BH22_1872,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"45,46,47"
+270,45894,Breding ,,22,F25-2178,CIAT-BH22_0071,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"45,46,47"
+271,45894,Breding ,,22,F25-2179,CIAT-BH22_4454,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"45,46,47"
+272,45894,Breding ,,22,F25-2180,CIAT-BH22_1267,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"45,46,47"
+273,45894,Breding ,,22,F25-2181,CIAT-BH22_1303,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"45,46,47"
+274,45894,Breding ,,22,F25-2182,CIAT-BH22_2508,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"45,46,47"
+275,45894,Breding ,,22,F25-2183,CIAT-BH22_2046,Urochloa,humidicola,Urochloa humidicola,Poaceae,Poales,grasses,,OT-020,"45,46,47"
+276,45894,LMF,,22,F25-0018,Homenheim Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,Concentrate,Concentrate,,OT-002,"45,46,47"
+277,45894,LMF,,22,F25-0008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,Grasses,,OT-001,"45,46,47"
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,Set 2,Breding ,107,,,,,,,,,,,
+,,,Genetic bank,123,,,,,,,,,,,
+,,,LMF-invivo,1,,,,,,,,,,,
