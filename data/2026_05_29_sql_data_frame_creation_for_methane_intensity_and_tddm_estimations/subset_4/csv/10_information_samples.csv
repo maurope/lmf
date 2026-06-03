@@ -1,5 +1,5 @@
-10_sample_serial_no,10_date,10_requisitioner,10_set_ciat,10_ciat_lab_id,10_gene_bank_breeding_program_id,10_genus,10_species,10_tax_name,10_family,10_order,10_functional_group,10_batches_ciat,10_id_lab,10_observaciones,
-Sample serial No,"Date (M,D.Y)",Requisitioner,Set CIAT,CIAT Lab-ID,Gene bank /Breeding program ID,Genus,Species,Tax Name,Family,Order,Functional Group,Batches  CIAT,ID LAB,Observaciones,
+10_sample_serial_no,10_date,10_requisitioner,10_set_ciat,10_ciat_lab_id,10_gene_bank_breeding_program_id,10_genus,10_species,10_tax_name,10_family,10_order,10_functional_group,10_batches_ciat,10_id_lab,10_observaciones_1,10_observaciones_2
+Sample serial No,"Date (M,D.Y)",Requisitioner,Set CIAT,CIAT Lab-ID,Gene bank /Breeding program ID,Genus,Species,Tax Name,Family,Order,Functional Group,Batches  CIAT,ID LAB,Observaciones,observaciones_2
 1,46041,Genbank,27,F251728,CIAT-13262,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),,
 2,46041,Genbank,27,F251729,CIAT-13528,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),,
 3,46041,Genbank,27,F251730,CIAT-13529,Dendrolobium,triangulare,Dendrolobium triangulare,Fabaceae,Fabales,Tree,"58,59, 69",OT-010 (2025),,

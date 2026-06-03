@@ -1,0 +1,40 @@
+approach,id,tax_name,functional_group,dm_incubated,digested_feed_mg,ch4_24h_ml
+Approach 1 (a),CIAT-772,Clitoria ternatea,Herbaceous_legumes,457.74,298.0,11.18
+Approach 1 (a),CIAT-19213,Clitoria ternatea,Herbaceous_legumes,469.33,298.75,11.57
+Approach 2,CIAT-9434,Clitoria ternatea,Herbaceous_legumes,454.1,236.6,13.39
+Approach 2,CIAT-955,Clitoria ternatea,Herbaceous_legumes,459.34,274.0,12.25
+Approach 4,CIAT-9432,Clitoria ternatea,Herbaceous_legumes,456.56,252.63,13.41
+Approach 4,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,477.33,229.65,13.71
+Approach 4,CIAT-18447,Clitoria ternatea,Herbaceous_legumes,464.97,257.04,13.64
+Approach 1 (a),CIAT-7317,Canavalia sp.,Herbaceous_legumes,462.5,321.35,10.57
+Approach 1 (a),CIAT-8719,Canavalia sp. ,Herbaceous_legumes,467.83,326.25,10.94
+Approach 2,CIAT-20803,Canavalia sp.,Herbaceous_legumes,467.17,260.21,10.92
+Approach 4,CIAT-19032,Canavalia sp.,Herbaceous_legumes,462.32,273.47,12.39
+Approach 1 (a),CIAT-15154,Centrosema molle,Herbaceous_legumes,472.06,161.4,7.52
+Approach 2,CIAT-15551,Centrosema molle,Herbaceous_legumes,469.0,233.18,11.58
+Approach 2,CIAT-15474,Centrosema molle,Herbaceous_legumes,461.72,169.81,7.63
+Approach 4,CIAT-15160,Centrosema molle,Herbaceous_legumes,472.8,144.48,8.0
+Approach 4,CIAT-15561,Centrosema molle,Herbaceous_legumes,462.7,180.94,8.23
+Approach 1 (a),CIAT-7972,Canavalia brasiliensis,Herbaceous_legumes,459.87,315.11,10.93
+Approach 1 (a),CIAT-905,Canavalia brasiliensis,Herbaceous_legumes,459.74,291.55,11.79
+Approach 2,CIAT-17009,Canavalia brasiliensis,Herbaceous_legumes,474.05,199.01,13.99
+Approach 2,CIAT-20304,Canavalia brasiliensis,Herbaceous_legumes,472.97,273.37,14.38
+Approach 4,CIAT-7894,Canavalia brasiliensis,Herbaceous_legumes,467.06,231.81,10.37
+Approach 1 (a),CIAT-5234,Centrosema brasilianum,Herbaceous_legumes,462.9,284.81,10.72
+Approach 2,CIAT-15401,Centrosema brasilianum,Herbaceous_legumes,466.3,213.18,11.14
+Approach 2,CIAT-25113,Centrosema brasilianum,Herbaceous_legumes,459.29,201.75,10.38
+Approach 4,CIAT-5512,Centrosema brasilianum,Herbaceous_legumes,461.54,273.3,12.53
+Approach 4,CIAT-5657,Centrosema brasilianum,Herbaceous_legumes,459.36,232.7,10.88
+Approach 1 (a),CIAT-21565,Chamaecrista rotundifolia,Herbaceous_legumes,463.54,267.46,10.59
+Approach 2,CIAT-8202,Chamaecrista rotundifolia,Herbaceous_legumes,463.57,240.12,11.52
+Approach 2,CIAT-18004,Chamaecrista rotundifolia,Herbaceous_legumes,464.92,272.99,14.56
+Approach 4,CIAT-8156,Chamaecrista rotundifolia,Herbaceous_legumes,470.75,227.72,9.76
+Approach 4,CIAT-17000,Chamaecrista rotundifolia,Herbaceous_legumes,473.04,186.52,6.5
+Approach 1 (a),CIAT-705,Indigofera suffruticosa,Herbaceous_legumes,460.21,342.12,10.75
+Approach 1 (a),CIAT-8402,Indigofera suffruticosa,Herbaceous_legumes,460.23,298.43,10.46
+Approach 2,CIAT-7991,Indigofera suffruticosa,Herbaceous_legumes,465.03,183.89,10.75
+Approach 4,CIAT-9189,Indigofera suffruticosa,Herbaceous_legumes,461.39,237.39,11.92
+Approach 1 (a),CIAT-913,Cajanus cajan,Shrub_Trees,474.13,288.57,9.37
+Approach 2,CIAT-18701,Cajanus cajan,Shrub_Trees,474.23,147.93,7.11
+Approach 2,CIAT-20891,Cajanus cajan,Shrub_Trees,476.57,140.65,6.54
+Approach 4,CIAT-18700,Cajanus cajan,Shrub_Trees,469.72,123.27,8.24
