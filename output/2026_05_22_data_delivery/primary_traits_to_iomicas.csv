@@ -1,5 +1,4 @@
 approach,id,tax_name,functional_group,dm_incubated,digested_feed_mg,ch4_24h_ml
-Approach 1 (a),CIAT-772,Clitoria ternatea,Herbaceous_legumes,457.74,298.0,11.18
 Approach 1 (a),CIAT-19213,Clitoria ternatea,Herbaceous_legumes,469.33,298.75,11.57
 Approach 2,CIAT-9434,Clitoria ternatea,Herbaceous_legumes,454.1,236.6,13.39
 Approach 2,CIAT-955,Clitoria ternatea,Herbaceous_legumes,459.34,274.0,12.25
@@ -25,6 +24,10 @@ Approach 2,CIAT-15401,Centrosema brasilianum,Herbaceous_legumes,466.3,213.18,11.
 Approach 2,CIAT-25113,Centrosema brasilianum,Herbaceous_legumes,459.29,201.75,10.38
 Approach 4,CIAT-5512,Centrosema brasilianum,Herbaceous_legumes,461.54,273.3,12.53
 Approach 4,CIAT-5657,Centrosema brasilianum,Herbaceous_legumes,459.36,232.7,10.88
+Approach 1 (a),CIAT-Mulato-II,Brachiaria interespecifico,Grass,483.69,315.95,10.8
+Approach 1 (a),CIAT-BR-02-1752,Brachiaria interespecifico,Grass,480.46,323.76,10.95
+Approach 2,CIAT-BR-15-2891,Brachiaria interespecifico,Grass,468.99,257.62,10.32
+Approach 2,CIAT-BR-19-5029,Brachiaria interespecifico,Grass,478.29,245.54,10.95
 Approach 1 (a),CIAT-21565,Chamaecrista rotundifolia,Herbaceous_legumes,463.54,267.46,10.59
 Approach 2,CIAT-8202,Chamaecrista rotundifolia,Herbaceous_legumes,463.57,240.12,11.52
 Approach 2,CIAT-18004,Chamaecrista rotundifolia,Herbaceous_legumes,464.92,272.99,14.56
