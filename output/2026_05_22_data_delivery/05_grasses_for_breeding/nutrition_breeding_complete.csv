@@ -1,0 +1,371 @@
+subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functional_group,set_ciat,dm_percentage,ash_dm,om_percentage,pc_percentage_dm,adf_percentage_dm,ndf_percentage_dm
+1,51.0,Breeding,F24-3582,CIAT-BR-02-1752,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.98,15.64,84.36,10.92,21.2,55.59
+1,52.0,Breeding,F24-3582,CIAT-BR-02-1752,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.07,15.76,84.24,10.92,21.09,55.23
+1,53.0,Breeding,F24-3583,CIAT-BR-02-1794,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.97,15.14,84.86,9.39,21.27,54.83
+1,54.0,Breeding,F24-3583,CIAT-BR-02-1794,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,97.12,14.9,85.1,9.39,22.4,56.7
+1,55.0,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.56,15.97,84.03,11.01,22.15,57.45
+1,56.0,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.97,15.96,84.04,11.01,21.89,57.28
+1,57.0,Breeding,F24-3585,CIAT-BR-09-1232,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,97.13,13.83,86.17,10.08,21.04,55.54
+1,58.0,Breeding,F24-3585,CIAT-BR-09-1232,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,97.34,13.77,86.23,10.08,21.02,55.77
+1,59.0,Breeding,F24-3586,CIAT-BR-12-4951,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.47,15.48,84.52,11.1,23.32,56.94
+1,60.0,Breeding,F24-3586,CIAT-BR-12-4951,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.02,15.47,84.53,11.1,23.26,56.79
+1,61.0,Breeding,F24-3587,CIAT-BR-15-0722,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.07,14.05,85.95,10.31,26.52,60.67
+1,62.0,Breeding,F24-3587,CIAT-BR-15-0722,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.36,14.06,85.94,10.31,25.83,59.76
+1,63.0,Breeding,F24-3588,CIAT-BR-15-6487,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,94.97,13.4,86.6,9.61,24.32,59.7
+1,64.0,Breeding,F24-3588,CIAT-BR-15-6487,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.17,13.74,86.26,9.61,24.78,59.75
+1,65.0,Breeding,F24-3589,CIAT-BR-19-0029,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.05,14.1,85.9,10.08,23.76,58.02
+1,66.0,Breeding,F24-3589,CIAT-BR-19-0029,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.09,14.15,85.85,10.08,24.19,58.8
+1,67.0,Breeding,F24-3590,CIAT-BR-19-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.18,13.87,86.13,10.11,24.24,58.94
+1,68.0,Breeding,F24-3590,CIAT-BR-19-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.51,13.94,86.06,10.11,24.74,59.51
+1,69.0,Breeding,F24-3591,CIAT-CIAT-6962,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,95.58,14.19,85.81,8.59,31.59,67.17
+1,70.0,Breeding,F24-3591,CIAT-CIAT-6962,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,95.87,14.3,85.7,8.59,32.69,68.08
+1,71.0,Breeding,F24-3592,CIAT-Mulato-II,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.69,14.96,85.04,11.85,24.45,60.05
+1,72.0,Breeding,F24-3592,CIAT-Mulato-II,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.63,14.99,85.01,11.85,24.28,58.79
+1,73.0,Breeding,F24-3593,CIAT-PM-21-0215,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,95.98,15.03,84.97,9.73,29.76,65.01
+1,74.0,Breeding,F24-3593,CIAT-PM-21-0215,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.05,15.08,84.92,9.73,30.06,65.47
+1,75.0,Breeding,F24-3594,CIAT-PM-21-0631,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.73,13.98,86.02,9.06,29.07,63.23
+1,76.0,Breeding,F24-3594,CIAT-PM-21-0631,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.86,13.99,86.01,9.06,28.48,62.5
+1,77.0,Breeding,F24-3595,CIAT-PM-21-2195,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.66,14.1,85.9,8.72,30.71,67.85
+1,78.0,Breeding,F24-3595,CIAT-PM-21-2195,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.86,14.19,85.81,8.72,31.13,68.25
+1,79.0,Breeding,F24-3596,CIAT-PM-21-3522,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.46,15.86,84.14,8.71,29.56,64.48
+1,80.0,Breeding,F24-3596,CIAT-PM-21-3522,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.37,15.45,84.55,8.71,30.07,64.95
+1,81.0,Breeding,F24-3597,CIAT-PM-21-3534,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,96.96,15.58,84.42,9.0,30.96,67.25
+1,82.0,Breeding,F24-3597,CIAT-PM-21-3534,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,96.04,15.53,84.47,9.0,30.87,67.21
+1,83.0,Breeding,F24-3598,CIAT-PM-21-3537,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,97.15,14.49,85.51,10.87,26.63,61.71
+1,84.0,Breeding,F24-3598,CIAT-PM-21-3537,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,97.42,14.46,85.54,10.87,26.99,62.16
+1,85.0,Breeding,F24-3599,CIAT-PM-21-3545,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,96.98,14.8,85.2,8.41,30.18,65.7
+1,86.0,Breeding,F24-3599,CIAT-PM-21-3545,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,97.26,14.77,85.23,8.41,29.83,65.78
+1,87.0,Breeding,F24-3600,CIAT-PM-21-3670,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,96.96,14.56,85.44,8.83,29.31,64.36
+1,88.0,Breeding,F24-3600,CIAT-PM-21-3670,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,97.3,14.64,85.36,8.83,29.21,64.41
+1,89.0,Breeding,F24-3601,CIAT-PM-21-6628,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,95.12,13.99,86.01,9.98,29.71,64.85
+1,90.0,Breeding,F24-3601,CIAT-PM-21-6628,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,95.31,14.22,85.78,9.98,29.95,65.07
+1,91.0,Breeding,F24-3602,CIAT-BH-08-1149,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.37,13.3,86.7,7.53,28.68,67.49
+1,92.0,Breeding,F24-3602,CIAT-BH-08-1149,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.48,13.33,86.67,7.53,28.54,69.97
+1,93.0,Breeding,F24-3603,CIAT-BH-16-0550,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.0,11.45,88.55,6.43,29.83,68.76
+1,94.0,Breeding,F24-3603,CIAT-BH-16-0550,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.22,11.59,88.41,6.43,30.46,69.56
+1,95.0,Breeding,F24-3604,CIAT-BH-16-0562,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.0,11.1,88.9,5.94,30.66,69.91
+1,96.0,Breeding,F24-3604,CIAT-BH-16-0562,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.33,11.24,88.76,5.94,30.27,69.27
+1,97.0,Breeding,F24-3605,CIAT-BH-16-3249,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.69,11.95,88.05,6.65,28.5,69.33
+1,98.0,Breeding,F24-3605,CIAT-BH-16-3249,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.94,12.14,87.86,6.65,29.22,69.96
+1,99.0,Breeding,F24-3606,CIAT-BH-16-B-0733,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.21,12.45,87.55,8.1,29.24,68.74
+1,100.0,Breeding,F24-3606,CIAT-BH-16-B-0733,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.4,12.83,87.17,8.1,29.47,68.93
+1,101.0,Breeding,F24-3607,CIAT-BH-16-B-0741,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.47,14.14,85.86,7.5,28.14,65.65
+1,102.0,Breeding,F24-3607,CIAT-BH-16-B-0741,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.86,14.32,85.68,7.5,28.14,65.72
+1,103.0,Breeding,F24-3608,CIAT-BH-16-B-1194,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.64,11.93,88.07,5.47,29.62,67.76
+1,104.0,Breeding,F24-3608,CIAT-BH-16-B-1194,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.83,11.9,88.1,5.47,29.45,67.79
+1,105.0,Breeding,F24-3609,CIAT-BH-16-B-1618,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,97.01,13.96,86.04,8.13,28.52,66.9
+1,106.0,Breeding,F24-3609,CIAT-BH-16-B-1618,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,97.31,13.99,86.01,8.13,27.57,65.87
+1,107.0,Breeding,F24-3610,CIAT-BH-16-B-1707,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.83,10.46,89.54,5.97,26.79,68.87
+1,108.0,Breeding,F24-3610,CIAT-BH-16-B-1707,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,97.07,10.58,89.42,5.97,26.69,68.3
+1,109.0,Breeding,F24-3611,CIAT-CIAT-16888,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.74,11.63,88.37,6.11,30.34,69.32
+1,110.0,Breeding,F24-3611,CIAT-CIAT-16888,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.82,11.75,88.25,6.11,31.27,70.68
+1,261.0,Breeding,F25-0990,CIAT-PM-21-0053,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.81,11.33,88.67,14.97,32.54,68.53
+1,262.0,Breeding,F25-0990,CIAT-PM-21-0053,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.79,11.5,88.5,14.88,32.78,67.33
+1,263.0,Breeding,F25-0991,CIAT-PM-21-3550,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.61,14.46,85.54,14.61,30.37,69.19
+1,264.0,Breeding,F25-0991,CIAT-PM-21-3550,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.74,14.09,85.91,14.66,29.9,69.17
+1,265.0,Breeding,F25-0992,CIAT-PM-21-3595,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.85,16.74,83.26,14.25,30.99,68.02
+1,266.0,Breeding,F25-0992,CIAT-PM-21-3595,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.91,16.48,83.52,14.27,30.74,69.45
+1,267.0,Breeding,F25-0993,CIAT-PM-21-0086,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.84,14.86,85.14,14.79,31.13,67.37
+1,268.0,Breeding,F25-0993,CIAT-PM-21-0086,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,98.1,15.86,84.14,14.83,30.9,67.39
+1,269.0,Breeding,F25-0994,CIAT-CIAT-16048,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.4,15.36,84.64,17.38,31.71,67.29
+1,270.0,Breeding,F25-0994,CIAT-CIAT-16048,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.72,15.19,84.81,17.29,32.28,66.92
+1,271.0,Breeding,F25-0995,CIAT-PM-21-0185,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.4,13.85,86.15,16.74,28.14,67.13
+1,272.0,Breeding,F25-0995,CIAT-PM-21-0185,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.57,13.92,86.08,16.71,27.66,66.53
+1,273.0,Breeding,F25-0996,CIAT-PM-21-0215,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.47,13.57,86.43,15.17,30.53,67.39
+1,274.0,Breeding,F25-0996,CIAT-PM-21-0215,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.71,13.86,86.14,15.16,29.96,67.08
+1,275.0,Breeding,F25-0997,CIAT-CIAT-16051,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.99,13.92,86.08,14.96,30.84,68.17
+1,276.0,Breeding,F25-0997,CIAT-CIAT-16051,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.31,14.04,85.96,14.87,32.38,68.26
+1,277.0,Breeding,F25-0998,CIAT-PM-21-6080,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.23,15.38,84.62,18.25,32.95,67.99
+1,278.0,Breeding,F25-0998,CIAT-PM-21-6080,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.46,15.5,84.5,18.33,31.03,66.95
+1,279.0,Breeding,F25-0999,CIAT-PM-21-3684,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.17,13.44,86.56,14.75,30.43,70.47
+1,280.0,Breeding,F25-0999,CIAT-PM-21-3684,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.59,13.48,86.52,14.81,30.34,69.59
+1,281.0,Breeding,F25-1000,CIAT-PM-21-0076,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,94.86,15.39,84.61,16.18,32.38,66.3
+1,282.0,Breeding,F25-1000,CIAT-PM-21-0076,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,94.95,15.46,84.54,16.12,32.0,68.91
+1,283.0,Breeding,F25-1001,CIAT-CIAT-6890,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.18,12.26,87.74,15.96,34.22,72.59
+1,284.0,Breeding,F25-1001,CIAT-CIAT-6890,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.15,12.38,87.62,15.77,34.32,70.18
+1,285.0,Breeding,F25-1002,CIAT-PM-21-6638,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.58,16.64,83.36,14.34,34.63,67.43
+1,286.0,Breeding,F25-1002,CIAT-PM-21-6638,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.75,16.65,83.35,14.14,34.45,67.24
+1,287.0,Breeding,F25-1003,CIAT-PM-21-0052,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.44,14.01,85.99,15.22,32.19,65.5
+1,288.0,Breeding,F25-1003,CIAT-PM-21-0052,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.43,14.26,85.74,15.59,31.43,64.75
+1,289.0,Breeding,F25-1004,CIAT-PM-21-4449,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.06,12.78,87.22,14.59,32.89,69.88
+1,290.0,Breeding,F25-1004,CIAT-PM-21-4449,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.22,12.82,87.18,14.48,32.45,70.47
+1,291.0,Breeding,F25-1005,CIAT-CIAT-6799,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.48,12.71,87.29,13.54,33.72,71.72
+1,292.0,Breeding,F25-1005,CIAT-CIAT-6799,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,95.54,12.6,87.4,13.55,33.68,71.38
+1,293.0,Breeding,F25-1006,CIAT-PM-21-0055,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.09,13.65,86.35,16.61,31.83,65.81
+1,294.0,Breeding,F25-1006,CIAT-PM-21-0055,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.51,13.02,86.98,16.35,31.42,65.54
+1,295.0,Breeding,F25-1007,CIAT-PM-21-6529,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.59,14.85,85.15,12.65,30.39,68.26
+1,296.0,Breeding,F25-1007,CIAT-PM-21-6529,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.52,15.0,85.0,12.71,29.9,68.1
+1,297.0,Breeding,F25-1008,CIAT-PM-21-0047,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.09,15.07,84.93,14.16,32.6,65.77
+1,298.0,Breeding,F25-1008,CIAT-PM-21-0047,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.17,14.79,85.21,14.14,31.99,65.94
+1,299.0,Breeding,F25-1009,CIAT-PM-21-2195,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.01,14.13,85.87,15.48,30.68,67.57
+1,300.0,Breeding,F25-1009,CIAT-PM-21-2195,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,96.98,13.87,86.13,15.5,30.75,66.86
+1,301.0,Breeding,F25-1010,CIAT-PM-21-2627,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.25,14.81,85.19,17.32,33.6,66.28
+1,302.0,Breeding,F25-1010,CIAT-PM-21-2627,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.49,15.0,85.0,17.27,33.49,65.29
+1,303.0,Breeding,F25-1011,CIAT-PM-21-0059,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.47,14.0,86.0,16.68,31.69,65.75
+1,304.0,Breeding,F25-1011,CIAT-PM-21-0059,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.59,14.06,85.94,16.74,31.7,65.17
+1,305.0,Breeding,F25-1012,CIAT-PM-21-3522,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.04,14.4,85.6,13.19,24.69,66.26
+1,306.0,Breeding,F25-1012,CIAT-PM-21-3522,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.31,14.79,85.21,13.05,25.11,66.67
+1,307.0,Breeding,F25-1013,CIAT-PM-21-0062,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,98.04,17.23,82.77,13.54,24.4,67.94
+1,308.0,Breeding,F25-1013,CIAT-PM-21-0062,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,98.2,14.26,85.74,13.4,24.45,67.94
+1,309.0,Breeding,F25-1014,CIAT-PM-21-0906,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.3,15.22,84.78,14.75,19.4,67.26
+1,310.0,Breeding,F25-1014,CIAT-PM-21-0906,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,9,97.51,15.43,84.57,14.58,19.59,67.15
+2,133.0,Breeding,F25-1701,CIAT-BR-12-1362,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,92.4,13.93,86.07,16.8,28.07,57.52
+2,134.0,Breeding,F25-1701,CIAT-BR-12-1362,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,92.52,14.1,85.9,16.98,28.17,57.73
+2,135.0,Breeding,F25-1702,CIAT-BR-12-2462,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.6,15.7,84.3,12.13,35.15,59.32
+2,136.0,Breeding,F25-1702,CIAT-BR-12-2462,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.83,15.46,84.54,12.29,34.35,58.11
+2,137.0,Breeding,F25-1703,CIAT-BR-12-3868,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.06,18.86,81.14,16.14,28.78,55.02
+2,138.0,Breeding,F25-1703,CIAT-BR-12-3868,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.24,19.29,80.71,16.46,27.71,53.64
+2,139.0,Breeding,F25-1704,CIAT-BR-15-2558,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.18,14.01,85.99,15.05,26.56,57.4
+2,140.0,Breeding,F25-1704,CIAT-BR-15-2558,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.3,14.23,85.77,14.96,26.55,57.51
+2,141.0,Breeding,F25-1705,CIAT-BR-15-2811,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.58,16.34,83.66,15.73,29.31,56.34
+2,142.0,Breeding,F25-1705,CIAT-BR-15-2811,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.66,16.19,83.81,16.0,28.94,55.22
+2,143.0,Breeding,F25-1706,CIAT-BR-15-2891,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.76,14.74,85.26,15.41,29.27,58.57
+2,144.0,Breeding,F25-1706,CIAT-BR-15-2891,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.75,14.94,85.06,15.6,29.49,59.23
+2,145.0,Breeding,F25-1707,CIAT-BR-19-1343,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.02,14.52,85.48,16.18,30.08,59.29
+2,146.0,Breeding,F25-1707,CIAT-BR-19-1343,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.18,14.5,85.5,16.19,29.59,58.54
+2,147.0,Breeding,F25-1708,CIAT-CIAT-26110,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.84,11.98,88.02,12.75,33.32,65.53
+2,148.0,Breeding,F25-1708,CIAT-CIAT-26110,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.94,11.88,88.12,12.76,33.16,65.81
+2,149.0,Breeding,F25-1709,CIAT-CIAT-26646,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.55,13.12,86.88,14.11,29.05,60.64
+2,150.0,Breeding,F25-1709,CIAT-CIAT-26646,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.57,13.23,86.77,14.16,29.12,60.65
+2,151.0,Breeding,F25-1710,CIAT-CIAT-6297,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.02,12.99,87.01,14.89,30.41,62.43
+2,152.0,Breeding,F25-1710,CIAT-CIAT-6297,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.18,13.03,86.97,14.82,29.34,61.39
+2,153.0,Breeding,F25-1711,CIAT-BR-12-4400,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.82,15.33,84.67,14.44,28.18,57.16
+2,154.0,Breeding,F25-1711,CIAT-BR-12-4400,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.04,15.28,84.72,14.33,27.96,57.81
+2,155.0,Breeding,F25-1712,CIAT-BR-15-3434,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.66,14.23,85.77,15.22,27.9,55.64
+2,156.0,Breeding,F25-1712,CIAT-BR-15-3434,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.57,14.17,85.83,14.95,28.61,56.59
+2,157.0,Breeding,F25-1713,CIAT-BR-15-3811,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.28,14.78,85.22,15.44,26.68,57.94
+2,158.0,Breeding,F25-1713,CIAT-BR-15-3811,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.31,14.65,85.35,15.54,26.8,58.7
+2,159.0,Breeding,F25-1714,CIAT-BR-15-6547,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.62,15.42,84.58,15.86,26.8,58.33
+2,160.0,Breeding,F25-1714,CIAT-BR-15-6547,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.85,15.65,84.35,15.76,27.24,58.16
+2,161.0,Breeding,F25-1715,CIAT-BR-15-7121,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.87,15.09,84.91,17.16,26.6,56.36
+2,162.0,Breeding,F25-1715,CIAT-BR-15-7121,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.78,15.3,84.7,16.91,26.3,56.6
+2,163.0,Breeding,F25-1716,CIAT-BR-15-8887,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.61,12.99,87.01,14.82,27.57,59.42
+2,164.0,Breeding,F25-1716,CIAT-BR-15-8887,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.93,12.99,87.01,14.69,27.64,59.47
+2,165.0,Breeding,F25-1717,CIAT-BR-19-4678,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,92.66,15.15,84.85,15.23,27.6,53.84
+2,166.0,Breeding,F25-1717,CIAT-BR-19-4678,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,92.87,15.05,84.95,15.16,28.28,53.93
+2,167.0,Breeding,F25-1718,CIAT-BR-19-5029,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.86,15.34,84.66,15.11,27.89,59.49
+2,168.0,Breeding,F25-1718,CIAT-BR-19-5029,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.38,15.33,84.67,15.01,27.58,58.66
+2,169.0,Breeding,F25-1719,CIAT-BR-19-5357,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.49,15.4,84.6,15.79,28.37,57.57
+2,170.0,Breeding,F25-1719,CIAT-BR-19-5357,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.64,15.49,84.51,15.71,28.76,59.24
+2,171.0,Breeding,F25-1720,CIAT-BR-19-5381,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.5,14.12,85.88,14.76,31.05,62.85
+2,172.0,Breeding,F25-1720,CIAT-BR-19-5381,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.65,14.08,85.92,15.16,30.63,61.16
+2,173.0,Breeding,F25-1721,CIAT-BR-02-0465,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.76,13.76,86.24,13.85,32.43,65.34
+2,174.0,Breeding,F25-1721,CIAT-BR-02-0465,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,97.0,13.81,86.19,13.88,33.17,65.89
+2,175.0,Breeding,F25-1722,CIAT-BR-04-3025,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.74,11.26,88.74,12.21,32.59,67.01
+2,176.0,Breeding,F25-1722,CIAT-BR-04-3025,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.93,11.36,88.64,12.29,32.84,67.83
+2,177.0,Breeding,F25-1723,CIAT-BR-05-1435,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.05,14.48,85.52,15.99,30.77,63.07
+2,178.0,Breeding,F25-1723,CIAT-BR-05-1435,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.07,14.93,85.07,16.2,30.88,64.86
+2,179.0,Breeding,F25-1724,CIAT-BR-09-3660,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.18,13.63,86.37,12.69,29.04,60.19
+2,180.0,Breeding,F25-1724,CIAT-BR-09-3660,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.3,13.65,86.35,12.85,29.06,62.31
+2,181.0,Breeding,F25-1725,CIAT-BR-19-1264,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.22,15.55,84.45,18.7,24.89,56.9
+2,182.0,Breeding,F25-1725,CIAT-BR-19-1264,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.37,15.67,84.33,18.43,25.27,55.7
+2,183.0,Breeding,F25-1726,CIAT-BR-19-5217,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.16,14.33,85.67,13.55,28.61,60.76
+2,184.0,Breeding,F25-1726,CIAT-BR-19-5217,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.24,14.1,85.9,13.38,28.98,60.65
+2,185.0,Breeding,F25-1727,CIAT-CIAT-26124,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.99,12.86,87.14,14.44,31.93,64.65
+2,186.0,Breeding,F25-1727,CIAT-CIAT-26124,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.07,12.79,87.21,14.75,31.28,65.1
+2,333.0,Breeding,F25-2077,CIAT-PM-21-3535,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,95.15,13.8,86.2,11.95,34.67,68.02
+2,334.0,Breeding,F25-2077,CIAT-PM-21-3535,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,95.32,13.77,86.23,11.95,35.08,68.68
+2,335.0,Breeding,F25-2078,CIAT-PM-21-6106,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.92,13.04,86.96,15.78,30.68,66.42
+2,336.0,Breeding,F25-2078,CIAT-PM-21-6106,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.92,12.94,87.06,15.6,31.3,66.54
+2,337.0,Breeding,F25-2079,CIAT-PM-21-2580,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.74,12.78,87.22,16.12,31.65,65.46
+2,338.0,Breeding,F25-2079,CIAT-PM-21-2580,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.77,12.8,87.2,16.22,30.75,64.63
+2,339.0,Breeding,F25-2080,CIAT-CIAT-16031,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.72,13.23,86.77,13.86,32.17,65.74
+2,340.0,Breeding,F25-2080,CIAT-CIAT-16031,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.81,13.2,86.8,13.78,32.58,65.74
+2,341.0,Breeding,F25-2081,CIAT-CIAT-26936,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,95.08,10.38,89.62,13.7,36.12,66.35
+2,342.0,Breeding,F25-2081,CIAT-CIAT-26936,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,95.09,10.26,89.74,13.4,37.12,67.42
+2,343.0,Breeding,F25-2082,CIAT-PM-21-0074,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.55,13.65,86.35,13.31,31.23,64.22
+2,344.0,Breeding,F25-2082,CIAT-PM-21-0074,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.63,13.55,86.45,12.89,30.65,64.63
+2,345.0,Breeding,F25-2083,CIAT-PM-21-0072,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.29,14.37,85.63,14.85,29.46,66.42
+2,346.0,Breeding,F25-2083,CIAT-PM-21-0072,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.51,14.44,85.56,14.55,28.69,66.03
+2,347.0,Breeding,F25-2084,CIAT-PM-21-6598,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.66,14.55,85.45,12.95,28.9,65.52
+2,348.0,Breeding,F25-2084,CIAT-PM-21-6598,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.61,14.36,85.64,12.93,28.77,65.46
+2,349.0,Breeding,F25-2085,CIAT-PM-21-6647,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.17,13.1,86.9,12.4,29.37,65.69
+2,350.0,Breeding,F25-2085,CIAT-PM-21-6647,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.14,12.92,87.08,12.47,29.6,66.65
+2,351.0,Breeding,F25-2086,CIAT-PM-21-0819,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.45,14.29,85.71,15.26,28.33,64.12
+2,352.0,Breeding,F25-2086,CIAT-PM-21-0819,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.54,13.96,86.04,15.19,28.81,65.52
+2,353.0,Breeding,F25-2087,CIAT-CIAT-16021,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.39,11.83,88.17,12.62,32.64,70.66
+2,354.0,Breeding,F25-2087,CIAT-CIAT-16021,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.56,11.81,88.19,12.61,32.83,70.74
+2,355.0,Breeding,F25-2088,CIAT-PM-21-6640,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.03,15.22,84.78,15.92,26.49,65.85
+2,356.0,Breeding,F25-2088,CIAT-PM-21-6640,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.06,15.08,84.92,15.63,26.8,65.52
+2,357.0,Breeding,F25-2089,CIAT-PM-21-0065,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.11,13.77,86.23,14.31,31.16,65.18
+2,358.0,Breeding,F25-2089,CIAT-PM-21-0065,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.96,13.61,86.39,14.05,30.28,64.55
+2,359.0,Breeding,F25-2090,CIAT-PM-21-6629,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.83,11.34,88.66,11.23,37.93,73.26
+2,360.0,Breeding,F25-2090,CIAT-PM-21-6629,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.88,11.32,88.68,11.33,37.84,72.75
+2,361.0,Breeding,F25-2091,CIAT-PM-21-6641,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.15,15.49,84.51,15.55,28.79,62.76
+2,362.0,Breeding,F25-2091,CIAT-PM-21-6641,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.15,15.21,84.79,15.64,28.66,63.38
+2,363.0,Breeding,F25-2092,CIAT-CIAT-16025,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.34,14.97,85.03,14.28,32.24,68.46
+2,364.0,Breeding,F25-2092,CIAT-CIAT-16025,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.45,14.49,85.51,14.57,32.36,68.99
+2,365.0,Breeding,F25-2093,CIAT-PM-21-0070,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.39,13.46,86.54,14.85,29.56,66.15
+2,366.0,Breeding,F25-2093,CIAT-PM-21-0070,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,94.4,13.58,86.42,14.93,29.79,67.21
+2,367.0,Breeding,F25-2094,CIAT-PM-21-4926,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.68,11.86,88.14,14.74,30.24,72.36
+2,368.0,Breeding,F25-2094,CIAT-PM-21-4926,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.65,11.67,88.33,14.6,29.81,70.38
+2,369.0,Breeding,F25-2095,CIAT-PM-21-3662,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.27,14.34,85.66,11.68,31.45,67.24
+2,370.0,Breeding,F25-2095,CIAT-PM-21-3662,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.29,14.69,85.31,11.48,32.65,68.93
+2,371.0,Breeding,F25-2096,CIAT-PM-21-4448,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,95.45,11.22,88.78,11.97,30.8,71.78
+2,372.0,Breeding,F25-2096,CIAT-PM-21-4448,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,95.53,11.31,88.69,12.08,31.65,72.35
+2,373.0,Breeding,F25-2097,CIAT-PM-21-0079,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.89,12.76,87.24,13.47,31.7,69.24
+2,374.0,Breeding,F25-2097,CIAT-PM-21-0079,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.93,12.22,87.78,13.49,30.78,67.87
+2,375.0,Breeding,F25-2098,CIAT-CIAT-6986,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.57,11.81,88.19,12.25,33.01,71.5
+2,376.0,Breeding,F25-2098,CIAT-CIAT-6986,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.58,11.89,88.11,12.28,33.95,72.14
+2,377.0,Breeding,F25-2099,CIAT-PM-21-4852,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.7,11.32,88.68,10.67,35.21,72.85
+2,378.0,Breeding,F25-2099,CIAT-PM-21-4852,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.73,10.72,89.28,10.65,34.57,72.87
+2,379.0,Breeding,F25-2100,CIAT-PM-21-0078,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.54,13.86,86.14,13.78,32.27,66.66
+2,380.0,Breeding,F25-2100,CIAT-PM-21-0078,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.65,13.44,86.56,13.9,31.7,66.25
+2,381.0,Breeding,F25-2101,CIAT-CIAT-16071,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.96,13.6,86.4,16.88,28.86,66.57
+2,382.0,Breeding,F25-2101,CIAT-CIAT-16071,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.1,13.66,86.34,17.03,28.88,66.46
+2,383.0,Breeding,F25-2102,CIAT-PM-21-0876,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.41,13.3,86.7,13.13,30.76,66.01
+2,384.0,Breeding,F25-2102,CIAT-PM-21-0876,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.56,13.12,86.88,13.07,31.38,67.36
+2,385.0,Breeding,F25-2103,CIAT-PM-21-3641,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.68,12.69,87.31,12.34,32.41,69.17
+2,386.0,Breeding,F25-2103,CIAT-PM-21-3641,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.76,12.37,87.63,12.4,31.97,68.95
+2,387.0,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,93.02,14.27,85.73,12.27,25.43,59.24
+2,388.0,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,93.16,14.68,85.32,12.18,25.85,60.28
+2,389.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,92.32,14.58,85.42,13.61,24.69,59.75
+2,390.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,92.29,14.67,85.33,13.7,23.95,58.17
+2,391.0,Breeding,F25-2106,CIAT-BR-09-4777,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,93.63,13.57,86.43,12.91,24.87,59.85
+2,392.0,Breeding,F25-2106,CIAT-BR-09-4777,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,93.72,13.78,86.22,12.61,24.0,58.1
+2,399.0,Breeding,F25-2107,CIAT-BR-12-0255,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,91.8,14.53,85.47,14.95,24.37,56.63
+2,400.0,Breeding,F25-2107,CIAT-BR-12-0255,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,91.9,13.93,86.07,14.96,24.9,58.06
+2,401.0,Breeding,F25-2108,CIAT-BR-12-0461,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.79,14.79,85.21,13.22,25.99,61.16
+2,402.0,Breeding,F25-2108,CIAT-BR-12-0461,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.85,14.65,85.35,13.25,25.21,60.42
+2,403.0,Breeding,F25-2109,CIAT-BR-12-1620,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.64,13.86,86.14,13.22,25.33,60.25
+2,404.0,Breeding,F25-2109,CIAT-BR-12-1620,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.45,13.71,86.29,13.21,25.43,60.47
+2,405.0,Breeding,F25-2110,CIAT-BR-12-1889,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,91.36,14.97,85.03,14.79,23.02,57.53
+2,406.0,Breeding,F25-2110,CIAT-BR-12-1889,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,91.33,15.21,84.79,14.84,23.76,57.97
+2,407.0,Breeding,F25-2111,CIAT-BR-12-4039,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.1,13.68,86.32,15.21,27.16,61.65
+2,408.0,Breeding,F25-2111,CIAT-BR-12-4039,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.11,13.53,86.47,15.13,27.78,62.03
+2,409.0,Breeding,F25-2112,CIAT-BR-12-4856,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.56,12.77,87.23,13.02,28.51,65.12
+2,410.0,Breeding,F25-2112,CIAT-BR-12-4856,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.6,13.05,86.95,13.0,26.99,62.14
+2,411.0,Breeding,F25-2113,CIAT-BR-12-5049,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.21,14.62,85.38,14.59,26.73,60.67
+2,412.0,Breeding,F25-2113,CIAT-BR-12-5049,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.29,14.33,85.67,14.53,26.32,60.52
+2,413.0,Breeding,F25-2114,CIAT-BR-15-1851,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.13,15.21,84.79,11.37,25.88,59.51
+2,414.0,Breeding,F25-2114,CIAT-BR-15-1851,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.2,14.42,85.58,11.13,26.41,59.37
+2,415.0,Breeding,F25-2115,CIAT-BR-15-3025,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,91.95,14.16,85.84,12.34,27.11,60.45
+2,416.0,Breeding,F25-2115,CIAT-BR-15-3025,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.09,14.12,85.88,12.29,26.33,59.43
+2,417.0,Breeding,F25-2116,CIAT-BR-15-3248,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.13,15.79,84.21,13.93,24.43,58.99
+2,418.0,Breeding,F25-2116,CIAT-BR-15-3248,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.19,16.0,84.0,13.89,24.15,58.59
+2,419.0,Breeding,F25-2117,CIAT-BR-15-7659,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.27,13.94,86.06,12.3,27.16,60.45
+2,420.0,Breeding,F25-2117,CIAT-BR-15-7659,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.39,13.52,86.48,12.37,26.75,59.79
+2,421.0,Breeding,F25-2118,CIAT-BR-15-8919,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.46,13.62,86.38,11.79,27.39,63.99
+2,422.0,Breeding,F25-2118,CIAT-BR-15-8919,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.57,13.35,86.65,11.73,26.58,62.43
+2,423.0,Breeding,F25-2119,CIAT-BR-19-5515,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.39,14.48,85.52,11.2,26.68,60.73
+2,424.0,Breeding,F25-2119,CIAT-BR-19-5515,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.46,14.57,85.43,11.18,27.23,61.04
+2,425.0,Breeding,F25-2120,CIAT-BR-19-5877,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.4,12.97,87.03,12.44,25.93,60.48
+2,426.0,Breeding,F25-2120,CIAT-BR-19-5877,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.57,13.04,86.96,12.42,26.2,60.69
+2,427.0,Breeding,F25-2121,CIAT-BR-19-6136,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.89,14.86,85.14,13.28,26.19,60.33
+2,428.0,Breeding,F25-2121,CIAT-BR-19-6136,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.95,14.72,85.28,13.38,25.55,58.72
+2,465.0,Breeding,F25-2144,CIAT-BH-16-1763,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.8,11.8,88.2,7.19,31.39,68.65
+2,466.0,Breeding,F25-2144,CIAT-BH-16-1763,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.86,11.93,88.07,7.21,29.96,67.08
+2,467.0,Breeding,F25-2145,CIAT-BH-16-B-2165,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.76,10.83,89.17,6.6,31.49,71.71
+2,468.0,Breeding,F25-2145,CIAT-BH-16-B-2165,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.9,10.73,89.27,6.54,31.21,70.82
+2,469.0,Breeding,F25-2146,CIAT-BH-16-B-2167,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.03,11.39,88.61,6.32,34.95,72.18
+2,470.0,Breeding,F25-2146,CIAT-BH-16-B-2167,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.16,11.63,88.37,6.36,34.9,72.71
+2,471.0,Breeding,F25-2147,CIAT-CIAT-16886,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.04,12.22,87.78,7.96,35.21,71.05
+2,472.0,Breeding,F25-2147,CIAT-CIAT-16886,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.06,10.9,89.1,7.94,34.7,70.58
+2,473.0,Breeding,F25-2148,CIAT-CIAT-16891,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.3,13.81,86.19,6.72,31.55,67.95
+2,474.0,Breeding,F25-2148,CIAT-CIAT-16891,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.5,11.88,88.12,6.67,31.56,67.86
+2,475.0,Breeding,F25-2149,CIAT-CIAT-26146,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.72,13.13,86.87,6.5,34.97,72.79
+2,476.0,Breeding,F25-2149,CIAT-CIAT-26146,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.83,11.22,88.78,6.55,34.68,72.29
+2,477.0,Breeding,F25-2150,CIAT-CIAT-26149,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.34,14.0,86.0,6.83,29.51,67.58
+2,478.0,Breeding,F25-2150,CIAT-CIAT-26149,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.53,15.43,84.57,6.91,29.37,67.46
+2,479.0,Breeding,F25-2151,CIAT-CIAT-26160,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.02,15.04,84.96,6.93,32.75,68.31
+2,480.0,Breeding,F25-2151,CIAT-CIAT-26160,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.18,13.23,86.77,6.77,33.14,68.54
+2,481.0,Breeding,F25-2152,CIAT-CIAT-26415,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.72,13.08,86.92,6.67,31.74,69.59
+2,482.0,Breeding,F25-2152,CIAT-CIAT-26415,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.8,13.6,86.4,6.64,31.43,68.48
+2,483.0,Breeding,F25-2153,CIAT-BH-22-4092,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.23,15.11,84.89,7.37,30.61,66.95
+2,484.0,Breeding,F25-2153,CIAT-BH-22-4092,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.2,13.93,86.07,7.4,30.67,67.86
+2,485.0,Breeding,F25-2154,CIAT-CIAT-26438,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.88,12.52,87.48,7.45,34.55,72.51
+2,486.0,Breeding,F25-2154,CIAT-CIAT-26438,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.13,12.63,87.37,7.31,34.84,72.6
+2,487.0,Breeding,F25-2155,CIAT-CIAT-26570,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.78,13.87,86.13,7.81,30.1,66.45
+2,488.0,Breeding,F25-2155,CIAT-CIAT-26570,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.88,13.65,86.35,7.79,29.85,66.39
+2,489.0,Breeding,F25-2156,CIAT-BH-22-3115,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.49,11.21,88.79,5.66,33.79,71.98
+2,490.0,Breeding,F25-2156,CIAT-BH-22-3115,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.75,11.29,88.71,5.64,32.96,69.99
+2,491.0,Breeding,F25-2157,CIAT-BH-22-1375,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.19,14.11,85.89,7.6,32.3,67.3
+2,492.0,Breeding,F25-2157,CIAT-BH-22-1375,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.35,13.67,86.33,7.62,32.64,68.02
+2,493.0,Breeding,F25-2158,CIAT-CIAT-6133,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.32,11.63,88.37,6.56,33.85,73.07
+2,494.0,Breeding,F25-2158,CIAT-CIAT-6133,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.45,11.4,88.6,6.59,33.5,72.72
+2,495.0,Breeding,F25-2159,CIAT-CIAT-679,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.2,12.15,87.85,6.17,31.26,70.45
+2,496.0,Breeding,F25-2159,CIAT-CIAT-679,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.44,11.87,88.13,6.21,32.18,71.09
+2,497.0,Breeding,F25-2160,CIAT-BH-22-4865,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.33,15.11,84.89,8.77,32.38,67.41
+2,498.0,Breeding,F25-2160,CIAT-BH-22-4865,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.63,15.22,84.78,8.78,32.59,67.25
+2,499.0,Breeding,F25-2161,CIAT-BH-22-1706,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.65,11.49,88.51,5.63,34.57,72.43
+2,500.0,Breeding,F25-2161,CIAT-BH-22-1706,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.76,11.77,88.23,5.69,34.6,72.3
+2,501.0,Breeding,F25-2162,CIAT-BH-22-4169,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.54,12.38,87.62,7.41,35.72,72.24
+2,502.0,Breeding,F25-2162,CIAT-BH-22-4169,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.72,12.16,87.84,7.4,35.76,72.29
+2,503.0,Breeding,F25-2163,CIAT-BH-22-1258,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.65,12.58,87.42,7.0,34.12,70.87
+2,504.0,Breeding,F25-2163,CIAT-BH-22-1258,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.8,12.47,87.53,7.04,34.23,71.36
+2,505.0,Breeding,F25-2164,CIAT-BH-22-1370,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.61,15.51,84.49,8.72,29.82,66.31
+2,506.0,Breeding,F25-2164,CIAT-BH-22-1370,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.83,15.2,84.8,8.61,29.46,66.02
+2,507.0,Breeding,F25-2165,CIAT-BH-22-2225,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.1,10.05,89.95,6.65,36.11,72.77
+2,508.0,Breeding,F25-2165,CIAT-BH-22-2225,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.01,10.34,89.66,6.59,36.4,73.48
+2,509.0,Breeding,F25-2166,CIAT-BH-22-0528,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.22,15.08,84.92,8.73,36.96,73.74
+2,510.0,Breeding,F25-2166,CIAT-BH-22-0528,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,98.2,12.48,87.52,8.8,36.63,73.37
+2,511.0,Breeding,F25-2167,CIAT-BH-22-3507,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.91,12.23,87.77,6.62,35.19,72.1
+2,512.0,Breeding,F25-2167,CIAT-BH-22-3507,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.97,12.13,87.87,6.61,35.38,71.63
+2,513.0,Breeding,F25-2168,CIAT-BH-22-4253,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.95,12.82,87.18,8.5,32.33,68.45
+2,514.0,Breeding,F25-2168,CIAT-BH-22-4253,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.98,13.43,86.57,8.44,31.88,67.58
+2,515.0,Breeding,F25-2169,CIAT-BH-22-2189,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,96.85,15.77,84.23,8.02,33.95,68.82
+2,516.0,Breeding,F25-2169,CIAT-BH-22-2189,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,96.94,15.41,84.59,8.0,32.54,67.58
+2,517.0,Breeding,F25-2170,CIAT-BH-22-0765,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.37,10.96,89.04,9.8,37.41,73.32
+2,518.0,Breeding,F25-2170,CIAT-BH-22-0765,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.6,10.53,89.47,9.78,34.91,71.19
+2,519.0,Breeding,F25-2171,CIAT-BH-22-2531,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,96.47,12.31,87.69,6.21,32.78,70.94
+2,520.0,Breeding,F25-2171,CIAT-BH-22-2531,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,96.43,12.37,87.63,6.23,33.31,71.5
+2,521.0,Breeding,F25-2172,CIAT-BH-22-0132,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,96.53,10.86,89.14,6.61,35.12,71.08
+2,522.0,Breeding,F25-2172,CIAT-BH-22-0132,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,96.52,11.06,88.94,6.6,35.72,72.71
+2,523.0,Breeding,F25-2173,CIAT-BH-22-3521,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.39,11.32,88.68,8.41,27.95,67.54
+2,524.0,Breeding,F25-2173,CIAT-BH-22-3521,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,21,97.42,11.35,88.65,8.42,27.42,68.04
+2,531.0,Breeding,F25-2174,CIAT-BH-22-2074,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,96.77,13.62,86.38,7.59,31.69,68.09
+2,532.0,Breeding,F25-2174,CIAT-BH-22-2074,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,96.91,13.05,86.95,7.71,31.42,67.51
+2,533.0,Breeding,F25-2175,CIAT-BH-22-0456,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,96.61,11.06,88.94,6.04,29.58,68.05
+2,534.0,Breeding,F25-2175,CIAT-BH-22-0456,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,96.81,10.91,89.09,6.0,30.03,67.76
+2,535.0,Breeding,F25-2176,CIAT-BH-22-1832,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.31,10.89,89.11,6.65,32.47,72.18
+2,536.0,Breeding,F25-2176,CIAT-BH-22-1832,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.39,10.74,89.26,6.63,32.72,72.94
+2,537.0,Breeding,F25-2177,CIAT-BH-22-1872,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.54,11.63,88.37,6.98,33.32,70.47
+2,538.0,Breeding,F25-2177,CIAT-BH-22-1872,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.71,11.52,88.48,6.81,34.14,72.15
+2,539.0,Breeding,F25-2178,CIAT-BH-22-0071,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.03,13.36,86.64,7.38,37.43,71.72
+2,540.0,Breeding,F25-2178,CIAT-BH-22-0071,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.15,13.7,86.3,7.45,36.32,70.23
+2,541.0,Breeding,F25-2179,CIAT-BH-22-4454,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.46,10.97,89.03,6.54,32.07,70.11
+2,542.0,Breeding,F25-2179,CIAT-BH-22-4454,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.76,11.35,88.65,6.51,30.18,67.04
+2,543.0,Breeding,F25-2180,CIAT-BH-22-1267,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.65,10.5,89.5,6.06,32.89,70.56
+2,544.0,Breeding,F25-2180,CIAT-BH-22-1267,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.78,10.14,89.86,5.92,32.64,71.02
+2,545.0,Breeding,F25-2181,CIAT-BH-22-1303,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,96.8,11.55,88.45,7.59,34.73,71.31
+2,546.0,Breeding,F25-2181,CIAT-BH-22-1303,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,96.91,11.53,88.47,7.59,35.77,72.93
+2,547.0,Breeding,F25-2182,CIAT-BH-22-2508,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.85,13.02,86.98,8.62,34.02,70.91
+2,548.0,Breeding,F25-2182,CIAT-BH-22-2508,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.93,13.36,86.64,8.74,33.73,69.95
+2,549.0,Breeding,F25-2183,CIAT-BH-22-2046,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,96.93,10.38,89.62,6.82,32.15,70.2
+2,550.0,Breeding,F25-2183,CIAT-BH-22-2046,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,22,97.23,10.32,89.68,6.59,32.22,70.38
+3,51.0,Breeding,F25-2096,CIAT-PM-21-4448,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,23,95.45,11.22,88.78,11.97,30.8,71.78
+3,52.0,Breeding,F25-2096,CIAT-PM-21-4448,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,23,95.53,11.31,88.69,12.08,31.65,72.35
+3,53.0,Breeding,F25-2101,CIAT-CIAT-16071,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,23,92.96,13.6,86.4,16.88,28.86,66.57
+3,54.0,Breeding,F25-2101,CIAT-CIAT-16071,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,23,93.1,13.66,86.34,17.03,28.88,66.46
+3,55.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,23,92.32,14.58,85.42,13.61,24.69,59.75
+3,56.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,23,92.29,14.67,85.33,13.7,23.95,58.17
+3,59.0,Breeding,F25-2170,CIAT-BH-22-0765,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,23,97.37,10.96,89.04,9.8,37.41,73.32
+3,60.0,Breeding,F25-2170,CIAT-BH-22-0765,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,23,97.6,10.53,89.47,9.78,34.91,71.19
+3,61.0,Breeding,F25-2171,CIAT-BH-22-2531,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,23,96.47,12.31,87.69,6.21,32.78,70.94
+3,62.0,Breeding,F25-2171,CIAT-BH-22-2531,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,23,96.43,12.37,87.63,6.23,33.31,71.5
+3,213.0,Breeding,F25-2629,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.49,8.66,91.34,27.22,30.68,53.13
+3,214.0,Breeding,F25-2629,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.55,8.73,91.27,26.88,29.73,52.86
+3,215.0,Breeding,F25-2630,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.89,7.42,92.58,23.45,29.29,49.85
+3,216.0,Breeding,F25-2630,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.88,7.26,92.74,24.08,28.77,49.42
+3,217.0,Breeding,F25-2631,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,92.81,7.62,92.38,24.74,33.6,54.11
+3,218.0,Breeding,F25-2631,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,92.8,7.74,92.26,24.51,32.09,55.91
+3,219.0,Breeding,F25-2632,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.46,7.83,92.17,26.08,29.14,48.79
+3,220.0,Breeding,F25-2632,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.47,7.7,92.3,25.99,27.93,46.62
+3,221.0,Breeding,F25-2633,CIAT-712,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.13,8.4,91.6,26.2,32.16,52.38
+3,222.0,Breeding,F25-2633,CIAT-712,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.08,8.44,91.56,26.1,32.51,52.53
+3,223.0,Breeding,F25-2634,CIAT-712,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,91.31,7.17,92.83,20.03,34.5,51.88
+3,224.0,Breeding,F25-2634,CIAT-712,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,91.22,7.13,92.87,20.09,32.9,48.9
+3,225.0,Breeding,F25-2635,CIAT-9432,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,96.38,8.39,91.61,24.25,34.92,56.83
+3,226.0,Breeding,F25-2635,CIAT-9432,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,96.28,8.49,91.51,24.31,35.65,59.27
+3,227.0,Breeding,F25-2636,CIAT-9432,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,94.35,6.86,93.14,19.64,35.77,49.88
+3,228.0,Breeding,F25-2636,CIAT-9432,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,94.58,7.16,92.84,19.37,34.19,50.49
+3,229.0,Breeding,F25-2637,CIAT-17462,Fabales,Leguminosae,Leucaena ,leucocephala ,Leucaena leucocephala ,Shrub_Trees,26,92.61,6.94,93.06,29.89,38.67,58.56
+3,230.0,Breeding,F25-2637,CIAT-17462,Fabales,Leguminosae,Leucaena ,leucocephala ,Leucaena leucocephala ,Shrub_Trees,26,92.64,6.81,93.19,29.84,39.59,56.47
+3,231.0,Breeding,F25-2638,,Asterales,Compositae,Tithonia ,diversifolia ,Tithonia diversifolia,Shrub_Trees,26,92.22,17.69,82.31,16.51,28.33,42.18
+3,232.0,Breeding,F25-2638,,Asterales,Compositae,Tithonia ,diversifolia ,Tithonia diversifolia,Shrub_Trees,26,92.19,17.72,82.28,16.55,28.39,42.31
+3,233.0,Breeding,F25-2639,,Fabales,Fabaceae,Gliricidia  ,sepium,Gliricidia sepium ,Shrub_Trees,26,88.91,10.82,89.18,22.53,19.1,39.35
+3,234.0,Breeding,F25-2639,,Fabales,Fabaceae,Gliricidia  ,sepium,Gliricidia sepium ,Shrub_Trees,26,88.99,10.8,89.2,22.52,20.03,42.17
+4,,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,30,93.02,14.27,85.73,12.27,25.43,59.24
+4,,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,30,93.16,14.68,85.32,12.18,25.85,60.28
+4,,Breeding,F25-2166,CIAT-BH-22-0528,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,30,98.2,12.48,87.52,8.8,36.63,73.37
+4,,Breeding,F25-2166,CIAT-BH-22-0528,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,30,98.22,15.08,84.92,8.73,36.96,73.74
