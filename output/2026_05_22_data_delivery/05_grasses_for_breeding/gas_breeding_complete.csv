@@ -1,146 +1,630 @@
-subset,no,requisitioner,id_lab,id,tax_name,functional_group,batch,run,replication,gas_ml_g_dm_incubated_24h,part_fact,ch4_ml_g_dm_incubaed_24h,ch4_ml_g_ndf_digested_24h,methane_intensity,tddm
-3,80.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,1.0,210.97,2.76,30.23,243.55,51.93,58.21
-3,81.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,2.0,168.5,2.77,24.93,255.47,53.51,46.59
-3,82.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,3.0,157.84,3.19,23.27,220.6,46.15,50.42
-3,83.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,1.0,152.79,3.28,22.91,218.1,45.68,50.15
-3,84.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,2.0,163.28,3.24,23.64,207.76,44.66,52.92
-3,85.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,3.0,169.63,2.48,26.15,289.85,62.28,41.99
-3,86.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,1.0,170.6,2.61,26.57,277.41,59.57,44.6
-3,87.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,2.0,199.23,2.68,28.0,241.89,52.41,53.42
-3,88.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,3.0,193.66,2.35,26.62,270.55,58.57,45.44
-3,92.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,1.0,126.92,1.57,19.19,444.55,96.53,19.88
-3,93.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,2.0,180.44,2.48,26.19,284.86,58.44,44.81
-3,94.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,3.0,177.36,2.39,25.48,293.32,60.18,42.35
-3,95.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,1.0,188.65,2.72,26.7,253.3,51.97,51.38
-3,96.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,2.0,205.19,2.16,29.35,320.06,66.37,44.22
-3,97.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,3.0,207.22,2.23,29.47,306.98,63.64,46.3
-3,185.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,1.0,201.54,2.78,29.0,242.55,51.69,56.1
-3,186.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,2.0,173.98,1.58,26.27,455.55,95.41,27.53
-3,187.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,3.0,157.04,2.4,23.66,300.27,62.82,37.66
-3,188.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,1.0,165.44,1.83,25.27,398.29,83.34,30.32
-3,189.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,2.0,157.05,2.44,24.67,299.62,64.4,38.31
-3,190.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,3.0,170.99,2.54,26.9,287.9,61.87,43.48
-3,191.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,1.0,168.87,1.5,26.38,482.91,103.8,25.42
-3,192.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,2.0,187.34,1.99,26.09,323.79,70.07,37.24
-3,193.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,3.0,192.75,2.56,26.14,244.71,52.96,49.36
-3,200.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,1.0,167.31,1.39,23.79,498.07,102.16,23.29
-3,201.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,2.0,190.8,2.32,27.66,301.61,62.51,44.25
-3,202.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,3.0,186.73,1.4,26.5,488.01,101.17,26.19
-3,290.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,1.0,209.84,2.88,29.71,231.0,49.21,60.37
-3,291.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,2.0,178.96,2.1,26.32,334.17,69.95,37.62
-3,292.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,3.0,189.54,2.78,27.83,252.26,52.84,52.67
-3,293.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,1.0,183.08,2.66,26.7,261.79,54.78,48.74
-3,294.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,2.0,171.81,1.91,25.93,368.3,79.1,32.78
-3,295.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,3.0,170.87,1.12,26.15,634.3,136.34,19.18
-3,296.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,1.0,159.05,3.04,24.99,240.1,51.61,48.41
-3,297.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,2.0,186.29,1.24,25.1,501.73,108.69,23.1
-3,298.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,3.0,188.42,2.86,25.28,216.72,46.94,53.87
-3,302.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,48.0,3.0,1.0,112.88,1.09,16.37,613.27,133.13,12.3
-3,304.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,48.0,3.0,3.0,170.21,2.92,23.65,231.75,47.53,49.76
-3,984.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,199.79,2.93,29.71,245.65,50.81,58.47
-3,985.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,182.27,3.42,28.29,216.92,45.4,62.31
-3,986.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,182.27,2.74,28.61,273.86,57.32,49.92
-3,987.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,186.46,2.77,28.38,262.9,55.02,51.57
-3,988.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,267.48,2.03,43.72,377.93,80.49,54.32
-3,989.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,200.39,2.58,32.41,294.1,62.64,51.74
-3,990.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,206.78,2.55,33.25,296.49,63.15,52.65
-3,991.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,175.82,1.63,27.74,450.31,97.04,28.58
-3,992.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,169.36,2.62,26.66,279.01,60.13,44.34
-3,994.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,202.36,2.93,31.76,250.49,53.59,59.27
-3,995.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,208.78,2.86,32.6,255.35,54.63,59.67
-3,998.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,179.84,2.76,27.79,266.43,55.98,49.63
-3,999.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,176.69,2.88,27.0,252.33,53.02,50.91
-3,1000.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,194.02,2.27,30.15,312.75,68.5,44.02
-3,1001.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,199.5,2.63,31.41,273.62,59.93,52.41
-3,1002.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,207.16,2.08,32.88,347.6,76.13,43.19
-3,1003.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,175.48,3.04,27.53,249.09,51.68,53.28
-3,1004.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,172.37,2.25,27.21,338.79,70.28,38.72
-3,1005.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,172.37,2.57,27.75,302.57,62.77,44.22
-3,1006.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,186.38,2.76,30.41,278.9,59.01,51.53
-3,1007.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,186.38,2.86,30.92,274.5,58.08,53.24
-3,1008.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,1.0,183.21,2.56,31.03,312.85,66.19,46.87
-3,1009.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,2.0,129.74,3.23,19.07,210.98,45.55,41.85
-3,1010.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,3.0,132.98,2.06,18.98,320.52,69.21,27.43
-3,1011.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,1.0,127.58,2.88,18.3,230.93,49.86,36.69
-3,1012.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,2.0,99.9,4.69,13.51,132.99,28.83,46.87
-3,1013.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,3.0,99.9,4.7,13.73,134.78,29.22,46.98
-3,1017.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,1.0,2.0,199.15,2.53,27.68,244.72,55.01,50.32
-3,1018.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,1.0,3.0,184.54,3.71,25.75,167.23,37.59,68.5
-3,1092.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,178.25,3.48,83.8,654.42,135.28,61.94
-3,1093.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,183.68,2.91,103.45,923.89,193.44,53.48
-3,1094.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,181.59,2.9,101.5,920.21,192.67,52.68
-3,1095.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,176.35,3.23,96.13,804.94,168.54,57.04
-3,1096.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,199.5,2.89,127.64,1038.4,221.03,57.75
-3,1097.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,203.76,2.72,132.56,1123.18,239.07,55.45
-3,1098.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,198.86,2.83,126.92,1059.87,225.6,56.26
-3,1099.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,171.74,2.95,87.74,804.57,173.31,50.63
-3,1100.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,169.59,2.72,85.12,857.06,184.62,46.1
-3,1101.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,166.36,2.91,82.63,793.08,170.84,48.37
-3,1102.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,202.66,3.08,127.51,953.7,204.03,62.5
-3,1103.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,204.8,2.97,131.43,1011.35,216.37,60.74
-3,1104.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,199.45,2.81,123.46,1031.44,220.67,55.95
-3,1105.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,179.08,3.25,96.06,784.87,164.92,58.25
-3,1106.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,179.08,2.79,97.41,929.33,195.28,49.89
-3,1107.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,174.88,3.13,93.42,813.48,170.93,54.66
-3,1108.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,193.35,2.91,112.69,913.65,200.22,56.28
-3,1109.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,194.44,2.89,112.49,914.2,200.34,56.15
-3,1110.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,186.77,2.91,102.93,862.74,189.07,54.44
-3,1111.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,168.44,2.81,86.27,878.62,182.2,47.35
-3,1112.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,166.37,2.95,85.02,835.86,173.33,49.05
-3,1113.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,163.26,3.32,81.23,722.51,149.83,54.21
-3,1114.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,184.56,2.97,110.94,957.86,202.67,54.74
-3,1115.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,181.39,2.69,106.55,1032.46,218.46,48.77
-3,1116.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,1.0,173.98,3.11,98.83,864.58,182.93,54.02
-3,1117.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,2.0,126.7,3.26,43.69,490.66,105.86,41.27
-3,1118.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,3.0,121.31,2.74,39.94,557.54,120.29,33.2
-3,1119.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,1.0,123.47,3.6,39.96,416.76,89.91,44.44
-3,1120.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,2.0,103.52,4.97,28.85,258.62,56.09,51.44
-3,1121.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,3.0,100.27,5.1,27.0,243.44,52.8,51.13
-3,1125.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,2.0,2.0,184.85,3.49,87.09,601.2,135.15,64.44
-3,1126.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,2.0,3.0,184.85,3.67,87.74,574.67,129.19,67.92
-3,1200.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,198.4,3.1,109.0,856.98,177.3,61.48
-3,1201.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,180.9,2.77,104.06,993.11,207.93,50.04
-3,1202.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,180.9,2.64,103.33,1033.73,216.44,47.74
-3,1203.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,181.95,2.93,104.1,932.69,195.28,53.31
-3,1204.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,201.96,2.92,133.73,1065.62,226.78,58.97
-3,1205.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,203.02,2.8,137.1,1134.66,241.47,56.78
-3,1206.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,244.52,2.15,207.02,1854.44,394.64,52.46
-3,1207.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,173.19,3.03,90.97,806.0,173.62,52.39
-3,1208.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,172.11,2.89,90.22,842.36,181.45,49.72
-3,1209.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,165.65,3.05,81.62,749.37,161.42,50.56
-3,1210.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,215.69,2.84,148.85,1136.96,243.05,61.24
-3,1211.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,207.14,2.88,135.13,1059.18,226.42,59.68
-3,1212.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,210.35,2.63,141.12,1193.74,255.18,55.3
-3,1213.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,178.5,3.33,97.27,777.78,163.53,59.48
-3,1214.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,184.81,2.98,108.18,933.3,196.23,55.13
-3,1215.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,182.71,3.16,102.91,847.38,178.16,57.76
-3,1216.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,197.99,2.71,120.79,1027.4,225.02,53.68
-3,1217.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,193.61,2.66,113.85,1010.87,221.4,51.42
-3,1218.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,193.61,2.85,115.32,953.71,208.88,55.21
-3,1219.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,178.2,2.64,101.12,1037.63,215.26,46.97
-3,1220.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,168.87,2.27,87.25,1097.98,227.78,38.3
-3,1221.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,169.9,2.69,89.31,941.38,195.29,45.73
-3,1222.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,186.06,2.08,114.06,1392.4,294.73,38.7
-3,1223.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,187.12,2.88,114.9,1008.3,213.43,53.83
-3,1224.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,1.0,183.94,2.54,111.28,1124.16,237.95,46.76
-3,1225.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,2.0,135.73,3.0,50.54,576.02,124.3,40.66
-3,1226.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,3.0,133.57,2.65,48.36,632.48,136.48,35.43
-3,1227.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,1.0,129.26,3.31,44.59,483.58,104.35,42.73
-3,1228.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,2.0,102.73,5.25,28.35,242.4,52.54,53.97
-3,1229.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,3.0,96.22,5.03,24.86,236.79,51.32,48.44
-3,1233.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,56.0,3.0,2.0,196.44,2.52,97.48,877.87,197.31,49.41
-3,1234.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,56.0,3.0,3.0,199.81,3.52,103.04,652.43,146.64,70.26
-4,1066.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,1.0,158.01,2.95,22.99,1.0,49.27,46.66
-4,1067.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,2.0,188.1,2.81,27.47,0.61,51.99,52.84
-4,1068.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,3.0,192.35,2.81,28.19,0.57,52.23,53.98
-4,1069.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,1.0,173.24,2.49,25.67,0.56,59.54,43.12
-4,1070.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,2.0,175.38,2.03,26.09,1.03,73.23,35.63
-4,1071.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,3.0,175.31,2.53,26.24,0.53,59.06,44.43
-4,1141.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,65.0,2.0,1.0,194.4,2.79,28.12,0.56,51.83,54.26
-4,1142.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,65.0,2.0,2.0,200.81,2.53,28.62,0.76,56.41,50.72
-4,1143.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,65.0,2.0,1.0,184.16,2.35,27.1,0.58,62.73,43.2
-4,1144.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,65.0,2.0,2.0,177.11,2.59,25.34,0.47,55.3,45.82
-4,1213.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,71.0,3.0,1.0,205.57,2.63,30.65,0.62,56.72,54.04
-4,1214.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,71.0,3.0,2.0,199.04,3.49,29.25,0.28,42.06,69.56
-4,1215.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,71.0,3.0,1.0,183.54,2.8,27.88,0.41,54.33,51.32
-4,1216.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,71.0,3.0,2.0,179.44,2.16,26.53,0.77,68.32,38.84
+subset,no,requisitioner,id_lab,id,tax_name,functional_group,batch,run,replication,gas_ml_g_dm_incubated_24h,part_fact,ch4_ml_g_dm_incubated_24h,ch4_ml_g_ndf_digested_24h,methane_intensity,tddm
+1,226,Breeding,F24-3582,CIAT-BR-02-1752,Brachiaria interespecifico,Grass,10.0,1.0,1.0,153.24,4.36,21.99,98.77,32.9,66.86
+1,227,Breeding,F24-3582,CIAT-BR-02-1752,Brachiaria interespecifico,Grass,10.0,1.0,2.0,146.73,4.45,21.02,101.24,32.16,65.35
+1,228,Breeding,F24-3582,CIAT-BR-02-1752,Brachiaria interespecifico,Grass,10.0,1.0,3.0,150.38,4.38,21.55,101.23,32.71,65.88
+1,229,Breeding,F24-3583,CIAT-BR-02-1794,Brachiaria interespecifico,Grass,10.0,1.0,1.0,153.39,4.11,21.92,116.63,34.78,63.04
+1,230,Breeding,F24-3583,CIAT-BR-02-1794,Brachiaria interespecifico,Grass,10.0,1.0,2.0,150.63,4.33,21.48,102.24,32.92,65.25
+1,231,Breeding,F24-3583,CIAT-BR-02-1794,Brachiaria interespecifico,Grass,10.0,1.0,3.0,151.66,4.17,21.47,113.34,33.98,63.18
+1,232,Breeding,F24-3584,CIAT-BR-06-0423,Brachiaria interespecifico,Grass,10.0,1.0,1.0,145.64,4.6,21.2,87.03,31.64,66.99
+1,233,Breeding,F24-3584,CIAT-BR-06-0423,Brachiaria interespecifico,Grass,10.0,1.0,2.0,153.77,4.18,22.64,104.99,35.27,64.2
+1,234,Breeding,F24-3584,CIAT-BR-06-0423,Brachiaria interespecifico,Grass,10.0,1.0,3.0,149.23,3.93,21.89,137.29,37.37,58.58
+1,235,Breeding,F24-3585,CIAT-BR-09-1232,Brachiaria interespecifico,Grass,10.0,1.0,1.0,160.33,3.98,22.41,115.07,35.11,63.81
+1,237,Breeding,F24-3585,CIAT-BR-09-1232,Brachiaria interespecifico,Grass,10.0,1.0,3.0,157.6,4.27,21.97,95.68,32.65,67.31
+1,238,Breeding,F24-3586,CIAT-BR-12-4951,Brachiaria interespecifico,Grass,10.0,1.0,1.0,154.52,4.36,22.81,93.84,33.82,67.45
+1,239,Breeding,F24-3586,CIAT-BR-12-4951,Brachiaria interespecifico,Grass,10.0,1.0,2.0,157.41,4.22,22.93,98.48,34.52,66.42
+1,240,Breeding,F24-3586,CIAT-BR-12-4951,Brachiaria interespecifico,Grass,10.0,1.0,3.0,152.7,4.23,22.39,104.02,34.63,64.66
+1,241,Breeding,F24-3587,CIAT-BR-15-0722,Brachiaria interespecifico,Grass,10.0,1.0,1.0,147.02,4.16,20.92,98.16,34.24,61.1
+1,242,Breeding,F24-3587,CIAT-BR-15-0722,Brachiaria interespecifico,Grass,10.0,1.0,2.0,147.08,4.21,21.0,94.88,33.91,61.92
+1,243,Breeding,F24-3587,CIAT-BR-15-0722,Brachiaria interespecifico,Grass,10.0,1.0,3.0,130.44,4.77,18.87,84.25,30.35,62.19
+1,244,Breeding,F24-3588,CIAT-BR-15-6487,Brachiaria interespecifico,Grass,10.0,1.0,1.0,148.2,4.07,20.99,104.96,34.82,60.27
+1,245,Breeding,F24-3588,CIAT-BR-15-6487,Brachiaria interespecifico,Grass,10.0,1.0,2.0,143.64,4.37,20.48,90.93,32.61,62.79
+1,246,Breeding,F24-3588,CIAT-BR-15-6487,Brachiaria interespecifico,Grass,10.0,1.0,3.0,150.19,3.84,21.2,122.28,36.79,57.61
+1,247,Breeding,F24-3589,CIAT-BR-19-0029,Brachiaria interespecifico,Grass,10.0,1.0,1.0,156.91,4.06,22.82,103.43,35.85,63.65
+1,248,Breeding,F24-3589,CIAT-BR-19-0029,Brachiaria interespecifico,Grass,10.0,1.0,2.0,155.01,4.0,22.39,109.68,36.11,62.0
+1,249,Breeding,F24-3589,CIAT-BR-19-0029,Brachiaria interespecifico,Grass,10.0,1.0,3.0,159.58,3.94,23.08,108.05,36.66,62.95
+1,250,Breeding,F24-3590,CIAT-BR-19-0423,Brachiaria interespecifico,Grass,10.0,1.0,1.0,158.97,4.06,22.07,93.03,34.22,64.5
+1,251,Breeding,F24-3590,CIAT-BR-19-0423,Brachiaria interespecifico,Grass,10.0,1.0,2.0,155.32,4.41,21.79,78.73,31.83,68.45
+1,252,Breeding,F24-3590,CIAT-BR-19-0423,Brachiaria interespecifico,Grass,10.0,1.0,3.0,158.01,4.41,22.34,77.33,32.07,69.67
+1,253,Breeding,F24-3591,CIAT-CIAT-6962,Megathyrsus maximus,Grass,10.0,1.0,1.0,138.9,3.99,21.43,92.92,38.66,55.44
+1,254,Breeding,F24-3591,CIAT-CIAT-6962,Megathyrsus maximus,Grass,10.0,1.0,2.0,156.43,3.47,24.4,111.39,44.95,54.28
+1,255,Breeding,F24-3591,CIAT-CIAT-6962,Megathyrsus maximus,Grass,10.0,1.0,3.0,139.88,3.93,21.61,95.41,39.27,55.03
+1,256,Breeding,F24-3592,CIAT-Mulato-II,Brachiaria interespecifico,Grass,10.0,1.0,1.0,152.2,4.3,21.56,86.86,32.97,65.4
+1,257,Breeding,F24-3592,CIAT-Mulato-II,Brachiaria interespecifico,Grass,10.0,1.0,2.0,147.62,4.38,20.9,86.63,32.3,64.7
+1,258,Breeding,F24-3592,CIAT-Mulato-II,Brachiaria interespecifico,Grass,10.0,1.0,3.0,143.91,5.04,20.44,63.99,28.19,72.53
+1,259,Breeding,F24-3593,CIAT-PM-21-0215,Megathyrsus maximus,Grass,10.0,1.0,1.0,143.92,3.96,22.99,103.49,40.35,56.98
+1,260,Breeding,F24-3593,CIAT-PM-21-0215,Megathyrsus maximus,Grass,10.0,1.0,2.0,144.9,3.63,23.21,129.74,44.08,52.65
+1,261,Breeding,F24-3593,CIAT-PM-21-0215,Megathyrsus maximus,Grass,10.0,1.0,3.0,144.01,3.96,22.71,102.18,39.86,56.99
+1,262,Breeding,F24-3594,CIAT-PM-21-0631,Megathyrsus maximus,Grass,10.0,1.0,1.0,143.79,3.61,22.22,150.57,42.82,51.9
+1,263,Breeding,F24-3594,CIAT-PM-21-0631,Megathyrsus maximus,Grass,10.0,1.0,2.0,149.25,3.72,23.08,125.13,41.52,55.58
+1,264,Breeding,F24-3594,CIAT-PM-21-0631,Megathyrsus maximus,Grass,10.0,1.0,3.0,157.41,3.66,23.97,116.66,41.55,57.69
+1,265,Breeding,F24-3595,CIAT-PM-21-2195,Megathyrsus maximus,Grass,10.0,1.0,1.0,142.82,3.44,22.05,128.18,44.86,49.15
+1,266,Breeding,F24-3595,CIAT-PM-21-2195,Megathyrsus maximus,Grass,10.0,1.0,2.0,140.99,3.81,21.53,98.83,40.07,53.73
+1,267,Breeding,F24-3595,CIAT-PM-21-2195,Megathyrsus maximus,Grass,10.0,1.0,3.0,142.82,3.47,21.6,122.75,43.59,49.54
+1,268,Breeding,F24-3596,CIAT-PM-21-3522,Megathyrsus maximus,Grass,10.0,1.0,1.0,150.81,3.9,23.33,99.15,39.66,58.81
+1,269,Breeding,F24-3596,CIAT-PM-21-3522,Megathyrsus maximus,Grass,10.0,1.0,2.0,146.08,4.0,22.21,96.09,38.03,58.4
+1,270,Breeding,F24-3596,CIAT-PM-21-3522,Megathyrsus maximus,Grass,10.0,1.0,3.0,151.67,3.65,23.31,116.46,42.16,55.3
+1,271,Breeding,F24-3582,CIAT-BR-02-1752,Brachiaria interespecifico,Grass,11.0,2.0,1.0,160.65,4.38,22.34,86.49,31.73,70.42
+1,272,Breeding,F24-3582,CIAT-BR-02-1752,Brachiaria interespecifico,Grass,11.0,2.0,2.0,162.46,4.18,22.76,97.51,33.51,67.93
+1,273,Breeding,F24-3582,CIAT-BR-02-1752,Brachiaria interespecifico,Grass,11.0,2.0,3.0,164.24,4.11,22.77,99.71,33.77,67.42
+1,274,Breeding,F24-3583,CIAT-BR-02-1794,Brachiaria interespecifico,Grass,11.0,2.0,1.0,163.42,3.99,22.55,107.82,34.61,65.15
+1,275,Breeding,F24-3583,CIAT-BR-02-1794,Brachiaria interespecifico,Grass,11.0,2.0,2.0,162.68,3.87,22.29,119.49,35.44,62.89
+1,276,Breeding,F24-3583,CIAT-BR-02-1794,Brachiaria interespecifico,Grass,11.0,2.0,3.0,163.46,3.83,22.47,122.71,35.92,62.55
+1,277,Breeding,F24-3584,CIAT-BR-06-0423,Brachiaria interespecifico,Grass,11.0,2.0,1.0,136.55,4.6,19.4,95.88,30.86,62.87
+1,278,Breeding,F24-3584,CIAT-BR-06-0423,Brachiaria interespecifico,Grass,11.0,2.0,2.0,161.22,3.87,23.41,118.1,37.48,62.45
+1,280,Breeding,F24-3585,CIAT-BR-09-1232,Brachiaria interespecifico,Grass,11.0,2.0,1.0,172.26,3.97,23.54,97.98,34.43,68.37
+1,281,Breeding,F24-3585,CIAT-BR-09-1232,Brachiaria interespecifico,Grass,11.0,2.0,2.0,169.53,4.01,22.9,96.98,33.7,67.96
+1,282,Breeding,F24-3585,CIAT-BR-09-1232,Brachiaria interespecifico,Grass,11.0,2.0,3.0,165.96,3.83,22.41,116.54,35.25,63.57
+1,283,Breeding,F24-3586,CIAT-BR-12-4951,Brachiaria interespecifico,Grass,11.0,2.0,1.0,148.28,4.34,21.44,101.08,33.32,64.34
+1,284,Breeding,F24-3586,CIAT-BR-12-4951,Brachiaria interespecifico,Grass,11.0,2.0,2.0,163.96,4.0,23.28,103.61,35.48,65.6
+1,285,Breeding,F24-3586,CIAT-BR-12-4951,Brachiaria interespecifico,Grass,11.0,2.0,3.0,150.99,4.33,21.52,96.66,32.91,65.4
+1,286,Breeding,F24-3587,CIAT-BR-15-0722,Brachiaria interespecifico,Grass,11.0,2.0,1.0,157.44,3.78,21.92,111.39,36.86,59.47
+1,287,Breeding,F24-3587,CIAT-BR-15-0722,Brachiaria interespecifico,Grass,11.0,2.0,2.0,151.83,3.76,21.3,122.7,37.27,57.15
+1,288,Breeding,F24-3587,CIAT-BR-15-0722,Brachiaria interespecifico,Grass,11.0,2.0,3.0,154.59,3.87,21.62,107.79,36.12,59.84
+1,289,Breeding,F24-3588,CIAT-BR-15-6487,Brachiaria interespecifico,Grass,11.0,2.0,1.0,154.79,3.91,20.93,103.71,34.63,60.46
+1,290,Breeding,F24-3588,CIAT-BR-15-6487,Brachiaria interespecifico,Grass,11.0,2.0,2.0,151.04,3.97,21.17,107.19,35.27,60.03
+1,291,Breeding,F24-3588,CIAT-BR-15-6487,Brachiaria interespecifico,Grass,11.0,2.0,3.0,159.54,4.07,21.99,89.37,33.89,64.88
+1,292,Breeding,F24-3589,CIAT-BR-19-0029,Brachiaria interespecifico,Grass,11.0,2.0,1.0,164.23,3.75,22.95,114.91,37.27,61.56
+1,294,Breeding,F24-3589,CIAT-BR-19-0029,Brachiaria interespecifico,Grass,11.0,2.0,3.0,166.17,3.92,23.07,98.15,35.44,65.1
+1,295,Breeding,F24-3590,CIAT-BR-19-0423,Brachiaria interespecifico,Grass,11.0,2.0,1.0,180.24,3.6,25.01,103.82,38.56,64.86
+1,296,Breeding,F24-3590,CIAT-BR-19-0423,Brachiaria interespecifico,Grass,11.0,2.0,2.0,168.36,3.81,22.92,97.76,35.69,64.22
+1,297,Breeding,F24-3590,CIAT-BR-19-0423,Brachiaria interespecifico,Grass,11.0,2.0,3.0,156.88,3.55,21.21,141.94,38.07,55.72
+1,298,Breeding,F24-3591,CIAT-CIAT-6962,Megathyrsus maximus,Grass,11.0,2.0,1.0,143.54,3.82,20.18,89.69,36.78,54.87
+1,299,Breeding,F24-3591,CIAT-CIAT-6962,Megathyrsus maximus,Grass,11.0,2.0,2.0,143.6,3.71,21.84,104.32,40.97,53.31
+1,300,Breeding,F24-3591,CIAT-CIAT-6962,Megathyrsus maximus,Grass,11.0,2.0,3.0,146.28,3.62,22.37,108.43,42.2,53.01
+1,301,Breeding,F24-3592,CIAT-Mulato-II,Brachiaria interespecifico,Grass,11.0,2.0,1.0,163.19,4.07,22.91,88.42,34.46,66.49
+1,302,Breeding,F24-3592,CIAT-Mulato-II,Brachiaria interespecifico,Grass,11.0,2.0,2.0,157.77,4.0,21.96,97.19,34.76,63.17
+1,303,Breeding,F24-3592,CIAT-Mulato-II,Brachiaria interespecifico,Grass,11.0,2.0,3.0,158.65,3.97,21.95,98.13,34.87,62.95
+1,304,Breeding,F24-3593,CIAT-PM-21-0215,Megathyrsus maximus,Grass,11.0,2.0,1.0,141.41,3.7,20.51,117.23,39.25,52.26
+1,305,Breeding,F24-3593,CIAT-PM-21-0215,Megathyrsus maximus,Grass,11.0,2.0,2.0,151.49,3.64,23.45,114.66,42.47,55.21
+1,306,Breeding,F24-3593,CIAT-PM-21-0215,Megathyrsus maximus,Grass,11.0,2.0,3.0,144.03,3.63,22.09,125.59,42.19,52.35
+1,307,Breeding,F24-3594,CIAT-PM-21-0631,Megathyrsus maximus,Grass,11.0,2.0,1.0,160.29,3.4,24.22,139.58,44.44,54.49
+1,308,Breeding,F24-3594,CIAT-PM-21-0631,Megathyrsus maximus,Grass,11.0,2.0,2.0,159.31,3.67,24.14,113.48,41.32,58.41
+1,309,Breeding,F24-3594,CIAT-PM-21-0631,Megathyrsus maximus,Grass,11.0,2.0,3.0,168.06,3.55,25.19,111.61,42.19,59.71
+1,310,Breeding,F24-3595,CIAT-PM-21-2195,Megathyrsus maximus,Grass,11.0,2.0,1.0,154.77,3.64,22.85,93.46,40.52,56.4
+1,311,Breeding,F24-3595,CIAT-PM-21-2195,Megathyrsus maximus,Grass,11.0,2.0,2.0,154.77,3.47,23.18,106.28,43.11,53.76
+1,312,Breeding,F24-3595,CIAT-PM-21-2195,Megathyrsus maximus,Grass,11.0,2.0,3.0,151.18,3.42,22.74,115.28,44.0,51.67
+1,313,Breeding,F24-3596,CIAT-PM-21-3522,Megathyrsus maximus,Grass,11.0,2.0,1.0,156.09,3.5,23.23,119.77,42.48,54.68
+1,314,Breeding,F24-3596,CIAT-PM-21-3522,Megathyrsus maximus,Grass,11.0,2.0,2.0,157.25,3.56,23.65,114.25,42.25,55.99
+1,315,Breeding,F24-3596,CIAT-PM-21-3522,Megathyrsus maximus,Grass,11.0,2.0,3.0,155.42,3.71,23.3,104.38,40.44,57.6
+1,316,Breeding,F24-3582,CIAT-BR-02-1752,Brachiaria interespecifico,Grass,12.0,3.0,1.0,155.52,4.44,24.08,98.15,34.84,69.12
+1,317,Breeding,F24-3582,CIAT-BR-02-1752,Brachiaria interespecifico,Grass,12.0,3.0,2.0,157.46,4.26,24.67,109.34,36.73,67.15
+1,318,Breeding,F24-3582,CIAT-BR-02-1752,Brachiaria interespecifico,Grass,12.0,3.0,3.0,153.84,4.31,23.94,110.05,36.08,66.34
+1,319,Breeding,F24-3583,CIAT-BR-02-1794,Brachiaria interespecifico,Grass,12.0,3.0,1.0,159.52,4.04,24.66,122.4,38.3,64.39
+1,320,Breeding,F24-3583,CIAT-BR-02-1794,Brachiaria interespecifico,Grass,12.0,3.0,2.0,155.71,4.15,24.23,118.84,37.5,64.63
+1,321,Breeding,F24-3583,CIAT-BR-02-1794,Brachiaria interespecifico,Grass,12.0,3.0,3.0,159.32,4.06,24.87,121.79,38.46,64.66
+1,322,Breeding,F24-3584,CIAT-BR-06-0423,Brachiaria interespecifico,Grass,12.0,3.0,1.0,156.29,4.23,25.45,108.15,38.47,66.17
+1,323,Breeding,F24-3584,CIAT-BR-06-0423,Brachiaria interespecifico,Grass,12.0,3.0,2.0,158.9,4.11,26.09,114.93,39.93,65.33
+1,324,Breeding,F24-3584,CIAT-BR-06-0423,Brachiaria interespecifico,Grass,12.0,3.0,3.0,158.08,4.28,24.89,99.79,36.84,67.58
+1,325,Breeding,F24-3585,CIAT-BR-09-1232,Brachiaria interespecifico,Grass,12.0,3.0,1.0,168.27,3.93,26.29,120.53,39.74,66.15
+1,326,Breeding,F24-3585,CIAT-BR-09-1232,Brachiaria interespecifico,Grass,12.0,3.0,2.0,174.54,3.88,26.54,113.67,39.21,67.69
+1,327,Breeding,F24-3585,CIAT-BR-09-1232,Brachiaria interespecifico,Grass,12.0,3.0,3.0,168.17,4.06,26.13,109.12,38.26,68.29
+1,328,Breeding,F24-3586,CIAT-BR-12-4951,Brachiaria interespecifico,Grass,12.0,3.0,1.0,162.47,4.08,26.08,112.34,39.31,66.35
+1,329,Breeding,F24-3586,CIAT-BR-12-4951,Brachiaria interespecifico,Grass,12.0,3.0,2.0,161.62,4.15,26.25,109.84,39.15,67.03
+1,330,Breeding,F24-3586,CIAT-BR-12-4951,Brachiaria interespecifico,Grass,12.0,3.0,3.0,159.83,4.14,25.57,111.15,38.66,66.14
+1,331,Breeding,F24-3587,CIAT-BR-15-0722,Brachiaria interespecifico,Grass,12.0,3.0,1.0,150.47,4.14,23.86,106.27,38.34,62.24
+1,332,Breeding,F24-3587,CIAT-BR-15-0722,Brachiaria interespecifico,Grass,12.0,3.0,2.0,155.98,4.12,24.69,101.08,38.45,64.21
+1,333,Breeding,F24-3587,CIAT-BR-15-0722,Brachiaria interespecifico,Grass,12.0,3.0,3.0,148.58,4.03,23.85,118.5,39.81,59.92
+1,334,Breeding,F24-3588,CIAT-BR-15-6487,Brachiaria interespecifico,Grass,12.0,3.0,1.0,160.87,3.8,25.16,120.32,41.12,61.19
+1,335,Breeding,F24-3588,CIAT-BR-15-6487,Brachiaria interespecifico,Grass,12.0,3.0,2.0,154.27,4.02,24.37,112.23,39.31,61.99
+1,337,Breeding,F24-3589,CIAT-BR-19-0029,Brachiaria interespecifico,Grass,12.0,3.0,1.0,161.1,3.83,25.12,124.63,40.68,61.74
+1,338,Breeding,F24-3589,CIAT-BR-19-0029,Brachiaria interespecifico,Grass,12.0,3.0,2.0,152.72,4.0,24.45,125.73,40.06,61.04
+1,339,Breeding,F24-3589,CIAT-BR-19-0029,Brachiaria interespecifico,Grass,12.0,3.0,3.0,158.28,3.66,25.37,155.23,43.79,57.93
+1,340,Breeding,F24-3590,CIAT-BR-19-0423,Brachiaria interespecifico,Grass,12.0,3.0,1.0,161.27,3.88,25.22,115.68,40.3,62.57
+1,341,Breeding,F24-3590,CIAT-BR-19-0423,Brachiaria interespecifico,Grass,12.0,3.0,2.0,166.8,3.58,25.92,136.43,43.36,59.77
+1,342,Breeding,F24-3590,CIAT-BR-19-0423,Brachiaria interespecifico,Grass,12.0,3.0,3.0,160.31,3.84,24.83,119.37,40.32,61.58
+1,343,Breeding,F24-3591,CIAT-CIAT-6962,Megathyrsus maximus,Grass,12.0,3.0,1.0,144.99,5.22,24.8,57.24,32.76,75.7
+1,344,Breeding,F24-3591,CIAT-CIAT-6962,Megathyrsus maximus,Grass,12.0,3.0,2.0,137.51,3.84,24.04,117.96,45.57,52.75
+1,345,Breeding,F24-3591,CIAT-CIAT-6962,Megathyrsus maximus,Grass,12.0,3.0,3.0,143.08,3.79,24.59,112.66,45.37,54.21
+1,346,Breeding,F24-3592,CIAT-Mulato-II,Brachiaria interespecifico,Grass,12.0,3.0,1.0,150.05,4.18,23.62,106.38,37.62,62.78
+1,347,Breeding,F24-3592,CIAT-Mulato-II,Brachiaria interespecifico,Grass,12.0,3.0,2.0,151.73,4.17,24.05,106.27,38.05,63.21
+1,348,Breeding,F24-3592,CIAT-Mulato-II,Brachiaria interespecifico,Grass,12.0,3.0,3.0,148.07,4.5,23.47,90.1,35.22,66.62
+1,349,Breeding,F24-3593,CIAT-PM-21-0215,Megathyrsus maximus,Grass,12.0,3.0,1.0,139.02,4.07,24.0,110.25,42.46,56.53
+1,350,Breeding,F24-3593,CIAT-PM-21-0215,Megathyrsus maximus,Grass,12.0,3.0,2.0,135.31,4.08,23.99,116.96,43.4,55.27
+1,351,Breeding,F24-3593,CIAT-PM-21-0215,Megathyrsus maximus,Grass,12.0,3.0,3.0,134.33,4.06,23.54,119.26,43.19,54.5
+1,352,Breeding,F24-3594,CIAT-PM-21-0631,Megathyrsus maximus,Grass,12.0,3.0,1.0,156.11,3.65,26.8,134.92,47.02,57.0
+1,353,Breeding,F24-3594,CIAT-PM-21-0631,Megathyrsus maximus,Grass,12.0,3.0,2.0,156.24,3.77,26.31,121.17,44.7,58.85
+1,354,Breeding,F24-3594,CIAT-PM-21-0631,Megathyrsus maximus,Grass,12.0,3.0,3.0,155.2,3.9,26.41,113.3,43.69,60.45
+1,355,Breeding,F24-3595,CIAT-PM-21-2195,Megathyrsus maximus,Grass,12.0,3.0,1.0,148.92,3.67,25.27,111.18,46.22,54.68
+1,356,Breeding,F24-3595,CIAT-PM-21-2195,Megathyrsus maximus,Grass,12.0,3.0,2.0,144.35,3.79,24.92,109.46,45.55,54.72
+1,357,Breeding,F24-3595,CIAT-PM-21-2195,Megathyrsus maximus,Grass,12.0,3.0,3.0,150.78,3.49,25.64,123.91,48.71,52.64
+1,358,Breeding,F24-3596,CIAT-PM-21-3522,Megathyrsus maximus,Grass,12.0,3.0,1.0,146.73,5.25,25.59,61.33,33.23,77.0
+1,359,Breeding,F24-3596,CIAT-PM-21-3522,Megathyrsus maximus,Grass,12.0,3.0,2.0,154.96,3.68,26.67,122.81,46.79,57.0
+1,360,Breeding,F24-3596,CIAT-PM-21-3522,Megathyrsus maximus,Grass,12.0,3.0,3.0,151.32,3.71,26.37,126.69,47.01,56.1
+1,361,Breeding,F24-3597,CIAT-PM-21-3534,Megathyrsus maximus,Grass,13.0,1.0,1.0,151.88,4.1,26.09,88.54,41.92,62.23
+1,362,Breeding,F24-3597,CIAT-PM-21-3534,Megathyrsus maximus,Grass,13.0,1.0,2.0,142.88,4.05,25.94,103.59,44.88,57.81
+1,363,Breeding,F24-3597,CIAT-PM-21-3534,Megathyrsus maximus,Grass,13.0,1.0,3.0,144.58,3.9,27.29,115.76,48.44,56.35
+1,364,Breeding,F24-3598,CIAT-PM-21-3537,Megathyrsus maximus,Grass,13.0,1.0,1.0,157.73,3.39,28.96,187.98,54.17,53.47
+1,365,Breeding,F24-3598,CIAT-PM-21-3537,Megathyrsus maximus,Grass,13.0,1.0,2.0,165.76,3.87,30.5,116.81,47.52,64.17
+1,366,Breeding,F24-3598,CIAT-PM-21-3537,Megathyrsus maximus,Grass,13.0,1.0,3.0,165.96,3.99,31.21,110.72,47.11,66.25
+1,367,Breeding,F24-3599,CIAT-PM-21-3545,Megathyrsus maximus,Grass,13.0,1.0,1.0,157.59,3.88,28.62,106.21,46.76,61.2
+1,368,Breeding,F24-3599,CIAT-PM-21-3545,Megathyrsus maximus,Grass,13.0,1.0,2.0,149.36,4.07,27.23,102.53,44.78,60.82
+1,369,Breeding,F24-3599,CIAT-PM-21-3545,Megathyrsus maximus,Grass,13.0,1.0,3.0,154.1,3.98,27.96,103.52,45.64,61.27
+1,370,Breeding,F24-3600,CIAT-PM-21-3670,Megathyrsus maximus,Grass,13.0,1.0,1.0,155.21,3.92,27.78,110.41,45.71,60.77
+1,371,Breeding,F24-3600,CIAT-PM-21-3670,Megathyrsus maximus,Grass,13.0,1.0,2.0,157.14,3.89,27.71,108.69,45.35,61.11
+1,372,Breeding,F24-3600,CIAT-PM-21-3670,Megathyrsus maximus,Grass,13.0,1.0,3.0,151.56,3.91,27.22,115.11,45.94,59.27
+1,373,Breeding,F24-3601,CIAT-PM-21-6628,Megathyrsus maximus,Grass,13.0,1.0,1.0,159.35,3.89,29.11,107.95,46.94,62.0
+1,374,Breeding,F24-3601,CIAT-PM-21-6628,Megathyrsus maximus,Grass,13.0,1.0,2.0,158.51,3.93,29.67,109.02,47.66,62.26
+1,375,Breeding,F24-3601,CIAT-PM-21-6628,Megathyrsus maximus,Grass,13.0,1.0,3.0,160.36,3.8,29.07,112.54,47.75,60.87
+1,376,Breeding,F24-3602,CIAT-BH-08-1149,Brachiaria humidicola,Grass,13.0,1.0,1.0,161.7,3.71,27.7,96.48,46.18,59.98
+1,377,Breeding,F24-3602,CIAT-BH-08-1149,Brachiaria humidicola,Grass,13.0,1.0,2.0,167.34,3.53,28.9,104.13,48.96,59.03
+1,378,Breeding,F24-3602,CIAT-BH-08-1149,Brachiaria humidicola,Grass,13.0,1.0,3.0,166.47,3.55,28.51,102.63,48.28,59.05
+1,379,Breeding,F24-3603,CIAT-BH-16-0550,Brachiaria humidicola,Grass,13.0,1.0,1.0,177.6,3.37,30.44,105.0,50.87,59.83
+1,380,Breeding,F24-3603,CIAT-BH-16-0550,Brachiaria humidicola,Grass,13.0,1.0,2.0,161.83,3.48,27.89,109.58,49.55,56.29
+1,381,Breeding,F24-3603,CIAT-BH-16-0550,Brachiaria humidicola,Grass,13.0,1.0,3.0,175.81,3.3,30.89,113.8,53.27,57.99
+1,382,Breeding,F24-3604,CIAT-BH-16-0562,Brachiaria humidicola,Grass,13.0,1.0,1.0,169.9,3.38,28.73,106.2,50.0,57.46
+1,384,Breeding,F24-3604,CIAT-BH-16-0562,Brachiaria humidicola,Grass,13.0,1.0,3.0,168.15,3.4,28.83,107.58,50.39,57.21
+1,385,Breeding,F24-3605,CIAT-BH-16-3249,Brachiaria humidicola,Grass,13.0,1.0,1.0,174.58,3.58,30.21,94.16,48.38,62.44
+1,386,Breeding,F24-3605,CIAT-BH-16-3249,Brachiaria humidicola,Grass,13.0,1.0,2.0,170.02,3.73,29.46,89.17,46.47,63.39
+1,387,Breeding,F24-3605,CIAT-BH-16-3249,Brachiaria humidicola,Grass,13.0,1.0,3.0,169.99,3.71,29.44,90.12,46.72,63.02
+1,388,Breeding,F24-3606,CIAT-BH-16-B-0733,Brachiaria humidicola,Grass,13.0,1.0,1.0,157.52,3.74,27.42,98.55,46.48,58.99
+1,389,Breeding,F24-3606,CIAT-BH-16-B-0733,Brachiaria humidicola,Grass,13.0,1.0,2.0,170.34,3.61,29.58,97.49,48.09,61.51
+1,390,Breeding,F24-3606,CIAT-BH-16-B-0733,Brachiaria humidicola,Grass,13.0,1.0,3.0,163.96,3.66,28.47,98.76,47.46,59.99
+1,391,Breeding,F24-3607,CIAT-BH-16-B-0741,Brachiaria humidicola,Grass,13.0,1.0,1.0,157.35,3.89,27.57,102.7,45.08,61.16
+1,392,Breeding,F24-3607,CIAT-BH-16-B-0741,Brachiaria humidicola,Grass,13.0,1.0,2.0,151.04,3.87,26.66,110.45,45.61,58.45
+1,393,Breeding,F24-3607,CIAT-BH-16-B-0741,Brachiaria humidicola,Grass,13.0,1.0,3.0,165.51,3.8,29.43,102.7,46.74,62.97
+1,394,Breeding,F24-3608,CIAT-BH-16-B-1194,Brachiaria humidicola,Grass,13.0,1.0,1.0,177.7,3.43,30.25,105.6,49.7,60.88
+1,395,Breeding,F24-3608,CIAT-BH-16-B-1194,Brachiaria humidicola,Grass,13.0,1.0,2.0,179.34,3.21,30.22,119.37,52.52,57.54
+1,396,Breeding,F24-3608,CIAT-BH-16-B-1194,Brachiaria humidicola,Grass,13.0,1.0,3.0,181.34,3.26,30.37,113.25,51.44,59.05
+1,397,Breeding,F24-3609,CIAT-BH-16-B-1618,Brachiaria humidicola,Grass,13.0,1.0,1.0,142.43,4.07,24.59,101.23,42.46,57.9
+1,398,Breeding,F24-3609,CIAT-BH-16-B-1618,Brachiaria humidicola,Grass,13.0,1.0,2.0,147.88,3.92,25.36,103.96,43.72,58.01
+1,399,Breeding,F24-3609,CIAT-BH-16-B-1618,Brachiaria humidicola,Grass,13.0,1.0,3.0,172.44,3.41,28.57,113.47,48.59,58.79
+1,400,Breeding,F24-3610,CIAT-BH-16-B-1707,Brachiaria humidicola,Grass,13.0,1.0,1.0,151.85,3.66,26.02,107.83,46.85,55.55
+1,401,Breeding,F24-3610,CIAT-BH-16-B-1707,Brachiaria humidicola,Grass,13.0,1.0,2.0,167.43,3.41,28.06,109.57,49.21,57.02
+1,402,Breeding,F24-3610,CIAT-BH-16-B-1707,Brachiaria humidicola,Grass,13.0,1.0,3.0,167.32,3.43,27.91,107.24,48.59,57.44
+1,403,Breeding,F24-3611,CIAT-CIAT-16888,Brachiaria humidicola,Grass,13.0,1.0,1.0,169.57,3.31,29.22,111.5,51.99,56.21
+1,404,Breeding,F24-3611,CIAT-CIAT-16888,Brachiaria humidicola,Grass,13.0,1.0,2.0,175.42,3.19,29.61,114.22,52.94,55.93
+1,405,Breeding,F24-3611,CIAT-CIAT-16888,Brachiaria humidicola,Grass,13.0,1.0,3.0,175.28,3.19,30.04,116.1,53.76,55.87
+1,451,Breeding,F24-3597,CIAT-PM-21-3534,Megathyrsus maximus,Grass,14.0,2.0,1.0,164.42,3.69,29.97,107.29,49.37,60.7
+1,452,Breeding,F24-3597,CIAT-PM-21-3534,Megathyrsus maximus,Grass,14.0,2.0,2.0,161.69,3.82,31.16,107.55,50.47,61.74
+1,453,Breeding,F24-3597,CIAT-PM-21-3534,Megathyrsus maximus,Grass,14.0,2.0,3.0,167.15,3.54,31.98,120.93,54.01,59.22
+1,454,Breeding,F24-3598,CIAT-PM-21-3537,Megathyrsus maximus,Grass,14.0,2.0,1.0,183.83,3.5,36.0,136.92,55.94,64.35
+1,456,Breeding,F24-3598,CIAT-PM-21-3537,Megathyrsus maximus,Grass,14.0,2.0,3.0,180.18,3.63,35.05,127.91,53.54,65.47
+1,461,Breeding,F24-3600,CIAT-PM-21-3670,Megathyrsus maximus,Grass,14.0,2.0,2.0,126.27,4.92,25.13,95.0,40.49,62.06
+1,462,Breeding,F24-3600,CIAT-PM-21-3670,Megathyrsus maximus,Grass,14.0,2.0,3.0,159.73,3.76,30.82,125.81,51.27,60.11
+1,463,Breeding,F24-3601,CIAT-PM-21-6628,Megathyrsus maximus,Grass,14.0,2.0,1.0,174.12,3.38,33.26,139.38,56.47,58.9
+1,464,Breeding,F24-3601,CIAT-PM-21-6628,Megathyrsus maximus,Grass,14.0,2.0,2.0,105.73,5.76,21.86,84.55,35.9,60.89
+1,465,Breeding,F24-3601,CIAT-PM-21-6628,Megathyrsus maximus,Grass,14.0,2.0,3.0,171.31,3.5,33.81,135.9,56.43,59.92
+1,466,Breeding,F24-3602,CIAT-BH-08-1149,Brachiaria humidicola,Grass,14.0,2.0,1.0,161.57,3.61,29.41,108.74,50.43,58.31
+1,467,Breeding,F24-3602,CIAT-BH-08-1149,Brachiaria humidicola,Grass,14.0,2.0,2.0,177.56,3.28,32.79,121.82,56.35,58.18
+1,468,Breeding,F24-3602,CIAT-BH-08-1149,Brachiaria humidicola,Grass,14.0,2.0,3.0,178.5,3.25,33.03,123.89,57.01,57.93
+1,469,Breeding,F24-3603,CIAT-BH-16-0550,Brachiaria humidicola,Grass,14.0,2.0,1.0,181.99,3.22,33.12,118.98,56.44,58.67
+1,470,Breeding,F24-3603,CIAT-BH-16-0550,Brachiaria humidicola,Grass,14.0,2.0,2.0,180.13,3.11,33.2,131.58,59.21,56.07
+1,471,Breeding,F24-3603,CIAT-BH-16-0550,Brachiaria humidicola,Grass,14.0,2.0,3.0,185.7,2.99,34.76,141.17,62.67,55.46
+1,472,Breeding,F24-3604,CIAT-BH-16-0562,Brachiaria humidicola,Grass,14.0,2.0,1.0,180.86,3.06,33.77,135.55,61.04,55.32
+1,473,Breeding,F24-3604,CIAT-BH-16-0562,Brachiaria humidicola,Grass,14.0,2.0,2.0,188.25,3.02,33.9,127.92,59.56,56.91
+1,474,Breeding,F24-3604,CIAT-BH-16-0562,Brachiaria humidicola,Grass,14.0,2.0,3.0,177.17,3.22,32.55,122.07,57.03,57.07
+1,475,Breeding,F24-3605,CIAT-BH-16-3249,Brachiaria humidicola,Grass,14.0,2.0,1.0,180.72,3.27,33.66,117.07,56.95,59.11
+1,476,Breeding,F24-3605,CIAT-BH-16-3249,Brachiaria humidicola,Grass,14.0,2.0,2.0,189.9,3.1,34.18,119.66,58.02,58.92
+1,477,Breeding,F24-3605,CIAT-BH-16-3249,Brachiaria humidicola,Grass,14.0,2.0,3.0,182.55,3.27,33.56,114.31,56.2,59.71
+1,478,Breeding,F24-3606,CIAT-BH-16-B-0733,Brachiaria humidicola,Grass,14.0,2.0,1.0,182.79,3.19,34.79,127.98,59.63,58.35
+1,479,Breeding,F24-3606,CIAT-BH-16-B-0733,Brachiaria humidicola,Grass,14.0,2.0,2.0,178.21,3.25,32.99,123.49,56.99,57.88
+1,480,Breeding,F24-3606,CIAT-BH-16-B-0733,Brachiaria humidicola,Grass,14.0,2.0,3.0,175.47,3.39,32.97,116.15,55.36,59.55
+1,481,Breeding,F24-3607,CIAT-BH-16-B-0741,Brachiaria humidicola,Grass,14.0,2.0,1.0,184.56,3.25,35.75,139.12,59.57,60.02
+1,482,Breeding,F24-3607,CIAT-BH-16-B-0741,Brachiaria humidicola,Grass,14.0,2.0,2.0,179.99,3.2,33.49,143.47,58.09,57.66
+1,483,Breeding,F24-3607,CIAT-BH-16-B-0741,Brachiaria humidicola,Grass,14.0,2.0,3.0,179.99,3.32,33.83,132.6,56.55,59.83
+1,484,Breeding,F24-3608,CIAT-BH-16-B-1194,Brachiaria humidicola,Grass,14.0,2.0,1.0,158.23,3.78,29.88,108.17,49.93,59.85
+1,485,Breeding,F24-3608,CIAT-BH-16-B-1194,Brachiaria humidicola,Grass,14.0,2.0,2.0,202.82,2.85,36.64,143.29,63.39,57.79
+1,486,Breeding,F24-3608,CIAT-BH-16-B-1194,Brachiaria humidicola,Grass,14.0,2.0,3.0,200.09,3.07,36.22,124.45,59.06,61.33
+1,487,Breeding,F24-3609,CIAT-BH-16-B-1618,Brachiaria humidicola,Grass,14.0,2.0,1.0,167.79,3.26,32.03,151.98,58.56,54.69
+1,488,Breeding,F24-3609,CIAT-BH-16-B-1618,Brachiaria humidicola,Grass,14.0,2.0,2.0,170.53,3.41,31.71,129.24,54.53,58.15
+1,489,Breeding,F24-3609,CIAT-BH-16-B-1618,Brachiaria humidicola,Grass,14.0,2.0,3.0,165.06,3.38,19.02,85.49,34.05,55.86
+1,490,Breeding,F24-3610,CIAT-BH-16-B-1707,Brachiaria humidicola,Grass,14.0,2.0,1.0,200.88,2.96,36.9,131.82,62.11,59.4
+1,491,Breeding,F24-3610,CIAT-BH-16-B-1707,Brachiaria humidicola,Grass,14.0,2.0,2.0,206.36,2.85,37.12,135.61,63.14,58.78
+1,492,Breeding,F24-3610,CIAT-BH-16-B-1707,Brachiaria humidicola,Grass,14.0,2.0,3.0,197.23,2.94,36.0,135.53,62.1,57.98
+1,493,Breeding,F24-3611,CIAT-CIAT-16888,Brachiaria humidicola,Grass,14.0,2.0,1.0,197.11,2.76,36.48,149.76,67.11,54.36
+1,494,Breeding,F24-3611,CIAT-CIAT-16888,Brachiaria humidicola,Grass,14.0,2.0,2.0,197.11,2.67,35.88,159.02,68.26,52.57
+1,495,Breeding,F24-3611,CIAT-CIAT-16888,Brachiaria humidicola,Grass,14.0,2.0,3.0,192.32,2.75,35.93,156.81,67.9,52.91
+1,541,Breeding,F24-3597,CIAT-PM-21-3534,Megathyrsus maximus,Grass,15.0,3.0,1.0,152.05,3.53,29.76,141.88,55.38,53.74
+1,542,Breeding,F24-3597,CIAT-PM-21-3534,Megathyrsus maximus,Grass,15.0,3.0,2.0,153.02,3.63,29.74,130.74,53.57,55.51
+1,543,Breeding,F24-3597,CIAT-PM-21-3534,Megathyrsus maximus,Grass,15.0,3.0,3.0,155.62,3.7,30.62,123.71,53.24,57.52
+1,544,Breeding,F24-3598,CIAT-PM-21-3537,Megathyrsus maximus,Grass,15.0,3.0,1.0,168.7,3.5,33.15,158.51,56.21,58.97
+1,545,Breeding,F24-3598,CIAT-PM-21-3537,Megathyrsus maximus,Grass,15.0,3.0,2.0,168.57,3.64,33.69,144.42,54.88,61.39
+1,546,Breeding,F24-3598,CIAT-PM-21-3537,Megathyrsus maximus,Grass,15.0,3.0,3.0,177.74,3.63,34.86,132.03,54.07,64.46
+1,547,Breeding,F24-3599,CIAT-PM-21-3545,Megathyrsus maximus,Grass,15.0,3.0,1.0,160.55,3.31,31.49,207.76,59.16,53.22
+1,548,Breeding,F24-3599,CIAT-PM-21-3545,Megathyrsus maximus,Grass,15.0,3.0,2.0,160.42,3.62,30.98,154.52,53.31,58.11
+1,549,Breeding,F24-3599,CIAT-PM-21-3545,Megathyrsus maximus,Grass,15.0,3.0,3.0,152.32,3.57,30.37,186.37,55.87,54.36
+1,550,Breeding,F24-3600,CIAT-PM-21-3670,Megathyrsus maximus,Grass,15.0,3.0,1.0,161.76,3.67,31.14,131.05,52.44,59.37
+1,551,Breeding,F24-3600,CIAT-PM-21-3670,Megathyrsus maximus,Grass,15.0,3.0,2.0,131.25,3.63,26.41,218.6,55.37,47.7
+1,552,Breeding,F24-3600,CIAT-PM-21-3670,Megathyrsus maximus,Grass,15.0,3.0,3.0,164.71,3.62,30.13,125.37,50.51,59.65
+1,553,Breeding,F24-3601,CIAT-PM-21-6628,Megathyrsus maximus,Grass,15.0,3.0,1.0,155.72,3.7,30.97,136.94,53.72,57.66
+1,554,Breeding,F24-3601,CIAT-PM-21-6628,Megathyrsus maximus,Grass,15.0,3.0,2.0,161.24,3.69,31.25,127.77,52.53,59.5
+1,555,Breeding,F24-3601,CIAT-PM-21-6628,Megathyrsus maximus,Grass,15.0,3.0,3.0,150.1,3.93,30.21,125.79,51.15,59.05
+1,556,Breeding,F24-3602,CIAT-BH-08-1149,Brachiaria humidicola,Grass,15.0,3.0,1.0,174.1,3.3,32.99,126.11,57.44,57.43
+1,557,Breeding,F24-3602,CIAT-BH-08-1149,Brachiaria humidicola,Grass,15.0,3.0,2.0,180.72,3.12,35.18,140.58,62.49,56.29
+1,558,Breeding,F24-3602,CIAT-BH-08-1149,Brachiaria humidicola,Grass,15.0,3.0,3.0,175.91,3.32,39.94,147.46,68.45,58.36
+1,559,Breeding,F24-3603,CIAT-BH-16-0550,Brachiaria humidicola,Grass,15.0,3.0,1.0,181.43,3.07,34.8,140.09,62.5,55.68
+1,560,Breeding,F24-3603,CIAT-BH-16-0550,Brachiaria humidicola,Grass,15.0,3.0,2.0,188.86,2.97,35.51,140.55,63.29,56.1
+1,561,Breeding,F24-3603,CIAT-BH-16-0550,Brachiaria humidicola,Grass,15.0,3.0,3.0,179.57,2.95,34.3,155.11,64.77,52.95
+1,562,Breeding,F24-3604,CIAT-BH-16-0562,Brachiaria humidicola,Grass,15.0,3.0,1.0,190.47,3.06,34.2,123.01,58.75,58.21
+1,563,Breeding,F24-3604,CIAT-BH-16-0562,Brachiaria humidicola,Grass,15.0,3.0,2.0,182.93,3.04,33.5,133.12,60.29,55.58
+1,564,Breeding,F24-3604,CIAT-BH-16-0562,Brachiaria humidicola,Grass,15.0,3.0,3.0,188.39,2.85,35.37,152.41,65.97,53.61
+1,565,Breeding,F24-3605,CIAT-BH-16-3249,Brachiaria humidicola,Grass,15.0,3.0,1.0,182.07,3.15,34.47,127.74,60.12,57.34
+1,566,Breeding,F24-3605,CIAT-BH-16-3249,Brachiaria humidicola,Grass,15.0,3.0,2.0,188.5,3.02,35.23,132.81,61.94,56.88
+1,567,Breeding,F24-3605,CIAT-BH-16-3249,Brachiaria humidicola,Grass,15.0,3.0,3.0,171.9,2.95,32.45,158.86,63.9,50.78
+1,568,Breeding,F24-3606,CIAT-BH-16-B-0733,Brachiaria humidicola,Grass,15.0,3.0,1.0,161.26,3.26,30.57,143.32,58.23,52.49
+1,569,Breeding,F24-3606,CIAT-BH-16-B-0733,Brachiaria humidicola,Grass,15.0,3.0,2.0,165.84,3.26,31.91,139.59,59.06,54.02
+1,570,Breeding,F24-3606,CIAT-BH-16-B-0733,Brachiaria humidicola,Grass,15.0,3.0,3.0,173.19,3.35,35.1,130.78,60.52,58.01
+1,571,Breeding,F24-3607,CIAT-BH-16-B-0741,Brachiaria humidicola,Grass,15.0,3.0,1.0,168.33,3.57,33.46,130.05,55.72,60.04
+1,572,Breeding,F24-3607,CIAT-BH-16-B-0741,Brachiaria humidicola,Grass,15.0,3.0,2.0,165.78,3.21,31.65,167.33,59.46,53.23
+1,573,Breeding,F24-3607,CIAT-BH-16-B-0741,Brachiaria humidicola,Grass,15.0,3.0,3.0,162.94,3.44,31.42,144.86,56.1,56.01
+1,574,Breeding,F24-3608,CIAT-BH-16-B-1194,Brachiaria humidicola,Grass,15.0,3.0,1.0,175.81,3.09,32.58,147.67,60.01,54.29
+1,575,Breeding,F24-3608,CIAT-BH-16-B-1194,Brachiaria humidicola,Grass,15.0,3.0,2.0,174.94,3.04,33.14,157.63,62.23,53.25
+1,576,Breeding,F24-3608,CIAT-BH-16-B-1194,Brachiaria humidicola,Grass,15.0,3.0,3.0,172.31,3.31,32.22,130.02,56.52,57.01
+1,577,Breeding,F24-3609,CIAT-BH-16-B-1618,Brachiaria humidicola,Grass,15.0,3.0,1.0,148.92,3.65,28.84,138.98,53.05,54.37
+1,578,Breeding,F24-3609,CIAT-BH-16-B-1618,Brachiaria humidicola,Grass,15.0,3.0,2.0,152.6,3.51,28.85,144.72,53.88,53.55
+1,579,Breeding,F24-3609,CIAT-BH-16-B-1618,Brachiaria humidicola,Grass,15.0,3.0,3.0,162.48,3.22,31.38,167.57,59.96,52.34
+1,580,Breeding,F24-3610,CIAT-BH-16-B-1707,Brachiaria humidicola,Grass,15.0,3.0,1.0,194.81,2.92,37.06,145.97,65.24,56.8
+1,581,Breeding,F24-3610,CIAT-BH-16-B-1707,Brachiaria humidicola,Grass,15.0,3.0,2.0,181.11,3.01,34.1,147.27,62.49,54.57
+1,582,Breeding,F24-3610,CIAT-BH-16-B-1707,Brachiaria humidicola,Grass,15.0,3.0,3.0,194.93,2.84,36.12,150.65,65.21,55.39
+1,583,Breeding,F24-3611,CIAT-CIAT-16888,Brachiaria humidicola,Grass,15.0,3.0,1.0,179.15,2.82,34.44,168.56,68.29,50.43
+1,584,Breeding,F24-3611,CIAT-CIAT-16888,Brachiaria humidicola,Grass,15.0,3.0,2.0,182.02,2.72,34.76,177.84,70.15,49.55
+1,585,Breeding,F24-3611,CIAT-CIAT-16888,Brachiaria humidicola,Grass,15.0,3.0,3.0,169.61,3.04,32.77,152.39,63.62,51.5
+1,1081,Breeding,F25-0990,CIAT-PM-21-0053,Megathyrsus maximus,Grass,23.0,1.0,1.0,152.15,3.39,24.82,127.46,48.16,51.54
+1,1082,Breeding,F25-0990,CIAT-PM-21-0053,Megathyrsus maximus,Grass,23.0,1.0,2.0,151.32,2.78,24.65,247.75,58.66,42.02
+1,1083,Breeding,F25-0990,CIAT-PM-21-0053,Megathyrsus maximus,Grass,23.0,1.0,3.0,152.24,3.08,24.79,167.85,52.93,46.84
+1,1084,Breeding,F25-0991,CIAT-PM-21-3550,Megathyrsus maximus,Grass,23.0,1.0,1.0,144.37,3.31,22.89,134.46,47.85,47.85
+1,1085,Breeding,F25-0991,CIAT-PM-21-3550,Megathyrsus maximus,Grass,23.0,1.0,2.0,138.0,3.24,22.76,163.55,50.88,44.73
+1,1086,Breeding,F25-0991,CIAT-PM-21-3550,Megathyrsus maximus,Grass,23.0,1.0,3.0,137.16,3.56,22.85,127.26,46.85,48.78
+1,1087,Breeding,F25-0992,CIAT-PM-21-3595,Megathyrsus maximus,Grass,23.0,1.0,1.0,141.99,3.42,22.92,132.68,47.21,48.54
+1,1088,Breeding,F25-0992,CIAT-PM-21-3595,Megathyrsus maximus,Grass,23.0,1.0,2.0,144.67,3.57,23.13,113.69,44.82,51.62
+1,1089,Breeding,F25-0992,CIAT-PM-21-3595,Megathyrsus maximus,Grass,23.0,1.0,3.0,142.91,3.36,23.11,137.81,48.11,48.04
+1,1090,Breeding,F25-0993,CIAT-PM-21-0086,Megathyrsus maximus,Grass,23.0,1.0,1.0,147.76,3.5,24.19,126.2,46.7,51.79
+1,1091,Breeding,F25-0993,CIAT-PM-21-0086,Megathyrsus maximus,Grass,23.0,1.0,2.0,144.07,3.33,23.61,154.43,49.28,47.91
+1,1092,Breeding,F25-0993,CIAT-PM-21-0086,Megathyrsus maximus,Grass,23.0,1.0,3.0,141.35,2.91,23.11,273.0,56.24,41.09
+1,1093,Breeding,F25-0994,CIAT-CIAT-16048,Megathyrsus maximus,Grass,23.0,1.0,1.0,138.56,3.39,22.68,161.34,48.31,46.96
+1,1095,Breeding,F25-0994,CIAT-CIAT-16048,Megathyrsus maximus,Grass,23.0,1.0,3.0,149.44,3.62,24.49,115.8,45.31,54.05
+1,1096,Breeding,F25-0995,CIAT-PM-21-0185,Megathyrsus maximus,Grass,23.0,1.0,1.0,145.6,3.47,23.97,137.92,47.43,50.55
+1,1097,Breeding,F25-0995,CIAT-PM-21-0185,Megathyrsus maximus,Grass,23.0,1.0,2.0,160.27,2.8,26.19,223.34,58.34,44.9
+1,1098,Breeding,F25-0995,CIAT-PM-21-0185,Megathyrsus maximus,Grass,23.0,1.0,3.0,154.83,3.26,25.21,146.05,49.99,50.43
+1,1099,Breeding,F25-0996,CIAT-PM-21-0215,Megathyrsus maximus,Grass,23.0,1.0,1.0,155.26,2.81,25.34,233.02,58.06,43.64
+1,1100,Breeding,F25-0996,CIAT-PM-21-0215,Megathyrsus maximus,Grass,23.0,1.0,2.0,154.43,3.07,25.12,170.78,52.91,47.47
+1,1101,Breeding,F25-0996,CIAT-PM-21-0215,Megathyrsus maximus,Grass,23.0,1.0,3.0,145.2,3.2,24.18,175.79,51.98,46.52
+1,1102,Breeding,F25-0997,CIAT-CIAT-16051,Megathyrsus maximus,Grass,23.0,1.0,1.0,146.05,2.48,24.09,546.93,66.57,36.19
+1,1103,Breeding,F25-0997,CIAT-CIAT-16051,Megathyrsus maximus,Grass,23.0,1.0,2.0,142.37,3.4,24.15,144.72,49.82,48.47
+1,1104,Breeding,F25-0997,CIAT-CIAT-16051,Megathyrsus maximus,Grass,23.0,1.0,3.0,146.02,3.29,24.67,151.32,51.3,48.08
+1,1105,Breeding,F25-0998,CIAT-PM-21-6080,Megathyrsus maximus,Grass,23.0,1.0,1.0,141.25,3.53,23.81,137.85,47.81,49.81
+1,1106,Breeding,F25-0998,CIAT-PM-21-6080,Megathyrsus maximus,Grass,23.0,1.0,2.0,147.56,3.2,24.72,168.6,52.38,47.19
+1,1107,Breeding,F25-0998,CIAT-PM-21-6080,Megathyrsus maximus,Grass,23.0,1.0,3.0,145.81,2.2,24.39,-5632.67,75.98,32.1
+1,1108,Breeding,F25-0999,CIAT-PM-21-3684,Megathyrsus maximus,Grass,23.0,1.0,1.0,158.76,3.51,25.58,99.5,45.94,55.67
+1,1109,Breeding,F25-0999,CIAT-PM-21-3684,Megathyrsus maximus,Grass,23.0,1.0,2.0,149.62,3.23,24.04,131.35,49.8,48.27
+1,1110,Breeding,F25-0999,CIAT-PM-21-3684,Megathyrsus maximus,Grass,23.0,1.0,3.0,156.92,3.24,25.25,121.19,49.7,50.8
+1,1111,Breeding,F25-1000,CIAT-PM-21-0076,Megathyrsus maximus,Grass,23.0,1.0,1.0,155.57,3.24,26.24,145.95,52.09,50.37
+1,1112,Breeding,F25-1000,CIAT-PM-21-0076,Megathyrsus maximus,Grass,23.0,1.0,2.0,158.18,1.66,26.42,-428.26,100.73,26.23
+1,1113,Breeding,F25-1000,CIAT-PM-21-0076,Megathyrsus maximus,Grass,23.0,1.0,3.0,153.61,3.7,26.11,106.89,45.95,56.83
+1,1114,Breeding,F25-1001,CIAT-CIAT-6890,Megathyrsus maximus,Grass,23.0,1.0,1.0,145.17,3.46,23.33,107.97,46.45,50.22
+1,1115,Breeding,F25-1001,CIAT-CIAT-6890,Megathyrsus maximus,Grass,23.0,1.0,2.0,148.93,3.43,23.92,106.27,46.79,51.13
+1,1116,Breeding,F25-1001,CIAT-CIAT-6890,Megathyrsus maximus,Grass,23.0,1.0,3.0,153.5,3.42,24.46,102.11,46.53,52.57
+1,1117,Breeding,F25-1002,CIAT-PM-21-6638,Megathyrsus maximus,Grass,23.0,1.0,1.0,139.54,3.49,22.76,142.49,46.8,48.63
+1,1118,Breeding,F25-1002,CIAT-PM-21-6638,Megathyrsus maximus,Grass,23.0,1.0,2.0,145.98,3.86,23.04,97.48,40.92,56.29
+1,1119,Breeding,F25-1002,CIAT-PM-21-6638,Megathyrsus maximus,Grass,23.0,1.0,3.0,144.02,3.49,22.8,129.47,45.35,50.27
+1,1120,Breeding,F25-1003,CIAT-PM-21-0052,Megathyrsus maximus,Grass,23.0,1.0,1.0,150.91,3.08,24.28,209.07,52.24,46.49
+1,1121,Breeding,F25-1003,CIAT-PM-21-0052,Megathyrsus maximus,Grass,23.0,1.0,2.0,142.63,3.13,23.08,235.75,51.68,44.67
+1,1122,Breeding,F25-1003,CIAT-PM-21-0052,Megathyrsus maximus,Grass,23.0,1.0,3.0,144.45,3.11,23.22,229.95,51.63,44.97
+1,1123,Breeding,F25-1004,CIAT-PM-21-4449,Megathyrsus maximus,Grass,23.0,1.0,1.0,128.72,3.7,21.47,120.36,45.05,47.66
+1,1124,Breeding,F25-1004,CIAT-PM-21-4449,Megathyrsus maximus,Grass,23.0,1.0,2.0,134.14,3.19,21.57,165.74,50.36,42.84
+1,1125,Breeding,F25-1004,CIAT-PM-21-4449,Megathyrsus maximus,Grass,23.0,1.0,3.0,130.56,3.18,21.17,181.23,51.0,41.5
+1,1126,Breeding,F25-1005,CIAT-CIAT-6799,Megathyrsus maximus,Grass,23.0,1.0,1.0,135.35,3.44,21.82,120.84,46.91,46.51
+1,1127,Breeding,F25-1005,CIAT-CIAT-6799,Megathyrsus maximus,Grass,23.0,1.0,2.0,120.6,3.18,19.27,195.24,50.28,38.32
+1,1128,Breeding,F25-1005,CIAT-CIAT-6799,Megathyrsus maximus,Grass,23.0,1.0,3.0,136.13,2.95,21.56,183.95,53.66,40.17
+1,1129,Breeding,F25-1006,CIAT-PM-21-0055,Megathyrsus maximus,Grass,23.0,1.0,1.0,147.8,3.04,23.87,226.03,53.18,44.88
+1,1130,Breeding,F25-1006,CIAT-PM-21-0055,Megathyrsus maximus,Grass,23.0,1.0,2.0,141.37,3.41,22.77,164.3,47.26,48.18
+1,1131,Breeding,F25-1006,CIAT-PM-21-0055,Megathyrsus maximus,Grass,23.0,1.0,3.0,123.76,3.6,20.3,197.17,45.49,44.62
+1,1132,Breeding,F25-1007,CIAT-PM-21-6529,Megathyrsus maximus,Grass,23.0,1.0,1.0,111.62,3.64,17.69,200.24,43.52,40.66
+1,1133,Breeding,F25-1007,CIAT-PM-21-6529,Megathyrsus maximus,Grass,23.0,1.0,2.0,124.35,3.04,19.45,323.79,51.42,37.83
+1,1134,Breeding,F25-1007,CIAT-PM-21-6529,Megathyrsus maximus,Grass,23.0,1.0,3.0,123.44,3.41,19.42,189.85,46.18,42.05
+1,1135,Breeding,F25-1008,CIAT-PM-21-0047,Megathyrsus maximus,Grass,23.0,1.0,1.0,134.12,2.47,21.46,-2121.47,64.75,33.14
+1,1136,Breeding,F25-1008,CIAT-PM-21-0047,Megathyrsus maximus,Grass,23.0,1.0,2.0,148.9,3.04,23.74,214.19,52.49,45.23
+1,1137,Breeding,F25-1008,CIAT-PM-21-0047,Megathyrsus maximus,Grass,23.0,1.0,3.0,135.04,3.3,21.7,209.05,48.73,44.53
+1,1138,Breeding,F25-1009,CIAT-PM-21-2195,Megathyrsus maximus,Grass,23.0,1.0,1.0,139.31,2.62,21.9,581.05,59.9,36.56
+1,1139,Breeding,F25-1009,CIAT-PM-21-2195,Megathyrsus maximus,Grass,23.0,1.0,2.0,132.12,3.28,20.96,197.66,48.3,43.39
+1,1140,Breeding,F25-1009,CIAT-PM-21-2195,Megathyrsus maximus,Grass,23.0,1.0,3.0,132.02,2.77,20.6,549.63,56.39,36.54
+1,1141,Breeding,F25-1010,CIAT-PM-21-2627,Megathyrsus maximus,Grass,23.0,1.0,1.0,118.82,4.01,18.64,138.15,39.07,47.71
+1,1142,Breeding,F25-1010,CIAT-PM-21-2627,Megathyrsus maximus,Grass,23.0,1.0,2.0,125.23,3.85,19.48,139.5,40.43,48.18
+1,1143,Breeding,F25-1010,CIAT-PM-21-2627,Megathyrsus maximus,Grass,23.0,1.0,3.0,126.11,3.73,19.83,154.14,42.12,47.08
+1,1144,Breeding,F25-1011,CIAT-PM-21-0059,Megathyrsus maximus,Grass,23.0,1.0,1.0,137.69,3.8,22.44,125.68,42.82,52.39
+1,1145,Breeding,F25-1011,CIAT-PM-21-0059,Megathyrsus maximus,Grass,23.0,1.0,2.0,130.39,3.64,21.36,165.71,45.04,47.43
+1,1146,Breeding,F25-1011,CIAT-PM-21-0059,Megathyrsus maximus,Grass,23.0,1.0,3.0,135.03,4.05,22.09,109.43,40.37,54.73
+1,1147,Breeding,F25-1012,CIAT-PM-21-3522,Megathyrsus maximus,Grass,23.0,1.0,1.0,119.13,2.59,18.59,-684.93,60.32,30.82
+1,1148,Breeding,F25-1012,CIAT-PM-21-3522,Megathyrsus maximus,Grass,23.0,1.0,2.0,120.02,3.95,18.37,131.97,38.71,47.46
+1,1149,Breeding,F25-1012,CIAT-PM-21-3522,Megathyrsus maximus,Grass,23.0,1.0,3.0,125.4,3.76,19.25,141.73,40.86,47.12
+1,1150,Breeding,F25-1013,CIAT-PM-21-0062,Megathyrsus maximus,Grass,23.0,1.0,1.0,121.57,3.64,19.17,157.22,43.33,44.25
+1,1151,Breeding,F25-1013,CIAT-PM-21-0062,Megathyrsus maximus,Grass,23.0,1.0,2.0,135.06,3.2,20.74,185.73,47.99,43.23
+1,1152,Breeding,F25-1013,CIAT-PM-21-0062,Megathyrsus maximus,Grass,23.0,1.0,3.0,126.1,3.36,19.61,189.42,46.23,42.41
+1,1153,Breeding,F25-1014,CIAT-PM-21-0906,Megathyrsus maximus,Grass,23.0,1.0,1.0,125.13,3.46,19.18,182.1,44.27,43.33
+1,1154,Breeding,F25-1014,CIAT-PM-21-0906,Megathyrsus maximus,Grass,23.0,1.0,2.0,122.46,3.46,18.58,194.2,43.86,42.37
+1,1155,Breeding,F25-1014,CIAT-PM-21-0906,Megathyrsus maximus,Grass,23.0,1.0,3.0,121.52,3.72,18.48,148.63,40.85,45.23
+1,1171,Breeding,F25-0990,CIAT-PM-21-0053,Megathyrsus maximus,Grass,24.0,2.0,1.0,152.4,3.88,24.95,92.32,42.22,59.09
+1,1172,Breeding,F25-0990,CIAT-PM-21-0053,Megathyrsus maximus,Grass,24.0,2.0,2.0,150.46,3.59,24.81,113.1,45.94,54.0
+1,1173,Breeding,F25-0990,CIAT-PM-21-0053,Megathyrsus maximus,Grass,24.0,2.0,3.0,155.2,3.1,25.73,160.05,53.44,48.14
+1,1174,Breeding,F25-0991,CIAT-PM-21-3550,Megathyrsus maximus,Grass,24.0,2.0,1.0,136.26,3.71,22.84,115.92,45.21,50.52
+1,1175,Breeding,F25-0991,CIAT-PM-21-3550,Megathyrsus maximus,Grass,24.0,2.0,2.0,133.65,3.03,22.34,231.76,55.23,40.46
+1,1176,Breeding,F25-0991,CIAT-PM-21-3550,Megathyrsus maximus,Grass,24.0,2.0,3.0,138.2,2.99,23.23,221.18,56.21,41.32
+1,1177,Breeding,F25-0992,CIAT-PM-21-3595,Megathyrsus maximus,Grass,24.0,2.0,1.0,143.07,3.0,23.34,200.51,54.4,42.91
+1,1178,Breeding,F25-0992,CIAT-PM-21-3595,Megathyrsus maximus,Grass,24.0,2.0,2.0,140.22,3.2,22.79,167.42,50.78,44.88
+1,1179,Breeding,F25-0992,CIAT-PM-21-3595,Megathyrsus maximus,Grass,24.0,2.0,3.0,135.58,3.09,22.32,209.71,53.26,41.91
+1,1180,Breeding,F25-0993,CIAT-PM-21-0086,Megathyrsus maximus,Grass,24.0,2.0,1.0,144.22,3.19,24.31,182.47,52.91,45.95
+1,1181,Breeding,F25-0993,CIAT-PM-21-0086,Megathyrsus maximus,Grass,24.0,2.0,2.0,138.84,3.29,23.3,178.45,51.0,45.68
+1,1182,Breeding,F25-0993,CIAT-PM-21-0086,Megathyrsus maximus,Grass,24.0,2.0,3.0,141.59,3.06,23.34,218.9,53.93,43.29
+1,1183,Breeding,F25-0994,CIAT-CIAT-16048,Megathyrsus maximus,Grass,24.0,2.0,1.0,140.47,3.24,23.41,184.84,51.39,45.57
+1,1184,Breeding,F25-0994,CIAT-CIAT-16048,Megathyrsus maximus,Grass,24.0,2.0,2.0,140.58,3.37,23.6,163.6,49.88,47.33
+1,1185,Breeding,F25-0994,CIAT-CIAT-16048,Megathyrsus maximus,Grass,24.0,2.0,3.0,143.27,3.53,24.15,136.31,47.71,50.61
+1,1186,Breeding,F25-0995,CIAT-PM-21-0185,Megathyrsus maximus,Grass,24.0,2.0,1.0,141.11,2.84,23.63,343.39,59.01,40.05
+1,1187,Breeding,F25-0995,CIAT-PM-21-0185,Megathyrsus maximus,Grass,24.0,2.0,2.0,130.22,3.83,21.6,129.02,43.28,49.91
+1,1188,Breeding,F25-0995,CIAT-PM-21-0185,Megathyrsus maximus,Grass,24.0,2.0,3.0,145.7,3.3,23.87,159.58,49.6,48.13
+1,1189,Breeding,F25-0996,CIAT-PM-21-0215,Megathyrsus maximus,Grass,24.0,2.0,1.0,145.33,3.02,24.06,217.37,54.89,43.83
+1,1190,Breeding,F25-0996,CIAT-PM-21-0215,Megathyrsus maximus,Grass,24.0,2.0,2.0,148.94,3.56,25.12,123.74,47.34,53.07
+1,1191,Breeding,F25-0996,CIAT-PM-21-0215,Megathyrsus maximus,Grass,24.0,2.0,3.0,150.85,3.12,24.92,174.24,52.94,47.07
+1,1192,Breeding,F25-0997,CIAT-CIAT-16051,Megathyrsus maximus,Grass,24.0,2.0,1.0,146.17,3.15,24.78,174.22,53.86,46.0
+1,1193,Breeding,F25-0997,CIAT-CIAT-16051,Megathyrsus maximus,Grass,24.0,2.0,2.0,143.59,3.6,24.32,122.34,47.08,51.66
+1,1194,Breeding,F25-0997,CIAT-CIAT-16051,Megathyrsus maximus,Grass,24.0,2.0,3.0,145.25,2.89,24.63,240.17,58.59,42.04
+1,1195,Breeding,F25-0998,CIAT-PM-21-6080,Megathyrsus maximus,Grass,24.0,2.0,1.0,111.06,4.42,18.68,113.18,38.1,49.04
+1,1196,Breeding,F25-0998,CIAT-PM-21-6080,Megathyrsus maximus,Grass,24.0,2.0,2.0,142.32,3.12,23.87,200.28,53.71,44.45
+1,1197,Breeding,F25-0998,CIAT-PM-21-6080,Megathyrsus maximus,Grass,24.0,2.0,3.0,136.78,3.54,23.31,146.49,48.12,48.45
+1,1198,Breeding,F25-0999,CIAT-PM-21-3684,Megathyrsus maximus,Grass,24.0,2.0,1.0,157.13,4.23,25.75,70.44,38.71,66.52
+1,1199,Breeding,F25-0999,CIAT-PM-21-3684,Megathyrsus maximus,Grass,24.0,2.0,2.0,152.5,2.92,25.05,171.52,56.2,44.57
+1,1200,Breeding,F25-0999,CIAT-PM-21-3684,Megathyrsus maximus,Grass,24.0,2.0,3.0,153.47,3.48,24.63,104.75,46.05,53.48
+1,1201,Breeding,F25-1000,CIAT-PM-21-0076,Megathyrsus maximus,Grass,24.0,2.0,1.0,153.83,3.39,25.79,130.54,49.45,52.15
+1,1202,Breeding,F25-1000,CIAT-PM-21-0076,Megathyrsus maximus,Grass,24.0,2.0,2.0,144.45,3.31,24.08,156.82,50.43,47.75
+1,1203,Breeding,F25-1000,CIAT-PM-21-0076,Megathyrsus maximus,Grass,24.0,2.0,3.0,150.91,3.16,25.57,167.67,53.66,47.64
+1,1204,Breeding,F25-1001,CIAT-CIAT-6890,Megathyrsus maximus,Grass,24.0,2.0,1.0,156.42,3.79,25.62,83.63,43.24,59.25
+1,1205,Breeding,F25-1001,CIAT-CIAT-6890,Megathyrsus maximus,Grass,24.0,2.0,2.0,159.08,3.2,25.96,116.5,51.0,50.9
+1,1206,Breeding,F25-1001,CIAT-CIAT-6890,Megathyrsus maximus,Grass,24.0,2.0,3.0,154.58,3.25,25.08,115.75,49.88,50.28
+1,1207,Breeding,F25-1002,CIAT-PM-21-6638,Megathyrsus maximus,Grass,24.0,2.0,1.0,144.23,3.69,23.15,112.38,43.47,53.26
+1,1208,Breeding,F25-1002,CIAT-PM-21-6638,Megathyrsus maximus,Grass,24.0,2.0,2.0,143.25,2.84,22.27,279.68,54.82,40.62
+1,1209,Breeding,F25-1002,CIAT-PM-21-6638,Megathyrsus maximus,Grass,24.0,2.0,3.0,137.67,3.79,22.09,113.03,42.31,52.2
+1,1210,Breeding,F25-1003,CIAT-PM-21-0052,Megathyrsus maximus,Grass,24.0,2.0,1.0,148.31,3.52,24.09,139.55,46.2,52.13
+1,1211,Breeding,F25-1003,CIAT-PM-21-0052,Megathyrsus maximus,Grass,24.0,2.0,2.0,148.34,3.75,24.29,117.4,43.71,55.56
+1,1212,Breeding,F25-1003,CIAT-PM-21-0052,Megathyrsus maximus,Grass,24.0,2.0,3.0,147.42,3.46,23.78,146.77,46.56,51.08
+1,1213,Breeding,F25-1004,CIAT-PM-21-4449,Megathyrsus maximus,Grass,24.0,2.0,1.0,138.08,2.62,22.73,357.69,62.83,36.18
+1,1214,Breeding,F25-1004,CIAT-PM-21-4449,Megathyrsus maximus,Grass,24.0,2.0,2.0,149.1,3.19,24.22,136.31,50.89,47.59
+1,1215,Breeding,F25-1004,CIAT-PM-21-4449,Megathyrsus maximus,Grass,24.0,2.0,3.0,133.4,3.18,22.14,175.01,52.13,42.47
+1,1216,Breeding,F25-1005,CIAT-CIAT-6799,Megathyrsus maximus,Grass,24.0,2.0,1.0,139.97,3.51,22.71,109.55,46.18,49.18
+1,1217,Breeding,F25-1005,CIAT-CIAT-6799,Megathyrsus maximus,Grass,24.0,2.0,2.0,130.76,2.83,21.48,251.1,58.05,37.01
+1,1218,Breeding,F25-1005,CIAT-CIAT-6799,Megathyrsus maximus,Grass,24.0,2.0,3.0,137.21,2.97,22.51,182.69,55.21,40.77
+1,1219,Breeding,F25-1006,CIAT-PM-21-0055,Megathyrsus maximus,Grass,24.0,2.0,1.0,138.74,3.66,22.61,137.5,44.54,50.77
+1,1220,Breeding,F25-1006,CIAT-PM-21-0055,Megathyrsus maximus,Grass,24.0,2.0,2.0,138.77,3.21,22.86,224.88,51.38,44.49
+1,1221,Breeding,F25-1006,CIAT-PM-21-0055,Megathyrsus maximus,Grass,24.0,2.0,3.0,149.8,2.99,24.36,234.4,54.48,44.72
+1,1222,Breeding,F25-1007,CIAT-PM-21-6529,Megathyrsus maximus,Grass,24.0,2.0,1.0,149.34,3.47,24.08,120.81,46.53,51.76
+1,1223,Breeding,F25-1007,CIAT-PM-21-6529,Megathyrsus maximus,Grass,24.0,2.0,2.0,138.32,3.69,22.3,115.76,43.64,51.08
+1,1224,Breeding,F25-1007,CIAT-PM-21-6529,Megathyrsus maximus,Grass,24.0,2.0,3.0,148.45,3.2,23.93,152.24,50.34,47.54
+1,1225,Breeding,F25-1008,CIAT-PM-21-0047,Megathyrsus maximus,Grass,24.0,2.0,1.0,160.13,3.57,26.09,113.68,45.69,57.1
+1,1226,Breeding,F25-1008,CIAT-PM-21-0047,Megathyrsus maximus,Grass,24.0,2.0,2.0,158.25,3.31,25.28,138.16,48.2,52.45
+1,1227,Breeding,F25-1008,CIAT-PM-21-0047,Megathyrsus maximus,Grass,24.0,2.0,3.0,152.79,3.08,25.02,193.44,53.14,47.08
+1,1228,Breeding,F25-1009,CIAT-PM-21-2195,Megathyrsus maximus,Grass,24.0,2.0,1.0,161.34,3.04,25.92,159.11,52.82,49.08
+1,1229,Breeding,F25-1009,CIAT-PM-21-2195,Megathyrsus maximus,Grass,24.0,2.0,2.0,145.07,3.62,23.33,117.9,44.37,52.58
+1,1230,Breeding,F25-1009,CIAT-PM-21-2195,Megathyrsus maximus,Grass,24.0,2.0,3.0,156.02,3.56,24.91,109.77,44.9,55.48
+1,1231,Breeding,F25-1010,CIAT-PM-21-2627,Megathyrsus maximus,Grass,24.0,2.0,1.0,133.58,3.5,21.61,172.7,46.26,46.73
+1,1232,Breeding,F25-1010,CIAT-PM-21-2627,Megathyrsus maximus,Grass,24.0,2.0,2.0,144.43,3.5,23.0,140.61,45.48,50.57
+1,1233,Breeding,F25-1010,CIAT-PM-21-2627,Megathyrsus maximus,Grass,24.0,2.0,3.0,131.69,3.55,21.44,170.9,45.86,46.76
+1,1234,Breeding,F25-1011,CIAT-PM-21-0059,Megathyrsus maximus,Grass,24.0,2.0,1.0,144.16,3.56,23.58,140.38,45.93,51.34
+1,1235,Breeding,F25-1011,CIAT-PM-21-0059,Megathyrsus maximus,Grass,24.0,2.0,2.0,147.82,2.54,24.48,812.23,65.18,37.55
+1,1236,Breeding,F25-1011,CIAT-PM-21-0059,Megathyrsus maximus,Grass,24.0,2.0,3.0,151.51,3.59,24.74,125.08,45.54,54.32
+1,1237,Breeding,F25-1012,CIAT-PM-21-3522,Megathyrsus maximus,Grass,24.0,2.0,1.0,148.39,2.83,23.55,276.65,56.0,42.05
+1,1238,Breeding,F25-1012,CIAT-PM-21-3522,Megathyrsus maximus,Grass,24.0,2.0,2.0,147.51,3.56,23.11,121.55,43.98,52.55
+1,1239,Breeding,F25-1012,CIAT-PM-21-3522,Megathyrsus maximus,Grass,24.0,2.0,3.0,142.98,2.66,22.39,497.95,58.87,38.03
+1,1240,Breeding,F25-1013,CIAT-PM-21-0062,Megathyrsus maximus,Grass,24.0,2.0,1.0,154.95,2.9,24.59,191.05,54.73,44.93
+1,1241,Breeding,F25-1013,CIAT-PM-21-0062,Megathyrsus maximus,Grass,24.0,2.0,2.0,155.04,2.95,24.76,181.11,54.15,45.73
+1,1242,Breeding,F25-1013,CIAT-PM-21-0062,Megathyrsus maximus,Grass,24.0,2.0,3.0,168.5,2.88,26.88,162.64,55.32,48.58
+1,1243,Breeding,F25-1014,CIAT-PM-21-0906,Megathyrsus maximus,Grass,24.0,2.0,1.0,142.53,3.51,22.36,130.28,44.75,49.96
+1,1244,Breeding,F25-1014,CIAT-PM-21-0906,Megathyrsus maximus,Grass,24.0,2.0,2.0,145.2,3.75,22.95,106.01,42.16,54.45
+1,1245,Breeding,F25-1014,CIAT-PM-21-0906,Megathyrsus maximus,Grass,24.0,2.0,3.0,147.07,3.32,23.04,143.7,47.18,48.83
+1,1261,Breeding,F25-0990,CIAT-PM-21-0053,Megathyrsus maximus,Grass,25.0,3.0,1.0,150.78,3.92,24.66,91.25,41.73,59.09
+1,1262,Breeding,F25-0990,CIAT-PM-21-0053,Megathyrsus maximus,Grass,25.0,3.0,2.0,148.84,3.63,24.53,111.81,45.42,54.0
+1,1263,Breeding,F25-0990,CIAT-PM-21-0053,Megathyrsus maximus,Grass,25.0,3.0,3.0,153.58,3.13,25.44,158.25,52.84,48.14
+1,1264,Breeding,F25-0991,CIAT-PM-21-3550,Megathyrsus maximus,Grass,25.0,3.0,1.0,134.66,3.75,22.54,114.41,44.62,50.52
+1,1265,Breeding,F25-0991,CIAT-PM-21-3550,Megathyrsus maximus,Grass,25.0,3.0,2.0,132.05,3.06,22.05,228.68,54.49,40.46
+1,1266,Breeding,F25-0991,CIAT-PM-21-3550,Megathyrsus maximus,Grass,25.0,3.0,3.0,136.6,3.02,22.93,218.36,55.49,41.32
+1,1267,Breeding,F25-0992,CIAT-PM-21-3595,Megathyrsus maximus,Grass,25.0,3.0,1.0,141.45,3.03,23.06,198.09,53.74,42.91
+1,1268,Breeding,F25-0992,CIAT-PM-21-3595,Megathyrsus maximus,Grass,25.0,3.0,2.0,138.6,3.24,22.52,165.39,50.17,44.88
+1,1269,Breeding,F25-0992,CIAT-PM-21-3595,Megathyrsus maximus,Grass,25.0,3.0,3.0,133.96,3.13,22.04,207.04,52.58,41.91
+1,1270,Breeding,F25-0993,CIAT-PM-21-0086,Megathyrsus maximus,Grass,25.0,3.0,1.0,142.63,3.22,24.02,180.31,52.28,45.95
+1,1271,Breeding,F25-0993,CIAT-PM-21-0086,Megathyrsus maximus,Grass,25.0,3.0,2.0,137.25,3.33,23.01,176.24,50.37,45.68
+1,1272,Breeding,F25-0993,CIAT-PM-21-0086,Megathyrsus maximus,Grass,25.0,3.0,3.0,140.0,3.09,23.05,216.19,53.26,43.29
+1,1273,Breeding,F25-0994,CIAT-CIAT-16048,Megathyrsus maximus,Grass,25.0,3.0,1.0,138.88,3.28,23.13,182.59,50.76,45.57
+1,1274,Breeding,F25-0994,CIAT-CIAT-16048,Megathyrsus maximus,Grass,25.0,3.0,2.0,138.99,3.4,23.32,161.62,49.27,47.33
+1,1275,Breeding,F25-0994,CIAT-CIAT-16048,Megathyrsus maximus,Grass,25.0,3.0,3.0,141.68,3.57,23.86,134.67,47.14,50.61
+1,1276,Breeding,F25-0995,CIAT-PM-21-0185,Megathyrsus maximus,Grass,25.0,3.0,1.0,139.51,2.87,23.34,339.06,58.26,40.05
+1,1277,Breeding,F25-0995,CIAT-PM-21-0185,Megathyrsus maximus,Grass,25.0,3.0,2.0,128.62,3.88,21.3,127.25,42.68,49.91
+1,1278,Breeding,F25-0995,CIAT-PM-21-0185,Megathyrsus maximus,Grass,25.0,3.0,3.0,144.09,3.34,23.58,157.63,48.99,48.13
+1,1279,Breeding,F25-0996,CIAT-PM-21-0215,Megathyrsus maximus,Grass,25.0,3.0,1.0,143.71,3.05,23.76,214.66,54.2,43.83
+1,1280,Breeding,F25-0996,CIAT-PM-21-0215,Megathyrsus maximus,Grass,25.0,3.0,2.0,147.32,3.6,24.83,122.29,46.78,53.07
+1,1281,Breeding,F25-0996,CIAT-PM-21-0215,Megathyrsus maximus,Grass,25.0,3.0,3.0,149.23,3.15,24.63,172.2,52.32,47.07
+1,1282,Breeding,F25-0997,CIAT-CIAT-16051,Megathyrsus maximus,Grass,25.0,3.0,1.0,144.56,3.18,24.48,172.12,53.21,46.0
+1,1283,Breeding,F25-0997,CIAT-CIAT-16051,Megathyrsus maximus,Grass,25.0,3.0,2.0,141.98,3.64,24.02,120.85,46.5,51.66
+1,1284,Breeding,F25-0997,CIAT-CIAT-16051,Megathyrsus maximus,Grass,25.0,3.0,3.0,143.64,2.93,24.33,237.23,57.88,42.04
+1,1285,Breeding,F25-0998,CIAT-PM-21-6080,Megathyrsus maximus,Grass,25.0,3.0,1.0,109.45,4.48,18.38,111.38,37.49,49.04
+1,1286,Breeding,F25-0998,CIAT-PM-21-6080,Megathyrsus maximus,Grass,25.0,3.0,2.0,140.71,3.16,23.58,197.81,53.05,44.45
+1,1287,Breeding,F25-0998,CIAT-PM-21-6080,Megathyrsus maximus,Grass,25.0,3.0,3.0,135.18,3.58,23.02,144.62,47.51,48.45
+1,1288,Breeding,F25-0999,CIAT-PM-21-3684,Megathyrsus maximus,Grass,25.0,3.0,1.0,155.54,4.28,25.47,69.67,38.28,66.52
+1,1289,Breeding,F25-0999,CIAT-PM-21-3684,Megathyrsus maximus,Grass,25.0,3.0,2.0,150.91,2.95,24.77,169.6,55.57,44.57
+1,1290,Breeding,F25-0999,CIAT-PM-21-3684,Megathyrsus maximus,Grass,25.0,3.0,3.0,151.88,3.52,24.35,103.56,45.53,53.48
+1,1291,Breeding,F25-1000,CIAT-PM-21-0076,Megathyrsus maximus,Grass,25.0,3.0,1.0,152.2,3.43,25.49,129.04,48.88,52.15
+1,1292,Breeding,F25-1000,CIAT-PM-21-0076,Megathyrsus maximus,Grass,25.0,3.0,2.0,142.82,3.34,23.78,154.86,49.79,47.75
+1,1293,Breeding,F25-1000,CIAT-PM-21-0076,Megathyrsus maximus,Grass,25.0,3.0,3.0,149.28,3.19,25.27,165.71,53.03,47.64
+1,1294,Breeding,F25-1001,CIAT-CIAT-6890,Megathyrsus maximus,Grass,25.0,3.0,1.0,154.81,3.83,25.33,82.69,42.75,59.25
+1,1295,Breeding,F25-1001,CIAT-CIAT-6890,Megathyrsus maximus,Grass,25.0,3.0,2.0,157.47,3.23,25.67,115.22,50.44,50.9
+1,1296,Breeding,F25-1001,CIAT-CIAT-6890,Megathyrsus maximus,Grass,25.0,3.0,3.0,152.97,3.29,24.8,114.44,49.32,50.28
+1,1297,Breeding,F25-1002,CIAT-PM-21-6638,Megathyrsus maximus,Grass,25.0,3.0,1.0,142.61,3.73,22.87,111.0,42.93,53.26
+1,1298,Breeding,F25-1002,CIAT-PM-21-6638,Megathyrsus maximus,Grass,25.0,3.0,2.0,141.63,2.87,21.99,276.18,54.13,40.62
+1,1299,Breeding,F25-1002,CIAT-PM-21-6638,Megathyrsus maximus,Grass,25.0,3.0,3.0,136.06,3.84,21.8,111.58,41.77,52.2
+1,1300,Breeding,F25-1003,CIAT-PM-21-0052,Megathyrsus maximus,Grass,25.0,3.0,1.0,146.69,3.55,23.8,137.87,45.65,52.13
+1,1301,Breeding,F25-1003,CIAT-PM-21-0052,Megathyrsus maximus,Grass,25.0,3.0,2.0,146.72,3.79,24.0,116.0,43.19,55.56
+1,1302,Breeding,F25-1003,CIAT-PM-21-0052,Megathyrsus maximus,Grass,25.0,3.0,3.0,145.79,3.5,23.49,144.96,45.99,51.08
+1,1303,Breeding,F25-1004,CIAT-PM-21-4449,Megathyrsus maximus,Grass,25.0,3.0,1.0,136.47,2.65,22.44,353.2,62.04,36.18
+1,1304,Breeding,F25-1004,CIAT-PM-21-4449,Megathyrsus maximus,Grass,25.0,3.0,2.0,147.49,3.23,23.93,134.73,50.29,47.59
+1,1305,Breeding,F25-1004,CIAT-PM-21-4449,Megathyrsus maximus,Grass,25.0,3.0,3.0,131.79,3.22,21.85,172.73,51.45,42.47
+1,1306,Breeding,F25-1005,CIAT-CIAT-6799,Megathyrsus maximus,Grass,25.0,3.0,1.0,138.36,3.55,22.43,108.23,45.62,49.18
+1,1307,Breeding,F25-1005,CIAT-CIAT-6799,Megathyrsus maximus,Grass,25.0,3.0,2.0,129.15,2.87,21.21,247.88,57.31,37.01
+1,1308,Breeding,F25-1005,CIAT-CIAT-6799,Megathyrsus maximus,Grass,25.0,3.0,3.0,135.6,3.01,22.23,180.43,54.53,40.77
+1,1309,Breeding,F25-1006,CIAT-PM-21-0055,Megathyrsus maximus,Grass,25.0,3.0,1.0,137.13,3.7,22.32,135.71,43.96,50.77
+1,1310,Breeding,F25-1006,CIAT-PM-21-0055,Megathyrsus maximus,Grass,25.0,3.0,2.0,137.16,3.24,22.57,222.0,50.72,44.49
+1,1311,Breeding,F25-1006,CIAT-PM-21-0055,Megathyrsus maximus,Grass,25.0,3.0,3.0,148.19,3.02,24.08,231.64,53.84,44.72
+1,1312,Breeding,F25-1007,CIAT-PM-21-6529,Megathyrsus maximus,Grass,25.0,3.0,1.0,147.74,3.5,23.8,119.4,45.99,51.76
+1,1313,Breeding,F25-1007,CIAT-PM-21-6529,Megathyrsus maximus,Grass,25.0,3.0,2.0,136.72,3.74,22.01,114.3,43.09,51.08
+1,1314,Breeding,F25-1007,CIAT-PM-21-6529,Megathyrsus maximus,Grass,25.0,3.0,3.0,146.85,3.24,23.65,150.44,49.74,47.54
+1,1315,Breeding,F25-1008,CIAT-PM-21-0047,Megathyrsus maximus,Grass,25.0,3.0,1.0,158.52,3.6,25.8,112.43,45.19,57.1
+1,1316,Breeding,F25-1008,CIAT-PM-21-0047,Megathyrsus maximus,Grass,25.0,3.0,2.0,156.64,3.35,25.0,136.63,47.67,52.45
+1,1317,Breeding,F25-1008,CIAT-PM-21-0047,Megathyrsus maximus,Grass,25.0,3.0,3.0,151.18,3.11,24.73,191.22,52.53,47.08
+1,1318,Breeding,F25-1009,CIAT-PM-21-2195,Megathyrsus maximus,Grass,25.0,3.0,1.0,159.74,3.07,25.64,157.38,52.24,49.08
+1,1319,Breeding,F25-1009,CIAT-PM-21-2195,Megathyrsus maximus,Grass,25.0,3.0,2.0,143.48,3.66,23.05,116.47,43.84,52.58
+1,1320,Breeding,F25-1009,CIAT-PM-21-2195,Megathyrsus maximus,Grass,25.0,3.0,3.0,154.43,3.59,24.63,108.54,44.4,55.48
+1,1321,Breeding,F25-1010,CIAT-PM-21-2627,Megathyrsus maximus,Grass,25.0,3.0,1.0,131.99,3.54,21.34,170.46,45.66,46.73
+1,1322,Breeding,F25-1010,CIAT-PM-21-2627,Megathyrsus maximus,Grass,25.0,3.0,2.0,142.84,3.54,22.72,138.93,44.93,50.57
+1,1323,Breeding,F25-1010,CIAT-PM-21-2627,Megathyrsus maximus,Grass,25.0,3.0,3.0,130.1,3.59,21.17,168.68,45.26,46.76
+1,1324,Breeding,F25-1011,CIAT-PM-21-0059,Megathyrsus maximus,Grass,25.0,3.0,1.0,142.58,3.6,23.29,138.66,45.37,51.34
+1,1325,Breeding,F25-1011,CIAT-PM-21-0059,Megathyrsus maximus,Grass,25.0,3.0,2.0,146.23,2.57,24.19,802.59,64.4,37.55
+1,1326,Breeding,F25-1011,CIAT-PM-21-0059,Megathyrsus maximus,Grass,25.0,3.0,3.0,149.92,3.62,24.45,123.62,45.01,54.32
+1,1327,Breeding,F25-1012,CIAT-PM-21-3522,Megathyrsus maximus,Grass,25.0,3.0,1.0,146.8,2.86,23.27,273.4,55.35,42.05
+1,1328,Breeding,F25-1012,CIAT-PM-21-3522,Megathyrsus maximus,Grass,25.0,3.0,2.0,145.91,3.6,22.84,120.09,43.45,52.55
+1,1329,Breeding,F25-1012,CIAT-PM-21-3522,Megathyrsus maximus,Grass,25.0,3.0,3.0,141.39,2.69,22.11,491.78,58.14,38.03
+1,1330,Breeding,F25-1013,CIAT-PM-21-0062,Megathyrsus maximus,Grass,25.0,3.0,1.0,153.37,2.93,24.31,188.9,54.12,44.93
+1,1331,Breeding,F25-1013,CIAT-PM-21-0062,Megathyrsus maximus,Grass,25.0,3.0,2.0,153.47,2.98,24.49,179.08,53.54,45.73
+1,1332,Breeding,F25-1013,CIAT-PM-21-0062,Megathyrsus maximus,Grass,25.0,3.0,3.0,166.92,2.91,26.6,160.97,54.75,48.58
+1,1333,Breeding,F25-1014,CIAT-PM-21-0906,Megathyrsus maximus,Grass,25.0,3.0,1.0,140.94,3.54,22.08,128.67,44.2,49.96
+1,1334,Breeding,F25-1014,CIAT-PM-21-0906,Megathyrsus maximus,Grass,25.0,3.0,2.0,143.61,3.79,22.68,104.74,41.65,54.45
+1,1335,Breeding,F25-1014,CIAT-PM-21-0906,Megathyrsus maximus,Grass,25.0,3.0,3.0,145.48,3.36,22.76,141.97,46.61,48.83
+3,80,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,1.0,210.97,2.76,30.23,243.55,51.93,58.21
+3,81,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,2.0,168.5,2.77,24.93,255.47,53.51,46.59
+3,82,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,3.0,157.84,3.19,23.27,220.6,46.15,50.42
+3,83,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,1.0,152.79,3.28,22.91,218.1,45.68,50.15
+3,84,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,2.0,163.28,3.24,23.64,207.76,44.66,52.92
+3,85,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,3.0,169.63,2.48,26.15,289.85,62.28,41.99
+3,86,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,1.0,170.6,2.61,26.57,277.41,59.57,44.6
+3,87,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,2.0,199.23,2.68,28.0,241.89,52.41,53.42
+3,88,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,3.0,193.66,2.35,26.62,270.55,58.57,45.44
+3,92,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,1.0,126.92,1.57,19.19,444.55,96.53,19.88
+3,93,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,2.0,180.44,2.48,26.19,284.86,58.44,44.81
+3,94,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,3.0,177.36,2.39,25.48,293.32,60.18,42.35
+3,95,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,1.0,188.65,2.72,26.7,253.3,51.97,51.38
+3,96,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,2.0,205.19,2.16,29.35,320.06,66.37,44.22
+3,97,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,3.0,207.22,2.23,29.47,306.98,63.64,46.3
+3,185,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,1.0,201.54,2.78,29.0,242.55,51.69,56.1
+3,186,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,2.0,173.98,1.58,26.27,455.55,95.41,27.53
+3,187,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,3.0,157.04,2.4,23.66,300.27,62.82,37.66
+3,188,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,1.0,165.44,1.83,25.27,398.29,83.34,30.32
+3,189,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,2.0,157.05,2.44,24.67,299.62,64.4,38.31
+3,190,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,3.0,170.99,2.54,26.9,287.9,61.87,43.48
+3,191,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,1.0,168.87,1.5,26.38,482.91,103.8,25.42
+3,192,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,2.0,187.34,1.99,26.09,323.79,70.07,37.24
+3,193,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,3.0,192.75,2.56,26.14,244.71,52.96,49.36
+3,200,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,1.0,167.31,1.39,23.79,498.07,102.16,23.29
+3,201,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,2.0,190.8,2.32,27.66,301.61,62.51,44.25
+3,202,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,3.0,186.73,1.4,26.5,488.01,101.17,26.19
+3,290,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,1.0,209.84,2.88,29.71,231.0,49.21,60.37
+3,291,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,2.0,178.96,2.1,26.32,334.17,69.95,37.62
+3,292,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,3.0,189.54,2.78,27.83,252.26,52.84,52.67
+3,293,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,1.0,183.08,2.66,26.7,261.79,54.78,48.74
+3,294,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,2.0,171.81,1.91,25.93,368.3,79.1,32.78
+3,295,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,3.0,170.87,1.12,26.15,634.3,136.34,19.18
+3,296,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,1.0,159.05,3.04,24.99,240.1,51.61,48.41
+3,297,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,2.0,186.29,1.24,25.1,501.73,108.69,23.1
+3,298,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,3.0,188.42,2.86,25.28,216.72,46.94,53.87
+3,302,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,48.0,3.0,1.0,112.88,1.09,16.37,613.27,133.13,12.3
+3,304,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,48.0,3.0,3.0,170.21,2.92,23.65,231.75,47.53,49.76
+3,984,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,199.79,2.93,29.71,245.65,50.81,58.47
+3,985,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,182.27,3.42,28.29,216.92,45.4,62.31
+3,986,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,182.27,2.74,28.61,273.86,57.32,49.92
+3,987,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,186.46,2.77,28.38,262.9,55.02,51.57
+3,988,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,267.48,2.03,43.72,377.93,80.49,54.32
+3,989,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,200.39,2.58,32.41,294.1,62.64,51.74
+3,990,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,206.78,2.55,33.25,296.49,63.15,52.65
+3,991,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,175.82,1.63,27.74,450.31,97.04,28.58
+3,992,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,169.36,2.62,26.66,279.01,60.13,44.34
+3,994,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,202.36,2.93,31.76,250.49,53.59,59.27
+3,995,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,208.78,2.86,32.6,255.35,54.63,59.67
+3,998,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,179.84,2.76,27.79,266.43,55.98,49.63
+3,999,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,176.69,2.88,27.0,252.33,53.02,50.91
+3,1000,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,194.02,2.27,30.15,312.75,68.5,44.02
+3,1001,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,199.5,2.63,31.41,273.62,59.93,52.41
+3,1002,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,207.16,2.08,32.88,347.6,76.13,43.19
+3,1003,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,175.48,3.04,27.53,249.09,51.68,53.28
+3,1004,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,172.37,2.25,27.21,338.79,70.28,38.72
+3,1005,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,172.37,2.57,27.75,302.57,62.77,44.22
+3,1006,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,186.38,2.76,30.41,278.9,59.01,51.53
+3,1007,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,186.38,2.86,30.92,274.5,58.08,53.24
+3,1008,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,1.0,183.21,2.56,31.03,312.85,66.19,46.87
+3,1009,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,2.0,129.74,3.23,19.07,210.98,45.55,41.85
+3,1010,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,3.0,132.98,2.06,18.98,320.52,69.21,27.43
+3,1011,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,1.0,127.58,2.88,18.3,230.93,49.86,36.69
+3,1012,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,2.0,99.9,4.69,13.51,132.99,28.83,46.87
+3,1013,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,3.0,99.9,4.7,13.73,134.78,29.22,46.98
+3,1017,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,1.0,2.0,199.15,2.53,27.68,244.72,55.01,50.32
+3,1018,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,1.0,3.0,184.54,3.71,25.75,167.23,37.59,68.5
+3,1092,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,178.25,3.48,83.8,654.42,135.28,61.94
+3,1093,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,183.68,2.91,103.45,923.89,193.44,53.48
+3,1094,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,181.59,2.9,101.5,920.21,192.67,52.68
+3,1095,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,176.35,3.23,96.13,804.94,168.54,57.04
+3,1096,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,199.5,2.89,127.64,1038.4,221.03,57.75
+3,1097,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,203.76,2.72,132.56,1123.18,239.07,55.45
+3,1098,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,198.86,2.83,126.92,1059.87,225.6,56.26
+3,1099,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,171.74,2.95,87.74,804.57,173.31,50.63
+3,1100,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,169.59,2.72,85.12,857.06,184.62,46.1
+3,1101,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,166.36,2.91,82.63,793.08,170.84,48.37
+3,1102,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,202.66,3.08,127.51,953.7,204.03,62.5
+3,1103,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,204.8,2.97,131.43,1011.35,216.37,60.74
+3,1104,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,199.45,2.81,123.46,1031.44,220.67,55.95
+3,1105,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,179.08,3.25,96.06,784.87,164.92,58.25
+3,1106,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,179.08,2.79,97.41,929.33,195.28,49.89
+3,1107,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,174.88,3.13,93.42,813.48,170.93,54.66
+3,1108,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,193.35,2.91,112.69,913.65,200.22,56.28
+3,1109,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,194.44,2.89,112.49,914.2,200.34,56.15
+3,1110,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,186.77,2.91,102.93,862.74,189.07,54.44
+3,1111,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,168.44,2.81,86.27,878.62,182.2,47.35
+3,1112,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,166.37,2.95,85.02,835.86,173.33,49.05
+3,1113,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,163.26,3.32,81.23,722.51,149.83,54.21
+3,1114,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,184.56,2.97,110.94,957.86,202.67,54.74
+3,1115,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,181.39,2.69,106.55,1032.46,218.46,48.77
+3,1116,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,1.0,173.98,3.11,98.83,864.58,182.93,54.02
+3,1117,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,2.0,126.7,3.26,43.69,490.66,105.86,41.27
+3,1118,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,3.0,121.31,2.74,39.94,557.54,120.29,33.2
+3,1119,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,1.0,123.47,3.6,39.96,416.76,89.91,44.44
+3,1120,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,2.0,103.52,4.97,28.85,258.62,56.09,51.44
+3,1121,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,3.0,100.27,5.1,27.0,243.44,52.8,51.13
+3,1125,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,2.0,2.0,184.85,3.49,87.09,601.2,135.15,64.44
+3,1126,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,2.0,3.0,184.85,3.67,87.74,574.67,129.19,67.92
+3,1200,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,198.4,3.1,109.0,856.98,177.3,61.48
+3,1201,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,180.9,2.77,104.06,993.11,207.93,50.04
+3,1202,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,180.9,2.64,103.33,1033.73,216.44,47.74
+3,1203,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,181.95,2.93,104.1,932.69,195.28,53.31
+3,1204,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,201.96,2.92,133.73,1065.62,226.78,58.97
+3,1205,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,203.02,2.8,137.1,1134.66,241.47,56.78
+3,1206,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,244.52,2.15,207.02,1854.44,394.64,52.46
+3,1207,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,173.19,3.03,90.97,806.0,173.62,52.39
+3,1208,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,172.11,2.89,90.22,842.36,181.45,49.72
+3,1209,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,165.65,3.05,81.62,749.37,161.42,50.56
+3,1210,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,215.69,2.84,148.85,1136.96,243.05,61.24
+3,1211,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,207.14,2.88,135.13,1059.18,226.42,59.68
+3,1212,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,210.35,2.63,141.12,1193.74,255.18,55.3
+3,1213,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,178.5,3.33,97.27,777.78,163.53,59.48
+3,1214,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,184.81,2.98,108.18,933.3,196.23,55.13
+3,1215,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,182.71,3.16,102.91,847.38,178.16,57.76
+3,1216,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,197.99,2.71,120.79,1027.4,225.02,53.68
+3,1217,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,193.61,2.66,113.85,1010.87,221.4,51.42
+3,1218,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,193.61,2.85,115.32,953.71,208.88,55.21
+3,1219,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,178.2,2.64,101.12,1037.63,215.26,46.97
+3,1220,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,168.87,2.27,87.25,1097.98,227.78,38.3
+3,1221,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,169.9,2.69,89.31,941.38,195.29,45.73
+3,1222,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,186.06,2.08,114.06,1392.4,294.73,38.7
+3,1223,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,187.12,2.88,114.9,1008.3,213.43,53.83
+3,1224,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,1.0,183.94,2.54,111.28,1124.16,237.95,46.76
+3,1225,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,2.0,135.73,3.0,50.54,576.02,124.3,40.66
+3,1226,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,3.0,133.57,2.65,48.36,632.48,136.48,35.43
+3,1227,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,1.0,129.26,3.31,44.59,483.58,104.35,42.73
+3,1228,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,2.0,102.73,5.25,28.35,242.4,52.54,53.97
+3,1229,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,3.0,96.22,5.03,24.86,236.79,51.32,48.44
+3,1233,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,56.0,3.0,2.0,196.44,2.52,97.48,877.87,197.31,49.41
+3,1234,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,56.0,3.0,3.0,199.81,3.52,103.04,652.43,146.64,70.26
+4,1066,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,1.0,158.01,2.95,22.99,1.0,49.27,46.66
+4,1067,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,2.0,188.1,2.81,27.47,0.61,51.99,52.84
+4,1068,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,3.0,192.35,2.81,28.19,0.57,52.23,53.98
+4,1069,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,1.0,173.24,2.49,25.67,0.56,59.54,43.12
+4,1070,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,2.0,175.38,2.03,26.09,1.03,73.23,35.63
+4,1071,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,3.0,175.31,2.53,26.24,0.53,59.06,44.43
+4,1141,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,65.0,2.0,1.0,194.4,2.79,28.12,0.56,51.83,54.26
+4,1142,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,65.0,2.0,2.0,200.81,2.53,28.62,0.76,56.41,50.72
+4,1143,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,65.0,2.0,1.0,184.16,2.35,27.1,0.58,62.73,43.2
+4,1144,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,65.0,2.0,2.0,177.11,2.59,25.34,0.47,55.3,45.82
+4,1213,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,71.0,3.0,1.0,205.57,2.63,30.65,0.62,56.72,54.04
+4,1214,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,71.0,3.0,2.0,199.04,3.49,29.25,0.28,42.06,69.56
+4,1215,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,71.0,3.0,1.0,183.54,2.8,27.88,0.41,54.33,51.32
+4,1216,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,71.0,3.0,2.0,179.44,2.16,26.53,0.77,68.32,38.84
