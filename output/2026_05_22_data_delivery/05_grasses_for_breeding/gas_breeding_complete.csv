@@ -1,146 +1,146 @@
-subset,no,requisitioner,id_lab,id,tax_name,functional_group,batch,run,replication,ch4_8h_percentage,ch4_24h_percentage,gas_ml_g_dm_incubated_24h,part_fact,ch4_ml_g_dm_incubaed_24h,ch4_ml_g_ndf_digested_24h,methane_intensity,tddm
-3,80.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,1.0,13.7,15.9,210.97,2.76,30.23,243.55,51.93,58.21
-3,81.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,2.0,13.8,15.8,168.5,2.77,24.93,255.47,53.51,46.59
-3,82.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,3.0,14.0,16.1,157.84,3.19,23.27,220.6,46.15,50.42
-3,83.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,1.0,11.7,17.1,152.79,3.28,22.91,218.1,45.68,50.15
-3,84.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,2.0,13.7,17.0,163.28,3.24,23.64,207.76,44.66,52.92
-3,85.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,3.0,13.9,17.1,169.63,2.48,26.15,289.85,62.28,41.99
-3,86.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,1.0,12.9,15.2,170.6,2.61,26.57,277.41,59.57,44.6
-3,87.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,2.0,12.4,15.1,199.23,2.68,28.0,241.89,52.41,53.42
-3,88.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,3.0,12.7,15.1,193.66,2.35,26.62,270.55,58.57,45.44
-3,92.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,1.0,14.1,14.9,126.92,1.57,19.19,444.55,96.53,19.88
-3,93.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,2.0,13.9,14.8,180.44,2.48,26.19,284.86,58.44,44.81
-3,94.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,3.0,13.5,14.7,177.36,2.39,25.48,293.32,60.18,42.35
-3,95.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,1.0,12.9,15.4,188.65,2.72,26.7,253.3,51.97,51.38
-3,96.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,2.0,12.9,15.3,205.19,2.16,29.35,320.06,66.37,44.22
-3,97.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,3.0,13.1,15.3,207.22,2.23,29.47,306.98,63.64,46.3
-3,185.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,1.0,13.7,16.0,201.54,2.78,29.0,242.55,51.69,56.1
-3,186.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,2.0,13.7,16.0,173.98,1.58,26.27,455.55,95.41,27.53
-3,187.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,3.0,14.0,16.1,157.04,2.4,23.66,300.27,62.82,37.66
-3,188.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,1.0,13.8,16.9,165.44,1.83,25.27,398.29,83.34,30.32
-3,189.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,2.0,13.7,17.0,157.05,2.44,24.67,299.62,64.4,38.31
-3,190.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,3.0,13.5,16.9,170.99,2.54,26.9,287.9,61.87,43.48
-3,191.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,1.0,12.4,15.1,168.87,1.5,26.38,482.91,103.8,25.42
-3,192.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,2.0,12.2,14.6,187.34,1.99,26.09,323.79,70.07,37.24
-3,193.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,3.0,12.3,14.0,192.75,2.56,26.14,244.71,52.96,49.36
-3,200.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,1.0,13.3,15.2,167.31,1.39,23.79,498.07,102.16,23.29
-3,201.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,2.0,12.7,15.1,190.8,2.32,27.66,301.61,62.51,44.25
-3,202.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,3.0,12.9,15.2,186.73,1.4,26.5,488.01,101.17,26.19
-3,290.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,1.0,13.1,15.5,209.84,2.88,29.71,231.0,49.21,60.37
-3,291.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,2.0,12.9,15.6,178.96,2.1,26.32,334.17,69.95,37.62
-3,292.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,3.0,13.0,15.4,189.54,2.78,27.83,252.26,52.84,52.67
-3,293.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,1.0,12.7,16.4,183.08,2.66,26.7,261.79,54.78,48.74
-3,294.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,2.0,12.9,16.6,171.81,1.91,25.93,368.3,79.1,32.78
-3,295.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,3.0,13.3,17.0,170.87,1.12,26.15,634.3,136.34,19.18
-3,296.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,1.0,11.8,14.7,159.05,3.04,24.99,240.1,51.61,48.41
-3,297.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,2.0,12.0,14.3,186.29,1.24,25.1,501.73,108.69,23.1
-3,298.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,3.0,11.5,14.3,188.42,2.86,25.28,216.72,46.94,53.87
-3,302.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,48.0,3.0,1.0,13.5,14.3,112.88,1.09,16.37,613.27,133.13,12.3
-3,304.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,48.0,3.0,3.0,13.8,14.2,170.21,2.92,23.65,231.75,47.53,49.76
-3,984.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,14.7,16.7,199.79,2.93,29.71,245.65,50.81,58.47
-3,985.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,15.0,16.7,182.27,3.42,28.29,216.92,45.4,62.31
-3,986.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,14.3,16.5,182.27,2.74,28.61,273.86,57.32,49.92
-3,987.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,14.8,17.8,186.46,2.77,28.38,262.9,55.02,51.57
-3,988.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,15.2,18.0,267.48,2.03,43.72,377.93,80.49,54.32
-3,989.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,14.9,18.3,200.39,2.58,32.41,294.1,62.64,51.74
-3,990.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,15.0,16.8,206.78,2.55,33.25,296.49,63.15,52.65
-3,991.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,15.2,16.5,175.82,1.63,27.74,450.31,97.04,28.58
-3,992.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,15.1,16.5,169.36,2.62,26.66,279.01,60.13,44.34
-3,994.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,14.7,17.2,202.36,2.93,31.76,250.49,53.59,59.27
-3,995.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,14.7,17.1,208.78,2.86,32.6,255.35,54.63,59.67
-3,998.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,14.4,16.5,179.84,2.76,27.79,266.43,55.98,49.63
-3,999.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,14.4,17.4,176.69,2.88,27.0,252.33,53.02,50.91
-3,1000.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,14.6,17.4,194.02,2.27,30.15,312.75,68.5,44.02
-3,1001.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,14.7,17.6,199.5,2.63,31.41,273.62,59.93,52.41
-3,1002.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,14.9,16.8,207.16,2.08,32.88,347.6,76.13,43.19
-3,1003.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,15.1,16.7,175.48,3.04,27.53,249.09,51.68,53.28
-3,1004.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,15.5,16.9,172.37,2.25,27.21,338.79,70.28,38.72
-3,1005.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,15.4,17.9,172.37,2.57,27.75,302.57,62.77,44.22
-3,1006.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,15.7,18.1,186.38,2.76,30.41,278.9,59.01,51.53
-3,1007.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,15.8,18.9,186.38,2.86,30.92,274.5,58.08,53.24
-3,1008.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,1.0,13.5,15.6,183.21,2.56,31.03,312.85,66.19,46.87
-3,1009.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,2.0,13.0,15.2,129.74,3.23,19.07,210.98,45.55,41.85
-3,1010.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,3.0,13.2,15.2,132.98,2.06,18.98,320.52,69.21,27.43
-3,1011.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,1.0,12.9,14.0,127.58,2.88,18.3,230.93,49.86,36.69
-3,1012.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,2.0,13.0,14.3,99.9,4.69,13.51,132.99,28.83,46.87
-3,1013.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,3.0,12.9,14.1,99.9,4.7,13.73,134.78,29.22,46.98
-3,1017.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,1.0,2.0,12.9,15.2,199.15,2.53,27.68,244.72,55.01,50.32
-3,1018.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,1.0,3.0,13.1,15.0,184.54,3.71,25.75,167.23,37.59,68.5
-3,1092.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,14.3,17.1,178.25,3.48,83.8,654.42,135.28,61.94
-3,1093.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,14.3,17.3,183.68,2.91,103.45,923.89,193.44,53.48
-3,1094.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,15.1,17.5,181.59,2.9,101.5,920.21,192.67,52.68
-3,1095.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,14.6,18.4,176.35,3.23,96.13,804.94,168.54,57.04
-3,1096.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,14.7,18.5,199.5,2.89,127.64,1038.4,221.03,57.75
-3,1097.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,14.6,18.7,203.76,2.72,132.56,1123.18,239.07,55.45
-3,1098.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,14.7,17.2,198.86,2.83,126.92,1059.87,225.6,56.26
-3,1099.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,14.5,17.2,171.74,2.95,87.74,804.57,173.31,50.63
-3,1100.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,15.3,17.3,169.59,2.72,85.12,857.06,184.62,46.1
-3,1101.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,14.2,17.5,166.36,2.91,82.63,793.08,170.84,48.37
-3,1102.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,14.2,17.3,202.66,3.08,127.51,953.7,204.03,62.5
-3,1103.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,14.5,17.4,204.8,2.97,131.43,1011.35,216.37,60.74
-3,1104.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,14.2,17.1,199.45,2.81,123.46,1031.44,220.67,55.95
-3,1105.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,14.2,17.0,179.08,3.25,96.06,784.87,164.92,58.25
-3,1106.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,14.8,17.1,179.08,2.79,97.41,929.33,195.28,49.89
-3,1107.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,14.2,17.8,174.88,3.13,93.42,813.48,170.93,54.66
-3,1108.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,14.2,17.6,193.35,2.91,112.69,913.65,200.22,56.28
-3,1109.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,14.7,17.7,194.44,2.89,112.49,914.2,200.34,56.15
-3,1110.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,14.9,17.1,186.77,2.91,102.93,862.74,189.07,54.44
-3,1111.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,14.9,17.1,168.44,2.81,86.27,878.62,182.2,47.35
-3,1112.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,15.6,17.1,166.37,2.95,85.02,835.86,173.33,49.05
-3,1113.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,15.2,18.7,163.26,3.32,81.23,722.51,149.83,54.21
-3,1114.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,15.2,18.7,184.56,2.97,110.94,957.86,202.67,54.74
-3,1115.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,15.8,18.9,181.39,2.69,106.55,1032.46,218.46,48.77
-3,1116.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,1.0,13.6,15.6,173.98,3.11,98.83,864.58,182.93,54.02
-3,1117.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,2.0,12.8,15.3,126.7,3.26,43.69,490.66,105.86,41.27
-3,1118.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,3.0,13.7,15.4,121.31,2.74,39.94,557.54,120.29,33.2
-3,1119.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,1.0,12.1,13.9,123.47,3.6,39.96,416.76,89.91,44.44
-3,1120.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,2.0,12.1,13.8,103.52,4.97,28.85,258.62,56.09,51.44
-3,1121.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,3.0,12.8,13.8,100.27,5.1,27.0,243.44,52.8,51.13
-3,1125.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,2.0,2.0,12.9,15.0,184.85,3.49,87.09,601.2,135.15,64.44
-3,1126.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,2.0,3.0,13.1,15.0,184.85,3.67,87.74,574.67,129.19,67.92
-3,1200.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,14.5,16.8,198.4,3.1,109.0,856.98,177.3,61.48
-3,1201.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,14.5,16.8,180.9,2.77,104.06,993.11,207.93,50.04
-3,1202.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,14.9,16.9,180.9,2.64,103.33,1033.73,216.44,47.74
-3,1203.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,14.9,17.9,181.95,2.93,104.1,932.69,195.28,53.31
-3,1204.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,14.3,18.0,201.96,2.92,133.73,1065.62,226.78,58.97
-3,1205.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,15.0,18.0,203.02,2.8,137.1,1134.66,241.47,56.78
-3,1206.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,14.8,17.0,244.52,2.15,207.02,1854.44,394.64,52.46
-3,1207.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,15.1,16.9,173.19,3.03,90.97,806.0,173.62,52.39
-3,1208.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,15.4,16.8,172.11,2.89,90.22,842.36,181.45,49.72
-3,1209.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,13.9,17.0,165.65,3.05,81.62,749.37,161.42,50.56
-3,1210.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,14.2,16.9,215.69,2.84,148.85,1136.96,243.05,61.24
-3,1211.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,14.1,17.0,207.14,2.88,135.13,1059.18,226.42,59.68
-3,1212.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,14.7,16.7,210.35,2.63,141.12,1193.74,255.18,55.3
-3,1213.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,14.3,16.9,178.5,3.33,97.27,777.78,163.53,59.48
-3,1214.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,14.3,16.7,184.81,2.98,108.18,933.3,196.23,55.13
-3,1215.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,14.6,17.3,182.71,3.16,102.91,847.38,178.16,57.76
-3,1216.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,14.8,17.4,197.99,2.71,120.79,1027.4,225.02,53.68
-3,1217.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,14.4,17.3,193.61,2.66,113.85,1010.87,221.4,51.42
-3,1218.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,14.6,17.0,193.61,2.85,115.32,953.71,208.88,55.21
-3,1219.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,15.2,16.6,178.2,2.64,101.12,1037.63,215.26,46.97
-3,1220.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,15.1,16.7,168.87,2.27,87.25,1097.98,227.78,38.3
-3,1221.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,15.1,17.8,169.9,2.69,89.31,941.38,195.29,45.73
-3,1222.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,15.2,17.9,186.06,2.08,114.06,1392.4,294.73,38.7
-3,1223.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,15.3,18.1,187.12,2.88,114.9,1008.3,213.43,53.83
-3,1224.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,1.0,13.6,15.9,183.94,2.54,111.28,1124.16,237.95,46.76
-3,1225.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,2.0,12.1,15.6,135.73,3.0,50.54,576.02,124.3,40.66
-3,1226.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,3.0,12.5,15.6,133.57,2.65,48.36,632.48,136.48,35.43
-3,1227.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,1.0,12.1,13.7,129.26,3.31,44.59,483.58,104.35,42.73
-3,1228.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,2.0,12.9,13.7,102.73,5.25,28.35,242.4,52.54,53.97
-3,1229.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,3.0,12.2,13.7,96.22,5.03,24.86,236.79,51.32,48.44
-3,1233.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,56.0,3.0,2.0,12.8,14.9,196.44,2.52,97.48,877.87,197.31,49.41
-3,1234.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,56.0,3.0,3.0,12.6,14.9,199.81,3.52,103.04,652.43,146.64,70.26
-4,1066.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,1.0,13.7,15.4,158.01,2.95,22.99,1.0,49.27,46.66
-4,1067.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,2.0,13.5,15.5,188.1,2.81,27.47,0.61,51.99,52.84
-4,1068.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,3.0,13.6,15.5,192.35,2.81,28.19,0.57,52.23,53.98
-4,1069.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,1.0,13.7,15.5,173.24,2.49,25.67,0.56,59.54,43.12
-4,1070.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,2.0,14.0,15.4,175.38,2.03,26.09,1.03,73.23,35.63
-4,1071.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,3.0,14.1,15.5,175.31,2.53,26.24,0.53,59.06,44.43
-4,1141.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,65.0,2.0,1.0,13.2,15.4,194.4,2.79,28.12,0.56,51.83,54.26
-4,1142.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,65.0,2.0,2.0,13.0,15.2,200.81,2.53,28.62,0.76,56.41,50.72
-4,1143.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,65.0,2.0,1.0,13.4,15.5,184.16,2.35,27.1,0.58,62.73,43.2
-4,1144.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,65.0,2.0,2.0,13.0,15.1,177.11,2.59,25.34,0.47,55.3,45.82
-4,1213.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,71.0,3.0,1.0,13.8,15.8,205.57,2.63,30.65,0.62,56.72,54.04
-4,1214.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,71.0,3.0,2.0,13.4,15.6,199.04,3.49,29.25,0.28,42.06,69.56
-4,1215.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,71.0,3.0,1.0,14.1,15.9,183.54,2.8,27.88,0.41,54.33,51.32
-4,1216.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,71.0,3.0,2.0,13.4,15.7,179.44,2.16,26.53,0.77,68.32,38.84
+subset,no,requisitioner,id_lab,id,tax_name,functional_group,batch,run,replication,gas_ml_g_dm_incubated_24h,part_fact,ch4_ml_g_dm_incubaed_24h,ch4_ml_g_ndf_digested_24h,methane_intensity,tddm
+3,80.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,1.0,210.97,2.76,30.23,243.55,51.93,58.21
+3,81.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,2.0,168.5,2.77,24.93,255.47,53.51,46.59
+3,82.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,46.0,1.0,3.0,157.84,3.19,23.27,220.6,46.15,50.42
+3,83.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,1.0,152.79,3.28,22.91,218.1,45.68,50.15
+3,84.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,2.0,163.28,3.24,23.64,207.76,44.66,52.92
+3,85.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,46.0,1.0,3.0,169.63,2.48,26.15,289.85,62.28,41.99
+3,86.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,1.0,170.6,2.61,26.57,277.41,59.57,44.6
+3,87.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,2.0,199.23,2.68,28.0,241.89,52.41,53.42
+3,88.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,46.0,1.0,3.0,193.66,2.35,26.62,270.55,58.57,45.44
+3,92.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,1.0,126.92,1.57,19.19,444.55,96.53,19.88
+3,93.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,2.0,180.44,2.48,26.19,284.86,58.44,44.81
+3,94.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,46.0,1.0,3.0,177.36,2.39,25.48,293.32,60.18,42.35
+3,95.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,1.0,188.65,2.72,26.7,253.3,51.97,51.38
+3,96.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,2.0,205.19,2.16,29.35,320.06,66.37,44.22
+3,97.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,46.0,1.0,3.0,207.22,2.23,29.47,306.98,63.64,46.3
+3,185.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,1.0,201.54,2.78,29.0,242.55,51.69,56.1
+3,186.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,2.0,173.98,1.58,26.27,455.55,95.41,27.53
+3,187.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,47.0,2.0,3.0,157.04,2.4,23.66,300.27,62.82,37.66
+3,188.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,1.0,165.44,1.83,25.27,398.29,83.34,30.32
+3,189.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,2.0,157.05,2.44,24.67,299.62,64.4,38.31
+3,190.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,47.0,2.0,3.0,170.99,2.54,26.9,287.9,61.87,43.48
+3,191.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,1.0,168.87,1.5,26.38,482.91,103.8,25.42
+3,192.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,2.0,187.34,1.99,26.09,323.79,70.07,37.24
+3,193.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,47.0,2.0,3.0,192.75,2.56,26.14,244.71,52.96,49.36
+3,200.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,1.0,167.31,1.39,23.79,498.07,102.16,23.29
+3,201.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,2.0,190.8,2.32,27.66,301.61,62.51,44.25
+3,202.0,Breeding,F25-2171,CIAT-BH-22-2531,Urochloa humidicola,Grass,47.0,2.0,3.0,186.73,1.4,26.5,488.01,101.17,26.19
+3,290.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,1.0,209.84,2.88,29.71,231.0,49.21,60.37
+3,291.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,2.0,178.96,2.1,26.32,334.17,69.95,37.62
+3,292.0,Breeding,F25-2096,CIAT-PM-21-4448,Megathyrsus maximus,Grass,48.0,3.0,3.0,189.54,2.78,27.83,252.26,52.84,52.67
+3,293.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,1.0,183.08,2.66,26.7,261.79,54.78,48.74
+3,294.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,2.0,171.81,1.91,25.93,368.3,79.1,32.78
+3,295.0,Breeding,F25-2101,CIAT-CIAT-16071,Megathyrsus maximus,Grass,48.0,3.0,3.0,170.87,1.12,26.15,634.3,136.34,19.18
+3,296.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,1.0,159.05,3.04,24.99,240.1,51.61,48.41
+3,297.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,2.0,186.29,1.24,25.1,501.73,108.69,23.1
+3,298.0,Breeding,F25-2105,CIAT-BR-09-4467,Brachiaria interespecifico,Grass,48.0,3.0,3.0,188.42,2.86,25.28,216.72,46.94,53.87
+3,302.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,48.0,3.0,1.0,112.88,1.09,16.37,613.27,133.13,12.3
+3,304.0,Breeding,F25-2170,CIAT-BH-22-0765,Urochloa humidicola,Grass,48.0,3.0,3.0,170.21,2.92,23.65,231.75,47.53,49.76
+3,984.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,199.79,2.93,29.71,245.65,50.81,58.47
+3,985.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,182.27,3.42,28.29,216.92,45.4,62.31
+3,986.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,182.27,2.74,28.61,273.86,57.32,49.92
+3,987.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,186.46,2.77,28.38,262.9,55.02,51.57
+3,988.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,267.48,2.03,43.72,377.93,80.49,54.32
+3,989.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,200.39,2.58,32.41,294.1,62.64,51.74
+3,990.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,206.78,2.55,33.25,296.49,63.15,52.65
+3,991.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,175.82,1.63,27.74,450.31,97.04,28.58
+3,992.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,169.36,2.62,26.66,279.01,60.13,44.34
+3,994.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,202.36,2.93,31.76,250.49,53.59,59.27
+3,995.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,208.78,2.86,32.6,255.35,54.63,59.67
+3,998.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,179.84,2.76,27.79,266.43,55.98,49.63
+3,999.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,176.69,2.88,27.0,252.33,53.02,50.91
+3,1000.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,194.02,2.27,30.15,312.75,68.5,44.02
+3,1001.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,199.5,2.63,31.41,273.62,59.93,52.41
+3,1002.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,207.16,2.08,32.88,347.6,76.13,43.19
+3,1003.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,175.48,3.04,27.53,249.09,51.68,53.28
+3,1004.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,172.37,2.25,27.21,338.79,70.28,38.72
+3,1005.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,1.0,172.37,2.57,27.75,302.57,62.77,44.22
+3,1006.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,2.0,186.38,2.76,30.41,278.9,59.01,51.53
+3,1007.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,1.0,3.0,186.38,2.86,30.92,274.5,58.08,53.24
+3,1008.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,1.0,183.21,2.56,31.03,312.85,66.19,46.87
+3,1009.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,2.0,129.74,3.23,19.07,210.98,45.55,41.85
+3,1010.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,1.0,3.0,132.98,2.06,18.98,320.52,69.21,27.43
+3,1011.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,1.0,127.58,2.88,18.3,230.93,49.86,36.69
+3,1012.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,2.0,99.9,4.69,13.51,132.99,28.83,46.87
+3,1013.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,1.0,3.0,99.9,4.7,13.73,134.78,29.22,46.98
+3,1017.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,1.0,2.0,199.15,2.53,27.68,244.72,55.01,50.32
+3,1018.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,1.0,3.0,184.54,3.71,25.75,167.23,37.59,68.5
+3,1092.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,178.25,3.48,83.8,654.42,135.28,61.94
+3,1093.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,183.68,2.91,103.45,923.89,193.44,53.48
+3,1094.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,181.59,2.9,101.5,920.21,192.67,52.68
+3,1095.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,176.35,3.23,96.13,804.94,168.54,57.04
+3,1096.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,199.5,2.89,127.64,1038.4,221.03,57.75
+3,1097.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,203.76,2.72,132.56,1123.18,239.07,55.45
+3,1098.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,198.86,2.83,126.92,1059.87,225.6,56.26
+3,1099.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,171.74,2.95,87.74,804.57,173.31,50.63
+3,1100.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,169.59,2.72,85.12,857.06,184.62,46.1
+3,1101.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,166.36,2.91,82.63,793.08,170.84,48.37
+3,1102.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,202.66,3.08,127.51,953.7,204.03,62.5
+3,1103.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,204.8,2.97,131.43,1011.35,216.37,60.74
+3,1104.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,199.45,2.81,123.46,1031.44,220.67,55.95
+3,1105.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,179.08,3.25,96.06,784.87,164.92,58.25
+3,1106.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,179.08,2.79,97.41,929.33,195.28,49.89
+3,1107.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,174.88,3.13,93.42,813.48,170.93,54.66
+3,1108.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,193.35,2.91,112.69,913.65,200.22,56.28
+3,1109.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,194.44,2.89,112.49,914.2,200.34,56.15
+3,1110.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,186.77,2.91,102.93,862.74,189.07,54.44
+3,1111.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,168.44,2.81,86.27,878.62,182.2,47.35
+3,1112.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,166.37,2.95,85.02,835.86,173.33,49.05
+3,1113.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,1.0,163.26,3.32,81.23,722.51,149.83,54.21
+3,1114.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,2.0,184.56,2.97,110.94,957.86,202.67,54.74
+3,1115.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,55.0,2.0,3.0,181.39,2.69,106.55,1032.46,218.46,48.77
+3,1116.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,1.0,173.98,3.11,98.83,864.58,182.93,54.02
+3,1117.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,2.0,126.7,3.26,43.69,490.66,105.86,41.27
+3,1118.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,55.0,2.0,3.0,121.31,2.74,39.94,557.54,120.29,33.2
+3,1119.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,1.0,123.47,3.6,39.96,416.76,89.91,44.44
+3,1120.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,2.0,103.52,4.97,28.85,258.62,56.09,51.44
+3,1121.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,55.0,2.0,3.0,100.27,5.1,27.0,243.44,52.8,51.13
+3,1125.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,2.0,2.0,184.85,3.49,87.09,601.2,135.15,64.44
+3,1126.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,55.0,2.0,3.0,184.85,3.67,87.74,574.67,129.19,67.92
+3,1200.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,198.4,3.1,109.0,856.98,177.3,61.48
+3,1201.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,180.9,2.77,104.06,993.11,207.93,50.04
+3,1202.0,Breeding,F25-2629,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,180.9,2.64,103.33,1033.73,216.44,47.74
+3,1203.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,181.95,2.93,104.1,932.69,195.28,53.31
+3,1204.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,201.96,2.92,133.73,1065.62,226.78,58.97
+3,1205.0,Breeding,F25-2630,CIAT-20692,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,203.02,2.8,137.1,1134.66,241.47,56.78
+3,1206.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,244.52,2.15,207.02,1854.44,394.64,52.46
+3,1207.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,173.19,3.03,90.97,806.0,173.62,52.39
+3,1208.0,Breeding,F25-2631,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,172.11,2.89,90.22,842.36,181.45,49.72
+3,1209.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,165.65,3.05,81.62,749.37,161.42,50.56
+3,1210.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,215.69,2.84,148.85,1136.96,243.05,61.24
+3,1211.0,Breeding,F25-2632,CIAT-17768,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,207.14,2.88,135.13,1059.18,226.42,59.68
+3,1212.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,210.35,2.63,141.12,1193.74,255.18,55.3
+3,1213.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,178.5,3.33,97.27,777.78,163.53,59.48
+3,1214.0,Breeding,F25-2633,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,184.81,2.98,108.18,933.3,196.23,55.13
+3,1215.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,182.71,3.16,102.91,847.38,178.16,57.76
+3,1216.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,197.99,2.71,120.79,1027.4,225.02,53.68
+3,1217.0,Breeding,F25-2634,CIAT-712,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,193.61,2.66,113.85,1010.87,221.4,51.42
+3,1218.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,193.61,2.85,115.32,953.71,208.88,55.21
+3,1219.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,178.2,2.64,101.12,1037.63,215.26,46.97
+3,1220.0,Breeding,F25-2635,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,168.87,2.27,87.25,1097.98,227.78,38.3
+3,1221.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,1.0,169.9,2.69,89.31,941.38,195.29,45.73
+3,1222.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,2.0,186.06,2.08,114.06,1392.4,294.73,38.7
+3,1223.0,Breeding,F25-2636,CIAT-9432,Clitoria ternatea ,Herbaceous_legumes,56.0,3.0,3.0,187.12,2.88,114.9,1008.3,213.43,53.83
+3,1224.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,1.0,183.94,2.54,111.28,1124.16,237.95,46.76
+3,1225.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,2.0,135.73,3.0,50.54,576.02,124.3,40.66
+3,1226.0,Breeding,F25-2637,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,56.0,3.0,3.0,133.57,2.65,48.36,632.48,136.48,35.43
+3,1227.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,1.0,129.26,3.31,44.59,483.58,104.35,42.73
+3,1228.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,2.0,102.73,5.25,28.35,242.4,52.54,53.97
+3,1229.0,Breeding,F25-2638,,Tithonia diversifolia,Shrub_Trees,56.0,3.0,3.0,96.22,5.03,24.86,236.79,51.32,48.44
+3,1233.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,56.0,3.0,2.0,196.44,2.52,97.48,877.87,197.31,49.41
+3,1234.0,Breeding,F25-2639,,Gliricidia sepium ,Shrub_Trees,56.0,3.0,3.0,199.81,3.52,103.04,652.43,146.64,70.26
+4,1066.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,1.0,158.01,2.95,22.99,1.0,49.27,46.66
+4,1067.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,2.0,188.1,2.81,27.47,0.61,51.99,52.84
+4,1068.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,64.0,1.0,3.0,192.35,2.81,28.19,0.57,52.23,53.98
+4,1069.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,1.0,173.24,2.49,25.67,0.56,59.54,43.12
+4,1070.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,2.0,175.38,2.03,26.09,1.03,73.23,35.63
+4,1071.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,64.0,1.0,3.0,175.31,2.53,26.24,0.53,59.06,44.43
+4,1141.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,65.0,2.0,1.0,194.4,2.79,28.12,0.56,51.83,54.26
+4,1142.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,65.0,2.0,2.0,200.81,2.53,28.62,0.76,56.41,50.72
+4,1143.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,65.0,2.0,1.0,184.16,2.35,27.1,0.58,62.73,43.2
+4,1144.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,65.0,2.0,2.0,177.11,2.59,25.34,0.47,55.3,45.82
+4,1213.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,71.0,3.0,1.0,205.57,2.63,30.65,0.62,56.72,54.04
+4,1214.0,Breeding,F25-2104,CIAT-BR-06-1348,Brachiaria interespecifico,Grass,71.0,3.0,2.0,199.04,3.49,29.25,0.28,42.06,69.56
+4,1215.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,71.0,3.0,1.0,183.54,2.8,27.88,0.41,54.33,51.32
+4,1216.0,Breeding,F25-2166,CIAT-BH-22-0528,Urochloa humidicola,Grass,71.0,3.0,2.0,179.44,2.16,26.53,0.77,68.32,38.84
