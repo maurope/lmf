@@ -1,346 +1,425 @@
-gender,species,id,subset,no,requisitioner,id_lab,tax_name,functional_group,batch,run,replication,gas_ml_g_dm_incubated_24h,part_fact,ch4_ml_g_dm_incubated_24h,ch4_ml_g_ndf_digested_24h,methane_intensity,tddm
-Stylosanthes,guianensis,CIAT-11313,3,707,Genetic bank,F24-3559,Stylosanthes guianensis,Herbaceous_legumes,52.0,1.0,1.0,203.13,2.26,29.59,293.67,64.37,45.97
-Stylosanthes,guianensis,CIAT-11313,3,708,Genetic bank,F24-3559,Stylosanthes guianensis,Herbaceous_legumes,52.0,1.0,2.0,158.73,3.04,22.31,212.81,46.16,48.33
-Stylosanthes,guianensis,CIAT-11313,3,709,Genetic bank,F24-3559,Stylosanthes guianensis,Herbaceous_legumes,52.0,1.0,3.0,166.36,2.95,22.35,209.65,45.48,49.15
-Stylosanthes,guianensis,CIAT-11313,3,812,Genetic bank,F24-3559,Stylosanthes guianensis,Herbaceous_legumes,53.0,2.0,1.0,202.42,2.83,29.27,233.3,51.14,57.24
-Stylosanthes,guianensis,CIAT-11313,3,813,Genetic bank,F24-3559,Stylosanthes guianensis,Herbaceous_legumes,53.0,2.0,2.0,165.62,1.98,22.18,311.33,67.53,32.84
-Stylosanthes,guianensis,CIAT-11313,3,814,Genetic bank,F24-3559,Stylosanthes guianensis,Herbaceous_legumes,53.0,2.0,3.0,167.72,2.81,22.2,217.04,47.06,47.18
-Stylosanthes,guianensis,CIAT-11313,3,920,Genetic bank,F24-3559,Stylosanthes guianensis,Herbaceous_legumes,54.0,3.0,1.0,203.44,2.77,28.54,231.46,50.69,56.31
-Stylosanthes,guianensis,CIAT-11313,3,921,Genetic bank,F24-3559,Stylosanthes guianensis,Herbaceous_legumes,54.0,3.0,2.0,165.73,2.16,22.47,290.03,62.92,35.72
-Stylosanthes,guianensis,CIAT-11313,3,922,Genetic bank,F24-3559,Stylosanthes guianensis,Herbaceous_legumes,54.0,3.0,3.0,164.65,3.06,22.37,204.61,44.39,50.4
-Stylosanthes,guianensis,CIAT-11417,3,710,Genetic bank,F24-3560,Stylosanthes guianensis,Herbaceous_legumes,52.0,1.0,1.0,155.48,3.12,20.93,199.22,43.21,48.44
-Stylosanthes,guianensis,CIAT-11417,3,711,Genetic bank,F24-3560,Stylosanthes guianensis,Herbaceous_legumes,52.0,1.0,2.0,149.02,3.37,18.42,167.69,36.65,50.25
-Stylosanthes,guianensis,CIAT-11417,3,712,Genetic bank,F24-3560,Stylosanthes guianensis,Herbaceous_legumes,52.0,1.0,3.0,155.58,2.29,19.21,247.15,54.02,35.56
-Stylosanthes,guianensis,CIAT-11417,3,815,Genetic bank,F24-3560,Stylosanthes guianensis,Herbaceous_legumes,53.0,2.0,1.0,162.33,1.61,21.54,380.36,82.49,26.11
-Stylosanthes,guianensis,CIAT-11417,3,816,Genetic bank,F24-3560,Stylosanthes guianensis,Herbaceous_legumes,53.0,2.0,2.0,152.65,3.13,18.51,177.24,38.73,47.79
-Stylosanthes,guianensis,CIAT-11417,3,817,Genetic bank,F24-3560,Stylosanthes guianensis,Herbaceous_legumes,53.0,2.0,3.0,124.27,2.05,15.16,272.2,59.49,25.49
-Stylosanthes,guianensis,CIAT-11417,3,923,Genetic bank,F24-3560,Stylosanthes guianensis,Herbaceous_legumes,54.0,3.0,1.0,166.78,2.37,22.63,263.66,57.19,39.57
-Stylosanthes,guianensis,CIAT-11417,3,924,Genetic bank,F24-3560,Stylosanthes guianensis,Herbaceous_legumes,54.0,3.0,2.0,166.9,2.92,20.22,189.63,41.43,48.81
-Stylosanthes,guianensis,CIAT-11417,3,925,Genetic bank,F24-3560,Stylosanthes guianensis,Herbaceous_legumes,54.0,3.0,3.0,152.61,3.28,18.52,169.45,37.0,50.06
-Stylosanthes,guianensis,CIAT-12311,3,1037,Genetic bank,F24-3572,Stylosanthes guianensis,Herbaceous_legumes,55.0,1.0,1.0,210.54,2.93,29.45,220.88,47.65,61.79
-Stylosanthes,guianensis,CIAT-12311,3,1038,Genetic bank,F24-3572,Stylosanthes guianensis,Herbaceous_legumes,55.0,1.0,2.0,197.28,2.89,27.53,221.79,48.3,56.99
-Stylosanthes,guianensis,CIAT-12311,3,1039,Genetic bank,F24-3572,Stylosanthes guianensis,Herbaceous_legumes,55.0,1.0,3.0,199.46,1.87,28.1,345.91,75.33,37.3
-Stylosanthes,guianensis,CIAT-12311,3,1145,Genetic bank,F24-3572,Stylosanthes guianensis,Herbaceous_legumes,55.0,2.0,1.0,205.53,3.0,106.63,800.6,172.8,61.71
-Stylosanthes,guianensis,CIAT-12311,3,1146,Genetic bank,F24-3572,Stylosanthes guianensis,Herbaceous_legumes,55.0,2.0,2.0,193.23,3.01,91.47,722.12,157.26,58.16
-Stylosanthes,guianensis,CIAT-12311,3,1147,Genetic bank,F24-3572,Stylosanthes guianensis,Herbaceous_legumes,55.0,2.0,3.0,199.76,2.85,97.27,785.56,171.08,56.86
-Stylosanthes,guianensis,CIAT-12311,3,1253,Genetic bank,F24-3572,Stylosanthes guianensis,Herbaceous_legumes,56.0,3.0,1.0,189.64,3.43,95.66,682.54,147.26,64.96
-Stylosanthes,guianensis,CIAT-12311,3,1254,Genetic bank,F24-3572,Stylosanthes guianensis,Herbaceous_legumes,56.0,3.0,2.0,178.47,2.65,80.68,783.73,170.78,47.24
-Stylosanthes,guianensis,CIAT-12311,3,1255,Genetic bank,F24-3572,Stylosanthes guianensis,Herbaceous_legumes,56.0,3.0,3.0,188.27,3.39,89.0,639.22,139.29,63.89
-Stylosanthes,guianensis,CIAT-12615,3,1055,Genetic bank,F24-3578,Stylosanthes guianensis,Herbaceous_legumes,55.0,1.0,1.0,153.46,3.56,21.34,183.35,39.03,54.68
-Stylosanthes,guianensis,CIAT-12615,3,1056,Genetic bank,F24-3578,Stylosanthes guianensis,Herbaceous_legumes,55.0,1.0,2.0,200.58,2.79,27.33,219.07,48.77,56.03
-Stylosanthes,guianensis,CIAT-12615,3,1057,Genetic bank,F24-3578,Stylosanthes guianensis,Herbaceous_legumes,55.0,1.0,3.0,199.46,2.67,27.02,227.97,50.76,53.24
-Stylosanthes,guianensis,CIAT-12615,3,1163,Genetic bank,F24-3578,Stylosanthes guianensis,Herbaceous_legumes,55.0,2.0,1.0,151.53,3.31,61.54,577.45,122.85,50.09
-Stylosanthes,guianensis,CIAT-12615,3,1164,Genetic bank,F24-3578,Stylosanthes guianensis,Herbaceous_legumes,55.0,2.0,2.0,173.19,3.04,70.7,601.88,134.11,52.72
-Stylosanthes,guianensis,CIAT-12615,3,1165,Genetic bank,F24-3578,Stylosanthes guianensis,Herbaceous_legumes,55.0,2.0,3.0,182.11,3.25,81.6,619.54,138.05,59.11
-Stylosanthes,guianensis,CIAT-12615,3,1271,Genetic bank,F24-3578,Stylosanthes guianensis,Herbaceous_legumes,56.0,3.0,1.0,163.64,3.64,68.18,537.7,114.42,59.59
-Stylosanthes,guianensis,CIAT-12615,3,1272,Genetic bank,F24-3578,Stylosanthes guianensis,Herbaceous_legumes,56.0,3.0,2.0,138.98,3.63,53.28,474.43,105.67,50.42
-Stylosanthes,guianensis,CIAT-12615,3,1273,Genetic bank,F24-3578,Stylosanthes guianensis,Herbaceous_legumes,56.0,3.0,3.0,180.19,2.26,77.66,854.61,190.35,40.8
-Stylosanthes,guianensis,CIAT-12758,3,1064,Genetic bank,F24-3581,Stylosanthes guianensis,Herbaceous_legumes,55.0,1.0,1.0,171.22,3.15,23.73,201.67,43.94,54.01
-Stylosanthes,guianensis,CIAT-12758,3,1065,Genetic bank,F24-3581,Stylosanthes guianensis,Herbaceous_legumes,55.0,1.0,2.0,175.22,3.1,20.79,174.83,38.25,54.36
-Stylosanthes,guianensis,CIAT-12758,3,1066,Genetic bank,F24-3581,Stylosanthes guianensis,Herbaceous_legumes,55.0,1.0,3.0,170.85,2.14,19.98,250.08,54.72,36.51
-Stylosanthes,guianensis,CIAT-12758,3,1172,Genetic bank,F24-3581,Stylosanthes guianensis,Herbaceous_legumes,55.0,2.0,1.0,167.2,2.77,74.96,743.25,161.96,46.28
-Stylosanthes,guianensis,CIAT-12758,3,1173,Genetic bank,F24-3581,Stylosanthes guianensis,Herbaceous_legumes,55.0,2.0,2.0,170.02,2.89,68.39,636.24,139.17,49.14
-Stylosanthes,guianensis,CIAT-12758,3,1174,Genetic bank,F24-3581,Stylosanthes guianensis,Herbaceous_legumes,55.0,2.0,3.0,161.27,2.08,65.8,898.45,196.53,33.48
-Stylosanthes,guianensis,CIAT-12758,3,1280,Genetic bank,F24-3581,Stylosanthes guianensis,Herbaceous_legumes,56.0,3.0,1.0,170.84,2.62,78.62,805.72,175.58,44.78
-Stylosanthes,guianensis,CIAT-12758,3,1281,Genetic bank,F24-3581,Stylosanthes guianensis,Herbaceous_legumes,56.0,3.0,2.0,153.99,2.93,60.37,612.03,133.88,45.1
-Stylosanthes,guianensis,CIAT-12758,3,1282,Genetic bank,F24-3581,Stylosanthes guianensis,Herbaceous_legumes,56.0,3.0,3.0,156.18,2.71,59.61,644.98,141.09,42.25
-Stylosanthes,guianensis,CIAT-1650,2,392,Genetic bank,F24-3542,Stylosanthes guianensis,Herbaceous_legumes,37.0,1.0,1.0,138.06,2.57,20.62,251.99,58.18,35.43
-Stylosanthes,guianensis,CIAT-1650,2,394,Genetic bank,F24-3542,Stylosanthes guianensis,Herbaceous_legumes,37.0,1.0,3.0,141.86,2.43,20.88,262.14,60.66,34.41
-Stylosanthes,guianensis,CIAT-1650,2,497,Genetic bank,F24-3542,Stylosanthes guianensis,Herbaceous_legumes,38.0,2.0,1.0,159.66,2.86,22.66,219.31,49.6,45.68
-Stylosanthes,guianensis,CIAT-1650,2,498,Genetic bank,F24-3542,Stylosanthes guianensis,Herbaceous_legumes,38.0,2.0,2.0,155.87,2.94,21.88,211.02,47.73,45.83
-Stylosanthes,guianensis,CIAT-1650,2,499,Genetic bank,F24-3542,Stylosanthes guianensis,Herbaceous_legumes,38.0,2.0,3.0,161.58,2.57,22.48,237.43,54.08,41.57
-Stylosanthes,guianensis,CIAT-1650,2,602,Genetic bank,F24-3542,Stylosanthes guianensis,Herbaceous_legumes,39.0,3.0,1.0,159.16,2.88,21.91,211.43,47.83,45.81
-Stylosanthes,guianensis,CIAT-1650,2,604,Genetic bank,F24-3542,Stylosanthes guianensis,Herbaceous_legumes,39.0,3.0,3.0,158.07,2.76,21.95,221.43,50.22,43.7
-Stylosanthes,guianensis,CIAT-1964,2,404,Genetic bank,F24-3546,Stylosanthes guianensis,Herbaceous_legumes,37.0,1.0,1.0,136.65,2.53,20.3,511.4,58.78,34.54
-Stylosanthes,guianensis,CIAT-1964,2,405,Genetic bank,F24-3546,Stylosanthes guianensis,Herbaceous_legumes,37.0,1.0,2.0,135.65,2.51,19.86,515.88,58.22,34.11
-Stylosanthes,guianensis,CIAT-1964,2,509,Genetic bank,F24-3546,Stylosanthes guianensis,Herbaceous_legumes,38.0,2.0,1.0,162.56,2.6,22.97,376.44,54.4,42.23
-Stylosanthes,guianensis,CIAT-1964,2,510,Genetic bank,F24-3546,Stylosanthes guianensis,Herbaceous_legumes,38.0,2.0,2.0,159.59,2.57,22.31,387.28,54.41,41.0
-Stylosanthes,guianensis,CIAT-1964,2,511,Genetic bank,F24-3546,Stylosanthes guianensis,Herbaceous_legumes,38.0,2.0,3.0,155.71,2.93,21.71,307.99,47.57,45.64
-Stylosanthes,guianensis,CIAT-2613,2,512,Genetic bank,F24-3547,Stylosanthes guianensis,Herbaceous_legumes,38.0,2.0,1.0,131.72,2.51,15.56,551.14,47.08,33.04
-Stylosanthes,guianensis,CIAT-2613,2,513,Genetic bank,F24-3547,Stylosanthes guianensis,Herbaceous_legumes,38.0,2.0,2.0,138.42,3.65,16.67,214.94,33.01,50.51
-Stylosanthes,guianensis,CIAT-2613,2,514,Genetic bank,F24-3547,Stylosanthes guianensis,Herbaceous_legumes,38.0,2.0,3.0,132.65,3.27,15.44,268.38,35.57,43.42
-Stylosanthes,guianensis,CIAT-2613,2,617,Genetic bank,F24-3547,Stylosanthes guianensis,Herbaceous_legumes,39.0,3.0,1.0,123.46,3.03,14.91,367.03,39.84,37.43
-Stylosanthes,guianensis,CIAT-2613,2,619,Genetic bank,F24-3547,Stylosanthes guianensis,Herbaceous_legumes,39.0,3.0,3.0,112.88,2.67,13.05,648.69,43.25,30.17
-Stylosanthes,hamata,CIAT-11199,3,696,Genetic bank,F24-3555,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,2.0,199.62,2.64,29.54,257.37,56.04,52.71
-Stylosanthes,hamata,CIAT-11199,3,697,Genetic bank,F24-3555,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,3.0,175.67,2.62,25.88,258.27,56.24,46.02
-Stylosanthes,hamata,CIAT-11199,3,801,Genetic bank,F24-3555,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,2.0,175.0,2.45,25.14,269.56,58.7,42.83
-Stylosanthes,hamata,CIAT-11199,3,802,Genetic bank,F24-3555,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,3.0,180.37,3.0,26.33,223.92,48.75,54.02
-Stylosanthes,hamata,CIAT-11199,3,909,Genetic bank,F24-3555,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,2.0,194.6,2.05,28.18,325.0,70.75,39.83
-Stylosanthes,hamata,CIAT-11199,3,910,Genetic bank,F24-3555,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,3.0,193.55,2.73,28.11,244.45,53.23,52.82
-Stylosanthes,hamata,CIAT-11215,3,698,Genetic bank,F24-3556,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,1.0,182.27,2.81,26.47,237.38,51.71,51.19
-Stylosanthes,hamata,CIAT-11215,3,699,Genetic bank,F24-3556,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,2.0,171.54,3.16,24.37,208.81,44.95,54.21
-Stylosanthes,hamata,CIAT-11215,3,700,Genetic bank,F24-3556,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,3.0,177.99,3.58,25.59,186.78,40.21,63.64
-Stylosanthes,hamata,CIAT-11215,3,803,Genetic bank,F24-3556,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,1.0,189.04,1.82,27.34,364.22,79.27,34.49
-Stylosanthes,hamata,CIAT-11215,3,804,Genetic bank,F24-3556,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,2.0,184.76,2.31,26.0,282.8,60.86,42.71
-Stylosanthes,hamata,CIAT-11215,3,805,Genetic bank,F24-3556,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,3.0,182.6,3.5,25.66,186.6,40.16,63.91
-Stylosanthes,hamata,CIAT-11215,3,911,Genetic bank,F24-3556,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,1.0,187.09,1.69,27.36,396.34,86.33,31.69
-Stylosanthes,hamata,CIAT-11215,3,912,Genetic bank,F24-3556,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,2.0,191.37,3.14,27.34,211.6,45.55,60.02
-Stylosanthes,hamata,CIAT-11215,3,913,Genetic bank,F24-3556,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,3.0,191.29,3.26,27.27,202.93,43.67,62.45
-Stylosanthes,hamata,CIAT-11220,3,701,Genetic bank,F24-3557,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,1.0,177.96,3.3,24.83,196.28,42.25,58.78
-Stylosanthes,hamata,CIAT-11220,3,702,Genetic bank,F24-3557,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,2.0,199.49,2.98,28.69,221.67,48.24,59.48
-Stylosanthes,hamata,CIAT-11220,3,703,Genetic bank,F24-3557,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,3.0,191.83,3.17,27.68,209.41,45.56,60.75
-Stylosanthes,hamata,CIAT-11220,3,806,Genetic bank,F24-3557,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,1.0,190.17,2.84,26.63,229.41,49.38,53.94
-Stylosanthes,hamata,CIAT-11220,3,807,Genetic bank,F24-3557,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,2.0,203.18,1.89,29.03,347.03,75.53,38.43
-Stylosanthes,hamata,CIAT-11220,3,808,Genetic bank,F24-3557,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,3.0,186.82,3.11,26.98,213.47,46.45,58.09
-Stylosanthes,hamata,CIAT-11220,3,914,Genetic bank,F24-3557,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,1.0,194.6,3.27,27.31,199.07,42.86,63.72
-Stylosanthes,hamata,CIAT-11220,3,915,Genetic bank,F24-3557,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,2.0,202.17,2.79,28.58,232.44,50.59,56.49
-Stylosanthes,hamata,CIAT-11220,3,916,Genetic bank,F24-3557,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,3.0,196.65,2.68,28.12,245.07,53.32,52.75
-Stylosanthes,hamata,CIAT-11232,3,704,Genetic bank,F24-3558,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,1.0,197.39,3.0,28.9,224.56,48.88,59.12
-Stylosanthes,hamata,CIAT-11232,3,705,Genetic bank,F24-3558,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,2.0,196.52,2.58,28.12,252.67,55.37,50.78
-Stylosanthes,hamata,CIAT-11232,3,706,Genetic bank,F24-3558,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,3.0,192.06,2.89,27.78,228.27,50.0,55.55
-Stylosanthes,hamata,CIAT-11232,3,809,Genetic bank,F24-3558,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,1.0,207.57,1.7,29.41,383.37,83.45,35.24
-Stylosanthes,hamata,CIAT-11232,3,810,Genetic bank,F24-3558,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,2.0,200.27,2.64,28.7,247.26,54.2,52.95
-Stylosanthes,hamata,CIAT-11232,3,811,Genetic bank,F24-3558,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,3.0,200.19,1.71,28.15,375.69,82.33,34.19
-Stylosanthes,hamata,CIAT-11232,3,917,Genetic bank,F24-3558,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,1.0,206.48,2.64,29.45,248.36,54.04,54.5
-Stylosanthes,hamata,CIAT-11232,3,918,Genetic bank,F24-3558,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,2.0,194.83,2.48,27.91,263.91,57.84,48.25
-Stylosanthes,hamata,CIAT-11232,3,919,Genetic bank,F24-3558,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,3.0,202.34,2.18,28.84,298.06,65.28,44.18
-Stylosanthes,hamata,CIAT-11762,3,719,Genetic bank,F24-3563,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,1.0,169.09,2.73,23.2,227.84,50.24,46.17
-Stylosanthes,hamata,CIAT-11762,3,720,Genetic bank,F24-3563,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,2.0,181.16,2.67,26.85,251.6,55.47,48.42
-Stylosanthes,hamata,CIAT-11762,3,721,Genetic bank,F24-3563,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,3.0,178.96,2.29,26.4,291.68,64.3,41.05
-Stylosanthes,hamata,CIAT-11762,3,824,Genetic bank,F24-3563,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,1.0,181.54,1.84,24.13,328.56,72.43,33.32
-Stylosanthes,hamata,CIAT-11762,3,825,Genetic bank,F24-3563,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,2.0,195.8,1.54,27.99,420.17,92.59,30.23
-Stylosanthes,hamata,CIAT-11762,3,826,Genetic bank,F24-3563,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,3.0,178.17,2.37,25.56,274.33,60.45,42.29
-Stylosanthes,hamata,CIAT-11762,3,932,Genetic bank,F24-3563,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,1.0,183.93,1.26,25.04,488.01,107.64,23.26
-Stylosanthes,hamata,CIAT-11762,3,933,Genetic bank,F24-3563,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,2.0,197.06,2.52,28.83,263.52,58.09,49.63
-Stylosanthes,hamata,CIAT-11762,3,934,Genetic bank,F24-3563,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,3.0,195.96,2.74,28.55,241.32,53.2,53.66
-Stylosanthes,hamata,CIAT-11778,3,722,Genetic bank,F24-3564,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,1.0,188.88,2.81,27.47,234.59,51.72,53.11
-Stylosanthes,hamata,CIAT-11778,3,723,Genetic bank,F24-3564,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,2.0,203.44,2.73,28.92,240.13,52.15,55.46
-Stylosanthes,hamata,CIAT-11778,3,724,Genetic bank,F24-3564,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,3.0,184.98,3.52,27.4,194.0,42.13,65.04
-Stylosanthes,hamata,CIAT-11778,3,827,Genetic bank,F24-3564,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,1.0,189.19,2.51,27.7,264.3,58.24,47.55
-Stylosanthes,hamata,CIAT-11778,3,828,Genetic bank,F24-3564,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,2.0,125.64,4.29,16.88,144.35,31.35,53.85
-Stylosanthes,hamata,CIAT-11778,3,829,Genetic bank,F24-3564,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,3.0,207.08,1.78,28.96,361.29,78.46,36.91
-Stylosanthes,hamata,CIAT-11778,3,935,Genetic bank,F24-3564,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,1.0,191.55,1.61,27.93,410.23,90.43,30.89
-Stylosanthes,hamata,CIAT-11778,3,936,Genetic bank,F24-3564,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,2.0,189.83,3.18,27.29,208.4,45.27,60.29
-Stylosanthes,hamata,CIAT-11778,3,937,Genetic bank,F24-3564,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,3.0,211.51,2.72,30.06,240.65,52.26,57.52
-Stylosanthes,hamata,CIAT-11784,3,725,Genetic bank,F24-3565,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,1.0,190.45,2.35,27.15,278.99,60.6,44.81
-Stylosanthes,hamata,CIAT-11784,3,726,Genetic bank,F24-3565,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,2.0,148.81,3.49,22.09,196.07,42.48,52.0
-Stylosanthes,hamata,CIAT-11784,3,727,Genetic bank,F24-3565,Stylosanthes hamata,Herbaceous_legumes,52.0,1.0,3.0,182.33,2.13,26.4,313.15,67.83,38.92
-Stylosanthes,hamata,CIAT-11784,3,830,Genetic bank,F24-3565,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,1.0,199.4,2.83,28.25,230.43,50.02,56.47
-Stylosanthes,hamata,CIAT-11784,3,831,Genetic bank,F24-3565,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,2.0,183.75,1.42,25.84,456.9,98.94,26.11
-Stylosanthes,hamata,CIAT-11784,3,832,Genetic bank,F24-3565,Stylosanthes hamata,Herbaceous_legumes,53.0,2.0,3.0,185.92,2.56,26.69,258.88,56.06,47.62
-Stylosanthes,hamata,CIAT-11784,3,938,Genetic bank,F24-3565,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,1.0,204.99,2.07,29.13,316.1,68.65,42.43
-Stylosanthes,hamata,CIAT-11784,3,939,Genetic bank,F24-3565,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,2.0,178.42,2.69,25.66,246.56,53.39,48.05
-Stylosanthes,hamata,CIAT-11784,3,940,Genetic bank,F24-3565,Stylosanthes hamata,Herbaceous_legumes,54.0,3.0,3.0,175.24,2.8,25.18,236.42,51.22,49.15
-Stylosanthes,hamata,CIAT-12374,3,1043,Genetic bank,F24-3574,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,1.0,209.25,2.49,30.57,271.3,58.77,52.01
-Stylosanthes,hamata,CIAT-12374,3,1044,Genetic bank,F24-3574,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,2.0,218.77,2.63,32.42,259.05,56.34,57.55
-Stylosanthes,hamata,CIAT-12374,3,1045,Genetic bank,F24-3574,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,3.0,216.59,2.76,32.48,250.28,54.43,59.68
-Stylosanthes,hamata,CIAT-12374,3,1151,Genetic bank,F24-3574,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,1.0,206.46,2.78,115.3,925.15,200.58,57.48
-Stylosanthes,hamata,CIAT-12374,3,1152,Genetic bank,F24-3574,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,2.0,209.24,2.99,116.48,856.63,186.27,62.53
-Stylosanthes,hamata,CIAT-12374,3,1153,Genetic bank,F24-3574,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,3.0,213.59,2.28,120.6,1136.69,247.17,48.79
-Stylosanthes,hamata,CIAT-12374,3,1259,Genetic bank,F24-3574,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,1.0,204.63,2.14,112.7,1184.87,256.84,43.88
-Stylosanthes,hamata,CIAT-12374,3,1260,Genetic bank,F24-3574,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,2.0,206.44,2.64,114.64,966.73,210.3,54.51
-Stylosanthes,hamata,CIAT-12374,3,1261,Genetic bank,F24-3574,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,3.0,205.35,2.92,112.35,861.15,187.33,59.97
-Stylosanthes,hamata,CIAT-12381,3,1040,Genetic bank,F24-3573,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,1.0,202.73,2.82,28.36,228.01,49.66,57.12
-Stylosanthes,hamata,CIAT-12381,3,1041,Genetic bank,F24-3573,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,2.0,211.41,2.58,30.96,262.08,56.78,54.53
-Stylosanthes,hamata,CIAT-12381,3,1042,Genetic bank,F24-3573,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,3.0,215.75,1.75,31.58,385.36,83.48,37.82
-Stylosanthes,hamata,CIAT-12381,3,1148,Genetic bank,F24-3573,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,1.0,189.96,3.02,92.74,743.25,161.87,57.29
-Stylosanthes,hamata,CIAT-12381,3,1149,Genetic bank,F24-3573,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,2.0,201.04,2.74,107.69,901.12,195.37,55.12
-Stylosanthes,hamata,CIAT-12381,3,1150,Genetic bank,F24-3573,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,3.0,209.71,2.71,117.38,953.0,206.62,56.81
-Stylosanthes,hamata,CIAT-12381,3,1256,Genetic bank,F24-3573,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,1.0,192.63,2.49,96.35,922.32,200.98,47.94
-Stylosanthes,hamata,CIAT-12381,3,1257,Genetic bank,F24-3573,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,2.0,202.46,2.67,106.09,903.72,195.9,54.15
-Stylosanthes,hamata,CIAT-12381,3,1258,Genetic bank,F24-3573,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,3.0,198.12,2.32,104.61,1048.59,227.3,46.02
-Stylosanthes,hamata,CIAT-12457,3,1046,Genetic bank,F24-3575,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,1.0,224.21,2.48,33.08,273.95,59.58,55.52
-Stylosanthes,hamata,CIAT-12457,3,1047,Genetic bank,F24-3575,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,2.0,208.27,2.97,30.56,231.22,49.35,61.93
-Stylosanthes,hamata,CIAT-12457,3,1048,Genetic bank,F24-3575,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,3.0,208.27,2.93,30.71,235.64,50.29,61.07
-Stylosanthes,hamata,CIAT-12457,3,1154,Genetic bank,F24-3575,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,1.0,210.33,2.58,116.96,989.91,215.25,54.34
-Stylosanthes,hamata,CIAT-12457,3,1155,Genetic bank,F24-3575,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,2.0,202.16,2.96,105.9,828.12,176.73,59.92
-Stylosanthes,hamata,CIAT-12457,3,1156,Genetic bank,F24-3575,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,3.0,198.96,2.52,104.7,977.11,208.53,50.21
-Stylosanthes,hamata,CIAT-12457,3,1262,Genetic bank,F24-3575,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,1.0,208.61,2.58,113.31,969.42,210.88,53.73
-Stylosanthes,hamata,CIAT-12457,3,1263,Genetic bank,F24-3575,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,2.0,194.94,2.87,100.42,841.43,179.47,55.96
-Stylosanthes,hamata,CIAT-12457,3,1264,Genetic bank,F24-3575,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,3.0,203.47,2.24,112.23,1152.06,245.72,45.68
-Stylosanthes,hamata,CIAT-12462,3,1049,Genetic bank,F24-3576,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,1.0,208.27,2.77,30.71,249.23,53.19,57.74
-Stylosanthes,hamata,CIAT-12462,3,1050,Genetic bank,F24-3576,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,2.0,206.56,2.52,30.49,271.09,58.58,52.05
-Stylosanthes,hamata,CIAT-12462,3,1051,Genetic bank,F24-3576,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,3.0,207.64,2.95,30.32,228.84,49.45,61.32
-Stylosanthes,hamata,CIAT-12462,3,1157,Genetic bank,F24-3576,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,1.0,203.23,3.16,107.38,784.4,167.4,64.15
-Stylosanthes,hamata,CIAT-12462,3,1158,Genetic bank,F24-3576,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,2.0,200.22,3.02,107.35,821.08,177.29,60.55
-Stylosanthes,hamata,CIAT-12462,3,1159,Genetic bank,F24-3576,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,3.0,199.14,3.04,106.79,817.94,176.61,60.46
-Stylosanthes,hamata,CIAT-12462,3,1265,Genetic bank,F24-3576,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,1.0,196.01,3.2,100.84,753.36,160.68,62.76
-Stylosanthes,hamata,CIAT-12462,3,1266,Genetic bank,F24-3576,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,2.0,195.31,2.7,98.74,865.3,186.95,52.81
-Stylosanthes,hamata,CIAT-12462,3,1267,Genetic bank,F24-3576,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,3.0,194.23,3.22,99.01,733.33,158.44,62.49
-Stylosanthes,hamata,CIAT-12686,3,1058,Genetic bank,F24-3579,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,1.0,191.67,2.79,26.48,222.04,49.44,53.56
-Stylosanthes,hamata,CIAT-12686,3,1059,Genetic bank,F24-3579,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,2.0,202.41,2.71,27.95,231.95,50.98,54.83
-Stylosanthes,hamata,CIAT-12686,3,1060,Genetic bank,F24-3579,Stylosanthes hamata,Herbaceous_legumes,55.0,1.0,3.0,204.61,2.74,28.12,228.38,50.2,56.02
-Stylosanthes,hamata,CIAT-12686,3,1166,Genetic bank,F24-3579,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,1.0,185.45,3.2,82.56,623.73,138.98,59.4
-Stylosanthes,hamata,CIAT-12686,3,1167,Genetic bank,F24-3579,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,2.0,181.76,2.76,80.61,731.34,160.68,50.17
-Stylosanthes,hamata,CIAT-12686,3,1168,Genetic bank,F24-3579,Stylosanthes hamata,Herbaceous_legumes,55.0,2.0,3.0,193.85,2.77,89.17,756.02,166.11,53.68
-Stylosanthes,hamata,CIAT-12686,3,1274,Genetic bank,F24-3579,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,1.0,180.19,3.09,76.17,613.27,136.6,55.76
-Stylosanthes,hamata,CIAT-12686,3,1275,Genetic bank,F24-3579,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,2.0,180.05,2.37,81.5,869.34,191.12,42.64
-Stylosanthes,hamata,CIAT-12686,3,1276,Genetic bank,F24-3579,Stylosanthes hamata,Herbaceous_legumes,56.0,3.0,3.0,189.94,2.65,89.68,809.35,177.93,50.4
-Stylosanthes,hamata,CIAT-1467,3,109,Genetic bank,F24-3540,Stylosanthes hamata,Herbaceous_legumes,47.0,2.0,2.0,211.77,2.82,31.31,243.17,52.51,59.62
-Stylosanthes,hamata,CIAT-1467,3,110,Genetic bank,F24-3540,Stylosanthes hamata,Herbaceous_legumes,47.0,2.0,3.0,205.09,2.8,30.78,248.09,53.52,57.5
-Stylosanthes,hamata,CIAT-1467,3,214,Genetic bank,F24-3540,Stylosanthes hamata,Herbaceous_legumes,48.0,3.0,2.0,213.78,2.6,29.0,241.88,52.23,55.51
-Stylosanthes,hamata,CIAT-1467,3,215,Genetic bank,F24-3540,Stylosanthes hamata,Herbaceous_legumes,48.0,3.0,3.0,204.98,2.77,29.39,239.6,51.7,56.84
-Stylosanthes,hamata,CIAT-1475,3,6,Genetic bank,F24-3541,Stylosanthes hamata,Herbaceous_legumes,46.0,1.0,1.0,220.07,2.86,32.51,239.57,51.71,62.87
-Stylosanthes,hamata,CIAT-1475,3,7,Genetic bank,F24-3541,Stylosanthes hamata,Herbaceous_legumes,46.0,1.0,2.0,211.37,2.62,31.18,256.05,56.4,55.28
-Stylosanthes,hamata,CIAT-1475,3,8,Genetic bank,F24-3541,Stylosanthes hamata,Herbaceous_legumes,46.0,1.0,3.0,208.96,2.91,31.14,232.66,51.2,60.83
-Stylosanthes,hamata,CIAT-1475,3,111,Genetic bank,F24-3541,Stylosanthes hamata,Herbaceous_legumes,47.0,2.0,1.0,213.76,2.69,32.03,258.23,55.72,57.49
-Stylosanthes,hamata,CIAT-1475,3,112,Genetic bank,F24-3541,Stylosanthes hamata,Herbaceous_legumes,47.0,2.0,2.0,198.25,2.7,29.45,249.86,55.0,53.56
-Stylosanthes,hamata,CIAT-1475,3,113,Genetic bank,F24-3541,Stylosanthes hamata,Herbaceous_legumes,47.0,2.0,3.0,202.81,2.47,30.27,274.81,60.54,49.99
-Stylosanthes,hamata,CIAT-1475,3,216,Genetic bank,F24-3541,Stylosanthes hamata,Herbaceous_legumes,48.0,3.0,1.0,207.14,2.84,29.88,235.54,50.82,58.79
-Stylosanthes,hamata,CIAT-1475,3,217,Genetic bank,F24-3541,Stylosanthes hamata,Herbaceous_legumes,48.0,3.0,2.0,197.03,2.74,28.34,238.42,52.49,53.99
-Stylosanthes,hamata,CIAT-1475,3,218,Genetic bank,F24-3541,Stylosanthes hamata,Herbaceous_legumes,48.0,3.0,3.0,197.11,2.72,28.61,242.66,53.45,53.53
-Stylosanthes,hamata,CIAT-172,2,488,Genetic bank,F24-3539,Stylosanthes hamata,Herbaceous_legumes,38.0,2.0,1.0,160.08,2.91,23.23,278.71,49.91,46.54
-Stylosanthes,hamata,CIAT-172,2,489,Genetic bank,F24-3539,Stylosanthes hamata,Herbaceous_legumes,38.0,2.0,2.0,169.79,2.59,24.46,318.99,55.69,43.93
-Stylosanthes,hamata,CIAT-172,2,490,Genetic bank,F24-3539,Stylosanthes hamata,Herbaceous_legumes,38.0,2.0,3.0,160.08,2.4,22.65,360.67,58.88,38.47
-Stylosanthes,hamata,CIAT-172,2,593,Genetic bank,F24-3539,Stylosanthes hamata,Herbaceous_legumes,39.0,3.0,1.0,157.25,1.27,22.08,1393.9,110.28,20.02
-Stylosanthes,hamata,CIAT-172,2,594,Genetic bank,F24-3539,Stylosanthes hamata,Herbaceous_legumes,39.0,3.0,2.0,171.06,2.54,24.08,319.65,55.47,43.42
-Stylosanthes,hamata,CIAT-172,2,595,Genetic bank,F24-3539,Stylosanthes hamata,Herbaceous_legumes,39.0,3.0,3.0,166.17,2.55,23.45,321.85,55.24,42.44
-Stylosanthes,humilis,CIAT-10440,3,675,Genetic bank,F24-3549,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,1.0,214.29,2.88,29.4,213.78,47.63,61.72
-Stylosanthes,humilis,CIAT-10440,3,676,Genetic bank,F24-3549,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,2.0,204.21,2.31,28.77,274.74,60.87,47.27
-Stylosanthes,humilis,CIAT-10440,3,677,Genetic bank,F24-3549,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,3.0,202.08,3.01,28.53,211.89,46.96,60.75
-Stylosanthes,humilis,CIAT-10440,3,780,Genetic bank,F24-3549,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,1.0,212.49,1.61,28.92,378.99,84.46,34.24
-Stylosanthes,humilis,CIAT-10440,3,781,Genetic bank,F24-3549,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,2.0,200.13,3.06,27.41,201.91,44.72,61.28
-Stylosanthes,humilis,CIAT-10440,3,782,Genetic bank,F24-3549,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,3.0,206.73,2.37,28.04,258.14,57.17,49.04
-Stylosanthes,humilis,CIAT-10440,3,888,Genetic bank,F24-3549,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,1.0,206.92,1.71,28.37,360.2,80.24,35.36
-Stylosanthes,humilis,CIAT-10440,3,889,Genetic bank,F24-3549,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,2.0,191.39,2.91,26.3,213.38,47.27,55.63
-Stylosanthes,humilis,CIAT-10440,3,890,Genetic bank,F24-3549,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,3.0,196.81,2.99,27.0,206.95,45.82,58.93
-Stylosanthes,humilis,CIAT-11624,3,713,Genetic bank,F24-3561,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,1.0,143.55,3.33,17.44,166.87,36.47,47.83
-Stylosanthes,humilis,CIAT-11624,3,714,Genetic bank,F24-3561,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,2.0,165.47,2.85,21.66,211.71,45.99,47.11
-Stylosanthes,humilis,CIAT-11624,3,715,Genetic bank,F24-3561,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,3.0,160.07,3.74,21.63,166.48,36.17,59.81
-Stylosanthes,humilis,CIAT-11624,3,818,Genetic bank,F24-3561,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,1.0,153.65,3.14,19.18,181.92,39.73,48.26
-Stylosanthes,humilis,CIAT-11624,3,819,Genetic bank,F24-3561,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,2.0,182.17,1.64,23.49,361.96,78.64,29.87
-Stylosanthes,humilis,CIAT-11624,3,820,Genetic bank,F24-3561,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,3.0,187.64,3.37,24.49,178.3,38.74,63.21
-Stylosanthes,humilis,CIAT-11624,3,926,Genetic bank,F24-3561,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,1.0,154.89,2.31,18.6,238.2,52.04,35.74
-Stylosanthes,humilis,CIAT-11624,3,927,Genetic bank,F24-3561,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,2.0,188.73,3.04,25.2,202.2,43.92,57.38
-Stylosanthes,humilis,CIAT-11624,3,928,Genetic bank,F24-3561,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,3.0,190.94,2.45,25.4,249.54,54.21,46.86
-Stylosanthes,humilis,CIAT-11690,3,716,Genetic bank,F24-3562,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,1.0,175.28,2.98,23.95,211.11,45.86,52.23
-Stylosanthes,humilis,CIAT-11690,3,717,Genetic bank,F24-3562,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,2.0,173.54,2.45,23.3,248.79,54.88,42.45
-Stylosanthes,humilis,CIAT-11690,3,718,Genetic bank,F24-3562,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,3.0,170.13,3.02,22.93,202.5,44.64,51.37
-Stylosanthes,humilis,CIAT-11690,3,821,Genetic bank,F24-3562,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,1.0,181.05,1.64,23.88,369.77,80.32,29.73
-Stylosanthes,humilis,CIAT-11690,3,822,Genetic bank,F24-3562,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,2.0,178.27,1.89,24.09,323.52,71.33,33.77
-Stylosanthes,humilis,CIAT-11690,3,823,Genetic bank,F24-3562,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,3.0,178.3,3.13,23.71,192.7,42.49,55.78
-Stylosanthes,humilis,CIAT-11690,3,929,Genetic bank,F24-3562,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,1.0,184.43,3.2,24.49,190.93,41.48,59.05
-Stylosanthes,humilis,CIAT-11690,3,930,Genetic bank,F24-3562,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,2.0,183.82,2.78,25.07,222.46,49.04,51.13
-Stylosanthes,humilis,CIAT-11690,3,931,Genetic bank,F24-3562,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,3.0,181.69,2.16,24.84,286.88,63.26,39.27
-Stylosanthes,humilis,CIAT-12042,3,731,Genetic bank,F24-3567,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,1.0,176.81,3.28,24.78,196.18,42.73,57.98
-Stylosanthes,humilis,CIAT-12042,3,732,Genetic bank,F24-3567,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,2.0,166.69,1.5,22.44,411.14,89.96,24.95
-Stylosanthes,humilis,CIAT-12042,3,733,Genetic bank,F24-3567,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,3.0,165.6,2.29,22.63,272.92,59.72,37.9
-Stylosanthes,humilis,CIAT-12042,3,836,Genetic bank,F24-3567,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,1.0,184.78,1.88,25.48,337.47,73.49,34.67
-Stylosanthes,humilis,CIAT-12042,3,837,Genetic bank,F24-3567,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,2.0,166.05,1.79,21.79,335.02,73.34,29.71
-Stylosanthes,humilis,CIAT-12042,3,838,Genetic bank,F24-3567,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,3.0,188.92,2.52,24.62,236.44,51.73,47.6
-Stylosanthes,humilis,CIAT-12042,3,944,Genetic bank,F24-3567,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,1.0,191.39,2.79,27.36,235.07,51.19,53.44
-Stylosanthes,humilis,CIAT-12042,3,945,Genetic bank,F24-3567,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,2.0,180.25,3.32,24.23,185.05,40.48,59.86
-Stylosanthes,humilis,CIAT-12042,3,946,Genetic bank,F24-3567,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,3.0,186.85,1.75,24.7,346.0,75.71,32.63
-Stylosanthes,humilis,CIAT-12115,3,1026,Genetic bank,F24-3568,Stylosanthes humilis,Herbaceous_legumes,55.0,1.0,2.0,202.32,2.59,28.52,251.91,54.46,52.37
-Stylosanthes,humilis,CIAT-12115,3,1027,Genetic bank,F24-3568,Stylosanthes humilis,Herbaceous_legumes,55.0,1.0,3.0,202.32,2.81,28.26,230.32,49.79,56.76
-Stylosanthes,humilis,CIAT-12115,3,1134,Genetic bank,F24-3568,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,2.0,202.5,2.79,101.89,834.56,180.31,56.51
-Stylosanthes,humilis,CIAT-12115,3,1135,Genetic bank,F24-3568,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,3.0,204.23,2.26,103.62,1040.48,224.8,46.09
-Stylosanthes,humilis,CIAT-12115,3,1242,Genetic bank,F24-3568,Stylosanthes humilis,Herbaceous_legumes,56.0,3.0,2.0,178.14,3.49,89.36,665.84,143.95,62.08
-Stylosanthes,humilis,CIAT-12115,3,1243,Genetic bank,F24-3568,Stylosanthes humilis,Herbaceous_legumes,56.0,3.0,3.0,194.35,2.3,97.55,1009.0,218.13,44.72
-Stylosanthes,humilis,CIAT-12140,3,1029,Genetic bank,F24-3569,Stylosanthes humilis,Herbaceous_legumes,55.0,1.0,2.0,197.82,3.06,27.43,207.34,45.28,60.58
-Stylosanthes,humilis,CIAT-12140,3,1030,Genetic bank,F24-3569,Stylosanthes humilis,Herbaceous_legumes,55.0,1.0,3.0,196.72,3.29,26.96,190.98,41.7,64.65
-Stylosanthes,humilis,CIAT-12140,3,1136,Genetic bank,F24-3569,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,1.0,208.98,2.99,112.51,832.41,179.85,62.56
-Stylosanthes,humilis,CIAT-12140,3,1137,Genetic bank,F24-3569,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,2.0,188.33,3.45,93.43,658.25,143.77,64.99
-Stylosanthes,humilis,CIAT-12140,3,1138,Genetic bank,F24-3569,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,3.0,198.16,2.89,103.88,830.99,181.5,57.23
-Stylosanthes,humilis,CIAT-12140,3,1244,Genetic bank,F24-3569,Stylosanthes humilis,Herbaceous_legumes,56.0,3.0,1.0,204.08,3.13,110.83,801.48,173.27,63.96
-Stylosanthes,humilis,CIAT-12140,3,1245,Genetic bank,F24-3569,Stylosanthes humilis,Herbaceous_legumes,56.0,3.0,2.0,185.39,3.43,92.09,663.99,144.99,63.51
-Stylosanthes,humilis,CIAT-12184,3,1031,Genetic bank,F24-3570,Stylosanthes humilis,Herbaceous_legumes,55.0,1.0,1.0,183.62,2.23,25.22,282.3,61.65,40.91
-Stylosanthes,humilis,CIAT-12184,3,1032,Genetic bank,F24-3570,Stylosanthes humilis,Herbaceous_legumes,55.0,1.0,2.0,208.72,2.88,29.79,229.1,49.51,60.18
-Stylosanthes,humilis,CIAT-12184,3,1033,Genetic bank,F24-3570,Stylosanthes humilis,Herbaceous_legumes,55.0,1.0,3.0,204.39,2.9,29.06,227.23,49.1,59.18
-Stylosanthes,humilis,CIAT-12184,3,1139,Genetic bank,F24-3570,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,1.0,197.07,3.19,103.13,750.49,163.92,62.91
-Stylosanthes,humilis,CIAT-12184,3,1140,Genetic bank,F24-3570,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,2.0,202.53,3.05,102.64,769.99,166.38,61.69
-Stylosanthes,humilis,CIAT-12184,3,1141,Genetic bank,F24-3570,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,3.0,209.01,3.01,105.14,772.24,166.87,63.01
-Stylosanthes,humilis,CIAT-12184,3,1247,Genetic bank,F24-3570,Stylosanthes humilis,Herbaceous_legumes,56.0,3.0,1.0,186.49,3.35,93.48,686.05,149.81,62.4
-Stylosanthes,humilis,CIAT-12184,3,1248,Genetic bank,F24-3570,Stylosanthes humilis,Herbaceous_legumes,56.0,3.0,2.0,196.38,2.54,102.09,948.26,204.87,49.83
-Stylosanthes,humilis,CIAT-12184,3,1249,Genetic bank,F24-3570,Stylosanthes humilis,Herbaceous_legumes,56.0,3.0,3.0,193.14,3.33,100.17,721.2,155.81,64.29
-Stylosanthes,humilis,CIAT-12202,3,1034,Genetic bank,F24-3571,Stylosanthes humilis,Herbaceous_legumes,55.0,1.0,1.0,204.39,2.61,28.86,250.47,54.12,53.33
-Stylosanthes,humilis,CIAT-12202,3,1035,Genetic bank,F24-3571,Stylosanthes humilis,Herbaceous_legumes,55.0,1.0,2.0,205.15,3.0,28.96,218.3,47.1,61.49
-Stylosanthes,humilis,CIAT-12202,3,1036,Genetic bank,F24-3571,Stylosanthes humilis,Herbaceous_legumes,55.0,1.0,3.0,199.76,2.59,28.11,251.97,54.36,51.72
-Stylosanthes,humilis,CIAT-12202,3,1142,Genetic bank,F24-3571,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,1.0,217.66,2.77,119.77,920.41,198.89,60.22
-Stylosanthes,humilis,CIAT-12202,3,1143,Genetic bank,F24-3571,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,2.0,203.37,2.83,103.99,835.7,180.37,57.65
-Stylosanthes,humilis,CIAT-12202,3,1144,Genetic bank,F24-3571,Stylosanthes humilis,Herbaceous_legumes,55.0,2.0,3.0,203.37,2.92,104.51,816.05,176.13,59.34
-Stylosanthes,humilis,CIAT-12202,3,1250,Genetic bank,F24-3571,Stylosanthes humilis,Herbaceous_legumes,56.0,3.0,1.0,186.66,2.43,95.64,974.5,210.53,45.43
-Stylosanthes,humilis,CIAT-12202,3,1251,Genetic bank,F24-3571,Stylosanthes humilis,Herbaceous_legumes,56.0,3.0,2.0,191.8,3.35,93.32,673.19,145.24,64.25
-Stylosanthes,humilis,CIAT-12202,3,1252,Genetic bank,F24-3571,Stylosanthes humilis,Herbaceous_legumes,56.0,3.0,3.0,178.85,2.46,85.68,903.21,194.87,43.97
-Stylosanthes,humilis,CIAT-1706,2,500,Genetic bank,F24-3543,Stylosanthes humilis,Herbaceous_legumes,38.0,2.0,1.0,162.16,2.95,23.19,225.61,48.44,47.87
-Stylosanthes,humilis,CIAT-1706,2,501,Genetic bank,F24-3543,Stylosanthes humilis,Herbaceous_legumes,38.0,2.0,2.0,163.18,2.81,23.65,240.54,51.65,45.8
-Stylosanthes,humilis,CIAT-1706,2,502,Genetic bank,F24-3543,Stylosanthes humilis,Herbaceous_legumes,38.0,2.0,3.0,160.19,2.67,22.68,247.61,53.09,42.72
-Stylosanthes,humilis,CIAT-1706,2,605,Genetic bank,F24-3543,Stylosanthes humilis,Herbaceous_legumes,39.0,3.0,1.0,155.82,1.77,21.93,372.59,79.46,27.61
-Stylosanthes,humilis,CIAT-1706,2,606,Genetic bank,F24-3543,Stylosanthes humilis,Herbaceous_legumes,39.0,3.0,2.0,160.52,1.95,22.61,337.98,72.18,31.32
-Stylosanthes,humilis,CIAT-1706,2,607,Genetic bank,F24-3543,Stylosanthes humilis,Herbaceous_legumes,39.0,3.0,3.0,157.79,2.67,21.94,242.67,52.04,42.16
-Stylosanthes,humilis,CIAT-1727,2,398,Genetic bank,F24-3544,Stylosanthes humilis,Herbaceous_legumes,37.0,1.0,1.0,153.13,2.13,23.68,325.9,72.69,32.58
-Stylosanthes,humilis,CIAT-1727,2,399,Genetic bank,F24-3544,Stylosanthes humilis,Herbaceous_legumes,37.0,1.0,2.0,146.38,2.23,22.66,311.77,69.52,32.59
-Stylosanthes,humilis,CIAT-1727,2,400,Genetic bank,F24-3544,Stylosanthes humilis,Herbaceous_legumes,37.0,1.0,3.0,149.26,2.23,23.52,316.81,70.58,33.33
-Stylosanthes,humilis,CIAT-1727,2,503,Genetic bank,F24-3544,Stylosanthes humilis,Herbaceous_legumes,38.0,2.0,1.0,167.95,2.37,24.59,279.55,61.88,39.74
-Stylosanthes,humilis,CIAT-1727,2,504,Genetic bank,F24-3544,Stylosanthes humilis,Herbaceous_legumes,38.0,2.0,2.0,164.18,2.74,24.03,242.11,53.41,44.99
-Stylosanthes,humilis,CIAT-1727,2,505,Genetic bank,F24-3544,Stylosanthes humilis,Herbaceous_legumes,38.0,2.0,3.0,167.95,2.48,25.01,271.99,60.12,41.61
-Stylosanthes,humilis,CIAT-1727,2,608,Genetic bank,F24-3544,Stylosanthes humilis,Herbaceous_legumes,39.0,3.0,1.0,161.7,1.63,23.46,394.31,88.76,26.43
-Stylosanthes,humilis,CIAT-1727,2,609,Genetic bank,F24-3544,Stylosanthes humilis,Herbaceous_legumes,39.0,3.0,2.0,166.47,2.86,23.96,228.59,50.34,47.61
-Stylosanthes,humilis,CIAT-1727,2,610,Genetic bank,F24-3544,Stylosanthes humilis,Herbaceous_legumes,39.0,3.0,3.0,164.45,1.61,13.57,228.19,51.32,26.45
-Stylosanthes,humilis,CIAT-1803,,,,,,,,,,,,,,,
-Stylosanthes,humilis,CIAT-2783,3,673,Genetic bank,F24-3548,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,2.0,220.93,3.03,30.65,205.54,45.79,66.94
-Stylosanthes,humilis,CIAT-2783,3,674,Genetic bank,F24-3548,Stylosanthes humilis,Herbaceous_legumes,52.0,1.0,3.0,217.59,1.87,29.83,329.56,73.41,40.63
-Stylosanthes,humilis,CIAT-2783,3,778,Genetic bank,F24-3548,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,2.0,214.59,1.47,29.08,413.76,92.15,31.56
-Stylosanthes,humilis,CIAT-2783,3,779,Genetic bank,F24-3548,Stylosanthes humilis,Herbaceous_legumes,53.0,2.0,3.0,221.36,2.79,30.1,218.47,48.68,61.83
-Stylosanthes,humilis,CIAT-2783,3,886,Genetic bank,F24-3548,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,2.0,204.78,2.23,27.91,273.79,61.01,45.74
-Stylosanthes,humilis,CIAT-2783,3,887,Genetic bank,F24-3548,Stylosanthes humilis,Herbaceous_legumes,54.0,3.0,3.0,211.42,2.73,29.33,228.08,50.82,57.71
-Stylosanthes,scabra,CIAT-10613,3,678,Genetic bank,F24-3550,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,1.0,21.44,20.82,2.8,28.34,6.28,44.64
-Stylosanthes,scabra,CIAT-10613,3,679,Genetic bank,F24-3550,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,2.0,169.33,2.93,23.78,222.92,47.98,49.57
-Stylosanthes,scabra,CIAT-10613,3,680,Genetic bank,F24-3550,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,3.0,165.16,3.01,23.44,219.21,47.22,49.64
-Stylosanthes,scabra,CIAT-10613,3,783,Genetic bank,F24-3550,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,1.0,201.12,3.35,27.55,184.74,40.89,67.37
-Stylosanthes,scabra,CIAT-10613,3,784,Genetic bank,F24-3550,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,2.0,173.11,2.33,23.84,274.68,59.18,40.28
-Stylosanthes,scabra,CIAT-10613,3,785,Genetic bank,F24-3550,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,3.0,170.95,1.94,23.43,328.45,70.76,33.11
-Stylosanthes,scabra,CIAT-10613,3,891,Genetic bank,F24-3550,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,1.0,195.9,2.19,27.21,286.38,63.47,42.86
-Stylosanthes,scabra,CIAT-10613,3,892,Genetic bank,F24-3550,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,2.0,169.79,2.77,23.67,233.68,50.29,47.06
-Stylosanthes,scabra,CIAT-10613,3,893,Genetic bank,F24-3550,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,3.0,168.81,1.97,23.42,327.82,70.59,33.18
-Stylosanthes,scabra,CIAT-10627,3,681,Genetic bank,F24-3551,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,1.0,169.5,1.87,23.5,343.77,74.06,31.73
-Stylosanthes,scabra,CIAT-10627,3,682,Genetic bank,F24-3551,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,2.0,168.4,2.92,23.3,221.63,47.44,49.12
-Stylosanthes,scabra,CIAT-10627,3,683,Genetic bank,F24-3551,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,3.0,165.22,2.71,22.81,238.0,50.95,44.77
-Stylosanthes,scabra,CIAT-10627,3,786,Genetic bank,F24-3551,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,1.0,172.94,1.43,23.62,443.97,95.55,24.72
-Stylosanthes,scabra,CIAT-10627,3,787,Genetic bank,F24-3551,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,2.0,166.7,2.94,22.39,213.71,45.76,48.93
-Stylosanthes,scabra,CIAT-10627,3,788,Genetic bank,F24-3551,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,3.0,163.57,2.67,22.25,238.43,51.01,43.62
-Stylosanthes,scabra,CIAT-10627,3,894,Genetic bank,F24-3551,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,1.0,173.05,2.67,23.92,240.58,51.79,46.18
-Stylosanthes,scabra,CIAT-10627,3,895,Genetic bank,F24-3551,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,2.0,159.13,3.07,21.35,204.32,43.71,48.85
-Stylosanthes,scabra,CIAT-10627,3,896,Genetic bank,F24-3551,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,3.0,163.6,2.74,21.69,225.56,48.31,44.9
-Stylosanthes,scabra,CIAT-10634,3,684,Genetic bank,F24-3552,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,1.0,157.7,3.18,22.47,209.35,44.81,50.15
-Stylosanthes,scabra,CIAT-10634,3,685,Genetic bank,F24-3552,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,2.0,192.7,2.29,26.09,274.76,59.04,44.2
-Stylosanthes,scabra,CIAT-10634,3,686,Genetic bank,F24-3552,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,3.0,187.36,3.31,25.63,192.43,41.36,61.98
-Stylosanthes,scabra,CIAT-10634,3,789,Genetic bank,F24-3552,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,1.0,166.6,3.22,22.22,193.75,41.46,53.58
-Stylosanthes,scabra,CIAT-10634,3,790,Genetic bank,F24-3552,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,2.0,195.23,2.18,25.8,282.18,60.64,42.54
-Stylosanthes,scabra,CIAT-10634,3,791,Genetic bank,F24-3552,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,3.0,192.08,3.16,25.63,196.16,42.17,60.79
-Stylosanthes,scabra,CIAT-10634,3,897,Genetic bank,F24-3552,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,1.0,161.46,2.82,21.89,224.76,48.14,45.47
-Stylosanthes,scabra,CIAT-10634,3,898,Genetic bank,F24-3552,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,2.0,180.19,2.07,24.65,306.9,65.92,37.39
-Stylosanthes,scabra,CIAT-10634,3,899,Genetic bank,F24-3552,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,3.0,187.71,3.2,25.52,197.53,42.43,60.16
-Stylosanthes,scabra,CIAT-10639,3,687,Genetic bank,F24-3553,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,1.0,198.11,3.05,27.28,210.17,45.17,60.39
-Stylosanthes,scabra,CIAT-10639,3,688,Genetic bank,F24-3553,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,2.0,190.3,2.41,27.82,282.74,60.67,45.86
-Stylosanthes,scabra,CIAT-10639,3,689,Genetic bank,F24-3553,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,3.0,194.51,2.92,27.99,230.1,49.36,56.71
-Stylosanthes,scabra,CIAT-10639,3,792,Genetic bank,F24-3553,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,1.0,195.3,2.43,26.07,255.85,55.0,47.4
-Stylosanthes,scabra,CIAT-10639,3,793,Genetic bank,F24-3553,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,2.0,194.93,2.88,27.44,228.02,48.92,56.08
-Stylosanthes,scabra,CIAT-10639,3,794,Genetic bank,F24-3553,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,3.0,188.45,3.02,26.84,219.73,47.13,56.95
-Stylosanthes,scabra,CIAT-10639,3,900,Genetic bank,F24-3553,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,1.0,183.6,2.18,25.38,294.56,63.33,40.08
-Stylosanthes,scabra,CIAT-10639,3,901,Genetic bank,F24-3553,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,2.0,187.38,2.8,26.49,235.5,50.5,52.46
-Stylosanthes,scabra,CIAT-10639,3,902,Genetic bank,F24-3553,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,3.0,186.42,2.6,26.78,257.66,55.28,48.44
-Stylosanthes,scabra,CIAT-10725,3,690,Genetic bank,F24-3554,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,1.0,186.97,2.56,26.93,262.01,56.19,47.93
-Stylosanthes,scabra,CIAT-10725,3,691,Genetic bank,F24-3554,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,2.0,168.12,2.38,24.2,279.61,60.52,39.98
-Stylosanthes,scabra,CIAT-10725,3,692,Genetic bank,F24-3554,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,3.0,156.18,3.3,22.83,204.77,44.31,51.53
-Stylosanthes,scabra,CIAT-10725,3,795,Genetic bank,F24-3554,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,1.0,191.63,2.28,27.09,289.22,62.03,43.68
-Stylosanthes,scabra,CIAT-10725,3,796,Genetic bank,F24-3554,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,2.0,166.2,3.23,23.48,202.24,43.74,53.68
-Stylosanthes,scabra,CIAT-10725,3,797,Genetic bank,F24-3554,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,3.0,160.82,3.22,22.48,200.75,43.42,51.77
-Stylosanthes,scabra,CIAT-10725,3,903,Genetic bank,F24-3554,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,1.0,184.31,3.18,25.94,206.0,44.21,58.69
-Stylosanthes,scabra,CIAT-10725,3,904,Genetic bank,F24-3554,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,2.0,162.08,1.81,22.88,360.97,78.12,29.29
-Stylosanthes,scabra,CIAT-10725,3,905,Genetic bank,F24-3554,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,3.0,152.34,3.28,21.52,199.22,43.12,49.92
-Stylosanthes,scabra,CIAT-11820,3,728,Genetic bank,F24-3566,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,1.0,171.46,2.01,25.42,341.4,73.93,34.38
-Stylosanthes,scabra,CIAT-11820,3,729,Genetic bank,F24-3566,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,2.0,181.17,3.3,25.89,198.97,43.34,59.75
-Stylosanthes,scabra,CIAT-11820,3,730,Genetic bank,F24-3566,Stylosanthes scabra,Herbaceous_legumes,52.0,1.0,3.0,176.81,1.77,24.73,361.89,78.82,31.37
-Stylosanthes,scabra,CIAT-11820,3,833,Genetic bank,F24-3566,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,1.0,179.46,1.72,25.62,382.14,82.77,30.95
-Stylosanthes,scabra,CIAT-11820,3,834,Genetic bank,F24-3566,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,2.0,186.92,2.86,25.73,221.14,48.15,53.45
-Stylosanthes,scabra,CIAT-11820,3,835,Genetic bank,F24-3566,Stylosanthes scabra,Herbaceous_legumes,53.0,2.0,3.0,173.93,2.38,23.87,264.61,57.63,41.41
-Stylosanthes,scabra,CIAT-11820,3,941,Genetic bank,F24-3566,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,1.0,178.49,2.65,25.9,252.75,54.76,47.29
-Stylosanthes,scabra,CIAT-11820,3,942,Genetic bank,F24-3566,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,2.0,190.27,2.73,26.34,232.67,50.66,51.99
-Stylosanthes,scabra,CIAT-11820,3,943,Genetic bank,F24-3566,Stylosanthes scabra,Herbaceous_legumes,54.0,3.0,3.0,185.91,2.36,25.85,270.71,58.94,43.85
-Stylosanthes,scabra,CIAT-12485,3,1052,Genetic bank,F24-3577,Stylosanthes scabra,Herbaceous_legumes,55.0,1.0,1.0,209.8,3.29,30.78,206.34,44.59,69.03
-Stylosanthes,scabra,CIAT-12485,3,1053,Genetic bank,F24-3577,Stylosanthes scabra,Herbaceous_legumes,55.0,1.0,2.0,164.1,3.08,22.78,211.79,45.09,50.53
-Stylosanthes,scabra,CIAT-12485,3,1054,Genetic bank,F24-3577,Stylosanthes scabra,Herbaceous_legumes,55.0,1.0,3.0,157.72,3.75,21.7,172.31,36.68,59.17
-Stylosanthes,scabra,CIAT-12485,3,1160,Genetic bank,F24-3577,Stylosanthes scabra,Herbaceous_legumes,55.0,2.0,1.0,202.38,2.81,109.62,891.87,192.57,56.92
-Stylosanthes,scabra,CIAT-12485,3,1161,Genetic bank,F24-3577,Stylosanthes scabra,Herbaceous_legumes,55.0,2.0,2.0,149.41,2.86,60.69,666.62,141.82,42.79
-Stylosanthes,scabra,CIAT-12485,3,1162,Genetic bank,F24-3577,Stylosanthes scabra,Herbaceous_legumes,55.0,2.0,3.0,150.47,2.85,61.55,674.07,143.41,42.92
-Stylosanthes,scabra,CIAT-12485,3,1268,Genetic bank,F24-3577,Stylosanthes scabra,Herbaceous_legumes,56.0,3.0,1.0,193.15,3.2,99.07,741.2,160.14,61.87
-Stylosanthes,scabra,CIAT-12485,3,1269,Genetic bank,F24-3577,Stylosanthes scabra,Herbaceous_legumes,56.0,3.0,2.0,146.61,3.05,61.47,645.42,137.34,44.76
-Stylosanthes,scabra,CIAT-12485,3,1270,Genetic bank,F24-3577,Stylosanthes scabra,Herbaceous_legumes,56.0,3.0,3.0,139.16,3.25,56.11,582.78,124.01,45.25
-Stylosanthes,scabra,CIAT-12710,3,1061,Genetic bank,F24-3580,Stylosanthes scabra,Herbaceous_legumes,55.0,1.0,1.0,194.72,2.09,27.07,302.64,66.52,40.7
-Stylosanthes,scabra,CIAT-12710,3,1169,Genetic bank,F24-3580,Stylosanthes scabra,Herbaceous_legumes,55.0,2.0,1.0,194.94,2.91,88.6,711.54,156.33,56.67
-Stylosanthes,scabra,CIAT-12710,3,1170,Genetic bank,F24-3580,Stylosanthes scabra,Herbaceous_legumes,55.0,2.0,2.0,163.93,3.1,71.46,645.32,140.62,50.82
-Stylosanthes,scabra,CIAT-12710,3,1171,Genetic bank,F24-3580,Stylosanthes scabra,Herbaceous_legumes,55.0,2.0,3.0,168.29,3.06,74.85,667.34,145.42,51.47
-Stylosanthes,scabra,CIAT-12710,3,1277,Genetic bank,F24-3580,Stylosanthes scabra,Herbaceous_legumes,56.0,3.0,1.0,181.15,2.51,81.87,818.86,180.02,45.48
-Stylosanthes,scabra,CIAT-12710,3,1278,Genetic bank,F24-3580,Stylosanthes scabra,Herbaceous_legumes,56.0,3.0,2.0,162.13,3.03,72.03,673.58,146.78,49.07
-Stylosanthes,scabra,CIAT-12710,3,1279,Genetic bank,F24-3580,Stylosanthes scabra,Herbaceous_legumes,56.0,3.0,3.0,169.75,2.52,75.98,814.26,177.44,42.82
+gender,species,id,sample_weight_g,undigested_dm_g,dm_incubated,digested_feed_mg,net_gas_8h_ml,net_gas_24h_ml,ch4_8h_ml,ch4_24h_ml,ch4_8h_percentage,ch4_24h_percentage,gas_ml_g_dm_incubated_24h,part_fact,ch4_ml_g_dm_incubated_24h,ch4_ml_g_ndf_digested_24h,methane_intensity,tddm
+Stylosanthes,guianensis,CIAT-11313,0.5,0.25,461.02,222.82,43.05,92.68,5.51,13.5,13.1,14.8,203.13,2.26,29.59,293.67,64.37,45.97
+Stylosanthes,guianensis,CIAT-11313,0.5,0.24,460.93,226.53,32.05,73.18,4.2,10.29,12.2,14.4,158.73,3.04,22.31,212.81,46.16,48.33
+Stylosanthes,guianensis,CIAT-11313,0.5,0.23,461.02,223.32,33.55,76.68,4.09,10.3,12.5,14.2,166.36,2.95,22.35,209.65,45.48,49.15
+Stylosanthes,guianensis,CIAT-11313,0.5,0.2,461.02,151.42,39.51,92.35,5.06,13.35,12.4,14.0,202.42,2.83,29.27,233.3,51.14,57.24
+Stylosanthes,guianensis,CIAT-11313,0.5,0.31,461.2,217.6,29.01,76.35,3.6,10.23,12.1,14.0,165.62,1.98,22.18,311.33,67.53,32.84
+Stylosanthes,guianensis,CIAT-11313,0.5,0.24,461.11,120.41,31.01,77.35,3.75,10.24,12.3,13.9,167.72,2.81,22.2,217.04,47.06,47.18
+Stylosanthes,guianensis,CIAT-11313,0.5,0.2,460.93,164.63,41.66,92.89,5.04,13.03,11.9,14.8,203.44,2.77,28.54,231.46,50.69,56.31
+Stylosanthes,guianensis,CIAT-11313,0.5,0.3,460.93,232.33,32.66,76.39,3.89,10.36,11.9,14.9,165.73,2.16,22.47,290.03,62.92,35.72
+Stylosanthes,guianensis,CIAT-11313,0.5,0.23,461.02,182.42,33.16,75.89,3.95,10.31,11.9,14.8,164.65,3.06,22.37,204.61,44.39,50.4
+Stylosanthes,guianensis,CIAT-11417,0.5,0.24,457.51,229.91,31.05,71.68,3.88,9.65,12.7,12.1,155.48,3.12,20.93,199.22,43.21,48.44
+Stylosanthes,guianensis,CIAT-11417,0.5,0.23,457.51,162.71,29.55,68.18,3.75,8.43,12.8,12.0,149.02,3.37,18.42,167.69,36.65,50.25
+Stylosanthes,guianensis,CIAT-11417,0.5,0.29,457.51,218.81,31.05,71.18,3.97,8.79,12.5,11.9,155.58,2.29,19.21,247.15,54.02,35.56
+Stylosanthes,guianensis,CIAT-11417,0.5,0.34,457.6,218.7,29.51,74.85,3.63,9.93,12.3,12.0,162.33,1.61,21.54,380.36,82.49,26.11
+Stylosanthes,guianensis,CIAT-11417,0.5,0.24,457.51,116.61,29.51,69.85,3.63,8.47,12.0,12.4,152.65,3.13,18.51,177.24,38.73,47.79
+Stylosanthes,guianensis,CIAT-11417,0.5,0.34,457.88,220.98,28.01,56.85,3.36,6.94,12.2,12.7,124.27,2.05,15.16,272.2,59.49,25.49
+Stylosanthes,guianensis,CIAT-11417,0.5,0.28,457.7,223.4,32.66,76.89,3.89,10.43,11.7,12.5,166.78,2.37,22.63,263.66,57.19,39.57
+Stylosanthes,guianensis,CIAT-11417,0.5,0.23,457.97,229.27,36.66,76.39,4.29,9.26,11.7,12.5,166.9,2.92,20.22,189.63,41.43,48.81
+Stylosanthes,guianensis,CIAT-11417,0.5,0.23,457.7,163.6,31.66,69.89,3.7,8.48,11.3,12.6,152.61,3.28,18.52,169.45,37.0,50.06
+Stylosanthes,guianensis,CIAT-12311,0.5,0.18,459.18,261.68,47.4,97.59,6.02,13.65,12.9,14.9,210.54,2.93,29.45,220.88,47.65,61.79
+Stylosanthes,guianensis,CIAT-12311,0.5,0.18,459.18,261.68,47.4,97.59,6.02,13.65,12.9,14.9,210.54,2.93,29.45,220.88,47.65,61.79
+Stylosanthes,guianensis,CIAT-12311,0.5,0.19,459.18,171.28,42.9,90.59,5.53,12.64,12.8,15.3,197.28,2.89,27.53,221.79,48.3,56.99
+Stylosanthes,guianensis,CIAT-12311,0.5,0.2,459.18,171.28,42.9,90.59,5.53,12.64,12.8,15.3,197.28,2.89,27.53,221.79,48.3,56.99
+Stylosanthes,guianensis,CIAT-12311,0.5,0.2,459.18,262.28,44.4,91.59,5.68,12.9,12.8,15.1,199.46,1.87,28.1,345.91,75.33,37.3
+Stylosanthes,guianensis,CIAT-12311,0.5,0.29,459.18,262.28,44.4,91.59,5.68,12.9,12.8,15.1,199.46,1.87,28.1,345.91,75.33,37.3
+Stylosanthes,guianensis,CIAT-12311,0.5,0.18,459.18,267.08,43.71,95.23,41.63,49.41,13.0,15.3,205.53,3.0,106.63,800.6,172.8,61.71
+Stylosanthes,guianensis,CIAT-12311,0.5,0.18,459.18,267.08,43.71,95.23,41.63,49.41,13.0,15.3,205.53,3.0,106.63,800.6,172.8,61.71
+Stylosanthes,guianensis,CIAT-12311,0.5,0.19,459.18,261.08,38.71,88.73,34.35,42.0,12.2,15.1,193.23,3.01,91.47,722.12,157.26,58.16
+Stylosanthes,guianensis,CIAT-12311,0.5,0.2,459.18,261.08,38.71,88.73,34.35,42.0,12.2,15.1,193.23,3.01,91.47,722.12,157.26,58.16
+Stylosanthes,guianensis,CIAT-12311,0.5,0.2,459.18,263.08,40.21,91.73,36.89,44.67,12.1,15.2,199.76,2.85,97.27,785.56,171.08,56.86
+Stylosanthes,guianensis,CIAT-12311,0.5,0.29,459.18,263.08,40.21,91.73,36.89,44.67,12.1,15.2,199.76,2.85,97.27,785.56,171.08,56.86
+Stylosanthes,guianensis,CIAT-12311,0.5,0.16,458.9,216.8,42.55,87.9,37.4,44.34,12.6,14.9,189.64,3.43,95.66,682.54,147.26,64.96
+Stylosanthes,guianensis,CIAT-12311,0.5,0.24,458.9,293.2,37.05,81.9,30.34,37.03,12.4,15.0,178.47,2.65,80.68,783.73,170.78,47.24
+Stylosanthes,guianensis,CIAT-12311,0.5,0.17,458.9,220.0,39.05,86.4,33.74,40.84,12.5,15.2,188.27,3.39,89.0,639.22,139.29,63.89
+Stylosanthes,guianensis,CIAT-12615,0.5,0.21,449.14,251.64,35.4,72.09,4.78,10.03,12.9,14.2,153.46,3.56,21.34,183.35,39.03,54.68
+Stylosanthes,guianensis,CIAT-12615,0.5,0.23,449.14,251.64,35.4,72.09,4.78,10.03,12.9,14.2,153.46,3.56,21.34,183.35,39.03,54.68
+Stylosanthes,guianensis,CIAT-12615,0.5,0.21,449.14,239.14,39.9,90.09,5.15,12.27,12.7,14.2,200.58,2.79,27.33,219.07,48.77,56.03
+Stylosanthes,guianensis,CIAT-12615,0.5,0.2,449.14,239.14,39.9,90.09,5.15,12.27,12.7,14.2,200.58,2.79,27.33,219.07,48.77,56.03
+Stylosanthes,guianensis,CIAT-12615,0.5,0.18,449.14,240.54,38.9,89.59,4.94,12.14,13.0,14.5,199.46,2.67,27.02,227.97,50.76,53.24
+Stylosanthes,guianensis,CIAT-12615,0.5,0.21,449.14,240.54,38.9,89.59,4.94,12.14,13.0,14.5,199.46,2.67,27.02,227.97,50.76,53.24
+Stylosanthes,guianensis,CIAT-12615,0.5,0.21,448.79,236.59,32.71,71.23,23.3,28.92,13.2,14.7,151.53,3.31,61.54,577.45,122.85,50.09
+Stylosanthes,guianensis,CIAT-12615,0.5,0.23,448.79,236.59,32.71,71.23,23.3,28.92,13.2,14.7,151.53,3.31,61.54,577.45,122.85,50.09
+Stylosanthes,guianensis,CIAT-12615,0.5,0.21,448.79,265.29,32.21,77.73,25.04,31.73,12.2,14.7,173.19,3.04,70.7,601.88,134.11,52.72
+Stylosanthes,guianensis,CIAT-12615,0.5,0.2,448.79,265.29,32.21,77.73,25.04,31.73,12.2,14.7,173.19,3.04,70.7,601.88,134.11,52.72
+Stylosanthes,guianensis,CIAT-12615,0.5,0.18,448.79,266.59,36.71,81.73,30.0,36.62,12.3,14.7,182.11,3.25,81.6,619.54,138.05,59.11
+Stylosanthes,guianensis,CIAT-12615,0.5,0.21,448.79,266.59,36.71,81.73,30.0,36.62,12.3,14.7,182.11,3.25,81.6,619.54,138.05,59.11
+Stylosanthes,guianensis,CIAT-12615,0.5,0.19,448.96,226.36,33.55,76.9,25.8,32.04,13.1,14.5,163.64,3.64,68.18,537.7,114.42,59.59
+Stylosanthes,guianensis,CIAT-12615,0.5,0.22,448.96,183.16,31.05,62.4,19.37,23.92,12.6,14.2,138.98,3.63,53.28,474.43,105.67,50.42
+Stylosanthes,guianensis,CIAT-12615,0.5,0.27,448.96,250.36,35.05,80.9,28.36,34.87,12.5,14.2,180.19,2.26,77.66,854.61,190.35,40.8
+Stylosanthes,guianensis,CIAT-12758,0.5,0.25,457.06,248.46,38.9,78.59,5.02,10.89,12.4,11.4,171.22,3.15,23.73,201.67,43.94,54.01
+Stylosanthes,guianensis,CIAT-12758,0.5,0.21,457.06,248.46,38.9,78.59,5.02,10.89,12.4,11.4,171.22,3.15,23.73,201.67,43.94,54.01
+Stylosanthes,guianensis,CIAT-12758,0.5,0.23,457.06,166.86,37.4,80.09,4.64,9.5,12.2,11.2,175.22,3.1,20.79,174.83,38.25,54.36
+Stylosanthes,guianensis,CIAT-12758,0.5,0.21,457.06,166.86,37.4,80.09,4.64,9.5,12.2,11.2,175.22,3.1,20.79,174.83,38.25,54.36
+Stylosanthes,guianensis,CIAT-12758,0.5,0.29,457.06,208.66,38.4,78.09,4.69,9.13,12.6,11.3,170.85,2.14,19.98,250.08,54.72,36.51
+Stylosanthes,guianensis,CIAT-12758,0.5,0.3,457.06,208.66,38.4,78.09,4.69,9.13,12.6,11.3,170.85,2.14,19.98,250.08,54.72,36.51
+Stylosanthes,guianensis,CIAT-12758,0.5,0.25,457.15,224.65,37.21,76.73,28.55,34.4,12.1,11.5,167.2,2.77,74.96,743.25,161.96,46.28
+Stylosanthes,guianensis,CIAT-12758,0.5,0.21,457.15,224.65,37.21,76.73,28.55,34.4,12.1,11.5,167.2,2.77,74.96,743.25,161.96,46.28
+Stylosanthes,guianensis,CIAT-12758,0.5,0.23,457.15,153.05,33.71,77.73,26.2,31.27,11.5,11.5,170.02,2.89,68.39,636.24,139.17,49.14
+Stylosanthes,guianensis,CIAT-12758,0.5,0.21,457.15,153.05,33.71,77.73,26.2,31.27,11.5,11.5,170.02,2.89,68.39,636.24,139.17,49.14
+Stylosanthes,guianensis,CIAT-12758,0.5,0.29,457.15,216.35,34.71,73.73,25.59,30.08,11.5,11.9,161.27,2.08,65.8,898.45,196.53,33.48
+Stylosanthes,guianensis,CIAT-12758,0.5,0.3,457.15,216.35,34.71,73.73,25.59,30.08,11.5,11.9,161.27,2.08,65.8,898.45,196.53,33.48
+Stylosanthes,guianensis,CIAT-12758,0.5,0.25,457.15,206.15,38.55,78.4,30.22,36.08,11.7,11.6,170.84,2.62,78.62,805.72,175.58,44.78
+Stylosanthes,guianensis,CIAT-12758,0.5,0.25,457.15,193.15,33.05,70.4,23.27,27.6,12.2,11.1,153.99,2.93,60.37,612.03,133.88,45.1
+Stylosanthes,guianensis,CIAT-12758,0.5,0.26,457.15,220.75,32.05,71.4,22.88,27.25,11.9,11.4,156.18,2.71,59.61,644.98,141.09,42.25
+Stylosanthes,guianensis,CIAT-1650,0.5,0.3,459.67,162.87,32.16,63.46,4.37,9.48,13.6,14.93,138.06,2.57,20.62,251.99,58.18,35.43
+Stylosanthes,guianensis,CIAT-1650,0.5,0.3,459.85,158.25,33.48,65.23,4.52,9.6,13.5,14.72,141.86,2.43,20.88,262.14,60.66,34.41
+Stylosanthes,guianensis,CIAT-1650,0.5,0.25,459.85,210.05,30.61,73.42,4.04,10.42,13.2,14.19,159.66,2.86,22.66,219.31,49.6,45.68
+Stylosanthes,guianensis,CIAT-1650,0.5,0.25,459.67,210.67,28.84,71.65,3.72,10.06,12.9,14.04,155.87,2.94,21.88,211.02,47.73,45.83
+Stylosanthes,guianensis,CIAT-1650,0.5,0.27,459.85,191.15,30.61,74.3,3.83,10.34,12.5,13.91,161.58,2.57,22.48,237.43,54.08,41.57
+Stylosanthes,guianensis,CIAT-1650,0.5,0.25,459.67,210.57,37.54,73.16,4.69,10.07,12.5,13.77,159.16,2.88,21.91,211.43,47.83,45.81
+Stylosanthes,guianensis,CIAT-1650,0.5,0.26,460.03,201.03,34.0,72.72,4.25,10.1,12.5,13.88,158.07,2.76,21.95,221.43,50.22,43.7
+Stylosanthes,guianensis,CIAT-1964,0.5,0.3,451.45,155.95,28.62,61.69,4.01,9.17,14.0,14.86,136.65,2.53,20.3,511.4,58.78,34.54
+Stylosanthes,guianensis,CIAT-1964,0.5,0.3,451.54,154.04,26.85,61.25,3.7,8.97,13.8,14.64,135.65,2.51,19.86,515.88,58.22,34.11
+Stylosanthes,guianensis,CIAT-1964,0.5,0.26,451.63,190.73,28.84,73.42,3.78,10.38,13.1,14.13,162.56,2.6,22.97,376.44,54.4,42.23
+Stylosanthes,guianensis,CIAT-1964,0.5,0.27,451.72,185.22,27.95,72.09,3.63,10.08,13.0,13.98,159.59,2.57,22.31,387.28,54.41,41.0
+Stylosanthes,guianensis,CIAT-1964,0.5,0.25,451.63,206.13,27.95,70.32,3.58,9.81,12.8,13.94,155.71,2.93,21.71,307.99,47.57,45.64
+Stylosanthes,guianensis,CIAT-2613,0.5,0.31,459.98,151.98,27.51,60.59,3.05,7.16,11.1,11.81,131.72,2.51,15.56,551.14,47.08,33.04
+Stylosanthes,guianensis,CIAT-2613,0.5,0.23,460.07,232.37,28.39,63.68,3.29,7.67,11.6,12.04,138.42,3.65,16.67,214.94,33.01,50.51
+Stylosanthes,guianensis,CIAT-2613,0.5,0.26,460.07,199.77,27.95,61.03,3.1,7.1,11.1,11.64,132.65,3.27,15.44,268.38,35.57,43.42
+Stylosanthes,guianensis,CIAT-2613,0.5,0.29,459.98,172.18,29.13,56.79,3.29,6.86,11.3,12.08,123.46,3.03,14.91,367.03,39.84,37.43
+Stylosanthes,guianensis,CIAT-2613,0.5,0.32,459.98,138.78,28.69,51.92,3.1,6.0,10.8,11.56,112.88,2.67,13.05,648.69,43.25,30.17
+Stylosanthes,hamata,CIAT-11199,0.5,0.22,459.27,211.37,44.55,91.68,5.84,13.57,13.0,16.4,199.62,2.64,29.54,257.37,56.04,52.71
+Stylosanthes,hamata,CIAT-11199,0.5,0.25,459.09,234.99,39.55,80.68,5.14,11.89,13.0,15.7,175.67,2.62,25.88,258.27,56.24,46.02
+Stylosanthes,hamata,CIAT-11199,0.5,0.26,459.36,248.16,34.01,80.35,4.46,11.55,13.3,15.6,175.0,2.45,25.14,269.56,58.7,42.83
+Stylosanthes,hamata,CIAT-11199,0.5,0.21,459.45,158.45,36.01,82.85,4.79,12.1,13.0,15.6,180.37,3.0,26.33,223.92,48.75,54.02
+Stylosanthes,hamata,CIAT-11199,0.5,0.28,459.27,242.57,40.66,89.39,5.0,12.94,12.6,16.3,194.6,2.05,28.18,325.0,70.75,39.83
+Stylosanthes,hamata,CIAT-11199,0.5,0.22,459.09,145.49,42.66,88.89,5.37,12.91,12.6,16.4,193.55,2.73,28.11,244.45,53.23,52.82
+Stylosanthes,hamata,CIAT-11215,0.5,0.22,464.5,251.8,36.55,83.68,4.75,12.15,13.3,14.9,182.27,2.81,26.47,237.38,51.71,51.19
+Stylosanthes,hamata,CIAT-11215,0.5,0.21,464.5,295.6,34.55,79.68,4.6,11.32,13.7,14.9,171.54,3.16,24.37,208.81,44.95,54.21
+Stylosanthes,hamata,CIAT-11215,0.5,0.17,464.59,273.09,36.05,82.68,4.94,11.89,13.1,14.6,177.99,3.58,25.59,186.78,40.21,63.64
+Stylosanthes,hamata,CIAT-11215,0.5,0.3,464.69,198.49,38.01,86.85,4.94,12.56,13.0,14.9,189.04,1.82,27.34,364.22,79.27,34.49
+Stylosanthes,hamata,CIAT-11215,0.5,0.27,464.69,296.99,37.51,85.85,4.88,12.08,13.2,14.7,184.76,2.31,26.0,282.8,60.86,42.71
+Stylosanthes,hamata,CIAT-11215,0.5,0.17,464.59,250.59,36.51,84.85,4.82,11.93,13.0,14.8,182.6,3.5,25.66,186.6,40.16,63.91
+Stylosanthes,hamata,CIAT-11215,0.5,0.31,464.5,278.8,40.16,85.89,5.06,12.56,12.8,15.6,187.09,1.69,27.36,396.34,86.33,31.69
+Stylosanthes,hamata,CIAT-11215,0.5,0.19,464.69,290.19,41.66,88.89,5.33,12.7,12.9,15.4,191.37,3.14,27.34,211.6,45.55,60.02
+Stylosanthes,hamata,CIAT-11215,0.5,0.17,464.5,296.0,40.66,88.89,5.24,12.67,12.7,15.2,191.29,3.26,27.27,202.93,43.67,62.45
+Stylosanthes,hamata,CIAT-11220,0.5,0.19,459.56,273.36,35.55,82.68,4.66,11.54,13.1,15.4,177.96,3.3,24.83,196.28,42.25,58.78
+Stylosanthes,hamata,CIAT-11220,0.5,0.19,459.66,279.26,40.55,91.68,5.31,13.19,13.0,15.7,199.49,2.98,28.69,221.67,48.24,59.48
+Stylosanthes,hamata,CIAT-11220,0.5,0.18,459.38,271.58,41.55,88.18,5.4,12.72,13.4,15.6,191.83,3.17,27.68,209.41,45.56,60.75
+Stylosanthes,hamata,CIAT-11220,0.5,0.21,459.47,176.57,39.01,88.35,5.07,12.37,13.2,15.1,190.17,2.84,26.63,229.41,49.38,53.94
+Stylosanthes,hamata,CIAT-11220,0.5,0.28,459.56,266.96,40.01,93.35,5.28,13.34,13.2,15.3,203.18,1.89,29.03,347.03,75.53,38.43
+Stylosanthes,hamata,CIAT-11220,0.5,0.19,459.38,161.88,35.01,85.85,4.62,12.4,12.8,15.2,186.82,3.11,26.98,213.47,46.45,58.09
+Stylosanthes,hamata,CIAT-11220,0.5,0.17,459.47,259.57,42.16,90.39,5.35,12.69,12.3,15.8,194.6,3.27,27.31,199.07,42.86,63.72
+Stylosanthes,hamata,CIAT-11220,0.5,0.2,459.66,242.46,44.16,92.89,5.43,13.13,12.4,16.0,202.17,2.79,28.58,232.44,50.59,56.49
+Stylosanthes,hamata,CIAT-11220,0.5,0.22,459.56,250.46,42.66,90.39,5.29,12.93,12.2,16.1,196.65,2.68,28.12,245.07,53.32,52.75
+Stylosanthes,hamata,CIAT-11232,0.5,0.19,456.33,231.73,39.55,90.68,5.3,13.28,12.5,15.8,197.39,3.0,28.9,224.56,48.88,59.12
+Stylosanthes,hamata,CIAT-11232,0.5,0.22,456.52,253.62,40.55,89.68,5.07,12.83,12.8,15.8,196.52,2.58,28.12,252.67,55.37,50.78
+Stylosanthes,hamata,CIAT-11232,0.5,0.2,456.24,209.74,39.05,87.68,5.0,12.68,12.8,16.1,192.06,2.89,27.78,228.27,50.0,55.55
+Stylosanthes,hamata,CIAT-11232,0.5,0.3,456.15,241.55,41.01,95.35,5.25,13.51,12.9,15.4,207.57,1.7,29.41,383.37,83.45,35.24
+Stylosanthes,hamata,CIAT-11232,0.5,0.21,456.33,156.03,39.01,91.35,5.03,13.09,12.4,15.3,200.27,2.64,28.7,247.26,54.2,52.95
+Stylosanthes,hamata,CIAT-11232,0.5,0.3,456.24,261.14,39.01,91.35,4.84,12.85,12.8,15.7,200.19,1.71,28.15,375.69,82.33,34.19
+Stylosanthes,hamata,CIAT-11232,0.5,0.21,456.24,220.14,44.66,94.89,5.45,13.54,12.2,16.2,206.48,2.64,29.45,248.36,54.04,54.5
+Stylosanthes,hamata,CIAT-11232,0.5,0.24,456.61,201.71,41.66,88.89,5.08,12.73,12.0,16.1,194.83,2.48,27.91,263.91,57.84,48.25
+Stylosanthes,hamata,CIAT-11232,0.5,0.25,456.61,257.11,41.66,92.39,5.0,13.17,12.1,15.6,202.34,2.18,28.84,298.06,65.28,44.18
+Stylosanthes,hamata,CIAT-11762,0.5,0.24,453.62,219.62,35.55,76.68,4.51,10.52,13.9,15.6,169.09,2.73,23.2,227.84,50.24,46.17
+Stylosanthes,hamata,CIAT-11762,0.5,0.23,453.62,186.22,37.55,82.18,5.22,12.18,13.7,15.7,181.16,2.67,26.85,251.6,55.47,48.42
+Stylosanthes,hamata,CIAT-11762,0.5,0.27,453.62,240.92,38.55,81.18,5.28,11.97,13.1,15.9,178.96,2.29,26.4,291.68,64.3,41.05
+Stylosanthes,hamata,CIAT-11762,0.5,0.3,453.8,137.2,39.51,82.35,4.82,10.95,13.1,15.3,181.54,1.84,24.13,328.56,72.43,33.32
+Stylosanthes,hamata,CIAT-11762,0.5,0.32,453.8,191.9,40.51,88.85,5.31,12.7,13.3,15.4,195.8,1.54,27.99,420.17,92.59,30.23
+Stylosanthes,hamata,CIAT-11762,0.5,0.26,453.8,215.8,40.51,80.85,5.39,11.6,13.4,15.8,178.17,2.37,25.56,274.33,60.45,42.29
+Stylosanthes,hamata,CIAT-11762,0.5,0.35,453.62,225.12,40.16,83.39,4.74,11.35,12.8,16.3,183.93,1.26,25.04,488.01,107.64,23.26
+Stylosanthes,hamata,CIAT-11762,0.5,0.23,453.62,243.42,42.66,89.39,5.46,13.08,12.8,16.2,197.06,2.52,28.83,263.52,58.09,49.63
+Stylosanthes,hamata,CIAT-11762,0.5,0.21,453.62,140.12,42.66,88.89,5.46,12.95,12.7,16.4,195.96,2.74,28.55,241.32,53.2,53.66
+Stylosanthes,hamata,CIAT-11778,0.5,0.21,460.46,255.36,41.55,85.68,5.44,12.46,12.8,15.5,188.88,2.81,27.47,234.59,51.72,53.11
+Stylosanthes,hamata,CIAT-11778,0.5,0.21,460.46,299.46,44.55,93.68,5.7,13.32,13.7,15.8,203.44,2.73,28.92,240.13,52.15,55.46
+Stylosanthes,hamata,CIAT-11778,0.5,0.16,460.37,206.27,40.05,85.18,5.49,12.62,12.8,15.6,184.98,3.52,27.4,194.0,42.13,65.04
+Stylosanthes,hamata,CIAT-11778,0.5,0.24,460.46,247.96,41.51,85.85,5.56,12.57,12.8,15.2,189.19,2.51,27.7,264.3,58.24,47.55
+Stylosanthes,hamata,CIAT-11778,0.5,0.21,460.46,169.96,42.51,57.85,5.44,7.77,12.6,15.1,125.64,4.29,16.88,144.35,31.35,53.85
+Stylosanthes,hamata,CIAT-11778,0.5,0.29,460.65,260.15,42.51,95.35,5.36,13.34,12.8,15.2,207.08,1.78,28.96,361.29,78.46,36.91
+Stylosanthes,hamata,CIAT-11778,0.5,0.31,460.37,277.57,42.66,86.89,5.42,12.67,12.3,16.5,191.55,1.61,27.93,410.23,90.43,30.89
+Stylosanthes,hamata,CIAT-11778,0.5,0.18,460.46,264.86,44.16,87.39,5.43,12.56,12.3,15.8,189.83,3.18,27.29,208.4,45.27,60.29
+Stylosanthes,hamata,CIAT-11778,0.5,0.2,460.46,195.36,44.16,97.39,5.43,13.84,12.2,15.9,211.51,2.72,30.06,240.65,52.26,57.52
+Stylosanthes,hamata,CIAT-11784,0.5,0.25,461.5,240.0,42.05,87.68,5.38,12.5,13.9,15.7,190.45,2.35,27.15,278.99,60.6,44.81
+Stylosanthes,hamata,CIAT-11784,0.5,0.22,461.69,179.69,32.55,68.68,4.52,10.2,13.3,15.6,148.81,3.49,22.09,196.07,42.48,52.0
+Stylosanthes,hamata,CIAT-11784,0.5,0.28,461.78,158.78,41.05,84.18,5.46,12.19,13.9,15.6,182.33,2.13,26.4,313.15,67.83,38.92
+Stylosanthes,hamata,CIAT-11784,0.5,0.2,461.78,120.58,39.51,91.85,5.06,13.01,13.0,14.9,199.4,2.83,28.25,230.43,50.02,56.47
+Stylosanthes,hamata,CIAT-11784,0.5,0.34,461.78,219.88,37.51,84.85,4.88,11.93,13.2,15.3,183.75,1.42,25.84,456.9,98.94,26.11
+Stylosanthes,hamata,CIAT-11784,0.5,0.24,461.69,142.89,38.51,85.85,5.08,12.33,13.2,15.1,185.92,2.56,26.69,258.88,56.06,47.62
+Stylosanthes,hamata,CIAT-11784,0.5,0.27,461.78,221.88,43.16,94.39,5.27,13.41,12.7,15.9,204.99,2.07,29.13,316.1,68.65,42.43
+Stylosanthes,hamata,CIAT-11784,0.5,0.24,461.6,226.9,39.16,82.39,4.97,11.85,12.8,15.8,178.42,2.69,25.66,246.56,53.39,48.05
+Stylosanthes,hamata,CIAT-11784,0.5,0.23,461.6,218.3,38.66,80.89,4.95,11.62,12.9,16.0,175.24,2.8,25.18,236.42,51.22,49.15
+Stylosanthes,hamata,CIAT-12374,0.5,0.2,459.79,264.59,51.4,96.59,6.84,14.11,13.5,16.2,209.25,2.49,30.57,271.3,58.77,52.01
+Stylosanthes,hamata,CIAT-12374,0.5,0.22,459.79,264.59,51.4,96.59,6.84,14.11,13.5,16.2,209.25,2.49,30.57,271.3,58.77,52.01
+Stylosanthes,hamata,CIAT-12374,0.5,0.17,459.79,274.39,51.4,100.59,6.94,14.91,13.9,16.1,218.77,2.63,32.42,259.05,56.34,57.55
+Stylosanthes,hamata,CIAT-12374,0.5,0.2,459.79,274.39,51.4,100.59,6.94,14.91,13.9,16.1,218.77,2.63,32.42,259.05,56.34,57.55
+Stylosanthes,hamata,CIAT-12374,0.5,0.19,459.79,255.29,49.9,99.59,6.94,14.94,13.1,16.5,216.59,2.76,32.48,250.28,54.43,59.68
+Stylosanthes,hamata,CIAT-12374,0.5,0.24,459.79,255.29,49.9,99.59,6.94,14.94,13.1,16.5,216.59,2.76,32.48,250.28,54.43,59.68
+Stylosanthes,hamata,CIAT-12374,0.5,0.2,459.89,287.59,47.71,95.23,45.44,53.18,13.1,16.6,206.46,2.78,115.3,925.15,200.58,57.48
+Stylosanthes,hamata,CIAT-12374,0.5,0.22,459.89,287.59,47.71,95.23,45.44,53.18,13.1,16.6,206.46,2.78,115.3,925.15,200.58,57.48
+Stylosanthes,hamata,CIAT-12374,0.5,0.17,459.89,224.39,47.21,96.23,45.43,53.57,12.8,16.2,209.24,2.99,116.48,856.63,186.27,62.53
+Stylosanthes,hamata,CIAT-12374,0.5,0.2,459.89,224.39,47.21,96.23,45.43,53.57,12.8,16.2,209.24,2.99,116.48,856.63,186.27,62.53
+Stylosanthes,hamata,CIAT-12374,0.5,0.19,459.89,249.89,48.21,98.23,47.36,55.46,12.6,16.4,213.59,2.28,120.6,1136.69,247.17,48.79
+Stylosanthes,hamata,CIAT-12374,0.5,0.24,459.89,249.89,48.21,98.23,47.36,55.46,12.6,16.4,213.59,2.28,120.6,1136.69,247.17,48.79
+Stylosanthes,hamata,CIAT-12374,0.5,0.26,459.7,250.6,47.05,94.4,44.41,51.99,13.1,16.0,204.63,2.14,112.7,1184.87,256.84,43.88
+Stylosanthes,hamata,CIAT-12374,0.5,0.21,459.7,275.7,47.55,94.9,45.12,52.7,12.9,16.1,206.44,2.64,114.64,966.73,210.3,54.51
+Stylosanthes,hamata,CIAT-12374,0.5,0.18,459.7,247.0,46.55,94.4,43.94,51.65,12.6,15.9,205.35,2.92,112.35,861.15,187.33,59.97
+Stylosanthes,hamata,CIAT-12381,0.5,0.2,461.6,251.7,44.9,93.09,5.75,13.02,13.4,16.0,202.73,2.82,28.36,228.01,49.66,57.12
+Stylosanthes,hamata,CIAT-12381,0.5,0.2,461.6,251.7,44.9,93.09,5.75,13.02,13.4,16.0,202.73,2.82,28.36,228.01,49.66,57.12
+Stylosanthes,hamata,CIAT-12381,0.5,0.21,461.6,174.6,50.9,97.59,6.82,14.29,13.2,16.2,211.41,2.58,30.96,262.08,56.78,54.53
+Stylosanthes,hamata,CIAT-12381,0.5,0.21,461.6,174.6,50.9,97.59,6.82,14.29,13.2,16.2,211.41,2.58,30.96,262.08,56.78,54.53
+Stylosanthes,hamata,CIAT-12381,0.5,0.2,461.6,240.1,51.9,99.59,6.85,14.58,13.3,16.1,215.75,1.75,31.58,385.36,83.48,37.82
+Stylosanthes,hamata,CIAT-12381,0.5,0.29,461.6,240.1,51.9,99.59,6.85,14.58,13.3,16.1,215.75,1.75,31.58,385.36,83.48,37.82
+Stylosanthes,hamata,CIAT-12381,0.5,0.2,461.23,254.23,40.71,87.23,35.51,42.58,13.2,16.3,189.96,3.02,92.74,743.25,161.87,57.29
+Stylosanthes,hamata,CIAT-12381,0.5,0.2,461.23,254.23,40.71,87.23,35.51,42.58,13.2,16.3,189.96,3.02,92.74,743.25,161.87,57.29
+Stylosanthes,hamata,CIAT-12381,0.5,0.21,461.23,262.03,45.21,92.73,41.93,49.67,12.9,16.3,201.04,2.74,107.69,901.12,195.37,55.12
+Stylosanthes,hamata,CIAT-12381,0.5,0.21,461.23,262.03,45.21,92.73,41.93,49.67,12.9,16.3,201.04,2.74,107.69,901.12,195.37,55.12
+Stylosanthes,hamata,CIAT-12381,0.5,0.2,461.23,265.13,47.71,96.73,46.15,54.14,12.7,16.3,209.71,2.71,117.38,953.0,206.62,56.81
+Stylosanthes,hamata,CIAT-12381,0.5,0.29,461.23,265.13,47.71,96.73,46.15,54.14,12.7,16.3,209.71,2.71,117.38,953.0,206.62,56.81
+Stylosanthes,hamata,CIAT-12381,0.5,0.24,461.32,249.82,42.05,88.4,37.17,44.22,13.0,15.8,192.63,2.49,96.35,922.32,200.98,47.94
+Stylosanthes,hamata,CIAT-12381,0.5,0.21,461.32,212.32,44.05,93.4,41.14,48.94,13.4,16.1,202.46,2.67,106.09,903.72,195.9,54.15
+Stylosanthes,hamata,CIAT-12381,0.5,0.25,461.32,202.42,44.55,91.4,40.72,48.26,12.9,16.0,198.12,2.32,104.61,1048.59,227.3,46.02
+Stylosanthes,hamata,CIAT-12457,0.5,0.21,468.57,290.17,52.9,103.09,6.93,15.21,13.4,15.9,224.21,2.48,33.08,273.95,59.58,55.52
+Stylosanthes,hamata,CIAT-12457,0.5,0.2,468.57,290.17,52.9,103.09,6.93,15.21,13.4,15.9,224.21,2.48,33.08,273.95,59.58,55.52
+Stylosanthes,hamata,CIAT-12457,0.5,0.18,468.57,286.17,47.9,97.59,6.42,14.32,13.3,16.2,208.27,2.97,30.56,231.22,49.35,61.93
+Stylosanthes,hamata,CIAT-12457,0.5,0.19,468.57,286.17,47.9,97.59,6.42,14.32,13.3,16.2,208.27,2.97,30.56,231.22,49.35,61.93
+Stylosanthes,hamata,CIAT-12457,0.5,0.18,468.57,270.57,48.9,97.59,6.5,14.39,13.4,16.1,208.27,2.93,30.71,235.64,50.29,61.07
+Stylosanthes,hamata,CIAT-12457,0.5,0.23,468.57,270.57,48.9,97.59,6.5,14.39,13.4,16.1,208.27,2.93,30.71,235.64,50.29,61.07
+Stylosanthes,hamata,CIAT-12457,0.5,0.21,468.57,280.77,47.21,96.73,45.67,53.79,13.3,16.1,210.33,2.58,116.96,989.91,215.25,54.34
+Stylosanthes,hamata,CIAT-12457,0.5,0.2,468.57,280.77,47.21,96.73,45.67,53.79,13.3,16.1,210.33,2.58,116.96,989.91,215.25,54.34
+Stylosanthes,hamata,CIAT-12457,0.5,0.18,468.57,235.27,43.71,94.73,41.41,49.62,12.7,16.0,202.16,2.96,105.9,828.12,176.73,59.92
+Stylosanthes,hamata,CIAT-12457,0.5,0.19,468.57,235.27,43.71,94.73,41.41,49.62,12.7,16.0,202.16,2.96,105.9,828.12,176.73,59.92
+Stylosanthes,hamata,CIAT-12457,0.5,0.18,468.57,300.57,44.21,93.23,41.22,49.06,12.8,16.1,198.96,2.52,104.7,977.11,208.53,50.21
+Stylosanthes,hamata,CIAT-12457,0.5,0.23,468.57,300.57,44.21,93.23,41.22,49.06,12.8,16.1,198.96,2.52,104.7,977.11,208.53,50.21
+Stylosanthes,hamata,CIAT-12457,0.5,0.21,468.85,262.35,46.05,95.9,44.16,52.09,13.2,16.0,208.61,2.58,113.31,969.42,210.88,53.73
+Stylosanthes,hamata,CIAT-12457,0.5,0.21,468.85,214.15,43.05,91.4,39.35,47.08,13.0,16.0,194.94,2.87,100.42,841.43,179.47,55.96
+Stylosanthes,hamata,CIAT-12457,0.5,0.25,468.85,294.25,47.05,95.4,44.89,52.62,12.9,15.8,203.47,2.24,112.23,1152.06,245.72,45.68
+Stylosanthes,hamata,CIAT-12462,0.5,0.17,462.76,240.86,48.9,97.59,6.55,14.39,13.4,16.1,208.27,2.77,30.71,249.23,53.19,57.74
+Stylosanthes,hamata,CIAT-12462,0.5,0.2,462.76,240.86,48.9,97.59,6.55,14.39,13.4,16.1,208.27,2.77,30.71,249.23,53.19,57.74
+Stylosanthes,hamata,CIAT-12462,0.5,0.18,462.76,283.76,47.4,95.59,6.35,14.11,13.0,16.3,206.56,2.52,30.49,271.09,58.58,52.05
+Stylosanthes,hamata,CIAT-12462,0.5,0.22,462.76,283.76,47.4,95.59,6.35,14.11,13.0,16.3,206.56,2.52,30.49,271.09,58.58,52.05
+Stylosanthes,hamata,CIAT-12462,0.5,0.18,462.76,319.46,49.4,96.09,6.42,14.03,13.1,16.3,207.64,2.95,30.32,228.84,49.45,61.32
+Stylosanthes,hamata,CIAT-12462,0.5,0.18,462.76,319.46,49.4,96.09,6.42,14.03,13.1,16.3,207.64,2.95,30.32,228.84,49.45,61.32
+Stylosanthes,hamata,CIAT-12462,0.5,0.17,463.13,280.43,44.21,95.23,42.1,50.32,12.8,16.4,203.23,3.16,107.38,784.4,167.4,64.15
+Stylosanthes,hamata,CIAT-12462,0.5,0.2,463.13,280.43,44.21,95.23,42.1,50.32,12.8,16.4,203.23,3.16,107.38,784.4,167.4,64.15
+Stylosanthes,hamata,CIAT-12462,0.5,0.18,463.13,280.03,45.21,92.73,41.93,49.72,12.4,16.5,200.22,3.02,107.35,821.08,177.29,60.55
+Stylosanthes,hamata,CIAT-12462,0.5,0.22,463.13,280.03,45.21,92.73,41.93,49.72,12.4,16.5,200.22,3.02,107.35,821.08,177.29,60.55
+Stylosanthes,hamata,CIAT-12462,0.5,0.18,463.13,263.63,45.21,92.23,41.7,49.46,12.7,16.5,199.14,3.04,106.79,817.94,176.61,60.46
+Stylosanthes,hamata,CIAT-12462,0.5,0.18,463.13,263.63,45.21,92.23,41.7,49.46,12.7,16.5,199.14,3.04,106.79,817.94,176.61,60.46
+Stylosanthes,hamata,CIAT-12462,0.5,0.17,462.85,244.45,43.05,91.9,39.56,47.28,12.5,15.9,196.01,3.2,100.84,753.36,160.68,62.76
+Stylosanthes,hamata,CIAT-12462,0.5,0.22,462.85,289.25,42.05,90.4,38.01,45.7,13.2,16.0,195.31,2.7,98.74,865.3,186.95,52.81
+Stylosanthes,hamata,CIAT-12462,0.5,0.17,462.85,286.35,42.55,89.9,38.25,45.83,12.6,15.9,194.23,3.22,99.01,733.33,158.44,62.49
+Stylosanthes,hamata,CIAT-12686,0.5,0.18,454.96,249.46,39.4,86.09,5.12,11.89,12.6,14.8,191.67,2.79,26.48,222.04,49.44,53.56
+Stylosanthes,hamata,CIAT-12686,0.5,0.21,454.96,249.46,39.4,86.09,5.12,11.89,12.6,14.8,191.67,2.79,26.48,222.04,49.44,53.56
+Stylosanthes,hamata,CIAT-12686,0.5,0.21,454.96,254.86,41.4,92.09,5.22,12.72,12.3,14.9,202.41,2.71,27.95,231.95,50.98,54.83
+Stylosanthes,hamata,CIAT-12686,0.5,0.23,454.96,254.86,41.4,92.09,5.22,12.72,12.3,14.9,202.41,2.71,27.95,231.95,50.98,54.83
+Stylosanthes,hamata,CIAT-12686,0.5,0.2,454.96,185.16,41.4,93.09,5.09,12.79,12.6,15.1,204.61,2.74,28.12,228.38,50.2,56.02
+Stylosanthes,hamata,CIAT-12686,0.5,0.21,454.96,185.16,41.4,93.09,5.09,12.79,12.6,15.1,204.61,2.74,28.12,228.38,50.2,56.02
+Stylosanthes,hamata,CIAT-12686,0.5,0.18,455.14,228.34,36.21,83.23,30.14,37.05,12.2,15.2,185.45,3.2,82.56,623.73,138.98,59.4
+Stylosanthes,hamata,CIAT-12686,0.5,0.21,455.14,228.34,36.21,83.23,30.14,37.05,12.2,15.2,185.45,3.2,82.56,623.73,138.98,59.4
+Stylosanthes,hamata,CIAT-12686,0.5,0.21,455.14,244.34,35.71,82.73,29.54,36.69,11.6,15.2,181.76,2.76,80.61,731.34,160.68,50.17
+Stylosanthes,hamata,CIAT-12686,0.5,0.23,455.14,244.34,35.71,82.73,29.54,36.69,11.6,15.2,181.76,2.76,80.61,731.34,160.68,50.17
+Stylosanthes,hamata,CIAT-12686,0.5,0.2,455.14,257.94,37.21,88.23,32.83,40.59,11.6,14.9,193.85,2.77,89.17,756.02,166.11,53.68
+Stylosanthes,hamata,CIAT-12686,0.5,0.21,455.14,257.94,37.21,88.23,32.83,40.59,11.6,14.9,193.85,2.77,89.17,756.02,166.11,53.68
+Stylosanthes,hamata,CIAT-12686,0.5,0.2,454.87,193.97,34.05,80.9,27.55,34.2,11.9,15.0,180.19,3.09,76.17,613.27,136.6,55.76
+Stylosanthes,hamata,CIAT-12686,0.5,0.26,454.87,229.27,37.05,81.9,30.34,37.07,11.6,14.9,180.05,2.37,81.5,869.34,191.12,42.64
+Stylosanthes,hamata,CIAT-12686,0.5,0.23,454.87,206.87,39.05,86.4,33.74,40.79,11.7,14.8,189.94,2.65,89.68,809.35,177.93,50.4
+Stylosanthes,hamata,CIAT-1467,0.5,0.19,463.54,266.54,43.05,98.07,5.64,14.5,13.5,16.2,211.77,2.82,31.31,243.17,52.51,59.62
+Stylosanthes,hamata,CIAT-1467,0.5,0.2,463.45,266.45,42.05,95.07,5.68,14.27,13.5,16.2,205.09,2.8,30.78,248.09,53.52,57.5
+Stylosanthes,hamata,CIAT-1467,0.5,0.21,463.45,263.45,41.82,99.0,4.85,13.43,12.8,15.4,213.78,2.6,29.0,241.88,52.23,55.51
+Stylosanthes,hamata,CIAT-1467,0.5,0.2,463.45,272.45,38.82,95.0,4.97,13.62,12.8,15.6,204.98,2.77,29.39,239.6,51.7,56.84
+Stylosanthes,hamata,CIAT-1475,0.5,0.17,453.95,250.95,51.92,101.95,6.96,15.06,13.3,16.5,220.07,2.86,32.51,239.57,51.71,62.87
+Stylosanthes,hamata,CIAT-1475,0.5,0.2,454.4,276.4,52.42,95.95,6.97,14.15,13.3,16.8,211.37,2.62,31.18,256.05,56.4,55.28
+Stylosanthes,hamata,CIAT-1475,0.5,0.18,453.95,259.95,51.42,94.95,6.84,14.15,13.3,16.5,208.96,2.91,31.14,232.66,51.2,60.83
+Stylosanthes,hamata,CIAT-1475,0.5,0.2,454.31,243.31,44.55,99.07,6.01,14.85,13.5,16.1,213.76,2.69,32.03,258.23,55.72,57.49
+Stylosanthes,hamata,CIAT-1475,0.5,0.21,453.95,226.95,43.05,90.07,5.81,13.38,13.5,16.2,198.25,2.7,29.45,249.86,55.0,53.56
+Stylosanthes,hamata,CIAT-1475,0.5,0.23,454.04,205.04,43.55,92.07,5.88,13.74,13.4,16.3,202.81,2.47,30.27,274.81,60.54,49.99
+Stylosanthes,hamata,CIAT-1475,0.5,0.19,454.22,245.22,40.32,96.0,5.16,13.85,12.7,15.7,207.14,2.84,29.88,235.54,50.82,58.79
+Stylosanthes,hamata,CIAT-1475,0.5,0.21,454.04,243.04,39.32,89.5,4.99,12.87,13.0,15.7,197.03,2.74,28.34,238.42,52.49,53.99
+Stylosanthes,hamata,CIAT-1475,0.5,0.21,454.22,263.22,39.32,89.5,5.11,12.99,13.4,15.5,197.11,2.72,28.61,242.66,53.45,53.53
+Stylosanthes,hamata,CIAT-172,0.5,0.24,455.88,212.18,28.84,72.98,3.84,10.59,13.3,14.51,160.08,2.91,23.23,278.71,49.91,46.54
+Stylosanthes,hamata,CIAT-172,0.5,0.26,455.88,200.28,30.61,77.4,4.04,11.15,13.2,14.41,169.79,2.59,24.46,318.99,55.69,43.93
+Stylosanthes,hamata,CIAT-172,0.5,0.28,455.88,175.38,27.95,72.98,3.66,10.33,13.1,14.15,160.08,2.4,22.65,360.67,58.88,38.47
+Stylosanthes,hamata,CIAT-172,0.5,0.36,456.24,91.34,30.81,71.74,3.85,10.07,12.5,14.04,157.25,1.27,22.08,1393.9,110.28,20.02
+Stylosanthes,hamata,CIAT-172,0.5,0.26,456.15,198.05,37.1,78.03,4.6,10.99,12.4,14.08,171.06,2.54,24.08,319.65,55.47,43.42
+Stylosanthes,hamata,CIAT-172,0.5,0.26,456.24,193.64,35.33,75.82,4.38,10.7,12.4,14.11,166.17,2.55,23.45,321.85,55.24,42.44
+Stylosanthes,humilis,CIAT-10440,0.5,0.17,451.38,213.38,42.05,96.18,5.13,13.2,13.1,15.1,214.29,2.88,29.4,213.78,47.63,61.72
+Stylosanthes,humilis,CIAT-10440,0.5,0.24,451.2,274.1,46.55,92.18,6.1,12.99,12.6,15.6,204.21,2.31,28.77,274.74,60.87,47.27
+Stylosanthes,humilis,CIAT-10440,0.5,0.18,451.38,201.48,45.05,91.18,5.68,12.87,12.1,15.1,202.08,3.01,28.53,211.89,46.96,60.75
+Stylosanthes,humilis,CIAT-10440,0.5,0.3,451.47,276.67,40.51,95.35,5.02,12.98,12.4,14.7,212.49,1.61,28.92,378.99,84.46,34.24
+Stylosanthes,humilis,CIAT-10440,0.5,0.17,451.56,221.46,39.51,90.35,4.9,12.37,12.2,14.7,200.13,3.06,27.41,201.91,44.72,61.28
+Stylosanthes,humilis,CIAT-10440,0.5,0.23,451.74,304.34,42.51,93.35,5.19,12.66,12.3,14.8,206.73,2.37,28.04,258.14,57.17,49.04
+Stylosanthes,humilis,CIAT-10440,0.5,0.29,451.38,251.08,38.66,92.89,4.6,12.74,11.9,15.3,206.92,1.71,28.37,360.2,80.24,35.36
+Stylosanthes,humilis,CIAT-10440,0.5,0.2,451.65,266.15,39.66,86.39,4.72,11.87,11.7,15.5,191.39,2.91,26.3,213.38,47.27,55.63
+Stylosanthes,humilis,CIAT-10440,0.5,0.19,451.2,193.4,41.66,88.89,4.87,12.2,11.9,15.7,196.81,2.99,27.0,206.95,45.82,58.93
+Stylosanthes,humilis,CIAT-11624,0.5,0.24,460.39,216.89,27.55,65.68,3.44,7.98,12.3,13.7,143.55,3.33,17.44,166.87,36.47,47.83
+Stylosanthes,humilis,CIAT-11624,0.5,0.24,460.29,275.29,33.05,76.18,4.07,9.97,12.9,14.0,165.47,2.85,21.66,211.71,45.99,47.11
+Stylosanthes,humilis,CIAT-11624,0.5,0.18,460.29,240.39,32.55,73.68,4.2,9.96,12.9,14.3,160.07,3.74,21.63,166.48,36.17,59.81
+Stylosanthes,humilis,CIAT-11624,0.5,0.24,460.29,137.49,31.01,70.35,3.78,8.78,12.0,13.6,153.65,3.14,19.18,181.92,39.73,48.26
+Stylosanthes,humilis,CIAT-11624,0.5,0.32,460.2,290.9,37.01,83.85,4.44,10.81,12.1,13.8,182.17,1.64,23.49,361.96,78.64,29.87
+Stylosanthes,humilis,CIAT-11624,0.5,0.17,460.39,136.89,38.01,86.35,4.6,11.27,12.2,14.0,187.64,3.37,24.49,178.3,38.74,63.21
+Stylosanthes,humilis,CIAT-11624,0.5,0.29,460.39,264.19,32.16,70.89,3.63,8.51,11.5,15.1,154.89,2.31,18.6,238.2,52.04,35.74
+Stylosanthes,humilis,CIAT-11624,0.5,0.2,460.29,215.69,42.16,86.89,4.85,11.6,11.8,14.6,188.73,3.04,25.2,202.2,43.92,57.38
+Stylosanthes,humilis,CIAT-11624,0.5,0.24,460.29,271.79,40.66,87.89,4.8,11.69,11.7,14.7,190.94,2.45,25.4,249.54,54.21,46.86
+Stylosanthes,humilis,CIAT-11690,0.5,0.22,453.38,192.48,36.55,80.68,4.71,11.03,12.3,14.4,175.28,2.98,23.95,211.11,45.86,52.23
+Stylosanthes,humilis,CIAT-11690,0.5,0.26,453.65,233.05,36.55,78.68,4.5,10.56,12.4,14.4,173.54,2.45,23.3,248.79,54.88,42.45
+Stylosanthes,humilis,CIAT-11690,0.5,0.22,453.47,209.37,35.55,77.18,4.41,10.4,12.7,14.6,170.13,3.02,22.93,202.5,44.64,51.37
+Stylosanthes,humilis,CIAT-11690,0.5,0.32,453.56,153.16,37.51,83.35,4.58,10.99,12.6,14.3,181.05,1.64,23.88,369.77,80.32,29.73
+Stylosanthes,humilis,CIAT-11690,0.5,0.3,453.47,252.97,37.51,80.85,4.73,10.92,12.3,14.2,178.27,1.89,24.09,323.52,71.33,33.77
+Stylosanthes,humilis,CIAT-11690,0.5,0.2,453.65,151.15,38.51,80.85,4.74,10.75,12.2,14.3,178.3,3.13,23.71,192.7,42.49,55.78
+Stylosanthes,humilis,CIAT-11690,0.5,0.19,453.65,231.95,40.16,84.89,4.7,11.27,12.0,15.2,184.43,3.2,24.49,190.93,41.48,59.05
+Stylosanthes,humilis,CIAT-11690,0.5,0.22,453.47,178.07,40.66,83.39,4.88,11.37,11.9,15.4,183.82,2.78,25.07,222.46,49.04,51.13
+Stylosanthes,humilis,CIAT-11690,0.5,0.28,453.38,105.48,40.66,82.39,4.84,11.27,11.8,15.3,181.69,2.16,24.84,286.88,63.26,39.27
+Stylosanthes,humilis,CIAT-12042,0.5,0.19,457.01,114.01,38.55,81.18,4.9,11.38,12.6,14.2,176.81,3.28,24.78,196.18,42.73,57.98
+Stylosanthes,humilis,CIAT-12042,0.5,0.34,457.01,173.21,35.05,76.18,4.42,10.26,13.0,14.2,166.69,1.5,22.44,411.14,89.96,24.95
+Stylosanthes,humilis,CIAT-12042,0.5,0.28,456.82,0.0,33.55,75.68,4.36,10.34,13.0,14.0,165.6,2.29,22.63,272.92,59.72,37.9
+Stylosanthes,humilis,CIAT-12042,0.5,0.3,456.82,135.72,39.01,84.85,4.92,11.7,12.2,14.0,184.78,1.88,25.48,337.47,73.49,34.67
+Stylosanthes,humilis,CIAT-12042,0.5,0.32,457.1,217.6,37.01,75.85,4.52,9.95,11.8,14.1,166.05,1.79,21.79,335.02,73.34,29.71
+Stylosanthes,humilis,CIAT-12042,0.5,0.24,456.91,170.51,40.01,86.35,4.72,11.26,12.2,14.2,188.92,2.52,24.62,236.44,51.73,47.6
+Stylosanthes,humilis,CIAT-12042,0.5,0.21,457.1,273.6,44.16,87.89,5.7,12.56,11.9,15.1,191.39,2.79,27.36,235.07,51.19,53.44
+Stylosanthes,humilis,CIAT-12042,0.5,0.18,457.01,149.11,42.66,82.39,5.08,11.08,11.6,14.8,180.25,3.32,24.23,185.05,40.48,59.86
+Stylosanthes,humilis,CIAT-12042,0.5,0.31,457.28,246.28,42.16,85.39,4.89,11.29,11.9,14.6,186.85,1.75,24.7,346.0,75.71,32.63
+Stylosanthes,humilis,CIAT-12115,0.5,0.2,462.56,262.56,46.9,93.59,6.1,13.19,12.7,15.3,202.32,2.59,28.52,251.91,54.46,52.37
+Stylosanthes,humilis,CIAT-12115,0.5,0.22,462.56,262.56,46.9,93.59,6.1,13.19,12.7,15.3,202.32,2.59,28.52,251.91,54.46,52.37
+Stylosanthes,humilis,CIAT-12115,0.5,0.2,462.56,158.56,47.9,93.59,6.08,13.07,12.7,15.2,202.32,2.81,28.26,230.32,49.79,56.76
+Stylosanthes,humilis,CIAT-12115,0.5,0.25,462.56,158.56,47.9,93.59,6.08,13.07,12.7,15.2,202.32,2.81,28.26,230.32,49.79,56.76
+Stylosanthes,humilis,CIAT-12115,0.5,0.2,462.84,213.34,41.71,93.73,39.1,47.16,12.2,15.4,202.5,2.79,101.89,834.56,180.31,56.51
+Stylosanthes,humilis,CIAT-12115,0.5,0.22,462.84,213.34,41.71,93.73,39.1,47.16,12.2,15.4,202.5,2.79,101.89,834.56,180.31,56.51
+Stylosanthes,humilis,CIAT-12115,0.5,0.2,462.84,289.54,42.21,94.53,39.9,47.96,12.1,15.4,204.23,2.26,103.62,1040.48,224.8,46.09
+Stylosanthes,humilis,CIAT-12115,0.5,0.25,462.84,289.54,42.21,94.53,39.9,47.96,12.1,15.4,204.23,2.26,103.62,1040.48,224.8,46.09
+Stylosanthes,humilis,CIAT-12115,0.5,0.18,462.56,206.86,43.05,82.4,35.47,41.34,12.6,15.3,178.14,3.49,89.36,665.84,143.95,62.08
+Stylosanthes,humilis,CIAT-12115,0.5,0.26,462.56,295.86,42.05,89.9,37.8,45.12,12.2,15.3,194.35,2.3,97.55,1009.0,218.13,44.72
+Stylosanthes,humilis,CIAT-12140,0.5,0.16,457.94,296.04,47.9,90.59,5.99,12.56,12.3,15.3,197.82,3.06,27.43,207.34,45.28,60.58
+Stylosanthes,humilis,CIAT-12140,0.5,0.18,457.94,296.04,47.9,90.59,5.99,12.56,12.3,15.3,197.82,3.06,27.43,207.34,45.28,60.58
+Stylosanthes,humilis,CIAT-12140,0.5,0.16,457.94,187.34,47.9,90.09,5.89,12.35,12.6,15.2,196.72,3.29,26.96,190.98,41.7,64.65
+Stylosanthes,humilis,CIAT-12140,0.5,0.2,457.94,187.34,47.9,90.09,5.89,12.35,12.6,15.2,196.72,3.29,26.96,190.98,41.7,64.65
+Stylosanthes,humilis,CIAT-12140,0.5,0.17,457.85,297.55,45.71,96.73,44.22,52.07,12.6,15.3,208.98,2.99,112.51,832.41,179.85,62.56
+Stylosanthes,humilis,CIAT-12140,0.5,0.3,457.85,297.55,45.71,96.73,44.22,52.07,12.6,15.3,208.98,2.99,112.51,832.41,179.85,62.56
+Stylosanthes,humilis,CIAT-12140,0.5,0.16,457.85,262.05,41.71,86.23,35.97,42.78,11.8,15.2,188.33,3.45,93.43,658.25,143.77,64.99
+Stylosanthes,humilis,CIAT-12140,0.5,0.18,457.85,262.05,41.71,86.23,35.97,42.78,11.8,15.2,188.33,3.45,93.43,658.25,143.77,64.99
+Stylosanthes,humilis,CIAT-12140,0.5,0.16,457.85,288.05,44.71,90.73,40.57,47.56,11.9,15.1,198.16,2.89,103.88,830.99,181.5,57.23
+Stylosanthes,humilis,CIAT-12140,0.5,0.2,457.85,288.05,44.71,90.73,40.57,47.56,11.9,15.1,198.16,2.89,103.88,830.99,181.5,57.23
+Stylosanthes,humilis,CIAT-12140,0.5,0.17,457.94,290.84,46.55,94.4,43.94,51.26,12.3,15.1,204.08,3.13,110.83,801.48,173.27,63.96
+Stylosanthes,humilis,CIAT-12140,0.5,0.17,457.94,168.64,42.05,84.9,35.7,42.17,11.8,15.1,185.39,3.43,92.09,663.99,144.99,63.51
+Stylosanthes,humilis,CIAT-12184,0.5,0.17,462.77,278.47,47.4,84.09,5.97,11.55,13.0,15.5,183.62,2.23,25.22,282.3,61.65,40.91
+Stylosanthes,humilis,CIAT-12184,0.5,0.27,462.77,278.47,47.4,84.09,5.97,11.55,13.0,15.5,183.62,2.23,25.22,282.3,61.65,40.91
+Stylosanthes,humilis,CIAT-12184,0.5,0.18,462.77,273.87,47.4,96.59,6.16,13.79,13.3,15.1,208.72,2.88,29.79,229.1,49.51,60.18
+Stylosanthes,humilis,CIAT-12184,0.5,0.18,462.77,273.87,47.4,96.59,6.16,13.79,13.3,15.1,208.72,2.88,29.79,229.1,49.51,60.18
+Stylosanthes,humilis,CIAT-12184,0.5,0.17,462.77,246.77,46.4,94.59,6.17,13.45,13.0,15.2,204.39,2.9,29.06,227.23,49.1,59.18
+Stylosanthes,humilis,CIAT-12184,0.5,0.19,462.77,246.77,46.4,94.59,6.17,13.45,13.0,15.2,204.39,2.9,29.06,227.23,49.1,59.18
+Stylosanthes,humilis,CIAT-12184,0.5,0.17,462.77,285.47,44.71,90.23,40.34,47.22,13.4,15.4,197.07,3.19,103.13,750.49,163.92,62.91
+Stylosanthes,humilis,CIAT-12184,0.5,0.27,462.77,285.47,44.71,90.23,40.34,47.22,13.4,15.4,197.07,3.19,103.13,750.49,163.92,62.91
+Stylosanthes,humilis,CIAT-12184,0.5,0.18,462.77,291.57,42.21,93.73,39.57,47.5,13.0,15.1,202.53,3.05,102.64,769.99,166.38,61.69
+Stylosanthes,humilis,CIAT-12184,0.5,0.18,462.77,291.57,42.21,93.73,39.57,47.5,13.0,15.1,202.53,3.05,102.64,769.99,166.38,61.69
+Stylosanthes,humilis,CIAT-12184,0.5,0.17,462.77,278.67,41.71,96.73,40.35,48.66,12.7,15.5,209.01,3.01,105.14,772.24,166.87,63.01
+Stylosanthes,humilis,CIAT-12184,0.5,0.19,462.77,278.67,41.71,96.73,40.35,48.66,12.7,15.5,209.01,3.01,105.14,772.24,166.87,63.01
+Stylosanthes,humilis,CIAT-12184,0.5,0.17,462.87,230.67,42.55,85.4,36.34,42.81,12.6,15.4,186.49,3.35,93.48,686.05,149.81,62.4
+Stylosanthes,humilis,CIAT-12184,0.5,0.23,462.87,297.57,44.05,90.9,40.04,47.26,12.7,15.4,196.38,2.54,102.09,948.26,204.87,49.83
+Stylosanthes,humilis,CIAT-12184,0.5,0.17,462.87,210.27,44.05,89.4,39.38,46.36,12.4,15.5,193.14,3.33,100.17,721.2,155.81,64.29
+Stylosanthes,humilis,CIAT-12202,0.5,0.18,463.5,285.0,46.4,94.59,6.03,13.36,12.9,15.3,204.39,2.61,28.86,250.47,54.12,53.33
+Stylosanthes,humilis,CIAT-12202,0.5,0.22,463.5,285.0,46.4,94.59,6.03,13.36,12.9,15.3,204.39,2.61,28.86,250.47,54.12,53.33
+Stylosanthes,humilis,CIAT-12202,0.5,0.18,463.5,239.7,46.9,95.09,6.05,13.42,12.8,15.3,205.15,3.0,28.96,218.3,47.1,61.49
+Stylosanthes,humilis,CIAT-12202,0.5,0.2,463.5,239.7,46.9,95.09,6.05,13.42,12.8,15.3,205.15,3.0,28.96,218.3,47.1,61.49
+Stylosanthes,humilis,CIAT-12202,0.5,0.19,463.5,286.4,45.4,92.59,5.81,13.03,12.7,15.2,199.76,2.59,28.11,251.97,54.36,51.72
+Stylosanthes,humilis,CIAT-12202,0.5,0.22,463.5,286.4,45.4,92.59,5.81,13.03,12.7,15.2,199.76,2.59,28.11,251.97,54.36,51.72
+Stylosanthes,humilis,CIAT-12202,0.5,0.18,463.32,267.12,46.71,100.73,47.05,55.43,13.1,15.4,217.66,2.77,119.77,920.41,198.89,60.22
+Stylosanthes,humilis,CIAT-12202,0.5,0.22,463.32,267.12,46.71,100.73,47.05,55.43,13.1,15.4,217.66,2.77,119.77,920.41,198.89,60.22
+Stylosanthes,humilis,CIAT-12202,0.5,0.18,463.32,274.92,42.71,94.23,40.25,48.18,12.4,15.1,203.37,2.83,103.99,835.7,180.37,57.65
+Stylosanthes,humilis,CIAT-12202,0.5,0.2,463.32,274.92,42.71,94.23,40.25,48.18,12.4,15.1,203.37,2.83,103.99,835.7,180.37,57.65
+Stylosanthes,humilis,CIAT-12202,0.5,0.19,463.32,285.92,43.21,94.23,40.72,48.42,12.7,15.1,203.37,2.92,104.51,816.05,176.13,59.34
+Stylosanthes,humilis,CIAT-12202,0.5,0.22,463.32,285.92,43.21,94.23,40.72,48.42,12.7,15.1,203.37,2.92,104.51,816.05,176.13,59.34
+Stylosanthes,humilis,CIAT-12202,0.5,0.25,463.5,297.8,43.55,86.4,37.63,44.27,12.6,14.9,186.66,2.43,95.64,974.5,210.53,45.43
+Stylosanthes,humilis,CIAT-12202,0.5,0.17,463.5,203.8,40.55,88.9,36.05,43.25,12.2,15.2,191.8,3.35,93.32,673.19,145.24,64.25
+Stylosanthes,humilis,CIAT-12202,0.5,0.26,463.5,301.1,40.05,82.9,33.2,39.71,12.5,15.3,178.85,2.46,85.68,903.21,194.87,43.97
+Stylosanthes,humilis,CIAT-1706,0.5,0.24,463.66,221.96,33.7,75.19,4.28,10.75,12.7,14.3,162.16,2.95,23.19,225.61,48.44,47.87
+Stylosanthes,humilis,CIAT-1706,0.5,0.25,463.48,212.28,35.03,75.63,4.59,10.96,13.1,14.5,163.18,2.81,23.65,240.54,51.65,45.8
+Stylosanthes,humilis,CIAT-1706,0.5,0.27,463.85,198.15,33.26,74.3,4.16,10.52,12.5,14.16,160.19,2.67,22.68,247.61,53.09,42.72
+Stylosanthes,humilis,CIAT-1706,0.5,0.34,463.85,128.05,36.65,72.28,4.58,10.17,12.5,14.08,155.82,1.77,21.93,372.59,79.46,27.61
+Stylosanthes,humilis,CIAT-1706,0.5,0.32,464.03,145.33,38.87,74.49,4.9,10.49,12.6,14.08,160.52,1.95,22.61,337.98,72.18,31.32
+Stylosanthes,humilis,CIAT-1706,0.5,0.27,463.66,195.46,37.54,73.16,4.58,10.17,12.2,13.9,157.79,2.67,21.94,242.67,52.04,42.16
+Stylosanthes,humilis,CIAT-1727,0.5,0.31,460.67,150.07,37.02,70.54,5.11,10.91,13.8,15.46,153.13,2.13,23.68,325.9,72.69,32.58
+Stylosanthes,humilis,CIAT-1727,0.5,0.31,460.76,150.16,36.14,67.44,5.02,10.44,13.9,15.48,146.38,2.23,22.66,311.77,69.52,32.59
+Stylosanthes,humilis,CIAT-1727,0.5,0.31,460.76,153.56,37.91,68.77,5.34,10.84,14.1,15.76,149.26,2.23,23.52,316.81,70.58,33.33
+Stylosanthes,humilis,CIAT-1727,0.5,0.28,460.85,183.15,35.03,77.4,4.55,11.33,13.0,14.64,167.95,2.37,24.59,279.55,61.88,39.74
+Stylosanthes,humilis,CIAT-1727,0.5,0.25,460.67,207.27,34.59,75.63,4.46,11.07,12.9,14.64,164.18,2.74,24.03,242.11,53.41,44.99
+Stylosanthes,humilis,CIAT-1727,0.5,0.27,460.85,191.75,34.59,77.4,4.63,11.53,13.4,14.89,167.95,2.48,25.01,271.99,60.12,41.61
+Stylosanthes,humilis,CIAT-1727,0.5,0.34,460.67,121.77,37.98,74.49,4.75,10.81,12.5,14.51,161.7,1.63,23.46,394.31,88.76,26.43
+Stylosanthes,humilis,CIAT-1727,0.5,0.24,460.76,219.36,38.42,76.7,4.76,11.04,12.4,14.4,166.47,2.86,23.96,228.59,50.34,47.61
+Stylosanthes,humilis,CIAT-1727,0.5,0.34,461.04,121.94,39.31,75.82,0.2,6.26,0.5,8.25,164.45,1.61,13.57,228.19,51.32,26.45
+Stylosanthes,humilis,CIAT-1803,,,,,,,,,,,,,,,,
+Stylosanthes,humilis,CIAT-2783,0.5,0.15,448.92,182.42,45.05,99.18,5.59,13.76,12.2,14.9,220.93,3.03,30.65,205.54,45.79,66.94
+Stylosanthes,humilis,CIAT-2783,0.5,0.27,448.83,277.03,43.05,97.68,5.25,13.39,12.2,14.9,217.59,1.87,29.83,329.56,73.41,40.63
+Stylosanthes,humilis,CIAT-2783,0.5,0.31,448.83,277.53,40.01,96.35,5.0,13.06,12.5,14.4,214.59,1.47,29.08,413.76,92.15,31.56
+Stylosanthes,humilis,CIAT-2783,0.5,0.17,448.74,153.64,42.01,99.35,5.25,13.51,12.4,14.5,221.36,2.79,30.1,218.47,48.68,61.83
+Stylosanthes,humilis,CIAT-2783,0.5,0.24,448.83,259.03,37.16,91.89,4.42,12.52,12.3,15.0,204.78,2.23,27.91,273.79,61.01,45.74
+Stylosanthes,humilis,CIAT-2783,0.5,0.19,448.92,158.72,39.66,94.89,4.88,13.16,11.9,15.0,211.42,2.73,29.33,228.08,50.82,57.71
+Stylosanthes,scabra,CIAT-10613,0.5,0.25,464.65,230.35,6.55,9.68,0.79,1.26,12.6,15.4,21.44,20.82,2.8,28.34,6.28,44.64
+Stylosanthes,scabra,CIAT-10613,0.5,0.23,464.28,230.48,38.05,78.68,4.79,11.05,12.9,15.4,169.33,2.93,23.78,222.92,47.98,49.57
+Stylosanthes,scabra,CIAT-10613,0.5,0.23,464.18,147.28,37.05,76.68,4.78,10.88,12.4,15.2,165.16,3.01,23.44,219.21,47.22,49.64
+Stylosanthes,scabra,CIAT-10613,0.5,0.15,464.18,186.98,40.01,90.85,4.92,12.45,12.4,15.0,201.12,3.35,27.55,184.74,40.89,67.37
+Stylosanthes,scabra,CIAT-10613,0.5,0.28,464.18,153.68,38.01,80.35,4.71,11.06,12.3,14.9,173.11,2.33,23.84,274.68,59.18,40.28
+Stylosanthes,scabra,CIAT-10613,0.5,0.31,464.65,114.85,36.51,79.35,4.49,10.87,12.2,14.9,170.95,1.94,23.43,328.45,70.76,33.11
+Stylosanthes,scabra,CIAT-10613,0.5,0.26,464.65,218.65,42.16,88.39,5.02,12.28,11.9,15.8,195.9,2.19,27.21,286.38,63.47,42.86
+Stylosanthes,scabra,CIAT-10613,0.5,0.25,464.37,154.07,37.66,78.89,4.48,11.0,11.9,15.7,169.79,2.77,23.67,233.68,50.29,47.06
+Stylosanthes,scabra,CIAT-10613,0.5,0.31,464.55,214.55,37.66,78.39,4.48,10.88,11.7,15.6,168.81,1.97,23.42,327.82,70.59,33.18
+Stylosanthes,scabra,CIAT-10627,0.5,0.32,467.21,229.51,37.55,78.68,4.66,10.91,12.7,14.8,169.5,1.87,23.5,343.77,74.06,31.73
+Stylosanthes,scabra,CIAT-10627,0.5,0.24,467.12,209.12,36.05,78.68,4.58,10.89,12.7,14.8,168.4,2.92,23.3,221.63,47.44,49.12
+Stylosanthes,scabra,CIAT-10627,0.5,0.26,467.21,234.31,36.55,77.18,4.64,10.65,13.4,15.0,165.22,2.71,22.81,238.0,50.95,44.77
+Stylosanthes,scabra,CIAT-10627,0.5,0.35,467.02,228.52,37.01,80.35,4.52,10.97,12.7,14.0,172.94,1.43,23.62,443.97,95.55,24.72
+Stylosanthes,scabra,CIAT-10627,0.5,0.24,467.4,203.9,34.01,77.85,4.32,10.46,12.9,14.2,166.7,2.94,22.39,213.71,45.76,48.93
+Stylosanthes,scabra,CIAT-10627,0.5,0.26,467.31,250.41,35.01,76.45,4.52,10.4,12.4,14.1,163.57,2.67,22.25,238.43,51.01,43.62
+Stylosanthes,scabra,CIAT-10627,0.5,0.25,467.49,228.39,36.66,80.39,4.29,11.11,11.7,15.0,173.05,2.67,23.92,240.58,51.79,46.18
+Stylosanthes,scabra,CIAT-10627,0.5,0.24,466.93,209.63,35.66,74.39,4.17,9.98,11.8,14.6,159.13,3.07,21.35,204.32,43.71,48.85
+Stylosanthes,scabra,CIAT-10627,0.5,0.26,466.93,212.33,36.66,76.39,4.33,10.13,12.1,14.9,163.6,2.74,21.69,225.56,48.31,44.9
+Stylosanthes,scabra,CIAT-10634,0.5,0.23,465.38,205.68,34.55,73.68,4.63,10.5,12.5,14.4,157.7,3.18,22.47,209.35,44.81,50.15
+Stylosanthes,scabra,CIAT-10634,0.5,0.26,465.29,288.39,40.55,89.68,5.07,12.14,12.9,14.3,192.7,2.29,26.09,274.76,59.04,44.2
+Stylosanthes,scabra,CIAT-10634,0.5,0.18,465.29,280.99,38.55,87.18,4.97,11.93,12.8,14.6,187.36,3.31,25.63,192.43,41.36,61.98
+Stylosanthes,scabra,CIAT-10634,0.5,0.22,465.38,197.98,35.01,77.85,4.34,10.38,12.3,13.9,166.6,3.22,22.22,193.75,41.46,53.58
+Stylosanthes,scabra,CIAT-10634,0.5,0.27,465.19,282.79,39.01,90.85,4.8,12.0,12.5,14.0,195.23,2.18,25.8,282.18,60.64,42.54
+Stylosanthes,scabra,CIAT-10634,0.5,0.18,465.19,220.49,39.01,89.35,4.88,11.92,12.5,14.0,192.08,3.16,25.63,196.16,42.17,60.79
+Stylosanthes,scabra,CIAT-10634,0.5,0.25,465.57,174.07,36.16,75.39,4.37,10.22,12.3,14.8,161.46,2.82,21.89,224.76,48.14,45.47
+Stylosanthes,scabra,CIAT-10634,0.5,0.29,465.57,280.07,37.66,83.89,4.63,11.47,12.3,14.7,180.19,2.07,24.65,306.9,65.92,37.39
+Stylosanthes,scabra,CIAT-10634,0.5,0.19,465.1,186.4,40.16,87.39,4.94,11.88,12.7,14.8,187.71,3.2,25.52,197.53,42.43,60.16
+Stylosanthes,scabra,CIAT-10639,0.5,0.18,466.0,213.7,42.55,92.18,5.45,12.69,13.4,15.8,198.11,3.05,27.28,210.17,45.17,60.39
+Stylosanthes,scabra,CIAT-10639,0.5,0.25,466.19,264.39,43.55,88.68,5.84,12.97,12.9,15.8,190.3,2.41,27.82,282.74,60.67,45.86
+Stylosanthes,scabra,CIAT-10639,0.5,0.2,466.28,223.48,44.05,90.68,5.68,13.05,12.8,15.9,194.51,2.92,27.99,230.1,49.36,56.71
+Stylosanthes,scabra,CIAT-10639,0.5,0.24,466.09,261.39,39.51,90.85,4.94,12.13,12.9,15.0,195.3,2.43,26.07,255.85,55.0,47.4
+Stylosanthes,scabra,CIAT-10639,0.5,0.2,466.19,265.49,40.01,90.85,5.16,12.79,13.1,15.2,194.93,2.88,27.44,228.02,48.92,56.08
+Stylosanthes,scabra,CIAT-10639,0.5,0.2,466.28,203.68,40.01,87.85,5.24,12.51,12.8,15.2,188.45,3.02,26.84,219.73,47.13,56.95
+Stylosanthes,scabra,CIAT-10639,0.5,0.28,466.37,244.67,39.66,85.39,5.04,11.81,12.3,15.7,183.6,2.18,25.38,294.56,63.33,40.08
+Stylosanthes,scabra,CIAT-10639,0.5,0.22,466.09,225.79,40.16,87.39,4.94,12.36,12.7,15.7,187.38,2.8,26.49,235.5,50.5,52.46
+Stylosanthes,scabra,CIAT-10639,0.5,0.24,466.0,273.5,38.66,86.89,4.91,12.48,12.3,15.6,186.42,2.6,26.78,257.66,55.28,48.44
+Stylosanthes,scabra,CIAT-10725,0.5,0.24,462.05,184.75,42.05,87.18,5.38,12.56,13.1,15.7,186.97,2.56,26.93,262.01,56.19,47.93
+Stylosanthes,scabra,CIAT-10725,0.5,0.28,462.14,238.14,39.05,77.68,5.12,11.18,13.5,15.8,168.12,2.38,24.2,279.61,60.52,39.98
+Stylosanthes,scabra,CIAT-10725,0.5,0.22,462.05,188.85,37.05,72.18,5.0,10.55,12.9,15.4,156.18,3.3,22.83,204.77,44.31,51.53
+Stylosanthes,scabra,CIAT-10725,0.5,0.26,462.42,248.22,39.51,89.35,5.06,12.63,13.2,14.9,191.63,2.28,27.09,289.22,62.03,43.68
+Stylosanthes,scabra,CIAT-10725,0.5,0.21,462.33,239.33,35.01,76.85,4.62,10.86,13.0,14.8,166.2,3.23,23.48,202.24,43.74,53.68
+Stylosanthes,scabra,CIAT-10725,0.5,0.22,462.14,209.04,34.01,74.35,4.42,10.39,12.7,14.6,160.82,3.22,22.48,200.75,43.42,51.77
+Stylosanthes,scabra,CIAT-10725,0.5,0.19,462.05,135.35,39.66,85.89,4.88,12.09,12.6,15.5,184.31,3.18,25.94,206.0,44.21,58.69
+Stylosanthes,scabra,CIAT-10725,0.5,0.33,462.05,230.65,35.66,74.89,4.49,10.57,12.7,15.4,162.08,1.81,22.88,360.97,78.12,29.29
+Stylosanthes,scabra,CIAT-10725,0.5,0.23,461.96,227.56,33.16,70.39,4.21,9.94,12.5,15.3,152.34,3.28,21.52,199.22,43.12,49.92
+Stylosanthes,scabra,CIAT-11820,0.5,0.3,459.12,274.32,36.05,79.18,5.01,11.74,13.1,15.4,171.46,2.01,25.42,341.4,73.93,34.38
+Stylosanthes,scabra,CIAT-11820,0.5,0.18,459.12,144.02,40.05,83.18,5.25,11.89,12.6,15.4,181.17,3.3,25.89,198.97,43.34,59.75
+Stylosanthes,scabra,CIAT-11820,0.5,0.32,459.12,266.22,41.05,81.18,5.17,11.35,12.7,15.2,176.81,1.77,24.73,361.89,78.82,31.37
+Stylosanthes,scabra,CIAT-11820,0.5,0.32,459.3,245.5,36.01,82.85,4.75,11.83,12.5,14.9,179.46,1.72,25.62,382.14,82.77,30.95
+Stylosanthes,scabra,CIAT-11820,0.5,0.21,459.12,190.12,40.51,85.85,5.06,11.82,12.5,14.7,186.92,2.86,25.73,221.14,48.15,53.45
+Stylosanthes,scabra,CIAT-11820,0.5,0.27,459.21,159.21,35.51,79.85,4.44,10.96,12.6,14.8,173.93,2.38,23.87,264.61,57.63,41.41
+Stylosanthes,scabra,CIAT-11820,0.5,0.24,459.3,238.8,39.66,82.39,5.12,11.95,12.0,15.6,178.49,2.65,25.9,252.75,54.76,47.29
+Stylosanthes,scabra,CIAT-11820,0.5,0.22,459.3,201.4,42.66,87.39,5.12,12.1,12.1,15.7,190.27,2.73,26.34,232.67,50.66,51.99
+Stylosanthes,scabra,CIAT-11820,0.5,0.26,459.21,245.41,42.66,85.39,5.16,11.87,12.9,15.7,185.91,2.36,25.85,270.71,58.94,43.85
+Stylosanthes,scabra,CIAT-12485,0.5,0.14,469.75,237.35,49.4,97.09,6.47,14.24,13.1,14.6,209.8,3.29,30.78,206.34,44.59,69.03
+Stylosanthes,scabra,CIAT-12485,0.5,0.2,469.75,237.35,49.4,97.09,6.47,14.24,13.1,14.6,209.8,3.29,30.78,206.34,44.59,69.03
+Stylosanthes,scabra,CIAT-12485,0.5,0.27,469.75,277.95,36.9,77.09,4.83,10.7,13.1,14.4,164.1,3.08,22.78,211.79,45.09,50.53
+Stylosanthes,scabra,CIAT-12485,0.5,0.23,469.75,277.95,36.9,77.09,4.83,10.7,13.1,14.4,164.1,3.08,22.78,211.79,45.09,50.53
+Stylosanthes,scabra,CIAT-12485,0.5,0.27,469.75,256.85,36.4,74.09,4.77,10.2,13.5,14.3,157.72,3.75,21.7,172.31,36.68,59.17
+Stylosanthes,scabra,CIAT-12485,0.5,0.19,469.75,256.85,36.4,74.09,4.77,10.2,13.5,14.3,157.72,3.75,21.7,172.31,36.68,59.17
+Stylosanthes,scabra,CIAT-12485,0.5,0.14,470.04,201.14,45.71,93.73,42.85,50.77,13.2,14.8,202.38,2.81,109.62,891.87,192.57,56.92
+Stylosanthes,scabra,CIAT-12485,0.5,0.2,470.04,201.14,45.71,93.73,42.85,50.77,13.2,14.8,202.38,2.81,109.62,891.87,192.57,56.92
+Stylosanthes,scabra,CIAT-12485,0.5,0.27,470.04,201.74,32.71,70.23,22.97,28.53,12.6,14.5,149.41,2.86,60.69,666.62,141.82,42.79
+Stylosanthes,scabra,CIAT-12485,0.5,0.23,470.04,201.74,32.71,70.23,22.97,28.53,12.6,14.5,149.41,2.86,60.69,666.62,141.82,42.79
+Stylosanthes,scabra,CIAT-12485,0.5,0.27,470.04,235.44,33.21,70.73,23.49,28.93,12.7,14.6,150.47,2.85,61.55,674.07,143.41,42.92
+Stylosanthes,scabra,CIAT-12485,0.5,0.19,470.04,235.44,33.21,70.73,23.49,28.93,12.7,14.6,150.47,2.85,61.55,674.07,143.41,42.92
+Stylosanthes,scabra,CIAT-12485,0.5,0.18,469.94,210.34,43.05,89.4,38.49,45.86,12.8,14.8,193.15,3.2,99.07,741.2,160.14,61.87
+Stylosanthes,scabra,CIAT-12485,0.5,0.26,469.94,212.64,34.55,68.9,23.8,28.89,13.1,14.7,146.61,3.05,61.47,645.42,137.34,44.76
+Stylosanthes,scabra,CIAT-12485,0.5,0.26,469.94,280.04,33.05,65.4,21.61,26.37,12.4,14.4,139.16,3.25,56.11,582.78,124.01,45.25
+Stylosanthes,scabra,CIAT-12710,0.5,0.2,458.99,232.19,42.4,88.59,5.34,12.32,13.2,14.9,194.72,2.09,27.07,302.64,66.52,40.7
+Stylosanthes,scabra,CIAT-12710,0.5,0.27,458.99,232.19,42.4,88.59,5.34,12.32,13.2,14.9,194.72,2.09,27.07,302.64,66.52,40.7
+Stylosanthes,scabra,CIAT-12710,0.5,0.2,458.9,233.2,36.71,88.73,32.57,40.32,12.7,15.0,194.94,2.91,88.6,711.54,156.33,56.67
+Stylosanthes,scabra,CIAT-12710,0.5,0.27,458.9,233.2,36.71,88.73,32.57,40.32,12.7,15.0,194.94,2.91,88.6,711.54,156.33,56.67
+Stylosanthes,scabra,CIAT-12710,0.5,0.23,458.9,236.2,35.71,75.23,26.87,32.79,12.7,14.8,163.93,3.1,71.46,645.32,140.62,50.82
+Stylosanthes,scabra,CIAT-12710,0.5,0.23,458.9,236.2,35.71,75.23,26.87,32.79,12.7,14.8,163.93,3.1,71.46,645.32,140.62,50.82
+Stylosanthes,scabra,CIAT-12710,0.5,0.22,458.9,212.4,36.71,77.23,28.35,34.35,12.7,14.8,168.29,3.06,74.85,667.34,145.42,51.47
+Stylosanthes,scabra,CIAT-12710,0.5,,458.9,212.4,36.71,77.23,28.35,34.35,12.7,14.8,168.29,3.06,74.85,667.34,145.42,51.47
+Stylosanthes,scabra,CIAT-12710,0.5,0.25,458.9,225.2,37.05,82.4,30.53,37.24,13.0,14.7,181.15,2.51,81.87,818.86,180.02,45.48
+Stylosanthes,scabra,CIAT-12710,0.5,0.23,458.9,196.5,37.05,74.4,27.56,33.06,12.8,14.7,162.13,3.03,72.03,673.58,146.78,49.07
+Stylosanthes,scabra,CIAT-12710,0.5,0.26,458.9,205.5,37.05,77.9,28.86,34.87,12.4,14.7,169.75,2.52,75.98,814.26,177.44,42.82
