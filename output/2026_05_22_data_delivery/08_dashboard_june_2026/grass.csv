@@ -168,15 +168,15 @@ Breeding,9,2,CIAT-PM-21-6629,Megathyrsus maximus,Grass,13.68,15.16,47.95,44.82
 Breeding,9,2,CIAT-PM-21-6640,Megathyrsus maximus,Grass,13.7,15.53,44.24,49.86
 Breeding,9,2,CIAT-PM-21-6641,Megathyrsus maximus,Grass,14.36,15.8,48.44,51.47
 Breeding,9,2,CIAT-PM-21-6647,Megathyrsus maximus,Grass,14.16,15.47,48.25,50.51
-LMF,524,2,Sample-8,Cynodon nlemfuensis ,Grass,15.74,16.01,74.28,30.61
-Benchmark,15,3,BR-02-1752-Cayman-Exc,Urochloa interespecifico,Grass,60.35,36.13,124.91,55.26
-Benchmark,15,3,BR-06-423-Cayman-Exc,Urochloa interespecifico,Grass,58.46,36.0,119.17,55.81
-Benchmark,6,3,CIAT-36087-MulatoII-Exc,Urochloa interespecifico,Grass,94.65,51.47,171.43,58.75
+LMF,494,2,Sample-8,Cynodon nlemfuensis ,Grass,14.97,15.77,72.59,30.29
+Benchmark,6,3,BR-02-1752-Cayman-Exc,Urochloa interespecific,Grass,52.63,32.06,110.49,55.48
+Benchmark,6,3,BR-06-423-Cayman-Exc,Urochloa interespecific,Grass,50.01,31.61,102.5,55.93
+Benchmark,3,3,CIAT-36087-MulatoII-Exc,Urochloa interespecific,Grass,92.89,48.97,160.84,58.42
 Benchmark,8,3,CIAT-36087-MulatoII-Opt,Urochloa interespecific,Grass,12.86,13.63,49.16,51.91
-Benchmark,15,3,CIAT-606-Basilisk-Exc,Urochloa interespecifico,Grass,63.8,36.74,130.67,56.39
+Benchmark,6,3,CIAT-606-Basilisk-Exc,Urochloa interespecific,Grass,54.86,32.0,114.26,55.91
 Benchmark,9,3,CIAT-606-Basilisk-Opt,Urochloa interespecific,Grass,13.06,14.05,52.51,48.32
 Benchmark,9,3,CIAT-6133-Llanero-Opt,Urochloa humidicola,Grass,13.33,13.86,50.79,48.53
-Benchmark,14,3,CIAT-6294-Marandu-Exc,Urochloa interespecifico,Grass,53.95,31.61,110.66,51.82
+Benchmark,6,3,CIAT-6294-Marandu-Exc,Urochloa interespecific,Grass,49.13,29.59,102.84,52.14
 Benchmark,9,3,CIAT-6294-Marandu-Opt,Urochloa interespecific,Grass,13.08,13.72,54.61,48.61
 Benchmark,6,3,CIAT-6962-Mombaza-Ex,Megathyrsus maximus,Grass,12.72,12.75,53.88,39.84
 Benchmark,9,3,CIAT-6962-Mombaza-Opt,Megathyrsus maximus ,Grass,13.03,14.08,55.76,44.44
@@ -189,7 +189,6 @@ Benchmark,8,3,Humidicola-679,Urochloa humidicola,Grass,13.12,13.68,70.74,19.02
 LMF-invivo,4,3,Muestra-#-02,Cynodon nlemfuensis,Grass,13.48,14.31,64.84,35.0
 Benchmark,7,3,Paja-Sabana-Madura,,Grass,12.43,13.74,58.75,26.61
 Benchmark,6,3,Sabana-Quemada,,Grass,12.72,13.52,53.78,17.8
-Genetic_bank,5,4,CIAT-BH-22-0303,Urochloa humidicola,Grass,14.06,14.79,129.3,22.13
 Genetic_bank,8,4,CIAT-BH-22-0468,Urochloa humidicola,Grass,14.35,14.8,75.5,34.63
 Genetic_bank,7,4,CIAT-BH-22-0521,Urochloa humidicola,Grass,29.81,3.54,45.56,13.48
 Breeding,7,4,CIAT-BH-22-0528,Urochloa humidicola,Grass,13.67,14.81,61.79,43.19
@@ -199,4 +198,4 @@ Genetic_bank,5,4,CIAT-BH-22-2365,Urochloa humidicola,Grass,14.0,14.44,66.84,39.8
 Genetic_bank,5,4,CIAT-BH-22-3572,Urochloa humidicola,Grass,13.58,14.19,154.85,20.76
 Genetic_bank,6,4,CIAT-BH-22-3830,Urochloa humidicola,Grass,13.9,14.78,75.1,40.8
 Breeding,7,4,CIAT-BR-06-1348,Urochloa interespecific,Grass,13.46,14.59,51.5,54.58
-Isabel Molina,8,4,Cayman-Br-02-1752,Urochloa interespecifico,Grass,12.99,13.37,50.17,50.22
+Isabel Molina,8,4,Cayman-Br-02-1752,Urochloa interespecific,Grass,12.99,13.37,50.17,50.22

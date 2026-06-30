@@ -1511,16 +1511,16 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 3,202.0,LMF,F25-0008,Sample-8,,,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,,24,93.82123575,11.5,88.50170503,0.0,0.0,0.0
 3,202.0,LMF,F25-0008,Sample-8,,,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,,25,93.82123575,11.5,88.50170503,0.0,0.0,0.0
 3,202.0,LMF,F25-0008,Sample-8,,,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,26,93.82123575,11.5,88.50170503,0.0,0.0,0.0
-3,203.0,Benchmark,F25-2624,CIAT-6294-Marandu-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,26,96.08039196,10.35452673,89.64547327,12.81540684,30.57595105,63.58882866
-3,204.0,Benchmark,F25-2624,CIAT-6294-Marandu-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,26,96.28,10.25159067,89.74840933,12.77470423,30.35768132,63.21004079
-3,205.0,Benchmark,F25-2625,CIAT-36087-MulatoII-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,26,96.9518289,10.47705443,89.52294557,12.56130524,29.54307318,63.44384941
-3,206.0,Benchmark,F25-2625,CIAT-36087-MulatoII-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,26,97.07029297,10.17308027,89.82691973,12.39935672,29.19868727,62.54501855
-3,207.0,Benchmark,F25-2626,CIAT-606-Basilisk-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,26,96.88187088,9.480640983,90.51935902,11.78358852,30.7548803,66.15510635
-3,208.0,Benchmark,F25-2626,CIAT-606-Basilisk-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,26,96.87062587,9.432830563,90.56716944,11.862879,29.83772045,64.48935361
-3,209.0,Benchmark,F25-2627,BR-02-1752-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,26,96.6,17.22960416,82.77039584,10.93139136,29.51361496,59.67263734
-3,210.0,Benchmark,F25-2627,BR-02-1752-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,26,96.6719968,17.18824688,82.81175312,10.93343348,29.78723106,59.85554921
-3,211.0,Benchmark,F25-2628,BR-06-423-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,26,96.57,10.41682998,89.58317002,13.91473526,29.82243235,61.75201956
-3,212.0,Benchmark,F25-2628,BR-06-423-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,26,96.77096871,10.43438851,89.56561149,13.82417766,29.0849708,61.44180824
+3,203.0,Benchmark,F25-2624,CIAT-6294-Marandu-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.08039196,10.35452673,89.64547327,12.81540684,30.57595105,63.58882866
+3,204.0,Benchmark,F25-2624,CIAT-6294-Marandu-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.28,10.25159067,89.74840933,12.77470423,30.35768132,63.21004079
+3,205.0,Benchmark,F25-2625,CIAT-36087-MulatoII-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.9518289,10.47705443,89.52294557,12.56130524,29.54307318,63.44384941
+3,206.0,Benchmark,F25-2625,CIAT-36087-MulatoII-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,97.07029297,10.17308027,89.82691973,12.39935672,29.19868727,62.54501855
+3,207.0,Benchmark,F25-2626,CIAT-606-Basilisk-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.88187088,9.480640983,90.51935902,11.78358852,30.7548803,66.15510635
+3,208.0,Benchmark,F25-2626,CIAT-606-Basilisk-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.87062587,9.432830563,90.56716944,11.862879,29.83772045,64.48935361
+3,209.0,Benchmark,F25-2627,BR-02-1752-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.6,17.22960416,82.77039584,10.93139136,29.51361496,59.67263734
+3,210.0,Benchmark,F25-2627,BR-02-1752-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.6719968,17.18824688,82.81175312,10.93343348,29.78723106,59.85554921
+3,211.0,Benchmark,F25-2628,BR-06-423-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.57,10.41682998,89.58317002,13.91473526,29.82243235,61.75201956
+3,212.0,Benchmark,F25-2628,BR-06-423-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.77096871,10.43438851,89.56561149,13.82417766,29.0849708,61.44180824
 3,213.0,Breeding,F25-2629,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.49180328,8.664773788,91.33522621,27.22199798,30.6828915,53.1292052
 3,214.0,Breeding,F25-2629,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.55044496,8.73018001,91.26981999,26.87770392,29.72559683,52.85646753
 3,215.0,Breeding,F25-2630,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.89061094,7.423112927,92.57688707,23.44936461,29.29073261,49.84947921
@@ -1637,8 +1637,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 4,58.0,Genetic_bank,F25-1756,CIAT-13260,Fabales,Fabaceae,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Shrub_Trees,27,94.11176647,14.81328743,85.18671257,15.81342541,57.38673539,66.72961043
 4,59.0,Genetic_bank,F25-1757,CIAT-17263,Fabales,Fabaceae,Leucaena,leucocephala,Leucaena leucocephala,Shrub_Trees,27,94.41335199,15.42394278,84.57605722,27.42940648,36.70931262,58.98462636
 4,60.0,Genetic_bank,F25-1757,CIAT-17263,Fabales,Fabaceae,Leucaena,leucocephala,Leucaena leucocephala,Shrub_Trees,27,94.53,12.20471626,87.79528374,0.0,35.82530414,56.53985285
-4,61.0,Isabel Molina,F25-2640,Cayman-Br-02-1752,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,27,97.01089673,9.625873976,90.37412602,8.04101047,26.26702185,62.42092434
-4,62.0,Isabel Molina,F25-2640,Cayman-Br-02-1752,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecifico,Grass,27,96.99120352,9.676436997,90.323563,8.067760916,26.21660937,61.84637727
+4,61.0,Isabel Molina,F25-2640,Cayman-Br-02-1752,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,27,97.01089673,9.625873976,90.37412602,8.04101047,26.26702185,62.42092434
+4,62.0,Isabel Molina,F25-2640,Cayman-Br-02-1752,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,27,96.99120352,9.676436997,90.323563,8.067760916,26.21660937,61.84637727
 4,63.0,Mauricio Sotelo,F25-2641,,Fabales,Fabaceae,Gliricidia  ,sepium,Gliricidia sepium ,Shrub_Trees,27,93.53258697,9.42965823,90.57034177,22.32,22.47,47.82
 4,64.0,Mauricio Sotelo,F25-2641,,Fabales,Fabaceae,Gliricidia  ,sepium,Gliricidia sepium ,Shrub_Trees,27,93.46196141,9.387831748,90.61216825,22.43,21.41,46.59
 4,65.0,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.3,11.3,88.7,0.0,0.0,76.1

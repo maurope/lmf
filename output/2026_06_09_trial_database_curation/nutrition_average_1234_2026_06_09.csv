@@ -619,11 +619,11 @@ F25-2620,CIAT-34044,4,219.0,Genetic_bank,Vigna aconitifolia,Herbaceous_legumes,9
 F25-2621,CIAT-34148,4,221.0,Genetic_bank,Vigna radiata,Herbaceous_legumes,89.54,10.26,89.74,23.29,27.82,44.75,2
 F25-2622,CIAT-34159,4,223.0,Genetic_bank,Vigna unguiculata,Herbaceous_legumes,90.48,11.99,88.01,22.86,22.34,48.64,2
 F25-2623,CIAT-34347,4,225.0,Genetic_bank,Vigna unguiculata,Herbaceous_legumes,89.49,12.0,88.0,32.46,25.27,42.68,2
-F25-2624,CIAT-6294-Marandu-Exc,3,203.0,Benchmark,Urochloa interespecifico,Grass,96.18,10.3,89.7,12.8,30.47,63.4,2
-F25-2625,CIAT-36087-MulatoII-Exc,3,205.0,Benchmark,Urochloa interespecifico,Grass,97.01,10.33,89.67,12.48,29.37,62.99,2
-F25-2626,CIAT-606-Basilisk-Exc,3,207.0,Benchmark,Urochloa interespecifico,Grass,96.88,9.46,90.54,11.82,30.3,65.32,2
-F25-2627,BR-02-1752-Cayman-Exc,3,209.0,Benchmark,Urochloa interespecifico,Grass,96.64,17.21,82.79,10.93,29.65,59.76,2
-F25-2628,BR-06-423-Cayman-Exc,3,211.0,Benchmark,Urochloa interespecifico,Grass,96.67,10.43,89.57,13.87,29.45,61.6,2
+F25-2624,CIAT-6294-Marandu-Exc,3,203.0,Benchmark,Urochloa interespecific,Grass,96.18,10.3,89.7,12.8,30.47,63.4,2
+F25-2625,CIAT-36087-MulatoII-Exc,3,205.0,Benchmark,Urochloa interespecific,Grass,97.01,10.33,89.67,12.48,29.37,62.99,2
+F25-2626,CIAT-606-Basilisk-Exc,3,207.0,Benchmark,Urochloa interespecific,Grass,96.88,9.46,90.54,11.82,30.3,65.32,2
+F25-2627,BR-02-1752-Cayman-Exc,3,209.0,Benchmark,Urochloa interespecific,Grass,96.64,17.21,82.79,10.93,29.65,59.76,2
+F25-2628,BR-06-423-Cayman-Exc,3,211.0,Benchmark,Urochloa interespecific,Grass,96.67,10.43,89.57,13.87,29.45,61.6,2
 F25-2629,CIAT-20692,3,213.0,Breeding,Clitoria ternatea ,Herbaceous_legumes,95.52,8.7,91.3,27.05,30.2,52.99,2
 F25-2630,CIAT-20692,3,215.0,Breeding,Clitoria ternatea ,Herbaceous_legumes,93.89,7.34,92.66,23.76,29.03,49.64,2
 F25-2631,CIAT-17768,3,217.0,Breeding,Clitoria ternatea ,Herbaceous_legumes,92.81,7.68,92.32,24.62,32.85,55.01,2
@@ -635,7 +635,7 @@ F25-2636,CIAT-9432,3,227.0,Breeding,Clitoria ternatea ,Herbaceous_legumes,94.47,
 F25-2637,CIAT-17462,3,229.0,Breeding,Leucaena leucocephala ,Shrub_Trees,92.63,6.88,93.12,29.87,39.13,57.51,2
 F25-2638,,3,231.0,Breeding,Tithonia diversifolia,Shrub_Trees,92.21,17.71,82.29,16.53,28.36,42.24,2
 F25-2639,,3,233.0,Breeding,Gliricidia sepium ,Shrub_Trees,88.95,10.81,89.19,22.53,19.57,40.76,2
-F25-2640,Cayman-Br-02-1752,4,61.0,Isabel Molina,Urochloa interespecifico,Grass,97.0,9.65,90.35,8.05,26.24,62.13,2
+F25-2640,Cayman-Br-02-1752,4,61.0,Isabel Molina,Urochloa interespecific,Grass,97.0,9.65,90.35,8.05,26.24,62.13,2
 F25-2641,,4,63.0,Mauricio Sotelo,Gliricidia sepium ,Shrub_Trees,93.5,9.41,90.59,22.38,21.94,47.2,2
 F26-0013,CIAT-590,4,,Genetic_bank,Macroptilium bracteatum,Herbaceous_legumes,92.6,10.54,89.46,18.47,36.08,55.46,2
 F26-0014,CIAT-778,4,,Genetic_bank,Macroptilium atropurpureum,Herbaceous_legumes,92.58,12.36,87.64,22.84,35.74,52.82,2
