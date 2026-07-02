@@ -51,28 +51,28 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 1,48.0,Genetic_bank,F24-3454,CIAT-8797,Fabales,Fabaceae,Desmanthus,virgatus,Desmanthus virgatus,Shrub_Trees,3,92.70729271,7.004310345,92.99568966,25.88000034,30.34908851,60.72665992
 1,49.0,Genetic_bank,F24-3455,CIAT-8819,Fabales,Fabaceae,Coursetia,caribaea,Coursetia caribaea,Herbaceous_legumes,3,91.60839161,13.74045802,86.25954198,21.83464401,22.76303077,34.80352448
 1,50.0,Genetic_bank,F24-3455,CIAT-8819,Fabales,Fabaceae,Coursetia,caribaea,Coursetia caribaea,Herbaceous_legumes,3,91.9,14.14581066,85.85418934,21.83464401,19.09917003,37.22426177
-1,51.0,Breeding,F24-3582,CIAT-BR-02-1752,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.98,15.64169595,84.35830405,10.91797301,21.19578114,55.59004249
-1,52.0,Breeding,F24-3582,CIAT-BR-02-1752,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.07078584,15.7635102,84.2364898,10.91797301,21.08584781,55.23367493
-1,53.0,Breeding,F24-3583,CIAT-BR-02-1794,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.97030297,15.13577023,84.86422977,9.392254149,21.26984722,54.82804262
-1,54.0,Breeding,F24-3583,CIAT-BR-02-1794,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,97.12,14.90028072,85.09971928,9.392254149,22.40086272,56.69546429
-1,55.0,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.56103169,15.97192437,84.02807563,11.00867792,22.15456453,57.44947572
-1,56.0,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.97060588,15.96318908,84.03681092,11.00867792,21.89211675,57.27926149
-1,57.0,Breeding,F24-3585,CIAT-BR-09-1232,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,97.13086074,13.82820131,86.17179869,10.08023483,21.0430635,55.54448094
-1,58.0,Breeding,F24-3585,CIAT-BR-09-1232,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,97.34079776,13.76651416,86.23348584,10.08023483,21.02210206,55.77095135
-1,59.0,Breeding,F24-3586,CIAT-BR-12-4951,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.47045295,15.47693428,84.52306572,11.10404195,23.31828587,56.94152855
-1,60.0,Breeding,F24-3586,CIAT-BR-12-4951,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.02119364,15.47383982,84.52616018,11.10404195,23.26100905,56.78673355
-1,61.0,Breeding,F24-3587,CIAT-BR-15-0722,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.0709858,14.04952506,85.95047494,10.31254646,26.52115031,60.67041444
-1,62.0,Breeding,F24-3587,CIAT-BR-15-0722,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.36,14.06283746,85.93716254,10.31254646,25.83438985,59.75509455
-1,63.0,Breeding,F24-3588,CIAT-BR-15-6487,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,94.97,13.40065215,86.59934785,9.608712975,24.32323047,59.69854782
-1,64.0,Breeding,F24-3588,CIAT-BR-15-6487,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.17,13.73724624,86.26275376,9.608712975,24.78376827,59.75158964
-1,65.0,Breeding,F24-3589,CIAT-BR-19-0029,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.05,14.10424156,85.89575844,10.07879313,23.75783461,58.02335089
-1,66.0,Breeding,F24-3589,CIAT-BR-19-0029,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.09078184,14.15345604,85.84654396,10.07879313,24.19367052,58.79681002
-1,67.0,Breeding,F24-3590,CIAT-BR-19-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.18,13.86537077,86.13462923,10.11450669,24.24316116,58.93991291
-1,68.0,Breeding,F24-3590,CIAT-BR-19-0423,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,95.51089782,13.93600081,86.06399919,10.11450669,24.7446012,59.50818595
+1,51.0,Breeding,F24-3582,CIAT-BR-02-1752,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,95.98,15.64169595,84.35830405,10.91797301,21.19578114,55.59004249
+1,52.0,Breeding,F24-3582,CIAT-BR-02-1752,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,96.07078584,15.7635102,84.2364898,10.91797301,21.08584781,55.23367493
+1,53.0,Breeding,F24-3583,CIAT-BR-02-1794,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,96.97030297,15.13577023,84.86422977,9.392254149,21.26984722,54.82804262
+1,54.0,Breeding,F24-3583,CIAT-BR-02-1794,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,97.12,14.90028072,85.09971928,9.392254149,22.40086272,56.69546429
+1,55.0,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,96.56103169,15.97192437,84.02807563,11.00867792,22.15456453,57.44947572
+1,56.0,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,96.97060588,15.96318908,84.03681092,11.00867792,21.89211675,57.27926149
+1,57.0,Breeding,F24-3585,CIAT-BR-09-1232,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,97.13086074,13.82820131,86.17179869,10.08023483,21.0430635,55.54448094
+1,58.0,Breeding,F24-3585,CIAT-BR-09-1232,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,97.34079776,13.76651416,86.23348584,10.08023483,21.02210206,55.77095135
+1,59.0,Breeding,F24-3586,CIAT-BR-12-4951,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,95.47045295,15.47693428,84.52306572,11.10404195,23.31828587,56.94152855
+1,60.0,Breeding,F24-3586,CIAT-BR-12-4951,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,96.02119364,15.47383982,84.52616018,11.10404195,23.26100905,56.78673355
+1,61.0,Breeding,F24-3587,CIAT-BR-15-0722,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,95.0709858,14.04952506,85.95047494,10.31254646,26.52115031,60.67041444
+1,62.0,Breeding,F24-3587,CIAT-BR-15-0722,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,95.36,14.06283746,85.93716254,10.31254646,25.83438985,59.75509455
+1,63.0,Breeding,F24-3588,CIAT-BR-15-6487,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,94.97,13.40065215,86.59934785,9.608712975,24.32323047,59.69854782
+1,64.0,Breeding,F24-3588,CIAT-BR-15-6487,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,95.17,13.73724624,86.26275376,9.608712975,24.78376827,59.75158964
+1,65.0,Breeding,F24-3589,CIAT-BR-19-0029,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,96.05,14.10424156,85.89575844,10.07879313,23.75783461,58.02335089
+1,66.0,Breeding,F24-3589,CIAT-BR-19-0029,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,96.09078184,14.15345604,85.84654396,10.07879313,24.19367052,58.79681002
+1,67.0,Breeding,F24-3590,CIAT-BR-19-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,95.18,13.86537077,86.13462923,10.11450669,24.24316116,58.93991291
+1,68.0,Breeding,F24-3590,CIAT-BR-19-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,95.51089782,13.93600081,86.06399919,10.11450669,24.7446012,59.50818595
 1,69.0,Breeding,F24-3591,CIAT-CIAT-6962,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,95.5813256,14.19256219,85.80743781,8.588266117,31.5913337,67.16616479
 1,70.0,Breeding,F24-3591,CIAT-CIAT-6962,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,95.87,14.30128515,85.69871485,8.588266117,32.6939506,68.08340127
-1,71.0,Breeding,F24-3592,CIAT-Mulato-II,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.69066187,14.95653166,85.04346834,11.84729481,24.44965204,60.04654225
-1,72.0,Breeding,F24-3592,CIAT-Mulato-II,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,4,96.6310107,14.9860635,85.0139365,11.84729481,24.27765695,58.7932192
+1,71.0,Breeding,F24-3592,CIAT-Mulato-II,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,96.69066187,14.95653166,85.04346834,11.84729481,24.44965204,60.04654225
+1,72.0,Breeding,F24-3592,CIAT-Mulato-II,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,4,96.6310107,14.9860635,85.0139365,11.84729481,24.27765695,58.7932192
 1,73.0,Breeding,F24-3593,CIAT-PM-21-0215,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,95.98,15.02880902,84.97119098,9.725160285,29.756359,65.00865087
 1,74.0,Breeding,F24-3593,CIAT-PM-21-0215,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.05118464,15.07636099,84.92363901,9.725160285,30.06316632,65.46763805
 1,75.0,Breeding,F24-3594,CIAT-PM-21-0631,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,4,96.73032697,13.97650548,86.02349452,9.055024441,29.06594194,63.22871631
@@ -91,26 +91,26 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 1,88.0,Breeding,F24-3600,CIAT-PM-21-3670,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,97.30026997,14.63866584,85.36133416,8.834231116,29.20532204,64.40928995
 1,89.0,Breeding,F24-3601,CIAT-PM-21-6628,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,95.12,13.98932353,86.01067647,9.980926223,29.70798149,64.85398573
 1,90.0,Breeding,F24-3601,CIAT-PM-21-6628,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,5,95.31093781,14.21753492,85.78246508,9.980926223,29.94649383,65.06653761
-1,91.0,Breeding,F24-3602,CIAT-BH-08-1149,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.37,13.30148434,86.69851566,7.526319867,28.67656881,67.49290661
-1,92.0,Breeding,F24-3602,CIAT-BH-08-1149,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.48110378,13.33058929,86.66941071,7.526319867,28.54455165,69.96591048
-1,93.0,Breeding,F24-3603,CIAT-BH-16-0550,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.0,11.45468069,88.54531931,6.425464292,29.83002246,68.75694556
-1,94.0,Breeding,F24-3603,CIAT-BH-16-0550,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,94.22,11.59281692,88.40718308,6.425464292,30.46014187,69.56262149
-1,95.0,Breeding,F24-3604,CIAT-BH-16-0562,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.00149955,11.10355157,88.89644843,5.939448687,30.66293364,69.91192737
-1,96.0,Breeding,F24-3604,CIAT-BH-16-0562,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.33093381,11.24123749,88.75876251,5.939448687,30.26929531,69.27315989
-1,97.0,Breeding,F24-3605,CIAT-BH-16-3249,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.69043096,11.94883981,88.05116019,6.64642741,28.50012439,69.32874104
-1,98.0,Breeding,F24-3605,CIAT-BH-16-3249,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,95.94081184,12.13546841,87.86453159,6.64642741,29.22073401,69.96192311
-1,99.0,Breeding,F24-3606,CIAT-BH-16-B-0733,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.21037896,12.44873592,87.55126408,8.098687385,29.23820931,68.74402079
-1,100.0,Breeding,F24-3606,CIAT-BH-16-B-0733,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.40035996,12.83289207,87.16710793,8.098687385,29.47274655,68.92521056
-1,101.0,Breeding,F24-3607,CIAT-BH-16-B-0741,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.47070586,14.13874375,85.86125625,7.498562822,28.1395684,65.64541008
-1,102.0,Breeding,F24-3607,CIAT-BH-16-B-0741,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.86,14.31743596,85.68256404,7.498562822,28.1368253,65.72102834
-1,103.0,Breeding,F24-3608,CIAT-BH-16-B-1194,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.64,11.92949811,88.07050189,5.470321142,29.62300868,67.75778221
-1,104.0,Breeding,F24-3608,CIAT-BH-16-B-1194,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.83,11.89848555,88.10151445,5.470321142,29.45338648,67.78949217
-1,105.0,Breeding,F24-3609,CIAT-BH-16-B-1618,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,97.01059788,13.96375923,86.03624077,8.125850845,28.5241981,66.90032155
-1,106.0,Breeding,F24-3609,CIAT-BH-16-B-1618,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,97.31080676,13.9932307,86.0067693,8.125850845,27.57074505,65.87027845
-1,107.0,Breeding,F24-3610,CIAT-BH-16-B-1707,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.83,10.45896788,89.54103212,5.966437759,26.78768698,68.86607208
-1,108.0,Breeding,F24-3610,CIAT-BH-16-B-1707,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,97.07058588,10.58062652,89.41937348,5.966437759,26.68993796,68.30443179
-1,109.0,Breeding,F24-3611,CIAT-CIAT-16888,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.74,11.63461614,88.36538386,6.11164643,30.34465841,69.3161333
-1,110.0,Breeding,F24-3611,CIAT-CIAT-16888,Poales,Poaceae,Urochloa,humidicola,Brachiaria humidicola,Grass,5,96.82031797,11.74710109,88.25289891,6.11164643,31.26936957,70.68017622
+1,91.0,Breeding,F24-3602,CIAT-BH-08-1149,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,94.37,13.30148434,86.69851566,7.526319867,28.67656881,67.49290661
+1,92.0,Breeding,F24-3602,CIAT-BH-08-1149,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,94.48110378,13.33058929,86.66941071,7.526319867,28.54455165,69.96591048
+1,93.0,Breeding,F24-3603,CIAT-BH-16-0550,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,94.0,11.45468069,88.54531931,6.425464292,29.83002246,68.75694556
+1,94.0,Breeding,F24-3603,CIAT-BH-16-0550,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,94.22,11.59281692,88.40718308,6.425464292,30.46014187,69.56262149
+1,95.0,Breeding,F24-3604,CIAT-BH-16-0562,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,95.00149955,11.10355157,88.89644843,5.939448687,30.66293364,69.91192737
+1,96.0,Breeding,F24-3604,CIAT-BH-16-0562,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,95.33093381,11.24123749,88.75876251,5.939448687,30.26929531,69.27315989
+1,97.0,Breeding,F24-3605,CIAT-BH-16-3249,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,95.69043096,11.94883981,88.05116019,6.64642741,28.50012439,69.32874104
+1,98.0,Breeding,F24-3605,CIAT-BH-16-3249,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,95.94081184,12.13546841,87.86453159,6.64642741,29.22073401,69.96192311
+1,99.0,Breeding,F24-3606,CIAT-BH-16-B-0733,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,96.21037896,12.44873592,87.55126408,8.098687385,29.23820931,68.74402079
+1,100.0,Breeding,F24-3606,CIAT-BH-16-B-0733,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,96.40035996,12.83289207,87.16710793,8.098687385,29.47274655,68.92521056
+1,101.0,Breeding,F24-3607,CIAT-BH-16-B-0741,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,96.47070586,14.13874375,85.86125625,7.498562822,28.1395684,65.64541008
+1,102.0,Breeding,F24-3607,CIAT-BH-16-B-0741,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,96.86,14.31743596,85.68256404,7.498562822,28.1368253,65.72102834
+1,103.0,Breeding,F24-3608,CIAT-BH-16-B-1194,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,96.64,11.92949811,88.07050189,5.470321142,29.62300868,67.75778221
+1,104.0,Breeding,F24-3608,CIAT-BH-16-B-1194,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,96.83,11.89848555,88.10151445,5.470321142,29.45338648,67.78949217
+1,105.0,Breeding,F24-3609,CIAT-BH-16-B-1618,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,97.01059788,13.96375923,86.03624077,8.125850845,28.5241981,66.90032155
+1,106.0,Breeding,F24-3609,CIAT-BH-16-B-1618,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,97.31080676,13.9932307,86.0067693,8.125850845,27.57074505,65.87027845
+1,107.0,Breeding,F24-3610,CIAT-BH-16-B-1707,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,96.83,10.45896788,89.54103212,5.966437759,26.78768698,68.86607208
+1,108.0,Breeding,F24-3610,CIAT-BH-16-B-1707,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,97.07058588,10.58062652,89.41937348,5.966437759,26.68993796,68.30443179
+1,109.0,Breeding,F24-3611,CIAT-CIAT-16888,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,96.74,11.63461614,88.36538386,6.11164643,30.34465841,69.3161333
+1,110.0,Breeding,F24-3611,CIAT-CIAT-16888,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,5,96.82031797,11.74710109,88.25289891,6.11164643,31.26936957,70.68017622
 1,111.0,Genetic_bank,F24-3426,CIAT-989,Fabales,Fabaceae,Indigofera,hirsuta,Indigofera hirsuta,Herbaceous_legumes,5,92.36076392,13.75987875,86.24012125,25.3469484,47.64235849,53.47541692
 1,112.0,Genetic_bank,F24-3426,CIAT-989,Fabales,Fabaceae,Indigofera,hirsuta,Indigofera hirsuta,Herbaceous_legumes,5,92.38,13.56354189,86.43645811,25.3469484,47.60862178,52.72672557
 1,113.0,Genetic_bank,F24-3427,CIAT-1257,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,5,92.61073893,9.576765277,90.42323472,17.95515598,35.7671013,68.89257778
@@ -575,60 +575,60 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 2,130.0,LMF,F25-0018,Homenheim-Concentrate,Concentrate,Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,20,89.65413834,5.886943918,94.11305608,0.0,0.0,0.0
 2,130.0,LMF,F25-0018,Homenheim-Concentrate,Concentrate,Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,21,89.65413834,5.886943918,94.11305608,0.0,0.0,0.0
 2,130.0,LMF,F25-0018,Homenheim-Concentrate,Concentrate,Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,22,89.65413834,5.886943918,94.11305608,0.0,0.0,0.0
-2,133.0,Breeding,F25-1701,CIAT-BR-12-1362,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,92.4,13.93,86.07,16.8,28.07,57.52
-2,134.0,Breeding,F25-1701,CIAT-BR-12-1362,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,92.52,14.1,85.9,16.98,28.17,57.73
-2,135.0,Breeding,F25-1702,CIAT-BR-12-2462,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.6,15.7,84.3,12.13,35.15,59.32
-2,136.0,Breeding,F25-1702,CIAT-BR-12-2462,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.83,15.46,84.54,12.29,34.35,58.11
-2,137.0,Breeding,F25-1703,CIAT-BR-12-3868,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.06,18.86,81.14,16.14,28.78,55.02
-2,138.0,Breeding,F25-1703,CIAT-BR-12-3868,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.24,19.29,80.71,16.46,27.71,53.64
-2,139.0,Breeding,F25-1704,CIAT-BR-15-2558,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.18,14.01,85.99,15.05,26.56,57.4
-2,140.0,Breeding,F25-1704,CIAT-BR-15-2558,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.3,14.23,85.77,14.96,26.55,57.51
-2,141.0,Breeding,F25-1705,CIAT-BR-15-2811,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.58,16.34,83.66,15.73,29.31,56.34
-2,142.0,Breeding,F25-1705,CIAT-BR-15-2811,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.66,16.19,83.81,16.0,28.94,55.22
-2,143.0,Breeding,F25-1706,CIAT-BR-15-2891,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.76,14.74,85.26,15.41,29.27,58.57
-2,144.0,Breeding,F25-1706,CIAT-BR-15-2891,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.75,14.94,85.06,15.6,29.49,59.23
-2,145.0,Breeding,F25-1707,CIAT-BR-19-1343,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.02,14.52,85.48,16.18,30.08,59.29
-2,146.0,Breeding,F25-1707,CIAT-BR-19-1343,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.18,14.5,85.5,16.19,29.59,58.54
-2,147.0,Breeding,F25-1708,CIAT-CIAT-26110,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.84,11.98,88.02,12.75,33.32,65.53
-2,148.0,Breeding,F25-1708,CIAT-CIAT-26110,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.94,11.88,88.12,12.76,33.16,65.81
-2,149.0,Breeding,F25-1709,CIAT-CIAT-26646,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.55,13.12,86.88,14.11,29.05,60.64
-2,150.0,Breeding,F25-1709,CIAT-CIAT-26646,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.57,13.23,86.77,14.16,29.12,60.65
-2,151.0,Breeding,F25-1710,CIAT-CIAT-6297,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.02,12.99,87.01,14.89,30.41,62.43
-2,152.0,Breeding,F25-1710,CIAT-CIAT-6297,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.18,13.03,86.97,14.82,29.34,61.39
-2,153.0,Breeding,F25-1711,CIAT-BR-12-4400,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,93.82,15.33,84.67,14.44,28.18,57.16
-2,154.0,Breeding,F25-1711,CIAT-BR-12-4400,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.04,15.28,84.72,14.33,27.96,57.81
-2,155.0,Breeding,F25-1712,CIAT-BR-15-3434,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.66,14.23,85.77,15.22,27.9,55.64
-2,156.0,Breeding,F25-1712,CIAT-BR-15-3434,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.57,14.17,85.83,14.95,28.61,56.59
-2,157.0,Breeding,F25-1713,CIAT-BR-15-3811,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.28,14.78,85.22,15.44,26.68,57.94
-2,158.0,Breeding,F25-1713,CIAT-BR-15-3811,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.31,14.65,85.35,15.54,26.8,58.7
-2,159.0,Breeding,F25-1714,CIAT-BR-15-6547,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.62,15.42,84.58,15.86,26.8,58.33
-2,160.0,Breeding,F25-1714,CIAT-BR-15-6547,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.85,15.65,84.35,15.76,27.24,58.16
-2,161.0,Breeding,F25-1715,CIAT-BR-15-7121,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.87,15.09,84.91,17.16,26.6,56.36
-2,162.0,Breeding,F25-1715,CIAT-BR-15-7121,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.78,15.3,84.7,16.91,26.3,56.6
-2,163.0,Breeding,F25-1716,CIAT-BR-15-8887,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.61,12.99,87.01,14.82,27.57,59.42
-2,164.0,Breeding,F25-1716,CIAT-BR-15-8887,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.93,12.99,87.01,14.69,27.64,59.47
-2,165.0,Breeding,F25-1717,CIAT-BR-19-4678,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,92.66,15.15,84.85,15.23,27.6,53.84
-2,166.0,Breeding,F25-1717,CIAT-BR-19-4678,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,92.87,15.05,84.95,15.16,28.28,53.93
-2,167.0,Breeding,F25-1718,CIAT-BR-19-5029,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.86,15.34,84.66,15.11,27.89,59.49
-2,168.0,Breeding,F25-1718,CIAT-BR-19-5029,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.38,15.33,84.67,15.01,27.58,58.66
-2,169.0,Breeding,F25-1719,CIAT-BR-19-5357,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.49,15.4,84.6,15.79,28.37,57.57
-2,170.0,Breeding,F25-1719,CIAT-BR-19-5357,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.64,15.49,84.51,15.71,28.76,59.24
-2,171.0,Breeding,F25-1720,CIAT-BR-19-5381,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.5,14.12,85.88,14.76,31.05,62.85
-2,172.0,Breeding,F25-1720,CIAT-BR-19-5381,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,94.65,14.08,85.92,15.16,30.63,61.16
-2,173.0,Breeding,F25-1721,CIAT-BR-02-0465,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.76,13.76,86.24,13.85,32.43,65.34
-2,174.0,Breeding,F25-1721,CIAT-BR-02-0465,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,97.0,13.81,86.19,13.88,33.17,65.89
-2,175.0,Breeding,F25-1722,CIAT-BR-04-3025,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.74,11.26,88.74,12.21,32.59,67.01
-2,176.0,Breeding,F25-1722,CIAT-BR-04-3025,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.93,11.36,88.64,12.29,32.84,67.83
-2,177.0,Breeding,F25-1723,CIAT-BR-05-1435,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.05,14.48,85.52,15.99,30.77,63.07
-2,178.0,Breeding,F25-1723,CIAT-BR-05-1435,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.07,14.93,85.07,16.2,30.88,64.86
-2,179.0,Breeding,F25-1724,CIAT-BR-09-3660,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.18,13.63,86.37,12.69,29.04,60.19
-2,180.0,Breeding,F25-1724,CIAT-BR-09-3660,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.3,13.65,86.35,12.85,29.06,62.31
-2,181.0,Breeding,F25-1725,CIAT-BR-19-1264,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.22,15.55,84.45,18.7,24.89,56.9
-2,182.0,Breeding,F25-1725,CIAT-BR-19-1264,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.37,15.67,84.33,18.43,25.27,55.7
-2,183.0,Breeding,F25-1726,CIAT-BR-19-5217,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.16,14.33,85.67,13.55,28.61,60.76
-2,184.0,Breeding,F25-1726,CIAT-BR-19-5217,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.24,14.1,85.9,13.38,28.98,60.65
-2,185.0,Breeding,F25-1727,CIAT-CIAT-26124,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.99,12.86,87.14,14.44,31.93,64.65
-2,186.0,Breeding,F25-1727,CIAT-CIAT-26124,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.07,12.79,87.21,14.75,31.28,65.1
+2,133.0,Breeding,F25-1701,CIAT-BR-12-1362,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,92.4,13.93,86.07,16.8,28.07,57.52
+2,134.0,Breeding,F25-1701,CIAT-BR-12-1362,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,92.52,14.1,85.9,16.98,28.17,57.73
+2,135.0,Breeding,F25-1702,CIAT-BR-12-2462,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,95.6,15.7,84.3,12.13,35.15,59.32
+2,136.0,Breeding,F25-1702,CIAT-BR-12-2462,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,95.83,15.46,84.54,12.29,34.35,58.11
+2,137.0,Breeding,F25-1703,CIAT-BR-12-3868,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.06,18.86,81.14,16.14,28.78,55.02
+2,138.0,Breeding,F25-1703,CIAT-BR-12-3868,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.24,19.29,80.71,16.46,27.71,53.64
+2,139.0,Breeding,F25-1704,CIAT-BR-15-2558,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.18,14.01,85.99,15.05,26.56,57.4
+2,140.0,Breeding,F25-1704,CIAT-BR-15-2558,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.3,14.23,85.77,14.96,26.55,57.51
+2,141.0,Breeding,F25-1705,CIAT-BR-15-2811,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.58,16.34,83.66,15.73,29.31,56.34
+2,142.0,Breeding,F25-1705,CIAT-BR-15-2811,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.66,16.19,83.81,16.0,28.94,55.22
+2,143.0,Breeding,F25-1706,CIAT-BR-15-2891,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.76,14.74,85.26,15.41,29.27,58.57
+2,144.0,Breeding,F25-1706,CIAT-BR-15-2891,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.75,14.94,85.06,15.6,29.49,59.23
+2,145.0,Breeding,F25-1707,CIAT-BR-19-1343,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.02,14.52,85.48,16.18,30.08,59.29
+2,146.0,Breeding,F25-1707,CIAT-BR-19-1343,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.18,14.5,85.5,16.19,29.59,58.54
+2,147.0,Breeding,F25-1708,CIAT-CIAT-26110,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.84,11.98,88.02,12.75,33.32,65.53
+2,148.0,Breeding,F25-1708,CIAT-CIAT-26110,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.94,11.88,88.12,12.76,33.16,65.81
+2,149.0,Breeding,F25-1709,CIAT-CIAT-26646,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.55,13.12,86.88,14.11,29.05,60.64
+2,150.0,Breeding,F25-1709,CIAT-CIAT-26646,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.57,13.23,86.77,14.16,29.12,60.65
+2,151.0,Breeding,F25-1710,CIAT-CIAT-6297,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,95.02,12.99,87.01,14.89,30.41,62.43
+2,152.0,Breeding,F25-1710,CIAT-CIAT-6297,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,95.18,13.03,86.97,14.82,29.34,61.39
+2,153.0,Breeding,F25-1711,CIAT-BR-12-4400,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,93.82,15.33,84.67,14.44,28.18,57.16
+2,154.0,Breeding,F25-1711,CIAT-BR-12-4400,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.04,15.28,84.72,14.33,27.96,57.81
+2,155.0,Breeding,F25-1712,CIAT-BR-15-3434,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.66,14.23,85.77,15.22,27.9,55.64
+2,156.0,Breeding,F25-1712,CIAT-BR-15-3434,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.57,14.17,85.83,14.95,28.61,56.59
+2,157.0,Breeding,F25-1713,CIAT-BR-15-3811,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.28,14.78,85.22,15.44,26.68,57.94
+2,158.0,Breeding,F25-1713,CIAT-BR-15-3811,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.31,14.65,85.35,15.54,26.8,58.7
+2,159.0,Breeding,F25-1714,CIAT-BR-15-6547,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.62,15.42,84.58,15.86,26.8,58.33
+2,160.0,Breeding,F25-1714,CIAT-BR-15-6547,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.85,15.65,84.35,15.76,27.24,58.16
+2,161.0,Breeding,F25-1715,CIAT-BR-15-7121,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.87,15.09,84.91,17.16,26.6,56.36
+2,162.0,Breeding,F25-1715,CIAT-BR-15-7121,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.78,15.3,84.7,16.91,26.3,56.6
+2,163.0,Breeding,F25-1716,CIAT-BR-15-8887,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.61,12.99,87.01,14.82,27.57,59.42
+2,164.0,Breeding,F25-1716,CIAT-BR-15-8887,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.93,12.99,87.01,14.69,27.64,59.47
+2,165.0,Breeding,F25-1717,CIAT-BR-19-4678,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,92.66,15.15,84.85,15.23,27.6,53.84
+2,166.0,Breeding,F25-1717,CIAT-BR-19-4678,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,92.87,15.05,84.95,15.16,28.28,53.93
+2,167.0,Breeding,F25-1718,CIAT-BR-19-5029,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,95.86,15.34,84.66,15.11,27.89,59.49
+2,168.0,Breeding,F25-1718,CIAT-BR-19-5029,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,95.38,15.33,84.67,15.01,27.58,58.66
+2,169.0,Breeding,F25-1719,CIAT-BR-19-5357,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.49,15.4,84.6,15.79,28.37,57.57
+2,170.0,Breeding,F25-1719,CIAT-BR-19-5357,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.64,15.49,84.51,15.71,28.76,59.24
+2,171.0,Breeding,F25-1720,CIAT-BR-19-5381,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.5,14.12,85.88,14.76,31.05,62.85
+2,172.0,Breeding,F25-1720,CIAT-BR-19-5381,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,94.65,14.08,85.92,15.16,30.63,61.16
+2,173.0,Breeding,F25-1721,CIAT-BR-02-0465,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.76,13.76,86.24,13.85,32.43,65.34
+2,174.0,Breeding,F25-1721,CIAT-BR-02-0465,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,97.0,13.81,86.19,13.88,33.17,65.89
+2,175.0,Breeding,F25-1722,CIAT-BR-04-3025,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,95.74,11.26,88.74,12.21,32.59,67.01
+2,176.0,Breeding,F25-1722,CIAT-BR-04-3025,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,95.93,11.36,88.64,12.29,32.84,67.83
+2,177.0,Breeding,F25-1723,CIAT-BR-05-1435,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.05,14.48,85.52,15.99,30.77,63.07
+2,178.0,Breeding,F25-1723,CIAT-BR-05-1435,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.07,14.93,85.07,16.2,30.88,64.86
+2,179.0,Breeding,F25-1724,CIAT-BR-09-3660,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.18,13.63,86.37,12.69,29.04,60.19
+2,180.0,Breeding,F25-1724,CIAT-BR-09-3660,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.3,13.65,86.35,12.85,29.06,62.31
+2,181.0,Breeding,F25-1725,CIAT-BR-19-1264,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.22,15.55,84.45,18.7,24.89,56.9
+2,182.0,Breeding,F25-1725,CIAT-BR-19-1264,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.37,15.67,84.33,18.43,25.27,55.7
+2,183.0,Breeding,F25-1726,CIAT-BR-19-5217,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.16,14.33,85.67,13.55,28.61,60.76
+2,184.0,Breeding,F25-1726,CIAT-BR-19-5217,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.24,14.1,85.9,13.38,28.98,60.65
+2,185.0,Breeding,F25-1727,CIAT-CIAT-26124,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,95.99,12.86,87.14,14.44,31.93,64.65
+2,186.0,Breeding,F25-1727,CIAT-CIAT-26124,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.07,12.79,87.21,14.75,31.28,65.1
 2,187.0,LMF,F25-2076,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,96.25,8.02,91.98,26.28,33.64,61.29
 2,188.0,LMF,F25-2076,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,96.42,7.97,92.03,26.35,32.61,59.84
 2,189.0,LMF-invivo,F25-2122,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,91.1,7.52,92.48,30.08,23.33,52.63
@@ -931,12 +931,12 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 2,384.0,Breeding,F25-2102,CIAT-PM-21-0876,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,92.56371814,13.11952163,86.88047837,13.07152797,31.37799592,67.35829363
 2,385.0,Breeding,F25-2103,CIAT-PM-21-3641,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.68126375,12.69464519,87.30535481,12.33750379,32.41143537,69.17003565
 2,386.0,Breeding,F25-2103,CIAT-PM-21-3641,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,19,93.76187144,12.37337503,87.62662497,12.3970935,31.9736865,68.94565093
-2,387.0,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,93.02139572,14.27344002,85.72655998,12.27493536,25.42988884,59.23822696
-2,388.0,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,93.16136773,14.68155945,85.31844055,12.18310493,25.85388467,60.28003764
-2,389.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,92.32460524,14.58381132,85.41618868,13.61137379,24.69071535,59.75374265
-2,390.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,92.29,14.66839526,85.33160474,13.70003134,23.95225418,58.17147267
-2,391.0,Breeding,F25-2106,CIAT-BR-09-4777,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,93.63254698,13.5732037,86.4267963,12.91360434,24.86774358,59.85162133
-2,392.0,Breeding,F25-2106,CIAT-BR-09-4777,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,19,93.72062794,13.78008047,86.21991953,12.60623674,24.0018536,58.09553939
+2,387.0,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,19,93.02139572,14.27344002,85.72655998,12.27493536,25.42988884,59.23822696
+2,388.0,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,19,93.16136773,14.68155945,85.31844055,12.18310493,25.85388467,60.28003764
+2,389.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,19,92.32460524,14.58381132,85.41618868,13.61137379,24.69071535,59.75374265
+2,390.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,19,92.29,14.66839526,85.33160474,13.70003134,23.95225418,58.17147267
+2,391.0,Breeding,F25-2106,CIAT-BR-09-4777,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,19,93.63254698,13.5732037,86.4267963,12.91360434,24.86774358,59.85162133
+2,392.0,Breeding,F25-2106,CIAT-BR-09-4777,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,19,93.72062794,13.78008047,86.21991953,12.60623674,24.0018536,58.09553939
 2,393.0,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,14,91.34432784,9.990152095,90.0098479,0.0,0.0,0.0
 2,393.0,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,15,91.34432784,9.990152095,90.0098479,0.0,0.0,0.0
 2,393.0,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,16,91.34432784,9.990152095,90.0098479,0.0,0.0,0.0
@@ -989,36 +989,36 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 2,398.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,20,93.82123575,11.49829497,88.50170503,0.0,0.0,0.0
 2,398.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,21,93.82123575,11.49829497,88.50170503,0.0,0.0,0.0
 2,398.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,22,93.82123575,11.49829497,88.50170503,0.0,0.0,0.0
-2,399.0,Breeding,F25-2107,CIAT-BR-12-0255,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,91.80245926,14.52962949,85.47037051,14.95263578,24.37122496,56.62619189
-2,400.0,Breeding,F25-2107,CIAT-BR-12-0255,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,91.90485709,13.92685371,86.07314629,14.96318881,24.89803681,58.05818566
-2,401.0,Breeding,F25-2108,CIAT-BR-12-0461,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.79072093,14.79053418,85.20946582,13.21826375,25.99250217,61.15973328
-2,402.0,Breeding,F25-2108,CIAT-BR-12-0461,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.85,14.65195775,85.34804225,13.25377674,25.21078699,60.41748021
-2,403.0,Breeding,F25-2109,CIAT-BR-12-1620,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.64063594,13.86340572,86.13659428,13.22499278,25.32588125,60.2469476
-2,404.0,Breeding,F25-2109,CIAT-BR-12-1620,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.45196441,13.71102024,86.28897976,13.21123713,25.42783817,60.47280774
-2,405.0,Breeding,F25-2110,CIAT-BR-12-1889,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,91.36,14.96509965,85.03490035,14.78608608,23.01845575,57.53390373
-2,406.0,Breeding,F25-2110,CIAT-BR-12-1889,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,91.33173365,15.21384715,84.78615285,14.84496807,23.75942689,57.97286218
-2,407.0,Breeding,F25-2111,CIAT-BR-12-4039,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.10157968,13.67712776,86.32287224,15.20918528,27.15807688,61.64920669
-2,408.0,Breeding,F25-2111,CIAT-BR-12-4039,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.11078892,13.52651206,86.47348794,15.12730733,27.77841828,62.02620413
-2,409.0,Breeding,F25-2112,CIAT-BR-12-4856,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.56074393,12.76585545,87.23414455,13.01529418,28.50942747,65.11674561
-2,410.0,Breeding,F25-2112,CIAT-BR-12-4856,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.60221933,13.05485058,86.94514942,13.00117736,26.99429399,62.13577786
-2,411.0,Breeding,F25-2113,CIAT-BR-12-5049,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.21311475,14.61709034,85.38290966,14.58818011,26.72963598,60.67073868
-2,412.0,Breeding,F25-2113,CIAT-BR-12-5049,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.29154169,14.32739616,85.67260384,14.53221791,26.31503586,60.52355195
-2,413.0,Breeding,F25-2114,CIAT-BR-15-1851,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.13157369,15.2083551,84.7916449,11.37076189,25.87762523,59.51040984
-2,414.0,Breeding,F25-2114,CIAT-BR-15-1851,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.20389805,14.42300085,85.57699915,11.13052196,26.41004105,59.37140903
-2,415.0,Breeding,F25-2115,CIAT-BR-15-3025,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,91.95241428,14.15516801,85.84483199,12.34322122,27.1082734,60.45345802
-2,416.0,Breeding,F25-2115,CIAT-BR-15-3025,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.09474315,14.11834321,85.88165679,12.28903802,26.33283228,59.43050239
-2,417.0,Breeding,F25-2116,CIAT-BR-15-3248,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.13393303,15.79037882,84.20962118,13.93219872,24.42984137,58.98557403
-2,418.0,Breeding,F25-2116,CIAT-BR-15-3248,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.19,16.0044328,83.9955672,13.8923895,24.15056295,58.59050411
-2,419.0,Breeding,F25-2117,CIAT-BR-15-7659,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.27134573,13.93684634,86.06315366,12.29695883,27.15746881,60.44628058
-2,420.0,Breeding,F25-2117,CIAT-BR-15-7659,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.39066093,13.52041409,86.47958591,12.37031255,26.74511327,59.79101886
-2,421.0,Breeding,F25-2118,CIAT-BR-15-8919,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.46130774,13.62052304,86.37947696,11.79150243,27.38608801,63.98853999
-2,422.0,Breeding,F25-2118,CIAT-BR-15-8919,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.57192842,13.3519094,86.6480906,11.72624358,26.57925705,62.4266751
-2,423.0,Breeding,F25-2119,CIAT-BR-19-5515,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.39304278,14.48133214,85.51866786,11.20421303,26.67884636,60.72756041
-2,424.0,Breeding,F25-2119,CIAT-BR-19-5515,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.46075392,14.57222234,85.42777766,11.1838541,27.23286644,61.0428379
-2,425.0,Breeding,F25-2120,CIAT-BR-19-5877,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.40197941,12.97113652,87.02886348,12.44418661,25.93043378,60.47889876
-2,426.0,Breeding,F25-2120,CIAT-BR-19-5877,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,93.57257097,13.04468648,86.95531352,12.41675741,26.20420805,60.69477471
-2,427.0,Breeding,F25-2121,CIAT-BR-19-6136,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.89284286,14.8559083,85.1440917,13.27526237,26.18873097,60.32899751
-2,428.0,Breeding,F25-2121,CIAT-BR-19-6136,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,20,92.95211437,14.71753384,85.28246616,13.37672704,25.54761373,58.72265513
+2,399.0,Breeding,F25-2107,CIAT-BR-12-0255,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,91.80245926,14.52962949,85.47037051,14.95263578,24.37122496,56.62619189
+2,400.0,Breeding,F25-2107,CIAT-BR-12-0255,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,91.90485709,13.92685371,86.07314629,14.96318881,24.89803681,58.05818566
+2,401.0,Breeding,F25-2108,CIAT-BR-12-0461,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.79072093,14.79053418,85.20946582,13.21826375,25.99250217,61.15973328
+2,402.0,Breeding,F25-2108,CIAT-BR-12-0461,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.85,14.65195775,85.34804225,13.25377674,25.21078699,60.41748021
+2,403.0,Breeding,F25-2109,CIAT-BR-12-1620,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,93.64063594,13.86340572,86.13659428,13.22499278,25.32588125,60.2469476
+2,404.0,Breeding,F25-2109,CIAT-BR-12-1620,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,93.45196441,13.71102024,86.28897976,13.21123713,25.42783817,60.47280774
+2,405.0,Breeding,F25-2110,CIAT-BR-12-1889,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,91.36,14.96509965,85.03490035,14.78608608,23.01845575,57.53390373
+2,406.0,Breeding,F25-2110,CIAT-BR-12-1889,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,91.33173365,15.21384715,84.78615285,14.84496807,23.75942689,57.97286218
+2,407.0,Breeding,F25-2111,CIAT-BR-12-4039,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.10157968,13.67712776,86.32287224,15.20918528,27.15807688,61.64920669
+2,408.0,Breeding,F25-2111,CIAT-BR-12-4039,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.11078892,13.52651206,86.47348794,15.12730733,27.77841828,62.02620413
+2,409.0,Breeding,F25-2112,CIAT-BR-12-4856,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.56074393,12.76585545,87.23414455,13.01529418,28.50942747,65.11674561
+2,410.0,Breeding,F25-2112,CIAT-BR-12-4856,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.60221933,13.05485058,86.94514942,13.00117736,26.99429399,62.13577786
+2,411.0,Breeding,F25-2113,CIAT-BR-12-5049,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.21311475,14.61709034,85.38290966,14.58818011,26.72963598,60.67073868
+2,412.0,Breeding,F25-2113,CIAT-BR-12-5049,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.29154169,14.32739616,85.67260384,14.53221791,26.31503586,60.52355195
+2,413.0,Breeding,F25-2114,CIAT-BR-15-1851,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.13157369,15.2083551,84.7916449,11.37076189,25.87762523,59.51040984
+2,414.0,Breeding,F25-2114,CIAT-BR-15-1851,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.20389805,14.42300085,85.57699915,11.13052196,26.41004105,59.37140903
+2,415.0,Breeding,F25-2115,CIAT-BR-15-3025,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,91.95241428,14.15516801,85.84483199,12.34322122,27.1082734,60.45345802
+2,416.0,Breeding,F25-2115,CIAT-BR-15-3025,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.09474315,14.11834321,85.88165679,12.28903802,26.33283228,59.43050239
+2,417.0,Breeding,F25-2116,CIAT-BR-15-3248,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.13393303,15.79037882,84.20962118,13.93219872,24.42984137,58.98557403
+2,418.0,Breeding,F25-2116,CIAT-BR-15-3248,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.19,16.0044328,83.9955672,13.8923895,24.15056295,58.59050411
+2,419.0,Breeding,F25-2117,CIAT-BR-15-7659,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,93.27134573,13.93684634,86.06315366,12.29695883,27.15746881,60.44628058
+2,420.0,Breeding,F25-2117,CIAT-BR-15-7659,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,93.39066093,13.52041409,86.47958591,12.37031255,26.74511327,59.79101886
+2,421.0,Breeding,F25-2118,CIAT-BR-15-8919,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,93.46130774,13.62052304,86.37947696,11.79150243,27.38608801,63.98853999
+2,422.0,Breeding,F25-2118,CIAT-BR-15-8919,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,93.57192842,13.3519094,86.6480906,11.72624358,26.57925705,62.4266751
+2,423.0,Breeding,F25-2119,CIAT-BR-19-5515,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.39304278,14.48133214,85.51866786,11.20421303,26.67884636,60.72756041
+2,424.0,Breeding,F25-2119,CIAT-BR-19-5515,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.46075392,14.57222234,85.42777766,11.1838541,27.23286644,61.0428379
+2,425.0,Breeding,F25-2120,CIAT-BR-19-5877,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,93.40197941,12.97113652,87.02886348,12.44418661,25.93043378,60.47889876
+2,426.0,Breeding,F25-2120,CIAT-BR-19-5877,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,93.57257097,13.04468648,86.95531352,12.41675741,26.20420805,60.69477471
+2,427.0,Breeding,F25-2121,CIAT-BR-19-6136,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.89284286,14.8559083,85.1440917,13.27526237,26.18873097,60.32899751
+2,428.0,Breeding,F25-2121,CIAT-BR-19-6136,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,20,92.95211437,14.71753384,85.28246616,13.37672704,25.54761373,58.72265513
 2,429.0,Genetic_bank,F25-1651,CIAT-798,Fabales,Fabaceae,Galactia,striata,Galactia striata,Herbaceous_legumes,20,92.59074093,11.098894,88.901106,17.13448106,24.78973458,56.07531623
 2,430.0,Genetic_bank,F25-1651,CIAT-798,Fabales,Fabaceae,Galactia,striata,Galactia striata,Herbaceous_legumes,20,92.63441935,11.09334788,88.90665212,17.16363176,25.10107275,57.71001155
 2,431.0,Genetic_bank,F25-1652,CIAT-822,Fabales,Fabaceae,Calopogonium,mucunoides,Calopogonium mucunoides,Herbaceous_legumes,20,94.03238705,6.706366116,93.29363388,17.00895537,27.16761458,47.17079133
@@ -1325,8 +1325,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 3,52.0,Breeding,F25-2096,CIAT-PM-21-4448,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,23,95.53,11.31,88.69,12.08,31.65,72.35
 3,53.0,Breeding,F25-2101,CIAT-CIAT-16071,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,23,92.96,13.6,86.4,16.88,28.86,66.57
 3,54.0,Breeding,F25-2101,CIAT-CIAT-16071,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,23,93.1,13.66,86.34,17.03,28.88,66.46
-3,55.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,23,92.32,14.58,85.42,13.61,24.69,59.75
-3,56.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,23,92.29,14.67,85.33,13.7,23.95,58.17
+3,55.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,23,92.32,14.58,85.42,13.61,24.69,59.75
+3,56.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,23,92.29,14.67,85.33,13.7,23.95,58.17
 3,57.0,LMF-invivo,F25-2131,Muestra-#-02,Poales, Poaceae,Cynodon,nlenfuensis,Cynodon nlemfuensis,Grass,23,92.11,9.45,90.55,5.75,39.56,77.29
 3,58.0,LMF-invivo,F25-2131,Muestra-#-02,Poales, Poaceae,Cynodon,nlenfuensis,Cynodon nlemfuensis,Grass,23,92.24,9.14,90.86,5.73,40.52,78.28
 3,59.0,Breeding,F25-2170,CIAT-BH-22-0765,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,23,97.37,10.96,89.04,9.8,37.41,73.32
@@ -1429,14 +1429,14 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 3,134.0,LMF,F25-0008,Sample-8,,,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,26,93.82123575,11.5,88.50170503,0.0,0.0,0.0
 3,135.0,Benchmark,F25-2136,CIAT-6962-Mombaza-Ex,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,25,96.92184689,12.06247745,87.93752255,0.0,37.86377705,69.12975235
 3,136.0,Benchmark,F25-2136,CIAT-6962-Mombaza-Ex,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus,Grass,25,96.9518289,11.99030878,88.00969122,0.0,37.79988862,68.45853645
-3,137.0,Benchmark,F25-2137,CIAT-606-Basilisk-Opt,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,25,96.70032997,10.74435663,89.25564337,5.233264588,30.94339318,62.19319958
-3,138.0,Benchmark,F25-2137,CIAT-606-Basilisk-Opt,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,25,96.87031297,10.44475438,89.55524562,5.276497987,31.58890653,62.74697079
-3,139.0,Benchmark,F25-2138,CIAT-6294-Marandu-Opt,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico ,Grass,25,96.07196402,11.35559613,88.64440387,8.59396902,32.06626398,64.31258378
-3,140.0,Benchmark,F25-2138,CIAT-6294-Marandu-Opt,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico ,Grass,25,96.16,11.23642476,88.76357524,8.405296596,32.6764607,64.93713016
-3,141.0,Benchmark,F25-2139,CIAT-36087-MulatoII-Opt,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,25,96.97151424,11.51551858,88.48448142,7.711576656,28.98832437,58.62142309
-3,142.0,Benchmark,F25-2139,CIAT-36087-MulatoII-Opt,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,25,96.93061388,11.58084706,88.41915294,7.472339535,29.88957654,59.83167972
-3,143.0,Benchmark,F25-2140,CIAT-6133-Llanero-Opt,Poales,Poaceae,Brachiaria,humidicola,Brachiaria humidicola,Grass,25,97.32,12.96846035,87.03153965,10.3571472,30.85190064,64.02927966
-3,144.0,Benchmark,F25-2140,CIAT-6133-Llanero-Opt,Poales,Poaceae,Brachiaria,humidicola,Brachiaria humidicola,Grass,25,97.46025397,13.15196881,86.84803119,10.3111096,31.11478204,64.22036196
+3,137.0,Benchmark,F25-2137,CIAT-606-Basilisk-Opt,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,25,96.70032997,10.74435663,89.25564337,5.233264588,30.94339318,62.19319958
+3,138.0,Benchmark,F25-2137,CIAT-606-Basilisk-Opt,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,25,96.87031297,10.44475438,89.55524562,5.276497987,31.58890653,62.74697079
+3,139.0,Benchmark,F25-2138,CIAT-6294-Marandu-Opt,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,25,96.07196402,11.35559613,88.64440387,8.59396902,32.06626398,64.31258378
+3,140.0,Benchmark,F25-2138,CIAT-6294-Marandu-Opt,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,25,96.16,11.23642476,88.76357524,8.405296596,32.6764607,64.93713016
+3,141.0,Benchmark,F25-2139,CIAT-36087-MulatoII-Opt,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,25,96.97151424,11.51551858,88.48448142,7.711576656,28.98832437,58.62142309
+3,142.0,Benchmark,F25-2139,CIAT-36087-MulatoII-Opt,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,25,96.93061388,11.58084706,88.41915294,7.472339535,29.88957654,59.83167972
+3,143.0,Benchmark,F25-2140,CIAT-6133-Llanero-Opt,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,25,97.32,12.96846035,87.03153965,10.3571472,30.85190064,64.02927966
+3,144.0,Benchmark,F25-2140,CIAT-6133-Llanero-Opt,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,25,97.46025397,13.15196881,86.84803119,10.3111096,31.11478204,64.22036196
 3,145.0,Benchmark,F25-2141,CIAT-6962-Mombaza-Opt,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus ,Grass,25,97.50024998,12.37563247,87.62436753,9.516927232,32.61553164,64.95567797
 3,146.0,Benchmark,F25-2141,CIAT-6962-Mombaza-Opt,Poales,Poaceae,Megathyrsus ,maximus,Megathyrsus maximus ,Grass,25,97.54098361,12.10541758,87.89458242,9.406082841,33.31357727,65.88949575
 3,147.0,Benchmark,F25-2566,Paja-Sabana-Madura,Poales,Poaceae,,,,Grass,25,92.41075892,7.304039123,92.69596088,7.088053565,46.45504982,78.93818278
@@ -1511,16 +1511,16 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 3,202.0,LMF,F25-0008,Sample-8,,,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,,24,93.82123575,11.5,88.50170503,0.0,0.0,0.0
 3,202.0,LMF,F25-0008,Sample-8,,,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,,25,93.82123575,11.5,88.50170503,0.0,0.0,0.0
 3,202.0,LMF,F25-0008,Sample-8,,,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,26,93.82123575,11.5,88.50170503,0.0,0.0,0.0
-3,203.0,Benchmark,F25-2624,CIAT-6294-Marandu-Exc,Poales,Poaceae,Urochloa, interespecifico,Urochloa interespecifico,Grass,26,96.08039196,10.35452673,89.64547327,12.81540684,30.57595105,63.58882866
-3,204.0,Benchmark,F25-2624,CIAT-6294-Marandu-Exc,Poales,Poaceae,Urochloa, interespecifico,Urochloa interespecifico,Grass,26,96.28,10.25159067,89.74840933,12.77470423,30.35768132,63.21004079
-3,205.0,Benchmark,F25-2625,CIAT-36087-MulatoII-Exc,Poales,Poaceae,Urochloa, interespecifico,Urochloa interespecifico,Grass,26,96.9518289,10.47705443,89.52294557,12.56130524,29.54307318,63.44384941
-3,206.0,Benchmark,F25-2625,CIAT-36087-MulatoII-Exc,Poales,Poaceae,Urochloa, interespecifico,Urochloa interespecifico,Grass,26,97.07029297,10.17308027,89.82691973,12.39935672,29.19868727,62.54501855
-3,207.0,Benchmark,F25-2626,CIAT-606-Basilisk-Exc,Poales,Poaceae,Urochloa, interespecifico,Urochloa interespecifico,Grass,26,96.88187088,9.480640983,90.51935902,11.78358852,30.7548803,66.15510635
-3,208.0,Benchmark,F25-2626,CIAT-606-Basilisk-Exc,Poales,Poaceae,Urochloa, interespecifico,Urochloa interespecifico,Grass,26,96.87062587,9.432830563,90.56716944,11.862879,29.83772045,64.48935361
-3,209.0,Benchmark,F25-2627,BR-02-1752-Cayman-Exc,Poales,Poaceae,Urochloa, interespecifico,Urochloa interespecifico,Grass,26,96.6,17.22960416,82.77039584,10.93139136,29.51361496,59.67263734
-3,210.0,Benchmark,F25-2627,BR-02-1752-Cayman-Exc,Poales,Poaceae,Urochloa, interespecifico,Urochloa interespecifico,Grass,26,96.6719968,17.18824688,82.81175312,10.93343348,29.78723106,59.85554921
-3,211.0,Benchmark,F25-2628,BR-06-423-Cayman-Exc,Poales,Poaceae,Urochloa, interespecifico,Urochloa interespecifico,Grass,26,96.57,10.41682998,89.58317002,13.91473526,29.82243235,61.75201956
-3,212.0,Benchmark,F25-2628,BR-06-423-Cayman-Exc,Poales,Poaceae,Urochloa, interespecifico,Urochloa interespecifico,Grass,26,96.77096871,10.43438851,89.56561149,13.82417766,29.0849708,61.44180824
+3,203.0,Benchmark,F25-2624,CIAT-6294-Marandu-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.08039196,10.35452673,89.64547327,12.81540684,30.57595105,63.58882866
+3,204.0,Benchmark,F25-2624,CIAT-6294-Marandu-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.28,10.25159067,89.74840933,12.77470423,30.35768132,63.21004079
+3,205.0,Benchmark,F25-2625,CIAT-36087-MulatoII-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.9518289,10.47705443,89.52294557,12.56130524,29.54307318,63.44384941
+3,206.0,Benchmark,F25-2625,CIAT-36087-MulatoII-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,97.07029297,10.17308027,89.82691973,12.39935672,29.19868727,62.54501855
+3,207.0,Benchmark,F25-2626,CIAT-606-Basilisk-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.88187088,9.480640983,90.51935902,11.78358852,30.7548803,66.15510635
+3,208.0,Benchmark,F25-2626,CIAT-606-Basilisk-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.87062587,9.432830563,90.56716944,11.862879,29.83772045,64.48935361
+3,209.0,Benchmark,F25-2627,BR-02-1752-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.6,17.22960416,82.77039584,10.93139136,29.51361496,59.67263734
+3,210.0,Benchmark,F25-2627,BR-02-1752-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.6719968,17.18824688,82.81175312,10.93343348,29.78723106,59.85554921
+3,211.0,Benchmark,F25-2628,BR-06-423-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.57,10.41682998,89.58317002,13.91473526,29.82243235,61.75201956
+3,212.0,Benchmark,F25-2628,BR-06-423-Cayman-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,26,96.77096871,10.43438851,89.56561149,13.82417766,29.0849708,61.44180824
 3,213.0,Breeding,F25-2629,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.49180328,8.664773788,91.33522621,27.22199798,30.6828915,53.1292052
 3,214.0,Breeding,F25-2629,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.55044496,8.73018001,91.26981999,26.87770392,29.72559683,52.85646753
 3,215.0,Breeding,F25-2630,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.89061094,7.423112927,92.57688707,23.44936461,29.29073261,49.84947921
@@ -1637,8 +1637,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 4,58.0,Genetic_bank,F25-1756,CIAT-13260,Fabales,Fabaceae,Dendrolobium,lanceolatum,Dendrolobium lanceolatum,Shrub_Trees,27,94.11176647,14.81328743,85.18671257,15.81342541,57.38673539,66.72961043
 4,59.0,Genetic_bank,F25-1757,CIAT-17263,Fabales,Fabaceae,Leucaena,leucocephala,Leucaena leucocephala,Shrub_Trees,27,94.41335199,15.42394278,84.57605722,27.42940648,36.70931262,58.98462636
 4,60.0,Genetic_bank,F25-1757,CIAT-17263,Fabales,Fabaceae,Leucaena,leucocephala,Leucaena leucocephala,Shrub_Trees,27,94.53,12.20471626,87.79528374,0.0,35.82530414,56.53985285
-4,61.0,Isabel Molina,F25-2640,Cayman-Br-02-1752,Poales,Poaceae,Urochloa,interespecifico,Urochloa interespecifico,Grass,27,97.01089673,9.625873976,90.37412602,8.04101047,26.26702185,62.42092434
-4,62.0,Isabel Molina,F25-2640,Cayman-Br-02-1752,Poales,Poaceae,Urochloa,interespecifico,Urochloa interespecifico,Grass,27,96.99120352,9.676436997,90.323563,8.067760916,26.21660937,61.84637727
+4,61.0,Isabel Molina,F25-2640,Cayman-Br-02-1752,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,27,97.01089673,9.625873976,90.37412602,8.04101047,26.26702185,62.42092434
+4,62.0,Isabel Molina,F25-2640,Cayman-Br-02-1752,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,27,96.99120352,9.676436997,90.323563,8.067760916,26.21660937,61.84637727
 4,63.0,Mauricio Sotelo,F25-2641,,Fabales,Fabaceae,Gliricidia  ,sepium,Gliricidia sepium ,Shrub_Trees,27,93.53258697,9.42965823,90.57034177,22.32,22.47,47.82
 4,64.0,Mauricio Sotelo,F25-2641,,Fabales,Fabaceae,Gliricidia  ,sepium,Gliricidia sepium ,Shrub_Trees,27,93.46196141,9.387831748,90.61216825,22.43,21.41,46.59
 4,65.0,Jacobo Arango/Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,27,93.3,11.3,88.7,0.0,0.0,76.1
@@ -1907,8 +1907,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 4,,Genetic_bank,F26-0041,CIAT-23767,Fabales,Fabaceae,Desmodium,nicaraguense,Desmodium nicaraguense,Shrub_Trees,30,95.04,10.14779467,89.85220533,19.05313828,26.26164836,53.52832846
 4,,Genetic_bank,F26-0042,CIAT-33127,Fabales,Fabaceae,Codariocalyx,motorius,Codariocalyx motorius,Shrub_Trees,30,95.53223388,9.304820097,90.6951799,13.66830468,43.8186202,62.43368834
 4,,Genetic_bank,F26-0042,CIAT-33127,Fabales,Fabaceae,Codariocalyx,motorius,Codariocalyx motorius,Shrub_Trees,30,95.67086583,9.757304549,90.24269545,13.65583273,46.71348515,66.75154809
-4,,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,30,93.02,14.27,85.73,12.27,25.43,59.24
-4,,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecifico,Brachiaria interespecifico,Grass,30,93.16,14.68,85.32,12.18,25.85,60.28
+4,,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,30,93.02,14.27,85.73,12.27,25.43,59.24
+4,,Breeding,F25-2104,CIAT-BR-06-1348,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,30,93.16,14.68,85.32,12.18,25.85,60.28
 4,,Breeding,F25-2166,CIAT-BH-22-0528,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,30,98.2,12.48,87.52,8.8,36.63,73.37
 4,,Breeding,F25-2166,CIAT-BH-22-0528,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,30,98.22,15.08,84.92,8.73,36.96,73.74
 4,,Jacobo Arango/ Alejandro Montoya,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,30,93.6,11.3,88.7,13.1,37.8,76.1

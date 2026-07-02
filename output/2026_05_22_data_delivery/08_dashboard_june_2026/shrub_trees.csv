@@ -46,13 +46,13 @@ Genetic_bank,7,2,CIAT-43477,Desmodium cinereum,Shrub_Trees,15.09,15.83,57.22,36.
 Genetic_bank,9,2,CIAT-7831,Tephrosia rhodesica,Shrub_Trees,14.91,17.57,54.47,51.58
 LMF,7,2,ILRI-15551,Leucaena diversifolia,Shrub_Trees,9.97,11.75,35.19,46.02
 LMF-invivo,9,2,ILRI-15551,Leucaena diversifolia,Shrub_Trees,10.08,11.66,29.6,43.22
-Breeding,6,3,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,39.91,28.35,98.34,40.78
-Genetic_bank,9,3,CIAT-23326,Desmodium velutinum,Shrub_Trees,14.14,15.89,46.38,59.89
-Genetic_bank,9,3,CIAT-3001,Codariocalyx gyroides,Shrub_Trees,12.01,13.39,46.73,41.49
-Genetic_bank,7,3,CIAT-3304,Desmodium cajanifolium,Shrub_Trees,12.93,14.08,47.33,53.08
-Genetic_bank,9,3,CIAT-8826,Zapoteca formosa,Shrub_Trees,11.7,12.72,40.33,67.03
-Breeding,6,3,,Tithonia diversifolia,Shrub_Trees,31.71,21.46,51.12,46.26
-Breeding,4,3,,Gliricidia sepium ,Shrub_Trees,47.56,30.61,89.24,62.8
+Breeding,6,3,CIAT-17462,Leucaena leucocephala ,Shrub_Trees,13.3,14.49,50.44,37.48
+Genetic_bank,9,3,CIAT-23326,Desmodium velutinum,Shrub_Trees,14.57,16.41,43.07,63.05
+Genetic_bank,9,3,CIAT-3001,Codariocalyx gyroides,Shrub_Trees,12.27,13.71,49.08,36.92
+Genetic_bank,7,3,CIAT-3304,Desmodium cajanifolium,Shrub_Trees,13.17,14.24,47.63,60.4
+Genetic_bank,9,3,CIAT-8826,Zapoteca formosa,Shrub_Trees,10.9,11.8,36.29,67.6
+Breeding,6,3,,Tithonia diversifolia,Shrub_Trees,12.63,13.42,26.5,50.71
+Breeding,4,3,,Gliricidia sepium ,Shrub_Trees,13.0,14.02,39.91,65.7
 Genetic_bank,8,4,CIAT-13258,Dendrolobium lanceolatum,Shrub_Trees,12.89,13.15,41.85,19.8
 Genetic_bank,8,4,CIAT-13260,Dendrolobium lanceolatum,Shrub_Trees,13.58,14.5,60.35,18.9
 Genetic_bank,5,4,CIAT-13262,Dendrolobium triangulare,Shrub_Trees,13.46,14.98,45.6,32.71
