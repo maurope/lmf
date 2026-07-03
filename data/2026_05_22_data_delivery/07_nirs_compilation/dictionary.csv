@@ -1,0 +1,18 @@
+dm_percentage,DM, %
+ash_dm,Ash/DM
+om_percentage,OM, %
+pc_percentage_dm,PC (%), DM
+adf_percentage_dm,ADF, % (DM)
+ndf_percentage_dm,NDF, % (DM)
+n_replicates_nutrition,Number of replicates used to nutrition average
+net_gas_8h_ml,Net gas 8h, ml
+net_gas_24h_ml,Net gas 24h, ml
+gas_ml_g_dm_incubated_24h,Gas ml/g DM Incubated, 24h
+tddm,% DMD, Truly digestibility
+part_fact,Partition Factor
+ch4_percentage_in_gas_8h,CH4 ml in gas, 8h
+ch4_percentage_in_gas_24h,CH4 ml in gas, 24h
+ch4_ml_g_dm_incubated_24h,CH4 ml/gDM incubated, 24h
+methane_intensity,CH4 ml/g DMD, 24h
+ch4_ml_g_ndf_digested_24h,CH4 ml/g NDF digested in 24 h
+n_replicates_gas,Number of replicates used to gas average
