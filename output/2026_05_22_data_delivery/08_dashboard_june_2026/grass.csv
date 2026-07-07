@@ -189,6 +189,7 @@ Benchmark,8,3,Humidicola-679,Urochloa humidicola,Grass,13.48,13.75,68.01,24.09
 LMF-invivo,4,3,Muestra-#-02,Cynodon nlemfuensis,Grass,14.18,14.82,70.57,27.18
 Benchmark,7,3,Paja-Sabana-Madura,,Grass,12.51,13.55,62.87,13.53
 Benchmark,6,3,Sabana-Quemada,,Grass,12.07,13.31,46.68,14.63
+Genetic_bank,5,4,CIAT-BH-22-0303,Urochloa humidicola,Grass,14.06,14.79,129.3,22.13
 Genetic_bank,8,4,CIAT-BH-22-0468,Urochloa humidicola,Grass,14.35,14.8,75.5,34.63
 Genetic_bank,7,4,CIAT-BH-22-0521,Urochloa humidicola,Grass,29.81,3.54,45.56,13.48
 Breeding,7,4,CIAT-BH-22-0528,Urochloa humidicola,Grass,13.67,14.81,61.79,43.19
