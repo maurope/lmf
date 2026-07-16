@@ -3,13 +3,13 @@ Dieta-1_Exp1,Dieta-1-Exp-1,3,839,LMF-invivo,Dieta 1_Exp1,,30.67,67.46,149.92,34.
 Dieta-1_Exp2,Dieta-1-Exp-2,3,1019,LMF-invivo,Dieta 1_Exp2,,28.26,57.51,129.22,33.33,2.41,13.66,14.43,18.49,70.34,313.12,8
 Dieta-2_Exp1,Dieta-2-Exp-1,3,738,LMF-invivo,Dieta 2_Exp1,,29.6,62.15,139.52,30.16,2.16,13.87,14.36,20.02,71.36,317.83,6
 Dieta-2_Exp2,Dieta-2-Exp-2,3,1022,LMF-invivo,Dieta 2_Exp2,,23.63,47.33,106.3,20.63,1.92,13.89,14.47,15.36,81.9,364.69,7
-F24-3416,CIAT-705,1,1,Genetic_bank,Indigofera suffruticosa,Herbaceous_legumes,29.35,61.94,134.59,74.34,5.52,14.26,17.35,23.36,31.84,149.32,9
+F24-3416,CIAT-705,1,1,Genetic_bank,Indigofera suffruticosa,Shrub_Trees,29.35,61.94,134.59,74.34,5.52,14.26,17.35,23.36,31.84,149.32,9
 F24-3417,CIAT-707,1,4,Genetic_bank,Alysicarpus ovalifolius,Herbaceous_legumes,30.58,66.26,147.01,65.97,4.49,13.54,16.25,23.89,36.44,125.18,9
 F24-3418,CIAT-712,1,7,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,39.78,78.31,171.45,62.66,3.66,12.57,14.79,25.37,40.73,153.83,9
-F24-3419,CIAT-749,1,10,Genetic_bank,Crotalaria juncea,Herbaceous_legumes,35.74,67.64,147.39,65.15,4.43,14.03,15.59,22.98,35.43,150.15,9
+F24-3419,CIAT-749,1,10,Genetic_bank,Crotalaria juncea,Shrub_Trees,35.74,67.64,147.39,65.15,4.43,14.03,15.59,22.98,35.43,150.15,9
 F24-3420,CIAT-768,1,13,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,33.53,74.13,160.77,64.82,4.03,13.49,15.73,25.3,39.08,134.6,9
 F24-3421,CIAT-772,1,16,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,32.3,75.07,163.99,65.1,4.06,13.46,14.99,24.42,37.92,77.57,9
-F24-3422,CIAT-819,1,19,Genetic_bank,Indigofera suffruticosa,Herbaceous_legumes,32.19,63.25,139.32,60.93,4.39,14.22,16.94,23.64,39.4,201.43,8
+F24-3422,CIAT-819,1,19,Genetic_bank,Indigofera suffruticosa,Shrub_Trees,32.19,63.25,139.32,60.93,4.39,14.22,16.94,23.64,39.4,201.43,8
 F24-3423,CIAT-905,1,22,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,38.42,76.32,166.0,63.42,3.87,12.08,15.4,25.65,40.88,908.11,9
 F24-3424,CIAT-913,1,25,Genetic_bank,Cajanus cajan,Shrub_Trees,23.96,58.27,122.89,60.86,5.01,13.53,16.14,19.76,32.83,102.87,9
 F24-3425,CIAT-955,1,28,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,37.78,84.29,183.5,59.65,3.29,12.82,14.54,26.67,45.45,138.42,9
@@ -36,17 +36,17 @@ F24-3445,CIAT-7792,1,643,Genetic_bank,Chamaecrista rotundifolia,Herbaceous_legum
 F24-3446,CIAT-7816,1,646,Genetic_bank,Indigofera spicata,Herbaceous_legumes,31.86,68.94,149.0,64.89,4.39,15.45,17.82,26.54,41.04,144.5,6
 F24-3447,CIAT-7858,1,649,Genetic_bank,Crotalaria incana,Herbaceous_legumes,47.91,85.8,184.16,73.8,4.04,16.68,18.6,34.28,46.55,101.24,6
 F24-3448,CIAT-7972,1,652,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,37.19,71.24,154.94,66.01,4.25,16.23,18.63,28.8,44.18,170.11,6
-F24-3449,CIAT-8205,1,655,Genetic_bank,Indigofera suffruticosa,Herbaceous_legumes,30.68,65.55,142.02,62.07,4.4,19.0,20.51,29.08,46.97,240.8,6
-F24-3450,CIAT-8402,1,658,Genetic_bank,Indigofera suffruticosa,Herbaceous_legumes,34.0,59.08,128.37,62.49,4.87,18.76,20.59,26.43,42.3,267.13,5
+F24-3449,CIAT-8205,1,655,Genetic_bank,Indigofera suffruticosa,Shrub_Trees,30.68,65.55,142.02,62.07,4.4,19.0,20.51,29.08,46.97,240.8,6
+F24-3450,CIAT-8402,1,658,Genetic_bank,Indigofera suffruticosa,Shrub_Trees,34.0,59.08,128.37,62.49,4.87,18.76,20.59,26.43,42.3,267.13,5
 F24-3451,CIAT-8408,1,661,Genetic_bank,Chamaecrista nictitans,Herbaceous_legumes,32.82,63.48,134.96,47.3,3.52,17.22,20.47,27.69,58.52,501.47,6
 F24-3452,CIAT-8409,1,664,Genetic_bank,Chamaecrista nictitans,Herbaceous_legumes,35.09,60.09,130.68,49.94,3.82,16.98,20.56,26.92,54.13,276.79,5
 F24-3453,CIAT-8719,1,667,Genetic_bank,Canavalia sp. ,Herbaceous_legumes,36.43,69.75,149.06,65.39,4.39,16.52,19.17,28.62,44.01,296.13,12
 F24-3454,CIAT-8797,1,670,Genetic_bank,Desmanthus virgatus,Shrub_Trees,31.49,61.64,132.58,48.5,3.67,15.47,17.84,23.64,48.75,291.63,6
-F24-3455,CIAT-8819,1,673,Genetic_bank,Coursetia caribaea,Herbaceous_legumes,33.47,69.52,151.45,63.34,4.19,18.58,20.43,30.96,48.94,226.66,5
+F24-3455,CIAT-8819,1,673,Genetic_bank,Coursetia caribaea,Shrub_Trees,33.47,69.52,151.45,63.34,4.19,18.58,20.43,30.96,48.94,226.66,5
 F24-3456,CIAT-9170,1,676,Genetic_bank,Indigofera lespedezioides,Herbaceous_legumes,28.1,44.6,95.77,42.54,4.45,15.12,16.69,15.99,38.2,468.11,6
 F24-3457,CIAT-9254,1,679,Genetic_bank,Crotalaria pallida,Herbaceous_legumes,31.49,68.2,150.13,59.58,4.0,18.25,20.76,31.24,52.29,222.84,6
 F24-3458,CIAT-9283,1,682,Genetic_bank,Crotalaria pallida,Herbaceous_legumes,32.82,67.76,145.95,60.12,4.12,18.13,20.82,30.4,50.83,254.6,6
-F24-3459,CIAT-9288,1,685,Genetic_bank,Indigofera suffruticosa,Herbaceous_legumes,39.46,68.94,147.0,68.02,4.63,19.38,22.66,33.31,49.11,168.49,6
+F24-3459,CIAT-9288,1,685,Genetic_bank,Indigofera suffruticosa,Shrub_Trees,39.46,68.94,147.0,68.02,4.63,19.38,22.66,33.31,49.11,168.49,6
 F24-3460,CIAT-9336,1,688,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,46.54,77.42,171.22,69.15,4.09,18.63,20.19,34.64,50.58,214.71,6
 F24-3461,CIAT-9349,1,691,Genetic_bank,Mucuna pruriens,Herbaceous_legumes,30.09,59.72,130.61,56.47,4.33,17.35,18.52,24.19,43.23,295.65,6
 F24-3462,CIAT-9356,1,694,Genetic_bank,Tephrosia noctiflora,Shrub_Trees,32.3,59.94,128.77,53.77,4.18,18.7,20.48,26.38,49.48,375.49,6
@@ -64,7 +64,7 @@ F24-3473,CIAT-13575,1,817,Genetic_bank,Desmodium incanum,Herbaceous_legumes,25.6
 F24-3474,CIAT-13609,1,820,Genetic_bank,Desmodium incanum,Herbaceous_legumes,27.51,50.25,107.53,38.4,3.58,13.66,16.31,17.58,46.39,-1188.43,9
 F24-3475,CIAT-15551,1,823,Genetic_bank,Centrosema molle,Herbaceous_legumes,32.77,65.88,140.48,49.72,3.55,14.79,17.49,24.68,50.03,290.19,9
 F24-3476,CIAT-17024,1,826,Genetic_bank,Desmanthus pernambucanus,Shrub_Trees,28.59,50.45,108.95,40.14,3.7,14.17,16.84,18.45,46.29,-1508.62,9
-F24-3477,CIAT-17091,1,829,Genetic_bank,Crotalaria micans,Herbaceous_legumes,41.67,87.22,184.37,66.12,3.59,15.17,17.47,32.25,48.83,212.3,9
+F24-3477,CIAT-17091,1,829,Genetic_bank,Crotalaria micans,Shrub_Trees,41.67,87.22,184.37,66.12,3.59,15.17,17.47,32.25,48.83,212.3,9
 F24-3478,CIAT-17365,1,832,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,47.57,86.39,184.9,63.39,3.43,15.12,17.56,32.55,51.29,221.13,9
 F24-3479,CIAT-17451,1,835,Genetic_bank,Canavalia sp.,Herbaceous_legumes,35.57,68.16,148.64,62.07,4.18,12.8,15.61,23.25,37.55,223.01,9
 F24-3480,CIAT-17775,1,838,Genetic_bank,Christia obcordata,Herbaceous_legumes,45.41,83.24,176.41,59.09,3.35,15.26,18.43,32.55,55.22,244.5,9
@@ -79,7 +79,7 @@ F24-3488,CIAT-18813,1,862,Genetic_bank,Crotalaria nitens,Herbaceous_legumes,27.3
 F24-3489,CIAT-18848,1,865,Genetic_bank,Alysicarpus rugosus,Herbaceous_legumes,32.97,53.64,113.58,57.17,5.05,14.5,16.9,19.17,34.19,-169.44,9
 F24-3490,CIAT-18862,1,868,Genetic_bank,Alysicarpus rugosus,Herbaceous_legumes,32.72,59.3,127.37,49.62,3.91,15.2,17.3,22.1,44.91,203.33,9
 F24-3491,CIAT-18931,1,871,Genetic_bank,Tephrosia linearis,Shrub_Trees,30.95,58.9,125.87,49.75,3.95,14.06,16.35,20.54,42.05,293.07,9
-F24-3492,CIAT-19038,1,874,Genetic_bank,Canavalia sp.,Shrub_Trees,33.95,69.37,153.76,63.37,4.15,14.78,17.6,27.11,43.52,-75.3,9
+F24-3492,CIAT-19038,1,874,Genetic_bank,Canavalia sp.,Herbaceous_legumes,33.95,69.37,153.76,63.37,4.15,14.78,17.6,27.11,43.52,-75.3,9
 F24-3493,CIAT-19118,1,877,Genetic_bank,Alysicarpus rugosus,Herbaceous_legumes,35.18,69.18,148.82,59.74,4.02,15.71,17.7,26.31,44.5,451.56,9
 F24-3494,CIAT-19127,1,880,Genetic_bank,Alysicarpus rugosus,Herbaceous_legumes,32.38,61.46,133.18,48.76,3.66,15.48,17.96,23.89,49.24,435.96,9
 F24-3495,CIAT-19128,1,883,Genetic_bank,Alysicarpus rugosus,Herbaceous_legumes,31.15,60.03,129.47,46.81,3.62,15.19,17.68,22.87,49.01,275.49,9
@@ -93,10 +93,10 @@ F24-3502,CIAT-19421,1,1159,Genetic_bank,Uraria lagopodioides,Herbaceous_legumes,
 F24-3503,CIAT-19566,1,1162,Genetic_bank,Tephrosia noctiflora,Shrub_Trees,45.23,68.65,146.32,64.11,4.39,15.42,16.28,23.83,37.31,595.67,9
 F24-3504,CIAT-19667,1,1165,Genetic_bank,Indigofera hirsuta,Herbaceous_legumes,30.63,46.87,101.39,44.81,4.44,13.07,14.31,14.51,32.52,-324.21,9
 F24-3505,CIAT-19673,1,1168,Genetic_bank,Alysicarpus rugosus,Herbaceous_legumes,42.48,65.45,141.49,51.27,3.64,14.38,15.9,22.51,43.95,-505.48,9
-F24-3506,CIAT-19895,1,1351,Genetic_bank,Aeschynomene americana,Herbaceous_legumes,37.07,75.15,160.96,67.43,4.23,14.14,15.62,25.13,38.27,100.81,9
+F24-3506,CIAT-19895,1,1351,Genetic_bank,Aeschynomene americana,Shrub_Trees,37.07,75.15,160.96,67.43,4.23,14.14,15.62,25.13,38.27,100.81,9
 F24-3507,CIAT-20093,1,1354,Genetic_bank,Canavalia sp.,Herbaceous_legumes,39.24,73.92,156.59,65.75,4.25,14.71,15.94,24.97,37.98,162.04,9
 F24-3508,CIAT-20113,1,1357,Genetic_bank,Canavalia sp.,Herbaceous_legumes,38.5,78.2,165.17,65.3,3.97,13.02,15.11,24.95,38.26,203.42,9
-F24-3509,CIAT-20125,1,1360,Genetic_bank,Coursetia caribaea,Herbaceous_legumes,32.16,63.55,135.87,57.96,4.35,15.43,17.01,23.1,40.0,-114.46,9
+F24-3509,CIAT-20125,1,1360,Genetic_bank,Coursetia caribaea,Shrub_Trees,32.16,63.55,135.87,57.96,4.35,15.43,17.01,23.1,40.0,-114.46,9
 F24-3510,CIAT-20298,1,1363,Genetic_bank,Canavalia sp.,Herbaceous_legumes,34.42,67.24,143.52,56.36,3.98,13.89,15.34,22.05,39.36,-380.08,9
 F24-3511,CIAT-20305,1,1366,Genetic_bank,Canavalia sp.,Herbaceous_legumes,40.66,68.91,147.24,62.07,4.56,12.71,14.72,21.85,35.46,523.12,9
 F24-3512,CIAT-20803,1,1369,Genetic_bank,Canavalia sp.,Herbaceous_legumes,35.35,68.27,146.13,55.7,3.86,13.8,15.98,23.37,42.61,344.33,9
@@ -106,8 +106,8 @@ F24-3515,CIAT-21212,1,1378,Genetic_bank,Canavalia sp.,Herbaceous_legumes,39.43,7
 F24-3516,CIAT-21263,1,1381,Genetic_bank,Sesbania rostrata,Shrub_Trees,38.45,68.47,147.82,60.43,4.16,14.32,15.06,22.31,37.31,899.24,9
 F24-3517,CIAT-21514,1,1384,Genetic_bank,Desmanthus virgatus,Shrub_Trees,27.93,48.55,103.75,35.54,3.65,13.74,15.01,15.6,46.93,-218.72,9
 F24-3518,CIAT-21565,1,1387,Genetic_bank,Chamaecrista rotundifolia,Herbaceous_legumes,36.78,71.66,154.6,57.7,3.81,12.47,14.73,22.85,39.86,156.23,9
-F24-3519,CIAT-21709,1,1390,Genetic_bank,Crotalaria juncea,Herbaceous_legumes,39.28,69.74,151.26,57.17,3.84,14.92,15.88,24.04,42.07,151.59,9
-F24-3520,CIAT-22286,1,1393,Genetic_bank,Crotalaria micans,Herbaceous_legumes,36.48,74.76,159.67,59.54,3.76,14.86,15.96,25.49,43.2,1203.16,9
+F24-3519,CIAT-21709,1,1390,Genetic_bank,Crotalaria juncea,Shrub_Trees,39.28,69.74,151.26,57.17,3.84,14.92,15.88,24.04,42.07,151.59,9
+F24-3520,CIAT-22286,1,1393,Genetic_bank,Crotalaria micans,Shrub_Trees,36.48,74.76,159.67,59.54,3.76,14.86,15.96,25.49,43.2,1203.16,9
 F24-3521,CIAT-22475,1,1396,Genetic_bank,Alysicarpus rugosus,Herbaceous_legumes,31.22,59.17,125.61,43.56,3.56,14.0,15.47,19.51,44.51,97.12,9
 F24-3522,CIAT-22481,1,1399,Genetic_bank,Sesbania cochinchinensis,Shrub_Trees,30.63,52.58,114.3,51.99,4.62,13.89,14.44,16.5,31.77,130.73,9
 F24-3523,CIAT-22520,1,1402,Genetic_bank,Arachis pusilla,Herbaceous_legumes,32.79,64.53,138.62,51.33,3.77,13.09,14.92,20.77,40.72,107.82,9
@@ -205,7 +205,7 @@ F24-3615,CIAT-466,2,21,Genetic_bank,Vigna umbellata,Herbaceous_legumes,44.62,84.
 F24-3616,CIAT-715,2,24,Genetic_bank,Canavalia ensiformis,Herbaceous_legumes,37.49,72.02,158.87,55.83,3.51,13.9,15.42,24.51,44.06,1212.1,9
 F24-3617,CIAT-887,2,27,Genetic_bank,Calopogonium mucunoides,Herbaceous_legumes,32.87,62.18,134.86,52.78,3.91,14.44,16.22,21.88,41.52,-1933.48,9
 F24-3618,CIAT-923,2,30,Genetic_bank,Galactia latisiliqua,Herbaceous_legumes,42.36,90.16,194.09,63.67,3.28,14.04,16.3,31.65,49.82,728.15,9
-F24-3619,CIAT-3813,2,33,Genetic_bank,Desmodium sequax,Herbaceous_legumes,19.89,34.95,75.02,23.81,3.18,13.71,15.03,11.27,47.74,-137.16,9
+F24-3619,CIAT-3813,2,33,Genetic_bank,Desmodium sequax,Shrub_Trees,19.89,34.95,75.02,23.81,3.18,13.71,15.03,11.27,47.74,-137.16,9
 F24-3620,CIAT-5512,2,36,Genetic_bank,Centrosema brasilianum,Herbaceous_legumes,45.26,77.92,168.82,59.21,3.51,14.28,16.09,27.16,45.89,1170.89,9
 F24-3621,CIAT-5568,2,39,Genetic_bank,Centrosema acutifolium,Herbaceous_legumes,35.23,67.15,146.58,44.5,3.04,14.09,15.92,23.35,52.67,1886.25,9
 F24-3622,CIAT-5657,2,42,Genetic_bank,Centrosema brasilianum,Herbaceous_legumes,41.23,72.9,158.7,50.66,3.2,12.8,14.93,23.68,47.4,484.04,9
@@ -218,12 +218,12 @@ F24-3628,CIAT-7746,2,62,Genetic_bank,Crotalaria paulina,Herbaceous_legumes,38.08
 F24-3629,CIAT-7813,2,65,Genetic_bank,Indigofera cryptantha,Herbaceous_legumes,44.9,91.27,202.34,61.75,3.06,14.09,17.11,34.62,57.58,789.63,7
 F24-3630,CIAT-7831,2,68,Genetic_bank,Tephrosia rhodesica,Shrub_Trees,38.42,73.54,157.09,51.58,3.31,14.91,17.57,27.61,54.47,808.04,9
 F24-3631,CIAT-7894,2,71,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,37.79,73.06,156.45,52.77,3.39,12.3,15.04,23.54,45.89,-134.01,8
-F24-3632,CIAT-7991,2,74,Genetic_bank,Indigofera suffruticosa,Herbaceous_legumes,30.66,64.0,137.63,39.55,2.9,14.83,16.72,23.12,63.57,-221.88,9
+F24-3632,CIAT-7991,2,74,Genetic_bank,Indigofera suffruticosa,Shrub_Trees,30.66,64.0,137.63,39.55,2.9,14.83,16.72,23.12,63.57,-221.88,9
 F24-3633,CIAT-8202,2,77,Genetic_bank,Chamaecrista rotundifolia,Herbaceous_legumes,46.14,74.23,160.13,51.8,3.24,13.61,15.52,24.86,48.87,1005.71,9
-F24-3634,CIAT-9189,2,80,Genetic_bank,Indigofera suffruticosa,Herbaceous_legumes,36.85,68.25,147.93,57.89,3.92,15.22,17.47,25.84,45.56,962.5,8
+F24-3634,CIAT-9189,2,80,Genetic_bank,Indigofera suffruticosa,Shrub_Trees,36.85,68.25,147.93,57.89,3.92,15.22,17.47,25.84,45.56,962.5,8
 F24-3635,CIAT-9434,2,83,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,41.23,81.72,179.93,54.0,3.03,14.98,16.4,29.55,56.61,-224307.05,6
 F24-3636,CIAT-11162,2,86,Genetic_bank,Stylosanthes scabra,Herbaceous_legumes,44.2,84.99,185.75,56.82,3.07,12.46,14.92,27.72,50.47,-1411.29,8
-F24-3637,CIAT-13301,2,89,Genetic_bank,Desmodium sequax,Herbaceous_legumes,21.65,36.71,79.25,26.72,3.42,14.0,15.79,12.51,48.61,-287.68,6
+F24-3637,CIAT-13301,2,89,Genetic_bank,Desmodium sequax,Shrub_Trees,21.65,36.71,79.25,26.72,3.42,14.0,15.79,12.51,48.61,-287.68,6
 F24-3638,CIAT-15401,2,92,Genetic_bank,Centrosema brasilianum,Herbaceous_legumes,42.28,70.33,150.83,52.1,3.47,13.84,15.7,23.67,45.47,-30307.6,7
 F24-3639,CIAT-17360,2,319,Genetic_bank,Alysicarpus vaginalis,Herbaceous_legumes,37.19,68.51,147.48,62.8,4.26,15.72,16.94,24.99,39.91,-1689.12,8
 F24-3640,CIAT-17768,2,321,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,48.48,96.71,206.79,62.31,3.02,14.83,16.26,33.63,54.62,1076.52,9
@@ -237,7 +237,7 @@ F24-3648,CIAT-19119,2,342,Genetic_bank,Alysicarpus rugosus,Herbaceous_legumes,38
 F24-3650,CIAT-20303,2,345,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,39.58,84.67,190.21,58.61,3.09,13.51,15.82,30.08,52.89,-292.82,9
 F24-3651,CIAT-20589,2,348,Genetic_bank,Uraria lagopodioides,Herbaceous_legumes,34.42,63.62,138.18,55.03,3.99,14.99,16.47,22.78,41.75,124.42,9
 F24-3652,CIAT-21687,2,351,Genetic_bank,Desmanthus virgatus,Shrub_Trees,30.24,58.13,126.5,45.4,3.58,12.63,14.66,18.59,42.42,-2025.92,9
-F24-3653,CIAT-22048,2,459,Genetic_bank,Aeschynomene americana,Herbaceous_legumes,51.18,86.56,193.58,63.48,3.28,13.2,14.47,28.01,44.16,1378.74,6
+F24-3653,CIAT-22048,2,459,Genetic_bank,Aeschynomene americana,Shrub_Trees,51.18,86.56,193.58,63.48,3.28,13.2,14.47,28.01,44.16,1378.74,6
 F24-3654,CIAT-22156,2,357,Genetic_bank,Arachis pintoi,Herbaceous_legumes,43.04,91.27,203.44,56.59,2.78,12.54,14.41,29.31,53.44,58.01,9
 F24-3655,CIAT-22507,2,361,Genetic_bank,Desmanthus subulatus,Shrub_Trees,30.8,54.98,122.18,42.78,3.51,12.19,13.98,17.07,40.95,-313.27,7
 F24-3656,CIAT-22510,2,363,Genetic_bank,Desmanthus bicornutus,Shrub_Trees,26.07,48.27,109.68,32.63,3.02,12.46,14.39,15.78,51.7,-129.72,8
@@ -257,7 +257,7 @@ F25-0008,Sample-8,2,102,LMF,Cynodon nlemfuensis ,Grass,21.09,56.83,120.81,30.47,
 F25-0017,Hohenheimer-Heustandard,1,#REF!,LMF,Hohenheimer Heustandard,Forage,22.81,46.64,161.51,47.89,3.63,14.41,15.66,25.27,61.33,74.44,374
 F25-0018,Homenheim-Concentrate,1,1624,LMF,Homenheim Concentrate,Concentrate,29.35,55.22,193.69,54.42,3.32,15.0,16.31,31.47,69.13,0.0,322
 F25-0019,Sample-8,1,1627,LMF,Cynodon nlemfuensis ,Grass,19.77,49.45,105.46,29.24,2.77,14.73,16.27,17.17,68.02,0.0,6
-F25-0769,AMC-ICARDA-156302,1,#REF!,LMF,Trifolium repens,Herbaceous_legumes,37.76,86.99,191.4,72.0,3.75,15.97,16.19,30.99,43.67,-25.03,3
+F25-0769,AMC-ICARDA-156302,1,#REF!,Genetic_bank,Trifolium repens,Herbaceous_legumes,37.76,86.99,191.4,72.0,3.75,15.97,16.19,30.99,43.67,-25.03,3
 F25-0770,AMC-ICARDA-165072,1,#REF!,LMF,Vicia tenuifolia,,43.07,86.99,191.46,56.78,2.97,14.37,16.59,31.76,56.12,0.0,3
 F25-0773,AMC-ICARDA-168125,1,#REF!,LMF,Lathyrus sylvestris,,30.24,61.77,135.95,42.32,3.12,15.53,16.67,22.66,55.1,0.0,3
 F25-0798,ICARDA-IFLA-ENT-27,1,#REF!,LMF,Lathyrus sativus,,52.66,93.18,205.04,54.67,2.67,15.3,17.55,35.98,66.26,0.0,3
@@ -265,8 +265,8 @@ F25-0814,ICARDA-T-216004,1,#REF!,LMF,Vicia narbonensis L.,,48.23,84.04,184.91,52
 F25-0818,ICARDA-T-216008,1,#REF!,LMF,Hedysarum coronarium L.,,43.37,81.83,180.07,62.41,3.47,13.63,15.09,27.17,43.58,0.0,3
 F25-0819,ICARDA-T-216009,1,#REF!,LMF,Hedysarum carnosum Desf.,,37.61,69.44,152.88,54.6,3.57,12.03,13.36,20.43,37.57,0.0,3
 F25-0845,ILRI-21682-24-119729,1,#REF!,LMF,Leucaena pallida,Shrub_Trees,24.34,45.54,100.13,22.24,2.22,10.6,12.14,12.15,55.47,0.0,6
-F25-0848,ILRI-2273-27-119732,1,#REF!,LMF,Trifolium burchellianum,Herbaceous_legumes,27.58,39.94,87.47,41.6,4.77,10.1,11.34,9.92,23.97,0.0,6
-F25-0850,ILRI-13946-29,1,#REF!,LMF,Stylosanthes fructicosa,Herbaceous_legumes,41.08,83.23,183.17,49.35,2.69,13.6,16.01,29.32,59.42,0.0,2
+F25-0848,ILRI-2273-27-119732,1,#REF!,Genetic_bank,Trifolium burchellianum,Herbaceous_legumes,27.58,39.94,87.47,41.6,4.77,10.1,11.34,9.92,23.97,0.0,6
+F25-0850,ILRI-13946-29,1,#REF!,Genetic_bank,Stylosanthes fructicosa,Herbaceous_legumes,41.08,83.23,183.17,49.35,2.69,13.6,16.01,29.32,59.42,0.0,2
 F25-0863,ILRI-10299-42,1,#REF!,LMF,Erythrina abyssinica,,22.72,47.9,105.44,23.94,2.32,14.17,15.24,16.08,69.0,0.0,3
 F25-0867,ILRI-20145-46,1,#REF!,LMF,Flemingia macrophylla,,22.42,36.1,79.47,12.98,1.64,13.5,14.76,11.73,93.53,0.0,3
 F25-0869,ILRI-16555-48,1,#REF!,LMF,Cajanus cajan,Browse,22.86,47.31,104.14,21.63,2.07,13.5,15.73,16.38,90.64,0.0,3
@@ -324,16 +324,16 @@ F25-0968,CIAT-9690,2,1290,Genetic_bank,Aeschynomene histrix,Herbaceous_legumes,4
 F25-0969,CIAT-9900,2,1293,Genetic_bank,Pueraria phaseoloides,Herbaceous_legumes,25.52,60.43,130.19,45.12,3.47,14.05,14.64,19.05,43.37,352.88,8
 F25-0970,CIAT-11998,2,1296,Genetic_bank,Stylosanthes guianensis,Herbaceous_legumes,30.5,65.3,138.0,44.05,3.18,11.15,11.91,16.43,38.27,-545.97,8
 F25-0971,CIAT-13149,3,12,Genetic_bank,Desmodium strigillosum,Herbaceous_legumes,38.15,70.39,148.87,52.81,3.53,13.58,14.95,22.36,42.43,200.5,9
-F25-0972,CIAT-13389,2,1302,Genetic_bank,Desmodium sequax,Herbaceous_legumes,23.64,33.61,71.62,21.43,2.98,12.72,13.54,9.7,48.91,-137.82,8
+F25-0972,CIAT-13389,2,1302,Genetic_bank,Desmodium sequax,Shrub_Trees,23.64,33.61,71.62,21.43,2.98,12.72,13.54,9.7,48.91,-137.82,8
 F25-0973,CIAT-13651,2,1305,Genetic_bank,Desmodium heterocarpon,Herbaceous_legumes,25.55,50.22,105.62,26.5,2.51,13.16,14.0,14.78,60.65,-274.1,7
-F25-0974,CIAT-13946,3,15,Genetic_bank,Desmodium sequax,Herbaceous_legumes,24.47,42.2,89.95,32.25,3.89,12.26,13.16,12.18,35.66,167.31,7
+F25-0974,CIAT-13946,3,15,Genetic_bank,Desmodium sequax,Shrub_Trees,24.47,42.2,89.95,32.25,3.89,12.26,13.16,12.18,35.66,167.31,7
 F25-0975,CIAT-15160,2,1313,Genetic_bank,Centrosema molle,Herbaceous_legumes,28.67,56.67,119.87,33.15,2.78,13.45,14.19,17.01,57.4,-633.03,8
 F25-0976,CIAT-17000,2,1316,Genetic_bank,Chamaecrista rotundifolia,Herbaceous_legumes,38.68,71.33,150.8,42.81,2.84,4.96,9.02,13.6,31.98,-599.89,8
 F25-0977,CIAT-17009,2,1319,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,44.27,85.3,179.93,47.23,2.63,13.86,16.38,29.47,64.87,-1490.33,8
 F25-0978,CIAT-18700,2,1323,Genetic_bank,Cajanus cajan,Shrub_Trees,28.2,53.11,113.06,32.23,2.84,13.9,15.46,17.47,59.27,-872.46,6
 F25-0979,CIAT-18873,2,1325,Genetic_bank,Alysicarpus ferrugineus,Herbaceous_legumes,31.85,58.97,124.07,34.7,2.8,15.74,16.3,20.23,62.93,-1255.13,7
 F25-0980,CIAT-19867,3,19,Genetic_bank,Uraria lagopodioides,Herbaceous_legumes,40.35,72.59,151.33,52.36,3.46,15.53,16.05,24.29,47.81,229.34,6
-F25-0981,CIAT-20207,2,1332,Genetic_bank,Aeschynomene sensitiva,Herbaceous_legumes,33.41,61.78,136.11,44.19,3.25,12.4,13.02,17.72,42.6,-1084.49,8
+F25-0981,CIAT-20207,2,1332,Genetic_bank,Aeschynomene sensitiva,Shrub_Trees,33.41,61.78,136.11,44.19,3.25,12.4,13.02,17.72,42.6,-1084.49,8
 F25-0982,CIAT-20709,2,1334,Genetic_bank,Calopogonium mucunoides,Herbaceous_legumes,29.92,62.77,133.61,37.16,2.78,14.98,15.95,21.31,61.02,171.88,6
 F25-0983,CIAT-18437,2,1337,Genetic_bank,Flemingia macrophylla,Shrub_Trees,21.99,33.9,70.84,22.61,3.2,12.28,13.05,9.25,41.87,-248.83,5
 F25-0984,CIAT-25522,2,1340,Genetic_bank,Centrosema macrocarpum,Herbaceous_legumes,43.73,72.63,152.35,52.0,3.41,13.87,15.27,23.27,45.94,231.59,6
@@ -381,11 +381,11 @@ F25-1661,CIAT-7803,3,54,Genetic_bank,Dioclea holtiana,Herbaceous_legumes,24.68,4
 F25-1662,CIAT-8182,3,56,Genetic_bank,Eriosema diffusum,Herbaceous_legumes,27.07,47.26,100.89,26.65,2.66,12.63,13.78,13.92,55.64,260.38,6
 F25-1663,CIAT-8434,3,59,Genetic_bank,Dioclea sericea,Herbaceous_legumes,34.82,63.08,134.89,35.13,2.55,13.53,14.84,20.06,63.72,297.93,7
 F25-1664,CIAT-8702,3,62,Genetic_bank,Calopogonium caeruleum,Herbaceous_legumes,34.48,67.51,144.87,40.81,2.82,14.01,15.34,22.24,59.88,279.15,9
-F25-1665,CIAT-8816,3,65,Genetic_bank,Crotalaria micans,Herbaceous_legumes,48.76,88.95,190.52,61.94,3.28,14.03,15.13,28.71,46.58,217.39,9
+F25-1665,CIAT-8816,3,65,Genetic_bank,Crotalaria micans,Shrub_Trees,48.76,88.95,190.52,61.94,3.28,14.03,15.13,28.71,46.58,217.39,9
 F25-1666,CIAT-8826,3,68,Genetic_bank,Zapoteca formosa,Shrub_Trees,48.1,97.95,209.13,67.03,3.2,11.7,12.72,26.62,40.33,188.85,9
 F25-1667,CIAT-9578,3,319,Genetic_bank,Dioclea sericea,Herbaceous_legumes,20.76,40.81,85.8,30.44,3.55,11.8,12.81,10.98,36.32,172.76,6
 F25-1668,CIAT-9740,3,74,Genetic_bank,Chamaecrista desvauxii,Herbaceous_legumes,38.78,75.93,159.16,44.55,2.85,10.47,13.39,21.33,48.33,230.54,7
-F25-1669,CIAT-9934,3,77,Genetic_bank,Aeschynomene americana,Herbaceous_legumes,50.65,87.34,185.18,49.69,2.77,11.9,13.9,25.85,53.64,252.95,9
+F25-1669,CIAT-9934,3,77,Genetic_bank,Aeschynomene americana,Shrub_Trees,50.65,87.34,185.18,49.69,2.77,11.9,13.9,25.85,53.64,252.95,9
 F25-1670,CIAT-13158,3,321,Genetic_bank,Desmodium strigillosum,Herbaceous_legumes,26.87,54.62,116.29,43.29,3.72,12.41,13.34,15.54,35.94,169.08,9
 F25-1671,CIAT-13329,3,324,Genetic_bank,Desmodium cajanifolium,Shrub_Trees,39.2,76.46,162.6,57.81,3.57,12.69,13.42,21.83,37.73,177.37,9
 F25-1672,CIAT-13387,3,327,Genetic_bank,Desmodium sequax,Shrub_Trees,28.43,51.81,110.62,40.21,3.84,11.94,12.99,14.55,34.58,161.41,8
@@ -401,7 +401,7 @@ F25-1681,CIAT-18127,3,354,Genetic_bank,Dioclea virgata,Herbaceous_legumes,27.81,
 F25-1682,CIAT-18668,3,357,Genetic_bank,Cratylia argentea,Shrub_Trees,29.54,67.62,143.59,50.74,3.52,13.7,15.73,22.68,44.73,210.68,9
 F25-1683,CIAT-19228,3,360,Genetic_bank,Eriosema psoraleoides,Herbaceous_legumes,26.76,58.18,123.89,39.92,3.21,12.7,14.43,18.12,45.99,215.96,9
 F25-1684,CIAT-19537,3,363,Genetic_bank,Crotalaria verrucosa,Herbaceous_legumes,40.04,80.12,171.18,54.8,3.23,12.79,13.98,24.24,43.71,204.62,9
-F25-1685,CIAT-20208,3,369,Genetic_bank,Aeschynomene sensitiva,Herbaceous_legumes,49.59,94.62,198.13,60.57,3.06,12.92,14.4,28.55,47.6,227.34,6
+F25-1685,CIAT-20208,3,369,Genetic_bank,Aeschynomene sensitiva,Shrub_Trees,49.59,94.62,198.13,60.57,3.06,12.92,14.4,28.55,47.6,227.34,6
 F25-1686,CIAT-20345,3,371,Genetic_bank,Pachyrhizus erosus,Herbaceous_legumes,42.48,87.96,186.45,64.53,3.47,13.31,14.14,26.38,41.24,194.6,9
 F25-1687,CIAT-20927,3,374,Genetic_bank,Mimosa albida,Herbaceous_legumes,30.7,62.0,132.31,47.14,3.67,12.43,13.29,17.88,37.14,174.04,7
 F25-1688,CIAT-21849,3,377,Genetic_bank,Chamaecrista desvauxii,Herbaceous_legumes,25.87,52.18,110.32,33.72,3.08,11.08,12.48,13.76,41.64,196.87,9
@@ -651,14 +651,14 @@ F25-2625,CIAT-36087-MulatoII-Exc,3,1080,Benchmark,Urochloa interespecific,Grass,
 F25-2626,CIAT-606-Basilisk-Exc,3,975,Benchmark,Urochloa interespecific,Grass,44.44,99.35,204.88,56.72,2.77,13.33,14.44,29.59,52.25,253.37,9
 F25-2627,BR-02-1752-Cayman-Exc,3,978,Benchmark,Urochloa interespecific,Grass,43.72,92.63,191.41,55.11,2.88,13.62,14.68,28.08,51.03,246.95,9
 F25-2628,BR-06-423-Cayman-Exc,3,981,Benchmark,Urochloa interespecific,Grass,43.72,91.35,188.93,55.73,2.96,13.48,14.77,27.9,50.2,242.7,9
-F25-2629,CIAT-20692,3,984,Breeding,Clitoria ternatea ,Herbaceous_legumes,47.89,88.9,185.34,55.34,2.99,14.19,15.32,28.37,51.76,248.17,9
-F25-2630,CIAT-20692,3,987,Breeding,Clitoria ternatea ,Herbaceous_legumes,56.22,95.52,202.32,55.21,2.76,14.76,15.96,32.32,58.65,276.89,9
-F25-2631,CIAT-17768,3,990,Breeding,Clitoria ternatea ,Herbaceous_legumes,51.86,87.15,186.89,48.13,2.59,14.87,15.89,29.72,63.42,295.56,9
-F25-2632,CIAT-17768,3,994,Breeding,Clitoria ternatea ,Herbaceous_legumes,54.95,91.82,196.68,57.75,2.94,14.6,15.62,30.65,53.15,248.05,8
-F25-2633,CIAT-712,3,998,Breeding,Clitoria ternatea ,Herbaceous_legumes,50.88,88.64,187.3,54.8,2.94,14.39,15.48,28.98,53.06,251.15,7
-F25-2634,CIAT-712,3,999,Breeding,Clitoria ternatea ,Herbaceous_legumes,51.0,87.74,189.69,53.03,2.8,14.48,15.64,29.67,56.29,260.25,9
-F25-2635,CIAT-9432,3,1002,Breeding,Clitoria ternatea ,Herbaceous_legumes,48.11,84.96,179.7,47.39,2.64,14.82,15.81,28.4,60.83,287.97,9
-F25-2636,CIAT-9432,3,1005,Breeding,Clitoria ternatea ,Herbaceous_legumes,50.94,85.46,179.71,49.44,2.76,15.33,16.3,29.3,59.93,285.01,9
+F25-2629,CIAT-20692,3,984,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,47.89,88.9,185.34,55.34,2.99,14.19,15.32,28.37,51.76,248.17,9
+F25-2630,CIAT-20692,3,987,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,56.22,95.52,202.32,55.21,2.76,14.76,15.96,32.32,58.65,276.89,9
+F25-2631,CIAT-17768,3,990,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,51.86,87.15,186.89,48.13,2.59,14.87,15.89,29.72,63.42,295.56,9
+F25-2632,CIAT-17768,3,994,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,54.95,91.82,196.68,57.75,2.94,14.6,15.62,30.65,53.15,248.05,8
+F25-2633,CIAT-712,3,998,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,50.88,88.64,187.3,54.8,2.94,14.39,15.48,28.98,53.06,251.15,7
+F25-2634,CIAT-712,3,999,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,51.0,87.74,189.69,53.03,2.8,14.48,15.64,29.67,56.29,260.25,9
+F25-2635,CIAT-9432,3,1002,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,48.11,84.96,179.7,47.39,2.64,14.82,15.81,28.4,60.83,287.97,9
+F25-2636,CIAT-9432,3,1005,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,50.94,85.46,179.71,49.44,2.76,15.33,16.3,29.3,59.93,285.01,9
 F25-2637,CIAT-17462,3,1008,Breeding,Leucaena leucocephala ,Shrub_Trees,35.06,68.57,146.8,40.83,2.79,13.94,15.24,22.63,55.55,259.28,9
 F25-2638,,3,1011,Breeding,Tithonia diversifolia,Shrub_Trees,21.06,50.46,109.21,46.97,4.39,12.72,13.7,15.02,32.84,151.79,9
 F25-2639,,3,1017,Breeding,Gliricidia sepium ,Shrub_Trees,42.64,85.24,191.6,61.81,3.24,12.95,13.95,26.73,44.28,196.99,6
