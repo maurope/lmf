@@ -1,5 +1,4 @@
 id_lab,id,subset,no,requisitioner,tax_name,functional_group,n_replicates_nutrition,dm_percentage,ash_dm,om_percentage,pc_percentage_dm,adf_percentage_dm,ndf_percentage_dm,n_replicates_gas,ch4_percentage_in_gas_8h,ch4_percentage_in_gas_24h,methane_intensity,tddm
-F24-3469,CIAT-10647,1,197.0,Genetic_bank,Stylosanthes scabra,Herbaceous_legumes,2,92.93,9.36,90.64,20.02,32.44,56.19,6.0,15.9,18.79,48.31,67.34
 F24-3470,CIAT-11194,1,199.0,Genetic_bank,Stylosanthes hamata,Herbaceous_legumes,2,92.89,9.61,90.39,21.18,30.18,55.94,6.0,15.17,18.02,46.12,59.25
 F24-3471,CIAT-11999,1,201.0,Genetic_bank,Stylosanthes guianensis,Herbaceous_legumes,2,93.5,10.46,89.54,20.09,33.9,61.32,9.0,12.98,16.25,46.61,58.55
 F24-3472,CIAT-12318,1,203.0,Genetic_bank,Stylosanthes hamata,Herbaceous_legumes,2,94.1,11.08,88.92,22.05,29.34,55.26,9.0,13.99,16.96,52.27,56.88
@@ -203,7 +202,6 @@ F24-3543,CIAT-1706,2,117.0,Genetic_bank,Stylosanthes humilis,Herbaceous_legumes,
 F24-3539,CIAT-172,2,109.0,Genetic_bank,Stylosanthes hamata,Herbaceous_legumes,2,91.18,10.02,89.98,14.34,35.0,86.21,6.0,12.82,14.22,64.24,39.14
 F24-3544,CIAT-1727,2,119.0,Genetic_bank,Stylosanthes humilis,Herbaceous_legumes,2,92.12,13.82,86.18,18.76,34.12,101.34,9.0,11.83,14.23,64.29,36.15
 F24-3639,CIAT-17360,2,67.0,Genetic_bank,Alysicarpus vaginalis,Herbaceous_legumes,2,92.85,21.71,78.29,24.55,20.16,37.06,8.0,15.72,16.94,39.91,62.8
-F24-3640,CIAT-17768,2,69.0,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,2,93.48,6.89,93.11,15.45,12.14,48.08,9.0,14.83,16.26,54.62,62.31
 F24-3641,CIAT-18004,2,71.0,Genetic_bank,Chamaecrista rotundifolia,Herbaceous_legumes,2,92.94,6.78,93.22,15.74,14.9,45.46,9.0,13.81,15.73,53.53,58.72
 F24-3545,CIAT-1803,2,121.0,Genetic_bank,Stylosanthes humilis,Herbaceous_legumes,2,91.86,8.67,91.33,17.76,34.2,77.62,,,,,
 F24-3642,CIAT-18430,2,73.0,Genetic_bank,Alysicarpus vaginalis,Herbaceous_legumes,2,92.65,12.1,87.9,24.28,21.54,40.06,9.0,15.38,16.74,46.1,62.24
@@ -424,9 +422,6 @@ F25-2091,CIAT-PM-21-6641,2,361.0,Breeding,Megathyrsus maximus,Grass,2,94.15,15.3
 F25-2085,CIAT-PM-21-6647,2,349.0,Breeding,Megathyrsus maximus,Grass,2,93.16,13.01,86.99,12.43,29.49,66.17,9.0,14.16,15.47,48.25,50.51
 F25-0017,Hohenheimer-Heustandard,2,61.0,LMF,Hohenheimer Heustandard,Forage,146,91.33,10.06,89.94,0.55,0.0,0.0,374.0,14.41,15.66,61.33,47.89
 F25-0018,Homenheim-Concentrate,2,63.0,LMF,Homenheim Concentrate,Concentrate,162,89.69,6.04,93.96,0.0,0.0,0.0,322.0,15.0,16.31,69.13,54.42
-F25-2076,ILRI-15551,2,187.0,LMF,Leucaena diversifolia,Shrub_Trees,2,96.34,7.99,92.0,26.32,33.12,60.56,7.0,9.97,11.75,35.19,46.02
-F25-2122,ILRI-15551,2,189.0,LMF-invivo,Leucaena diversifolia,Shrub_Trees,2,91.13,7.54,92.46,30.14,23.98,51.86,9.0,10.08,11.66,29.6,43.22
-F25-2131,Muestra-#-02,2,325.0,LMF-invivo,Cynodon nlemfuensis,Grass,4,92.18,9.3,90.7,5.74,40.04,77.78,4.0,13.48,14.31,64.84,35.0
 F25-0008,Sample-8,2,331.0,LMF,Cynodon nlemfuensis ,Grass,172,93.69,11.41,88.59,0.76,2.2,22.12,514.0,14.49,15.58,72.12,30.47
 F25-2627,BR-02-1752-Cayman-Exc,3,209.0,Benchmark,Urochloa interespecific,Grass,2,96.64,17.21,82.79,10.93,29.65,59.76,9.0,13.62,14.68,51.03,55.11
 F25-2628,BR-06-423-Cayman-Exc,3,211.0,Benchmark,Urochloa interespecific,Grass,2,96.67,10.43,89.57,13.87,29.45,61.6,9.0,13.48,14.77,50.2,55.73
@@ -472,8 +467,6 @@ F25-1675,CIAT-15086,3,79.0,Genetic_bank,Centrosema acutifolium,Herbaceous_legume
 F25-1676,CIAT-17403,3,81.0,Genetic_bank,Flemingia macrophylla,Shrub_Trees,2,93.95,6.1,93.9,18.39,51.91,64.19,7.0,12.6,13.4,40.71,39.68
 F25-2637,CIAT-17462,3,229.0,Breeding,Leucaena leucocephala ,Shrub_Trees,2,92.63,6.88,93.12,29.87,39.13,57.51,9.0,13.94,15.24,55.55,40.83
 F25-1677,CIAT-17519,3,83.0,Genetic_bank,Mimosa somnians,Herbaceous_legumes,2,94.5,8.75,91.25,17.65,25.56,46.21,9.0,10.61,10.63,30.94,39.33
-F25-2631,CIAT-17768,3,217.0,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,2,92.81,7.68,92.32,24.62,32.85,55.01,9.0,14.87,15.89,63.42,48.13
-F25-2632,CIAT-17768,3,219.0,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,2,93.47,7.77,92.23,26.04,28.53,47.71,8.0,14.6,15.62,53.15,57.75
 F25-1678,CIAT-17896,3,85.0,Genetic_bank,Chamaecrista desvauxii,Herbaceous_legumes,2,94.71,6.33,93.67,15.64,40.33,51.74,9.0,9.61,10.98,26.25,41.83
 F25-1679,CIAT-18123,3,87.0,Genetic_bank,Dioclea virgata,Herbaceous_legumes,2,94.61,8.31,91.69,15.0,40.99,62.79,9.0,10.54,12.68,36.32,38.16
 F25-1680,CIAT-18126,3,89.0,Genetic_bank,Dioclea virgata,Herbaceous_legumes,2,92.8,10.3,89.7,18.02,40.49,56.41,9.0,11.91,13.68,43.08,41.54

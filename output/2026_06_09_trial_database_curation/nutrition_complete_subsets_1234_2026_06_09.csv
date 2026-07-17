@@ -203,8 +203,6 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 1,194.0,Genetic_bank,F24-3467,CIAT-9562,Fabales,Fabaceae,Eriosema,diffusum,Eriosema diffusum,Herbaceous_legumes,6,93.95302349,8.29787234,91.70212766,18.10554432,51.91912419,64.76360299
 1,195.0,Genetic_bank,F24-3468,CIAT-9982,Fabales,Fabaceae,Crotalaria,incana,Crotalaria incana,Herbaceous_legumes,6,93.76311844,8.613154248,91.38684575,26.85672385,13.97311302,46.44758291
 1,196.0,Genetic_bank,F24-3468,CIAT-9982,Fabales,Fabaceae,Crotalaria,incana,Crotalaria incana,Herbaceous_legumes,6,93.87,8.682220092,91.31777991,26.85672385,14.68470551,47.21445736
-1,197.0,Genetic_bank,F24-3469,CIAT-10647,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,6,92.95281887,9.34509087,90.65490913,20.01579809,32.86281412,57.000799
-1,198.0,Genetic_bank,F24-3469,CIAT-10647,Fabales,Fabaceae,Stylosanthes,scabra,Stylosanthes scabra,Herbaceous_legumes,6,92.90283886,9.371637616,90.62836238,20.01579809,32.02166593,55.38741874
 1,199.0,Genetic_bank,F24-3470,CIAT-11194,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,6,92.88213536,9.783661608,90.21633839,21.17967693,30.39423714,56.19486686
 1,200.0,Genetic_bank,F24-3470,CIAT-11194,Fabales,Fabaceae,Stylosanthes,hamata,Stylosanthes hamata,Herbaceous_legumes,6,92.90070993,9.428479173,90.57152083,21.17967693,29.96561182,55.67934921
 1,201.0,Genetic_bank,F24-3471,CIAT-11999,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,7,93.44196741,10.27,89.73,20.08914589,32.87994342,59.74610052
@@ -483,8 +481,6 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 2,64.0,LMF,F25-0018,Homenheim-Concentrate,Concentrate,Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,22,89.65413834,5.886943918,94.11305608,0.0,0.0,0.0
 2,67.0,Genetic_bank,F24-3639,CIAT-17360,Fabales,Fabaceae,Alysicarpus,vaginalis,Alysicarpus vaginalis,Herbaceous_legumes,15,92.86,23.69,76.31,24.55,20.31,36.14
 2,68.0,Genetic_bank,F24-3639,CIAT-17360,Fabales,Fabaceae,Alysicarpus,vaginalis,Alysicarpus vaginalis,Herbaceous_legumes,15,92.85,19.73,80.27,24.55,20.02,37.99
-2,69.0,Genetic_bank,F24-3640,CIAT-17768,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,15,93.51,6.56,93.44,15.45,11.75,46.4
-2,70.0,Genetic_bank,F24-3640,CIAT-17768,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,15,93.46,7.22,92.78,15.45,12.53,49.75
 2,71.0,Genetic_bank,F24-3641,CIAT-18004,Fabales,Fabaceae,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Herbaceous_legumes,15,92.81,7.37,92.63,15.74,15.02,46.63
 2,72.0,Genetic_bank,F24-3641,CIAT-18004,Fabales,Fabaceae,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Herbaceous_legumes,15,93.07,6.2,93.8,15.74,14.77,44.28
 2,73.0,Genetic_bank,F24-3642,CIAT-18430,Fabales,Fabaceae,Alysicarpus,vaginalis,Alysicarpus vaginalis,Herbaceous_legumes,15,92.69,12.12,87.88,24.28,21.69,39.93
@@ -629,10 +625,6 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 2,184.0,Breeding,F25-1726,CIAT-BR-19-5217,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.24,14.1,85.9,13.38,28.98,60.65
 2,185.0,Breeding,F25-1727,CIAT-CIAT-26124,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,95.99,12.86,87.14,14.44,31.93,64.65
 2,186.0,Breeding,F25-1727,CIAT-CIAT-26124,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,16,96.07,12.79,87.21,14.75,31.28,65.1
-2,187.0,LMF,F25-2076,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,96.25,8.02,91.98,26.28,33.64,61.29
-2,188.0,LMF,F25-2076,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,96.42,7.97,92.03,26.35,32.61,59.84
-2,189.0,LMF-invivo,F25-2122,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,91.1,7.52,92.48,30.08,23.33,52.63
-2,190.0,LMF-invivo,F25-2122,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,91.16,7.55,92.45,30.19,24.63,51.09
 2,191.0,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,14,91.34432784,9.990152095,90.0098479,0.0,0.0,0.0
 2,191.0,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,15,91.34432784,9.990152095,90.0098479,0.0,0.0,0.0
 2,191.0,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,16,91.34432784,9.990152095,90.0098479,0.0,0.0,0.0
@@ -823,8 +815,6 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 2,322.0,Genetic_bank,F25-0988,CIAT-8512,Fabales,Fabaceae,Calopogonium,caeruleum,Calopogonium caeruleum,Herbaceous_legumes,18,92.96,10.34,89.66,22.57,31.44,51.79
 2,323.0,Genetic_bank,F25-0989,CIAT-11833,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,18,94.9,9.83,90.17,13.53,41.53,63.5
 2,324.0,Genetic_bank,F25-0989,CIAT-11833,Fabales,Fabaceae,Stylosanthes,guianensis,Stylosanthes guianensis,Herbaceous_legumes,18,95.04,10.0,90.0,13.53,40.73,66.49
-2,325.0,LMF-invivo,F25-2131,Muestra-#-02,Poales,Poaceae,Cynodon,nlenfuensis,Cynodon nlemfuensis,Grass,18,92.11,9.45,90.55,5.75,39.56,77.29
-2,326.0,LMF-invivo,F25-2131,Muestra-#-02,Poales,Poaceae,Cynodon,nlenfuensis,Cynodon nlemfuensis,Grass,18,92.24,9.14,90.86,5.73,40.52,78.28
 2,327.0,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,14,91.34432784,9.990152095,90.0098479,0.0,0.0,0.0
 2,327.0,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,15,91.34432784,9.990152095,90.0098479,0.0,0.0,0.0
 2,327.0,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,16,91.34432784,9.990152095,90.0098479,0.0,0.0,0.0
@@ -1327,8 +1317,6 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 3,54.0,Breeding,F25-2101,CIAT-CIAT-16071,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,23,93.1,13.66,86.34,17.03,28.88,66.46
 3,55.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,23,92.32,14.58,85.42,13.61,24.69,59.75
 3,56.0,Breeding,F25-2105,CIAT-BR-09-4467,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,23,92.29,14.67,85.33,13.7,23.95,58.17
-3,57.0,LMF-invivo,F25-2131,Muestra-#-02,Poales, Poaceae,Cynodon,nlenfuensis,Cynodon nlemfuensis,Grass,23,92.11,9.45,90.55,5.75,39.56,77.29
-3,58.0,LMF-invivo,F25-2131,Muestra-#-02,Poales, Poaceae,Cynodon,nlenfuensis,Cynodon nlemfuensis,Grass,23,92.24,9.14,90.86,5.73,40.52,78.28
 3,59.0,Breeding,F25-2170,CIAT-BH-22-0765,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,23,97.37,10.96,89.04,9.8,37.41,73.32
 3,60.0,Breeding,F25-2170,CIAT-BH-22-0765,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,23,97.6,10.53,89.47,9.78,34.91,71.19
 3,61.0,Breeding,F25-2171,CIAT-BH-22-2531,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,23,96.47,12.31,87.69,6.21,32.78,70.94
@@ -1525,10 +1513,6 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 3,214.0,Genetic_bank,F25-2629,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.55044496,8.73018001,91.26981999,26.87770392,29.72559683,52.85646753
 3,215.0,Genetic_bank,F25-2630,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.89061094,7.423112927,92.57688707,23.44936461,29.29073261,49.84947921
 3,216.0,Genetic_bank,F25-2630,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.88244702,7.261183436,92.73881656,24.07881971,28.77103081,49.42450773
-3,217.0,Genetic_bank,F25-2631,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,92.81143771,7.616364546,92.38363545,24.73813252,33.60357368,54.11248908
-3,218.0,Genetic_bank,F25-2631,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,92.80431741,7.742541663,92.25745834,24.5087922,32.08954235,55.91050524
-3,219.0,Genetic_bank,F25-2632,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.46196141,7.829377709,92.17062229,26.08054842,29.13530131,48.79029556
-3,220.0,Genetic_bank,F25-2632,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.47,7.703337563,92.29666244,25.99286716,27.92505625,46.6236844
 3,221.0,Genetic_bank,F25-2633,CIAT-712,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.13,8.401197281,91.59880272,26.19869808,32.1612832,52.38009466
 3,222.0,Genetic_bank,F25-2633,CIAT-712,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.0809838,8.441567527,91.55843247,26.0977117,32.50629081,52.53115232
 3,223.0,Genetic_bank,F25-2634,CIAT-712,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,91.31086891,7.165380339,92.83461966,20.0349409,34.4972745,51.88354333
