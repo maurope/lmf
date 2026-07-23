@@ -1,6 +1,9 @@
 
-![Project workflow](assets/images/lmf_logo.jfif)
-# LOW METHANE FORAGES PROJECT REPOSITORY
+<p align="center">
+  <img src="assets/images/lmf_logo.jfif" width="900">
+</p>
+
+# PROJECT REPOSITORY
 
 ## Overview
 
@@ -15,6 +18,8 @@ The repository is organized into the following directories:
 
 The notebooks are designed to facilitate reproducible data analysis and provide a structured workflow for exploring relationships between forage nutritional composition, digestibility, and methane emissions.
 
+
+<iframe src="assets/html/scatter_plot.html"></iframe>
 ---
 
 ## Getting Started
@@ -22,7 +27,7 @@ The notebooks are designed to facilitate reproducible data analysis and provide 
 Clone the repository directly into your Google Colab workspace:
 
 ```bash
-!git https://github.com/maurope/lmf.git
+!git clone https://github.com/maurope/lmf.git
 %cd lmf
 ```
 
