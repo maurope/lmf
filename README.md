@@ -24,6 +24,14 @@ Click the image below to open the interactive visualization.
 
 [![Interactive Scatter Plot](assets/images/scatterplot.png)](assets/html/scatterplot.html)
 
+## Interactive Scatter Plot
+
+Explore the interactive scatter plot here:
+
+➡️ https://maurope.github.io/low-methane-forages/assets/html/scatterplot.html
+
+[![Scatter Plot](assets/images/scatterplot.png)](https://maurope.github.io/low-methane-forages/assets/html/scatterplot.html)
+
 ---
 
 ## Getting Started
