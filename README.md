@@ -18,8 +18,12 @@ The repository is organized into the following directories:
 
 The notebooks are designed to facilitate reproducible data analysis and provide a structured workflow for exploring relationships between forage nutritional composition, digestibility, and methane emissions.
 
+## Interactive Scatter Plot
 
-<iframe src="assets/html/scatter_plot.html"></iframe>
+Click the image below to open the interactive visualization.
+
+[![Interactive Scatter Plot](assets/images/scatterplot.png)](assets/html/scatterplot.html)
+
 ---
 
 ## Getting Started
