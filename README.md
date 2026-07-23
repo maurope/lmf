@@ -20,9 +20,16 @@ The notebooks are designed to facilitate reproducible data analysis and provide 
 
 ## Interactive Scatter Plot
 
-Explore the interactive scatter plot here:
+Explore the interactive scatter plot clicking the next image:
 
-➡️ [![Scatter Plot](assets/images/scatterplot.png)](https://maurope.github.io/lmf/assets/html/scatterplot.html)
+ [![Scatter Plot](assets/images/scatterplot.png)](https://maurope.github.io/lmf/assets/html/scatterplot.html)
+
+<p align="center">
+  <a href="https://maurope.github.io/lmf/assets/html/scatterplot.html">
+    <img src="https://img.shields.io/badge/Open-Interactive%20Scatter%20Plot-blue?style=for-the-badge" alt="Open Interactive Scatter Plot">
+  </a>
+</p>
+
 ---
 
 ## Getting Started
