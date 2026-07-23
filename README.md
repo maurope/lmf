@@ -25,6 +25,7 @@ Click the image below to explore the interactive scatter plot.:
  [![Scatter Plot](assets/images/scatterplot.png)](https://maurope.github.io/lmf/assets/html/scatterplot.html)
 
 To customize the scatter plot, including axis variables, functional groups, and other visualization options, open the [Google Colab notebook](https://colab.research.google.com/drive/1RqoF1GfVcoseRNRiPsQI6BAhiSk2XJV5?usp=sharing).
+
 ---
 
 ## Getting Started
