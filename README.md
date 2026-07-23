@@ -20,16 +20,11 @@ The notebooks are designed to facilitate reproducible data analysis and provide 
 
 ## Interactive Scatter Plot
 
-Explore the interactive scatter plot clicking the next image:
+Click the image below to explore the interactive scatter plot.:
 
  [![Scatter Plot](assets/images/scatterplot.png)](https://maurope.github.io/lmf/assets/html/scatterplot.html)
 
-<p align="center">
-  <a href="https://maurope.github.io/lmf/assets/html/scatterplot.html">
-    <img src="https://img.shields.io/badge/Open-Interactive%20Scatter%20Plot-blue?style=for-the-badge" alt="Open Interactive Scatter Plot">
-  </a>
-</p>
-
+To customize the scatter plot, including axis variables, functional groups, and other visualization options, open the [Google Colab notebook](https://colab.research.google.com/drive/1RqoF1GfVcoseRNRiPsQI6BAhiSk2XJV5?usp=sharing).
 ---
 
 ## Getting Started
