@@ -18,9 +18,11 @@ The repository is organized into the following directories:
 
 The notebooks are designed to facilitate reproducible data analysis and provide a structured workflow for exploring relationships between forage nutritional composition, digestibility, and methane emissions.
 
+To know more about Low Methane Forages project visit our [webpage](https://alliancebioversityciat.org/projects/low-methane-forages-lmf). 
+
 ## Interactive Scatter Plot
 
-Click the image below to explore the interactive scatter plot.:
+Click the image below to explore the interactive scatter plot:
 
  [![Scatter Plot](assets/images/scatterplot.png)](https://maurope.github.io/lmf/assets/html/scatterplot.html)
 
