@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/images/lmf_logo.jfif" width="900">
+  <img src="assets/images/lmf_logo.png" width="900">
 </p>
 
 # PROJECT REPOSITORY
@@ -18,7 +18,7 @@ The repository is organized into the following directories:
 
 The notebooks are designed to facilitate reproducible data analysis and provide a structured workflow for exploring relationships between forage nutritional composition, digestibility, and methane emissions.
 
-To know more about Low Methane Forages project visit our [web page](https://alliancebioversityciat.org/projects/low-methane-forages-lmf). 
+To know more about Low Methane Forages project visit our [web page](https://alliancebioversityciat.org/projects/low-methane-forages-lmf).
 
 ## Interactive Scatter Plot
 
