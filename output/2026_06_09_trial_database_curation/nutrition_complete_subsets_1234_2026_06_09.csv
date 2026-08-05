@@ -1671,8 +1671,6 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 4,100.0,Genetic_bank,F25-1774,CIAT-23239,Fabales,Fabaceae,Dendrolobium,triangulare,Dendrolobium triangulare,Shrub_Trees,28,95.86124163,7.529886057,92.47011394,20.35537133,52.3004246,67.05249452
 4,101.0,Genetic_bank,F25-1775,CIAT-33116,Fabales,Fabaceae,Dendrolobium,triangulare,Dendrolobium triangulare,Shrub_Trees,28,95.64087183,7.757431277,92.24256872,18.29933939,56.56341222,63.80212726
 4,102.0,Genetic_bank,F25-1775,CIAT-33116,Fabales,Fabaceae,Dendrolobium,triangulare,Dendrolobium triangulare,Shrub_Trees,28,95.62131361,8.007544902,91.9924551,18.29933939,58.27593225,66.54369845
-4,103.0,Genetic_bank,F25-2184,CIAT-BH-22-0303,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,28,94.83155053,9.497232477,90.50276752,8.022996186,32.56160596,67.4948194
-4,104.0,Genetic_bank,F25-2184,CIAT-BH-22-0303,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,28,94.85102979,9.519265655,90.48073435,8.025749287,33.70642576,68.65730913
 4,105.0,Genetic_bank,F25-2185,CIAT-BH-22-1594,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,28,94.95,11.72746512,88.27253488,8.047466056,34.1244778,68.45832672
 4,106.0,Genetic_bank,F25-2185,CIAT-BH-22-1594,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,28,95.20191923,11.4494198,88.5505802,7.864962838,34.03263659,68.17267667
 4,107.0,Genetic_bank,F25-2186,CIAT-BH-22-0468,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,28,95.97080584,10.69348293,89.30651707,9.576828422,33.95959876,68.80818738
