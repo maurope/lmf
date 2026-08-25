@@ -35,7 +35,7 @@ Explore the latest datasets from the **Low Methane Forages (LMF)** project:
 - [gas_raw](https://github.com/maurope/lmf/blob/main/output/2026_06_05_sql_data_frame_creation_with_curated_subsets/subsets_1_2_3_4_gas_sorted_by_sql.csv) – Raw gas data directly from the laboratory. Intended for reference and queries only; **not recommended for analysis**.
 - [gas_clean](https://github.com/maurope/lmf/blob/main/output/2026_06_09_trial_database_curation/gas_clean_complete_subsets_1234_2026_06_09.csv) – Cleaned and curated gas data, **ready for analysis**.
 - [nutrition](https://github.com/maurope/lmf/blob/main/output/2026_06_09_trial_database_curation/nutrition_complete_subsets_1234_2026_06_09.csv) – Cleaned and curated nutritional data, **ready for analysis**.
-- [compiled](https://github.com/maurope/lmf/blob/main/output/2026_05_22_data_delivery/08_dashboard_june_2026/compiled_dashboard_2026_7_10.csv) – Combined gas and nutritional data with averaged values, **ready for analysis**.
+- [compiled](https://github.com/maurope/lmf/blob/main/output/2026_08_20_compiled_categories_quartiles/compiled_categories_quartiles.csv) – Combined gas and nutritional data with averaged values, **ready for analysis**.
 ---
 
 ## Getting Started
