@@ -22,13 +22,11 @@ The notebooks are designed to facilitate reproducible data analysis and provide 
 
 To know more about Low Methane Forages project visit our [web page](https://alliancebioversityciat.org/projects/low-methane-forages-lmf).
 
-## Interactive Scatter Plot
+## Interactive Dashboard
 
-Click the image below to explore the interactive scatter plot:
+Click the image below to explore the interactive dashboard:
 
- [![Scatter Plot](assets/images/scatterplot.png)](https://maurope.github.io/lmf/assets/html/scatterplot.html)
-
-To customize the scatter plot, including axis variables, functional groups, and other visualization options, open the [Google Colab notebook](https://colab.research.google.com/drive/1na9-Zjmr_cXLG3cdQXfwuBm5cfvQQsUC?usp=sharing).
+ [![Dashboard](assets/images/scatterplot.png)](https://github.com/maurope/lmf/blob/main/assets/html/home.html)
 
 ## Datasets
 
