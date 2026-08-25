@@ -5,6 +5,8 @@
 
 # PROJECT REPOSITORY
 
+Last updated: 2026-08-25
+
 ## Overview
 
 This repository contains Python and R notebooks developed in Google Colab for the analysis of methane production, digestibility, and nutritional traits of forage species.
