@@ -26,7 +26,7 @@ To know more about Low Methane Forages project visit our [web page](https://alli
 
 Click the image below to explore the interactive dashboard:
 
- [![Dashboard](assets/images/scatterplot.png)](https://github.com/maurope/lmf/blob/main/assets/html/index.html)
+ [![Dashboard](assets/images/interactive_banner.png)](https://maurope.github.io/lmf/assets/html/)
 
 ## Datasets
 
