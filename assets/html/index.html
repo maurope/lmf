@@ -184,14 +184,16 @@
 
         .lmf-categories-row .card {
             min-width: 0;
+            display: flex;
+            flex-direction: column;
         }
-
         .lmf-categories-row .selection-board-image {
+            flex: 1;              /* la imagen crece para llenar el espacio sobrante */
             width: 100%;
-            height: 100%;
             display: flex;
             justify-content: center;
             align-items: center;
+            min-height: 0;         /* evita que la imagen empuje al párrafo fuera */
         }
 
         .lmf-categories-row .selection-board-image img {
@@ -205,6 +207,16 @@
             height: 800px;
             border: none;
             display: block;
+        }
+
+        .image-description {
+            margin-top: 15px;
+            text-align: justify;
+            line-height: 1.6;
+        }
+
+        .highlight {
+            font-weight: bold;
         }
 
     </style>
@@ -257,7 +269,7 @@
 
                     <iframe
                         class="chart-frame"
-                        src="interactive_banner.html"
+                        src="banner.html"
                         height="300">
                     </iframe>
 
@@ -284,7 +296,7 @@
 
                     <iframe
                         class="chart-frame"
-                        src="interactive_pie_chart_functional_groups.html"
+                        src="pie_functional_groups.html"
                         height="800">
                     </iframe>
 
@@ -304,7 +316,7 @@
 
                     <iframe
                         class="chart-frame"
-                        src="interactive_species_pie.html"
+                        src="pie_taxonomy.html"
                         width="1200"
                         height="800">
                     </iframe>
@@ -341,6 +353,21 @@
 
                     </div>
 
+                    <p class="image-description">
+                            <strong>Category 1a:</strong> Includes highly desirable candidates with ≥35% methane reduction and > 60% TDDM.<br>
+                            <strong>TOP PRIORITY</strong><br><br>
+
+                            <strong>Category 1b:</strong> Includes accessions with 20-35% methane reduction and >60% TDDM.<br>
+                            <strong>MEDIUM PRIORITY</strong><br><br>
+
+                            <strong>Category 2:</strong> Includes accessions with >20% methane reduction but <60% TDDM, potentially rich in secondary metabolites.<br><br>
+
+                            <strong>Category 3:</strong> Includes accesions with <20% methane reduction and >60% TDDM, suporting productivity gains.  <strong>SPIN-OFF OF THE PROJECT</strong><br><br>
+                            
+                            <strong>Category 4:</strong> Includes low-performing accessions (<20% methane reduction and <60% TDDM).<br>
+                            <strong>NON-PRIORITY FORAGE</strong><br>
+                    </p>
+
                 </div>
 
 
@@ -356,13 +383,15 @@
 
                     <iframe
                         class="chart-frame"
-                        src="interactive_bar_chart.html"
+                        src="bars_categories.html"
                         height="800">
                     </iframe>
 
                 </div>
 
             </div>
+
+
 
             <h2 class="section-title">
                 Selection board
@@ -414,7 +443,7 @@
 
                     <iframe
                         class="chart-frame"
-                        src="interactive_scatterplot.html"
+                        src="scatterplot.html"
                         height="1000">
                     </iframe>
 
@@ -456,7 +485,7 @@
 
                     <iframe
                         class="chart-frame"
-                        src="interactive_pca.html"
+                        src="pca.html"
                         height="1000">
                     </iframe>
 
@@ -474,7 +503,7 @@
 
                     <iframe
                         class="chart-frame"
-                        src="interactive_umap.html"
+                        src="umap.html"
                         height="1000">
                     </iframe>
 
@@ -509,7 +538,7 @@
 
                     <iframe
                         class="chart-frame"
-                        src="interactive_dbscan.html"
+                        src="dbscan.html"
                         height="1000">
                     </iframe>
 
