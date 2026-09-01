@@ -22,9 +22,9 @@ The notebooks are designed to facilitate reproducible data analysis and provide 
 
 To know more about Low Methane Forages project visit our [web page](https://alliancebioversityciat.org/projects/low-methane-forages-lmf).
 
-## Interactive Dashboard
+## Data base Visualizer
 
-Click the image below to explore the interactive dashboard:
+Click the image below to explore the interactive web:
 
  [![Dashboard](assets/images/interactive_banner.png)](https://maurope.github.io/lmf/assets/html/index.html)
 
