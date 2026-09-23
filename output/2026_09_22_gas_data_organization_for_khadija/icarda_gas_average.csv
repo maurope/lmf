@@ -1,0 +1,748 @@
+id,tax_name,functional_group,ch4_percentage_in_gas_8h,ch4_percentage_in_gas_24h,methane_intensity,tddm
+0,Morex,Grass,12.94,12.65,12.94,79.27
+0,Emir - A17/1,Grass,12.81,12.74,12.81,72.24
+0,Morex - HB2032,Grass,13.13,12.89,13.13,69.07
+0,Zanbaka/H.spont.41-2/4/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/5/Zanbakian/6/WI2291/3/CI03309/Attiki//Hja33/4/Gustoe/5/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor,Grass,10.11,9.3,10.11,82.95
+0,Sara/4/H.Spont.96-3/3/Roho//Alger/Ceres362-1-1/5/ROBUR-BAR/J126//OWB753431D/SL3/4/GLORIA-BAR/COPAL//BEN.4D/3/SP-B,Grass,12.01,11.79,12.01,82.96
+0,PETUNIA2/M111//QUINA/M112/3/IG 39885,Grass,12.23,12.07,12.23,84.61
+0,Emir - A17/1,Grass,12.66,12.54,12.66,82.31
+0,Emir - A17/1,Grass,11.82,9.43,11.82,79.69
+0,Morex - HB2032,Grass,12.02,11.88,12.02,85.48
+0,Emir - A17/1,Grass,13.16,13.02,13.16,74.92
+0,Emir - 29209/4,Grass,12.49,12.19,12.49,72.72
+0,Emir - A17/1,Grass,13.1,12.86,13.1,82.72
+0,Tissa,Grass,11.47,10.74,11.47,82.43
+0,Emir - A17/1,Grass,12.14,12.01,12.14,84.52
+0,Emir - HB2032,Grass,11.34,10.98,11.34,86.53
+0,Morex - HB2032,Grass,10.54,10.12,10.54,87.91
+0,PENCO/CHEVRON-BAR/5/ABETO//GLORIA-BAR/COME/3/SEN/4/MJA/6/PENCO/CHEVRON-BAR//CANTUA/7/IG 144951,Grass,9.46,8.95,9.46,86.95
+0,Arta/3/Legia/Laurel'S//Aleli/4/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/5/Zanbakian/6/Arta/WI3167,Grass,13.23,12.63,13.23,87.67
+0,CANELA/Malt 2/5/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/4/Tadmor//ER/Apm,Grass,12.89,14.94,12.89,85.94
+0,Legia/Laurel'S'//Aleli/3/Arta/4/Moroc9-75//WI2291/CI01387/3/H.spont.41-1,Grass,12.89,14.82,12.89,87.58
+0,Morex - 2920/4,Grass,12.63,14.65,12.63,87.58
+0,GoldMarker,Grass,11.14,10.64,11.14,83.89
+0,Khnata,Grass,11.71,11.53,11.71,84.31
+0,Emir - A17/1,Grass,11.21,11.62,11.21,88.61
+0,GP - 2920/4,Grass,12.73,12.98,12.73,85.67
+0,Sara/4/H.Spont.96-3/3/Roho//Alger/Ceres362-1-1/5/Mundah,Grass,13.26,13.59,13.26,88.68
+0,Morex - HB2032,Grass,10.94,10.59,10.94,86.1
+0,Alanda/5/Aths/4/Pro/TolI//Cer*2/TolI/3/5106/6/Baca'S'/3/AC253//CI08887/CI05761/7/IG 145155/8/Baudin,Grass,13.41,13.37,13.41,90.71
+0,Emir - PI 206443/3,Grass,12.7,12.59,12.7,87.03
+0,Tadmor//ER/Apm/3/H.spont.38-3/Akrash-01/4/Furat-1,Grass,12.42,12.36,12.42,88.05
+0,Clipper//WI2291*2/WI2269/5/Soufara-02/3/RM1508/Por//WI2269/4/Hml-02/ArabiAbiad//ER/Apm/6/Furat-3,Grass,11.56,7.28,11.56,84.14
+0,ARIG-8/IG:154361,Grass,11.42,10.97,11.42,82.03
+0,Emir,Grass,11.8,11.72,11.8,
+0,Morex - HB2032,Grass,12.94,13.04,12.94,83.28
+0,YEA389-3/YEA475-4/4/Hma-02//11012-2/CM67/3/Marageh/5/Alanda 01,Grass,12.02,11.72,12.02,76.59
+0,Emir - A17/1,Grass,11.12,10.35,11.12,83.08
+0,ANAKIN,Grass,11.89,11.2,11.89,72.79
+0,Manal,Grass,12.4,11.93,12.4,81.6
+0,Emir - A17/1,Grass,12.3,12.17,12.3,81.68
+0,Emir - A17/1,Grass,12.54,12.29,12.54,82.66
+0,Emir - (2920/4 x Tinos16/1),Grass,11.89,11.44,11.89,84.69
+0,V Morales,Grass,13.57,13.49,13.57,32.04
+0,CANELA/Malt 2/5/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/4/Tadmor//ER/Apm,Grass,12.78,13.67,12.78,77.62
+0,ESMERALDA/3/SLLO/ROBUST//QUINA/4/M104/5/Momtaz,Grass,11.69,11.42,11.69,80.12
+0,Tadmor//ER/Apm/3/H.spont.38-3/Akrash-01/4/Tichedrette,Grass,13.3,13.3,13.3,74.06
+0,ArabiAbiad/Arar//H.spont.41-5/Tadmor/3/Zanbakian/4/Furat-2,Grass,12.13,11.87,12.13,80.72
+0,Alanda/5/Aths/4/Pro/TolI//Cer*2/TolI/3/5106/6/Baca'S'/3/AC253//CI08887/CI05761/7/IG 145502/8/LAMOLINA96/FALCON-BAR,Grass,11.33,10.26,11.33,45.05
+0,Morex - HB2032,Grass,12.73,18.59,12.73,53.76
+0,Soufara-02/3/RM1508/Por//WI2269/4/Hml-02/ArabiAbiad//ER/Apm/5/H.spont.41-1,Grass,11.83,11.4,11.83,42.31
+0,PETUNIA2/M111//QUINA/M112/3/IG 144951,Grass,12.07,11.65,12.07,38.39
+0,Emir - 3811/5,Grass,12.27,11.9,12.27,24.34
+0,Emir - PI 204579,Grass,12.19,14.19,12.19,78.42
+0,ISHI X L94/BCD-TTA//UC1231L,Grass,11.83,11.3,11.83,80.67
+0,GIZA-126/IG:154361,Grass,11.48,10.97,11.48,82.0
+0,UC1231L/L94-BCD-TTA-C,Grass,11.94,11.72,11.94,78.19
+0,CANELA/DEFRA//Alanda,Grass,11.77,11.7,11.77,81.93
+0,GIZA-126/IG:153839,Grass,12.16,11.84,12.16,78.53
+0,6B89.2027/CHAMICO//TRADITION/3/MSEL/LOGAN-BAR,Grass,11.99,11.59,11.99,82.8
+0,Aths/Lignee686/4/Avt/Attiki//Aths/3/Giza121/Pue/6/Lignee527/Chn-01//Alanda/5/Arizona5908/Aths//Avt/Attiki/3/S.T.Barley/4/Aths/Lignee686,Grass,11.87,3.22,11.87,17.41
+0,PL172/AMALOU,Grass,12.27,11.81,12.27,26.0
+0,CANELA//LIMON/BICHY2000/3/MOMTAZ,Grass,12.93,12.66,12.93,29.45
+0,Aths/Lignee686/4/Avt/Attiki//Aths/3/Giza121/Pue/6/Lignee527/Chn-01//Alanda/5/Arizona5908/Aths//Avt/Attiki/3/S.T.Barley/4/Aths/Lignee686,Grass,12.67,13.11,12.67,81.44
+0,PL172/AMALOU,Grass,12.67,14.11,12.67,77.58
+0,CANELA//LIMON/BICHY2000/3/MOMTAZ,Grass,12.76,14.15,12.76,85.56
+0,DWRB101/3/6B89.2027/CHAMICO//TRADITION,Grass,13.16,14.68,13.16,83.13
+0,Compass/IG 38821,Grass,12.46,14.17,12.46,87.77
+0,Emir - A17,Grass,12.98,14.71,12.98,80.91
+0,Rihane-03,Grass,12.92,14.59,12.92,83.9
+0,Zanbaka/H.spont.41-2/4/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/5/Zanbakian/6/WI2291/3/CI03309/Attiki//Hja33/4/Gustoe/5/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor,Grass,17.82,17.2,17.82,45.48
+0,Sara/4/H.Spont.96-3/3/Roho//Alger/Ceres362-1-1/5/ROBUR-BAR/J126//OWB753431D/SL3/4/GLORIA-BAR/COPAL//BEN.4D/3/SP-B,Grass,17.72,16.9,17.72,50.89
+0,PETUNIA2/M111//QUINA/M112/3/IG 39885,Grass,18.0,16.82,18.0,39.41
+0,Emir - A17/1,Grass,17.5,16.63,17.5,40.21
+0,ISHI X L94/BCD-TTA//UC1231L,Grass,12.95,14.32,12.95,54.44
+0,Emir - A17/1,Grass,13.66,14.82,13.66,49.06
+0,Arta/3/Hml-02//Esp/1808-4L/4/ArabiAbiad/Arar//H.spont.41-5/Tadmor/5/Furat-3,Grass,12.26,14.17,12.26,88.74
+0,Taffa,Grass,12.69,14.8,12.69,87.06
+0,PENCO/CHEVRON-BAR/5/ABETO//GLORIA-BAR/COME/3/SEN/4/MJA/6/PENCO/CHEVRON-BAR//CANTUA/7/IG 144951,Grass,18.94,17.09,18.94,45.79
+0,GoldenPromise,Grass,13.18,15.26,13.18,85.01
+0,Commander /IG 38931,Grass,12.78,15.06,12.78,84.38
+0,Morex - HB2032,Grass,13.03,15.25,13.03,85.27
+0,Morex - 2920/4,Grass,12.73,14.36,12.73,87.61
+0,UC1231L/L94-BCD-TTA-C,Grass,11.22,13.98,11.22,61.2
+0,Zanbaka/H.spont.41-2/4/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/5/Zanbakian/7/Lignee527//Bahtim/DL71/3/Api/CM67//Mzq/5/Alanda-01/4/WI2291/3/Api/CM67//L2966-69/6/Lignee527/Chn-01//Arar/Rhn-03,Grass,12.37,14.44,12.37,87.83
+0,Emir - 2920/4,Grass,11.91,13.85,11.91,84.37
+0,Morex,Grass,17.38,17.03,17.38,49.81
+0,Clipper//WI2291*2/WI2269/5/Soufara-02/3/RM1508/Por//WI2269/4/Hml-02/ArabiAbiad//ER/Apm/6/Furat-3,Grass,11.47,13.66,11.47,55.01
+0,ARIG-8/IG:154361,Grass,11.24,13.51,11.24,55.37
+0,CANELA/DEFRA//Alanda,Grass,11.61,13.26,11.61,53.93
+0,GIZA-126/IG:154361,Grass,11.82,13.51,11.82,59.8
+0,GP - 2920/4,Grass,17.68,16.9,17.68,48.26
+0,Sara/4/H.Spont.96-3/3/Roho//Alger/Ceres362-1-1/5/Mundah,Grass,19.23,17.93,19.23,42.88
+0,6B89.2027/CHAMICO//TRADITION/3/MSEL/LOGAN-BAR,Grass,11.72,13.6,11.72,50.41
+0,Emir - A17/1,Grass,16.77,16.6,16.77,26.12
+0,Stirling/3/ Canela/ Limon/ Bichy 2000,Grass,13.06,14.43,13.06,81.69
+0,Emir - 29209/4,Grass,17.25,16.58,17.25,54.65
+0,Emir - A17/1,Grass,15.01,16.02,15.01,39.43
+0,(Emir/907-12) - Crete6/2,Grass,17.36,17.15,17.36,40.26
+0,Morex - 2920/4,Grass,17.38,16.93,17.38,33.63
+0,Emir - A17/1,Grass,16.96,17.17,16.96,45.88
+0,Emir - HB2032,Grass,17.09,16.78,17.09,46.09
+0,Morex - HB2032,Grass,17.5,16.93,17.5,34.19
+0,Morex - 2920/4,Grass,12.92,12.59,12.92,84.03
+0,Emir - A17/1,Grass,12.94,14.75,12.94,87.08
+0,Alanda,Grass,12.76,14.75,12.76,87.48
+0,Emir - A17,Grass,12.66,14.65,12.66,87.06
+0,Emir - HB2032,Grass,12.61,14.56,12.61,85.37
+0,ArabiAbiad/Arar//H.spont.41-5/Tadmor/3/Zanbakian/4/Furat-3,Grass,13.14,13.07,13.14,81.96
+0,VLB 118/5/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/4/Tadmor//ER/Apm,Grass,13.52,13.38,13.52,83.77
+0,GP - 2920/4,Grass,14.04,14.48,14.04,80.14
+0,GP - 2920/4,Grass,14.12,13.91,14.12,75.3
+0,H.spont.41-3/SLB34-40/7/Lignee527//Bahtim/DL71/3/Api/CM67//Mzq/5/Alanda-01/4/WI2291/3/Api/CM67//L2966-69/6/Lignee527/Chn-01//Arar/Rhn-03,Grass,12.39,14.29,12.39,88.43
+0,Tadmor//ER/Apm/3/H.spont.38-3/Akrash-01/4/ATAHUALPA,Grass,12.66,12.77,12.66,80.76
+0,Emir - A17,Grass,13.3,13.25,13.3,73.67
+0,Commander /IG 38660,Grass,10.73,12.82,10.73,77.5
+0,Emir - HB2032,Grass,10.98,12.82,10.98,83.01
+0,(Emir/907-12) - Crete6/2,Grass,12.72,12.13,12.72,71.42
+0,Morex - 2920/4,Grass,12.36,11.53,12.36,86.6
+0,ICNB93-369/4/Moroc9-75//WI2291/CI01387/3/H.spont.41-1,Grass,13.04,14.95,13.04,84.89
+0,GIZA-126/IG:153839,Grass,11.8,13.56,11.8,48.23
+0,Baudin/IG 38821,Grass,11.83,12.37,11.83,87.71
+0,GP - A17/1,Grass,13.72,13.8,13.72,83.95
+0,Emir - 3811/5,Grass,13.23,15.09,13.23,87.99
+0,PETUNIA2/M111//QUINA/M112/3/IG 144951,Grass,12.76,14.71,12.76,87.8
+0,Soufara-02/3/RM1508/Por//WI2269/4/Hml-02/ArabiAbiad//ER/Apm/5/H.spont.41-1,Grass,12.93,15.23,12.93,87.26
+0,Morex - HB2032,Grass,12.6,14.3,12.6,86.29
+0,Alanda/5/Aths/4/Pro/TolI//Cer*2/TolI/3/5106/6/Baca'S'/3/AC253//CI08887/CI05761/7/IG 145502/8/LAMOLINA96/FALCON-BAR,Grass,13.06,14.87,13.06,87.73
+0,Rosalind/IG 1074426,Grass,12.51,14.37,12.51,88.2
+0,SLB 15-05/4/H.spont.96-3/3/Roho//Alger/Ceres362-1-1/5/Furat-2,Grass,12.39,13.9,12.39,84.79
+0,Arta/3/Hml-02//Esp/1808-4L/4/ArabiAbiad/Arar//H.spont.41-5/Tadmor/5/Rihane 03,Grass,11.97,13.62,11.97,80.03
+0,ArabiAbiad/Arar//H.spont.41-5/Tadmor/3/Zanbakian/4/HARMAL,Grass,12.63,14.41,12.63,85.29
+0,V Morales,Grass,13.3,14.6,13.3,84.41
+0,Ksaiba,Grass,12.64,14.2,12.64,78.76
+0,COCKTAIL/DWRB150,Grass,13.03,14.51,13.03,80.18
+0,SLB21-81/SLB22-74//Soffet no.9,Grass,13.33,14.79,13.33,80.9
+0,Emir - A17/1,Grass,14.4,15.65,14.4,36.23
+0,GP - A17/1,Grass,17.78,17.4,17.78,51.11
+0,Baudin/IG 38821,Grass,16.97,16.19,16.97,46.87
+0,Emir,Grass,15.91,15.64,15.91,45.95
+0,Morex - HB2032,Grass,16.0,16.02,16.0,48.19
+0,Morex - HB2032,Grass,16.89,16.34,16.89,39.09
+0,Manal,Grass,14.1,15.27,14.1,52.53
+0,Emir - A17/1,Grass,15.26,16.23,15.26,48.16
+0,ArabiAbiad/Arar//H.spont.41-5/Tadmor/3/Zanbakian/4/Furat-3,Grass,14.27,14.38,14.27,47.12
+0,Emir - HB2032,Grass,14.23,15.74,14.23,46.6
+0,Emir - A17,Grass,14.37,15.68,14.37,35.5
+0,Alanda-01,Grass,14.14,15.64,14.14,46.55
+0,Tadmor//ER/Apm/3/H.spont.38-3/Akrash-01/4/Furat-1,Grass,19.01,17.73,19.01,47.8
+0,H.spont.41-3/SLB34-40/7/Lignee527//Bahtim/DL71/3/Api/CM67//Mzq/5/Alanda-01/4/WI2291/3/Api/CM67//L2966-69/6/Lignee527/Chn-01//Arar/Rhn-03,Grass,14.44,15.74,14.44,37.44
+0,Taffa,Grass,14.33,15.42,14.33,37.82
+0,Aths/Lignee686/4/Avt/Attiki//Aths/3/Giza121/Pue/6/Lignee527/Chn-01//Alanda/5/Arizona5908/Aths//Avt/Attiki/3/S.T.Barley/4/Aths/Lignee686,Grass,14.12,14.84,14.12,34.74
+0,PL172/AMALOU,Grass,14.84,16.05,14.84,37.86
+0,CANELA//LIMON/BICHY2000/3/MOMTAZ,Grass,15.21,16.26,15.21,38.39
+0,DWRB101/3/6B89.2027/CHAMICO//TRADITION,Grass,14.82,15.94,14.82,32.9
+0,Emir - A17,Grass,15.96,15.31,15.96,46.01
+0,Tadmor//ER/Apm/3/H.spont.38-3/Akrash-01/4/ATAHUALPA,Grass,14.31,14.74,14.31,48.22
+0,Morex - 2920/4,Grass,14.47,14.11,14.47,45.06
+0,GP - 2920/4,Grass,13.93,14.54,13.93,55.63
+0,GP - 2920/4,Grass,13.92,14.6,13.92,50.81
+0,Morex - 2920/4,Grass,15.77,15.3,15.77,34.51
+0,GoldMarker,Grass,17.97,17.02,17.97,46.68
+0,Khnata,Grass,18.65,17.25,18.65,42.74
+0,Morex - HB2032,Grass,14.02,14.5,14.02,47.39
+0,Emir - A17/1,Grass,16.39,15.91,16.39,42.44
+0,Emir - A17/1,Grass,16.21,16.03,16.21,46.59
+0,Arta/3/Hml-02//Esp/1808-4L/4/ArabiAbiad/Arar//H.spont.41-5/Tadmor/5/Furat-3,Grass,14.02,15.37,14.02,36.25
+0,Emir - 3811/5,Grass,13.93,15.41,13.93,46.56
+0,PETUNIA2/M111//QUINA/M112/3/IG 144951,Grass,14.96,15.5,14.96,40.23
+0,ESMERALDA/3/SLLO/ROBUST//QUINA/4/M104/5/Momtaz,Grass,15.36,16.04,15.36,46.65
+0,Arta/3/Legia/Laurel'S//Aleli/4/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/5/Zanbakian/6/Arta/WI3167,Grass,19.3,17.99,19.3,40.48
+0,Alanda/5/Aths/4/Pro/TolI//Cer*2/TolI/3/5106/6/Baca'S'/3/AC253//CI08887/CI05761/7/IG 145155/8/Baudin,Grass,19.25,17.66,19.25,42.78
+0,VLB 118/5/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/4/Tadmor//ER/Apm,Grass,14.37,14.62,14.37,50.54
+0,Legia/Laurel'S'//Aleli/3/Arta/4/Moroc9-75//WI2291/CI01387/3/H.spont.41-1,Grass,16.02,15.91,16.02,39.13
+0,CANELA/Malt 2/5/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/4/Tadmor//ER/Apm,Grass,15.04,15.7,15.04,50.23
+0,Emir - PI 204579,Grass,15.1,15.64,15.1,41.17
+0,ICNB93-369/4/Moroc9-75//WI2291/CI01387/3/H.spont.41-1,Grass,14.94,15.5,14.94,46.92
+0,Emir - 2920/4,Grass,14.6,15.12,14.6,43.12
+0,Zanbaka/H.spont.41-2/4/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/5/Zanbakian/7/Lignee527//Bahtim/DL71/3/Api/CM67//Mzq/5/Alanda-01/4/WI2291/3/Api/CM67//L2966-69/6/Lignee527/Chn-01//Arar/Rhn-03,Grass,15.12,14.74,15.12,38.98
+0,Emir - HB2032,Grass,14.74,14.66,14.74,44.68
+0,Commander /IG 38660,Grass,14.83,14.56,14.83,44.05
+0,Emir - A17/1,Grass,17.38,17.08,17.38,51.92
+0,Emir - PI 206443/3,Grass,18.91,17.6,18.91,46.89
+0,GoldenPromise,Grass,14.54,15.69,14.54,45.12
+0,SLB21-81/SLB22-74//Soffet no.9,Grass,15.72,16.22,15.72,36.01
+0,STIRLING/3/CANELA//LIMON/BICHY2000,Grass,14.56,15.7,14.56,34.43
+0,Ksaiba,Grass,12.9,12.96,12.9,23.85
+0,COCKTAIL/DWRB150,Grass,11.33,10.73,11.33,42.95
+0,SLB21-81/SLB22-74//Soffet no.9,Grass,12.0,11.37,12.0,35.21
+0,STIRLING/3/CANELA//LIMON/BICHY2000,Grass,11.33,10.34,11.33,27.13
+0,Compass/IG 38821,Grass,14.49,15.72,14.49,41.53
+0,Emir - A17,Grass,14.78,15.93,14.78,37.04
+0,Morex - 2920/4,Grass,14.62,15.63,14.62,31.91
+0,Morex - HB2032,Grass,15.06,15.98,15.06,35.75
+0,Commander /IG 38931,Grass,14.63,15.68,14.63,20.13
+0,COCKTAIL/DWRB150,Grass,14.69,15.92,14.69,46.03
+0,Rihane-03,Grass,14.82,15.8,14.82,31.78
+0,Morex - HB2032,Grass,12.07,11.71,12.07,41.54
+0,Commander /IG 38931,Grass,12.4,11.53,12.4,50.4
+0,GoldenPromise,Grass,12.43,12.19,12.43,39.15
+0,Rihane-03,Grass,12.5,12.24,12.5,43.07
+0,Emir - HB2032,Grass,12.67,12.47,12.67,49.69
+0,DWRB101/3/6B89.2027/CHAMICO//TRADITION,Grass,10.67,5.67,10.67,20.75
+0,Compass/IG 38821,Grass,11.0,10.49,11.0,62.37
+0,Emir - A17,Grass,12.03,11.76,12.03,37.35
+0,Morex - 2920/4,Grass,12.33,11.91,12.33,41.03
+0,Taffa,Grass,12.0,11.69,12.0,41.69
+0,Ksaiba,Grass,15.12,16.1,15.12,41.76
+0,Emir - (2920/4 x Tinos16/1),Grass,17.51,17.48,17.51,47.15
+0,Tissa,Grass,16.72,16.65,16.72,68.75
+0,ArabiAbiad/Arar//H.spont.41-5/Tadmor/3/Zanbakian/4/Furat-2,Grass,11.93,13.55,11.93,56.78
+0,Morex - HB2032,Grass,17.88,16.74,17.88,44.41
+0,Tadmor//ER/Apm/3/H.spont.38-3/Akrash-01/4/Tichedrette,Grass,12.17,13.52,12.17,55.07
+0,Emir - A17,Grass,12.43,12.16,12.43,41.94
+0,Alanda,Grass,12.57,2.94,12.57,42.71
+0,Emir - A17/1,Grass,12.5,12.16,12.5,38.88
+0,H.spont.41-3/SLB34-40/7/Lignee527//Bahtim/DL71/3/Api/CM67//Mzq/5/Alanda-01/4/WI2291/3/Api/CM67//L2966-69/6/Lignee527/Chn-01//Arar/Rhn-03,Grass,12.5,11.71,12.5,36.78
+0,Soufara-02/3/RM1508/Por//WI2269/4/Hml-02/ArabiAbiad//ER/Apm/5/H.spont.41-1,Grass,15.18,15.19,15.18,42.99
+0,Morex - HB2032,Grass,15.01,15.48,15.01,39.84
+0,Alanda/5/Aths/4/Pro/TolI//Cer*2/TolI/3/5106/6/Baca'S'/3/AC253//CI08887/CI05761/7/IG 145502/8/LAMOLINA96/FALCON-BAR,Grass,14.56,15.22,14.56,44.79
+0,Rosalind/IG 1074426,Grass,16.13,16.05,16.13,43.79
+0,SLB 15-05/4/H.spont.96-3/3/Roho//Alger/Ceres362-1-1/5/Furat-2,Grass,16.72,16.47,16.72,42.68
+0,Arta/3/Hml-02//Esp/1808-4L/4/ArabiAbiad/Arar//H.spont.41-5/Tadmor/5/Rihane 03,Grass,15.92,16.09,15.92,45.91
+0,ArabiAbiad/Arar//H.spont.41-5/Tadmor/3/Zanbakian/4/HARMAL,Grass,15.97,16.22,15.97,41.85
+0,V Morales,Grass,15.27,16.43,15.27,38.43
+0,YEA389-3/YEA475-4/4/Hma-02//11012-2/CM67/3/Marageh/5/Alanda 01,Grass,11.37,12.96,11.37,50.95
+0,CANELA/Malt 2/5/Arar/H.spont.19-15//Hml/3/H.spont.41-1/Tadmor/4/Tadmor//ER/Apm,Grass,11.9,13.48,11.9,52.63
+0,ANAKIN,Grass,13.21,14.58,13.21,56.97
+0,Arta/3/Hml-02//Esp/1808-4L/4/ArabiAbiad/Arar//H.spont.41-5/Tadmor/5/Furat-3,Grass,8.2,7.85,8.2,38.76
+0,Emir - A17/1,Grass,16.79,17.42,16.79,57.3
+16162,Medicago noeana,Herbaceous_legumes,14.42,15.23,14.42,63.17
+16635,Astragalus boeticus,Herbaceous_legumes,13.17,14.19,13.17,75.92
+49160,Pisum sativum var. arvense,Herbaceous_legumes,,,,
+49164,Pisum sativum,Herbaceous_legumes,14.57,15.23,14.57,79.19
+49166,Pisum sativum,Herbaceous_legumes,13.83,15.22,41.64,76.56
+49171,Pisum sativum,Herbaceous_legumes,13.65,14.98,43.32,76.95
+49174,Pisum sativum,Herbaceous_legumes,13.13,14.69,42.47,73.99
+49175,Pisum sativum,Herbaceous_legumes,14.23,15.86,49.06,75.6
+49176,Pisum sativum,Herbaceous_legumes,13.23,14.77,48.41,76.35
+49199,Pisum sativum,Herbaceous_legumes,13.02,14.76,47.74,76.82
+49206,Pisum sativum,Herbaceous_legumes,14.07,15.56,47.13,74.61
+49208,Pisum sativum var. arvense,Herbaceous_legumes,,,,
+49208,Pisum sativum var. arvense,Herbaceous_legumes,13.77,14.79,13.77,71.75
+49211,Pisum sativum,Herbaceous_legumes,13.93,15.33,42.43,83.55
+49219,Pisum sativum,Herbaceous_legumes,14.05,15.54,42.95,74.38
+49224,Pisum sativum,Herbaceous_legumes,13.45,14.84,39.47,79.04
+49233,Pisum sativum,Herbaceous_legumes,13.7,15.1,44.41,83.09
+49237,Pisum sativum,Herbaceous_legumes,13.87,15.46,48.62,78.27
+49251,Pisum sativum,Herbaceous_legumes,13.13,14.75,46.81,77.98
+49288,Pisum sativum var. arvense,Herbaceous_legumes,,,,
+49312,Pisum sativum,Herbaceous_legumes,13.18,14.66,41.69,80.02
+49315,Pisum sativum,Herbaceous_legumes,13.12,14.47,40.87,71.48
+49317,Pisum sativum,Herbaceous_legumes,13.03,14.59,41.04,78.3
+49319,Pisum sativum,Herbaceous_legumes,13.53,15.25,46.66,80.63
+49333,Pisum sativum,Herbaceous_legumes,13.05,14.67,43.55,74.52
+49337,Pisum sativum,Herbaceous_legumes,12.75,14.61,38.44,78.6
+49354,Pisum sativum,Herbaceous_legumes,13.03,14.61,38.38,78.61
+49373,Pisum sativum,Herbaceous_legumes,13.08,15.01,40.91,73.88
+49399,Pisum sativum,Herbaceous_legumes,12.93,14.69,40.98,79.45
+49503,Pisum sativum,Herbaceous_legumes,12.97,14.94,43.5,74.86
+49574,Pisum sativum,Herbaceous_legumes,12.57,14.45,42.13,79.06
+49603,Pisum sativum,Herbaceous_legumes,13.18,15.02,42.95,83.04
+49715,Pisum sativum,Herbaceous_legumes,12.67,14.72,40.46,81.93
+49795,Pisum sativum,Herbaceous_legumes,13.08,15.06,42.94,75.69
+49919,Pisum sativum,Herbaceous_legumes,13.4,15.16,47.64,82.68
+49951,Pisum sativum,Herbaceous_legumes,13.82,15.53,50.28,80.34
+50145,Pisum sativum,Herbaceous_legumes,13.28,15.67,33.06,87.09
+50223,Pisum sativum,Herbaceous_legumes,13.58,15.02,37.5,85.5
+50229,Pisum sativum,Herbaceous_legumes,13.82,14.99,35.43,80.03
+50268,Pisum sativum,Herbaceous_legumes,13.12,14.78,41.52,76.75
+50302,Pisum sativum,Herbaceous_legumes,12.93,14.78,39.2,80.35
+50422,Pisum sativum,Herbaceous_legumes,13.1,14.97,40.86,78.49
+50471,Pisum sativum,Herbaceous_legumes,13.9,14.11,40.22,79.82
+50542,Pisum sativum subsp. Sativum,Herbaceous_legumes,13.8,-12.74,13.8,68.34
+50549,Pisum sativum subsp. sativum,Herbaceous_legumes,10.83,13.55,36.94,79.41
+50560,Pisum sativum subsp. sativum,Herbaceous_legumes,11.77,13.94,29.28,80.83
+50599,Pisum sativum subsp. sativum,Herbaceous_legumes,11.57,13.74,29.14,151.81
+50617,Pisum sativum subsp. sativum,Herbaceous_legumes,12.03,13.98,33.06,81.55
+50663,Pisum sativum subsp. sativum,Herbaceous_legumes,12.07,14.16,32.9,83.69
+50720,Pisum sativum subsp. sativum,Herbaceous_legumes,12.4,13.65,24.84,76.24
+50749,Pisum sativum subsp. sativum,Herbaceous_legumes,12.0,14.3,41.01,79.15
+50774,Pisum sativum subsp. sativum,Herbaceous_legumes,12.17,13.9,37.33,76.79
+50780,Pisum sativum subsp. sativum,Herbaceous_legumes,11.8,14.05,41.18,78.9
+50788,Pisum sativum subsp. sativum,Herbaceous_legumes,12.3,15.55,24.51,77.84
+51225,Pisum sativum var. sativum,Herbaceous_legumes,12.43,13.14,12.43,78.53
+51226,Pisum sp.,Herbaceous_legumes,13.92,15.19,13.92,80.12
+51673,Pisum sativum,Herbaceous_legumes,13.03,14.84,41.64,76.4
+51699,Pisum sativum,Herbaceous_legumes,12.38,14.4,39.22,82.56
+51700,Pisum sativum,Herbaceous_legumes,12.45,14.42,39.89,82.09
+51778,Pisum sativum,Herbaceous_legumes,12.78,14.61,47.8,75.7
+51799,Pisum sativum,Herbaceous_legumes,12.62,14.44,41.54,77.8
+52043,Pisum sativum,Herbaceous_legumes,12.03,14.07,41.17,78.7
+52044,Pisum sativum,Herbaceous_legumes,12.23,14.16,41.81,80.59
+52063,Pisum sativum,Herbaceous_legumes,12.03,13.78,37.61,78.72
+52372,Pisum sativum,Herbaceous_legumes,12.07,13.43,35.56,73.31
+52379,Pisum sativum,Herbaceous_legumes,12.18,14.02,40.92,76.1
+52386,Lathyrus ochrus,Herbaceous_legumes,13.16,14.43,13.16,77.55
+52445,Pisum sativum,Herbaceous_legumes,12.52,14.51,41.49,79.27
+52524,Pisum sativum subsp. Elatius,Herbaceous_legumes,13.9,14.75,13.9,71.55
+52536,Pisum sativum,Herbaceous_legumes,12.63,14.67,46.23,78.35
+52591,Pisum sativum var. arvense,Herbaceous_legumes,,,,
+52646,Medicago doliata var. doliata,Herbaceous_legumes,13.17,13.9,13.17,70.87
+52671,Medicago bonarotiana,Herbaceous_legumes,12.77,13.89,12.77,73.08
+52688,Medicago constricta,Herbaceous_legumes,13.64,15.01,13.64,64.21
+52790,Medicago orbicularis,Herbaceous_legumes,13.98,14.83,13.98,80.21
+52830,Medicago polymorpha var. polymorpha,Herbaceous_legumes,13.21,12.46,13.21,66.77
+52945,Medicago rigidula,Herbaceous_legumes,14.16,12.56,14.16,75.17
+52987,Medicago rotata var. eliezeri,Herbaceous_legumes,14.36,15.23,14.36,64.64
+53028,Medicago tornata var. rugulosa,Herbaceous_legumes,14.29,14.41,14.29,68.67
+53313,Medicago rotata,Herbaceous_legumes,12.88,13.54,12.88,67.66
+53352,Medicago scutellata,Herbaceous_legumes,13.26,13.86,13.26,73.12
+53384,Medicago orbicularis f. marginata,Herbaceous_legumes,14.4,16.29,14.4,72.84
+53533,Medicago orbicularis f. biancae,Herbaceous_legumes,13.99,16.24,13.99,80.62
+54107,Medicago doliata,Herbaceous_legumes,14.81,16.52,14.81,74.88
+54137,Medicago doliata var. muricata,Herbaceous_legumes,14.08,15.44,14.08,66.78
+54224,Medicago intertexta var. ciliaris,Herbaceous_legumes,13.41,15.15,13.41,79.5
+54235,Medicago intertexta ,Herbaceous_legumes,14.32,16.23,14.32,83.04
+54930,Medicago rigidula var. rigidula,Herbaceous_legumes,14.97,16.79,14.97,68.45
+54947,Medicago rotata var. rotata,Herbaceous_legumes,14.66,16.99,14.66,73.77
+55185,Medicago rigidula var. cinerascens,Herbaceous_legumes,14.76,16.14,14.76,70.61
+55376,Medicago rigidula var. submitis,Herbaceous_legumes,14.98,16.49,14.98,64.17
+55483,Medicago rigidula var. agrestis,Herbaceous_legumes,14.66,16.14,14.66,75.09
+55531,Medicago murex,Herbaceous_legumes,14.34,16.02,14.34,72.69
+55910,Medicago turbinata var. spinulosa,Herbaceous_legumes,14.27,15.85,14.27,77.84
+56023,Medicago turbinata var. aculeata,Herbaceous_legumes,13.7,16.03,13.7,71.53
+57716,Medicago radiata,Herbaceous_legumes,15.46,16.45,15.46,66.41
+57932,Medicago praecox,Herbaceous_legumes,13.12,14.83,13.12,78.86
+58468,Medicago polymorpha var. iraqi,Herbaceous_legumes,14.33,15.9,14.33,77.82
+59980,Vicia sativa subsp. cordata,Herbaceous_legumes,12.3,14.09,36.3,78.11
+60016,Vicia narbonensis var. narbonensis,Herbaceous_legumes,15.92,17.8,15.92,73.62
+60018,Vicia villosa subsp. dasycarpa,Herbaceous_legumes,12.08,13.6,34.92,77.08
+60021,Vicia villosa subsp. dasycarpa,Herbaceous_legumes,12.38,13.96,32.79,80.49
+60028,Vicia villosa subsp. villosa,Herbaceous_legumes,12.3,13.44,33.79,77.1
+60029,Vicia villosa subsp. villosa,Herbaceous_legumes,12.1,13.67,32.36,76.95
+60034,Vicia villosa subsp. villosa,Herbaceous_legumes,12.15,13.68,32.36,76.62
+60035,Vicia villosa subsp. villosa,Herbaceous_legumes,11.97,13.0,27.99,75.45
+60036,Vicia villosa subsp. villosa,Herbaceous_legumes,11.88,13.65,28.72,77.55
+60039,Vicia villosa subsp. villosa,Herbaceous_legumes,11.87,13.68,31.93,74.97
+60071,vicia narbonensis var. aegyptiaca,Herbaceous_legumes,14.04,16.46,14.04,77.17
+60082,Vicia pannonica subsp. pannonica,Herbaceous_legumes,12.0,13.57,29.83,78.32
+60083,Vicia pannonica subsp. pannonica,Herbaceous_legumes,12.03,13.58,34.88,75.92
+60102,Vicia sativa subsp. nigra,Herbaceous_legumes,12.1,13.93,35.82,77.01
+60108,Vicia sativa subsp. nigra,Herbaceous_legumes,12.1,13.62,36.03,79.1
+60115,Vicia sativa subsp. nigra,Herbaceous_legumes,12.95,14.42,41.55,81.83
+60117,Vicia sativa subsp. nigra,Herbaceous_legumes,11.9,13.67,36.11,81.16
+60120,Vicia sativa subsp. nigra,Herbaceous_legumes,12.72,13.92,37.34,80.7
+60123,Vicia sativa subsp. nigra,Herbaceous_legumes,12.92,14.02,35.88,80.5
+60146,Vicia sativa subsp. nigra,Herbaceous_legumes,12.43,13.61,28.45,77.69
+60186,vicia ervillia,Herbaceous_legumes,14.06,16.24,14.06,81.67
+60186,vicia ervillia,Herbaceous_legumes,13.61,16.1,13.61,76.88
+60224,vicia sativa subsp. Sativa,Herbaceous_legumes,15.48,17.18,15.48,73.58
+60576,Vicia villosa subsp. villosa,Herbaceous_legumes,12.5,13.95,33.23,75.14
+60592,Vicia villosa subsp. villosa,Herbaceous_legumes,12.5,13.8,33.66,74.67
+60635,Vicia sativa subsp. cordata,Herbaceous_legumes,12.42,13.86,37.21,75.8
+60657,Vicia sativa subsp. cordata,Herbaceous_legumes,13.35,15.63,39.1,76.67
+60697,Vicia johannis var. johannis,Herbaceous_legumes,14.21,15.69,40.5,77.84
+60702,Vicia sericocarpa,Herbaceous_legumes,13.03,14.41,35.31,69.37
+60711,Vicia peregrina,Herbaceous_legumes,13.61,15.6,39.31,80.04
+60740,Vicia villosa subsp. dasycarpa,Herbaceous_legumes,13.64,15.17,33.79,75.45
+60767,Vicia sativa subsp. macrocarpa,Herbaceous_legumes,13.61,14.93,35.27,78.95
+60775,Vicia sativa subsp. cordata,Herbaceous_legumes,14.44,16.01,40.28,72.02
+60832,Vicia monantha subsp. monantha,Herbaceous_legumes,12.46,14.39,43.17,77.08
+60834,Vicia monantha subsp. monantha,Herbaceous_legumes,13.0,14.79,44.06,75.84
+60836,Vicia sativa subsp. cordata,Herbaceous_legumes,12.68,14.09,33.7,76.23
+60880,Vicia bithynica,Herbaceous_legumes,11.73,12.99,28.95,76.1
+60890,Vicia bithynica,Herbaceous_legumes,11.75,12.97,30.3,73.54
+60904,Vicia villosa subsp. dasycarpa,Herbaceous_legumes,12.74,13.89,31.89,77.2
+60906,Vicia villosa subsp. dasycarpa,Herbaceous_legumes,12.61,14.21,37.34,76.51
+60951,Vicia melanops,Herbaceous_legumes,12.99,14.25,33.55,74.59
+60959,Vicia anatolica,Herbaceous_legumes,11.98,13.26,40.64,61.76
+61039,Vicia sativa subsp. cordata,Herbaceous_legumes,12.49,14.18,37.11,74.66
+61043,Vicia lutea subsp. lutea,Herbaceous_legumes,12.08,14.27,38.75,80.55
+61065,Vicia lutea subsp. lutea,Herbaceous_legumes,12.04,13.52,34.22,80.73
+61079,Vicia peregrina,Herbaceous_legumes,12.54,13.88,35.13,78.21
+61080,Vicia monantha subsp. triflora,Herbaceous_legumes,12.44,13.84,60.28,67.75
+61084,Vicia melanops,Herbaceous_legumes,11.81,12.93,40.46,69.28
+61086,Vicia sativa subsp. macrocarpa,Herbaceous_legumes,12.71,13.86,37.13,75.89
+61087,Vicia sativa subsp. macrocarpa,Herbaceous_legumes,12.89,14.3,35.37,74.36
+61109,Vicia pannonica subsp. striata,Herbaceous_legumes,12.51,14.29,39.18,71.33
+61169,Vicia pannonica subsp. pannonica,Herbaceous_legumes,12.7,14.1,35.45,73.18
+61201,Vicia peregrina,Herbaceous_legumes,12.65,13.89,36.03,78.23
+61203,Vicia peregrina,Herbaceous_legumes,12.63,13.82,36.75,79.94
+61243,Vicia sativa subsp. macrocarpa,Herbaceous_legumes,13.81,15.05,32.43,71.05
+61391,Vicia sativa subsp. macrocarpa,Herbaceous_legumes,15.77,16.97,36.87,71.56
+61441,Vicia villosa,Herbaceous_legumes,15.53,16.58,37.18,75.67
+61716,Vicia sativa subsp. cordata,Herbaceous_legumes,14.7,15.88,35.31,63.76
+61720,Vicia sativa subsp. cordata,Herbaceous_legumes,13.9,15.57,36.02,68.56
+61812,Vicia sativa subsp. sativa var. immaculata,Herbaceous_legumes,14.18,15.45,37.94,79.32
+61871,vicia sativa subsp. Sativa var. melanosperma,Herbaceous_legumes,14.79,16.79,14.79,73.24
+61973,Vicia sativa subsp. sativa var. platysperma,Herbaceous_legumes,14.39,15.81,32.62,77.65
+62078,Vicia serratifolia,Herbaceous_legumes,12.4,14.04,35.1,76.55
+62090,Vicia sativa subsp. cordata,Herbaceous_legumes,13.34,15.06,33.4,78.01
+62422,Vicia sativa subsp. sativa var. leucosperma f. alba,Herbaceous_legumes,13.85,15.67,42.81,78.73
+62477,Vicia narbonensis var. salmonea,Herbaceous_legumes,13.23,15.31,44.57,74.48
+62517,Vicia sericocarpa,Herbaceous_legumes,12.67,14.48,39.92,77.7
+62523,Vicia melanops,Herbaceous_legumes,12.2,14.26,41.1,69.88
+62577,Vicia narbonensis var. affinis,Herbaceous_legumes,12.95,14.94,40.24,78.06
+62599,Vicia sativa subsp. amphicarpa,Herbaceous_legumes,12.78,14.61,38.78,69.43
+62630,Vicia monantha subsp. monantha,Herbaceous_legumes,12.6,14.05,40.68,77.77
+62645,Vicia narbonensis var. jordanica,Herbaceous_legumes,12.63,14.26,34.93,76.75
+62650,Vicia dionysiensis,Herbaceous_legumes,14.12,16.26,51.14,76.87
+62894,Vicia hyaeniscyamus,Herbaceous_legumes,13.13,14.44,38.24,73.09
+62904,vicia hybrida,Herbaceous_legumes,15.4,16.89,15.4,73.37
+62904,vicia hybrida,Herbaceous_legumes,15.82,17.81,15.82,75.99
+63011,Vicia johannis var. johannis,Herbaceous_legumes,12.97,14.35,40.62,76.94
+63185,Vicia monantha subsp. triflora,Herbaceous_legumes,12.37,14.22,41.81,77.6
+63186,Vicia sativa subsp. macrocarpa,Herbaceous_legumes,12.5,14.21,35.08,78.47
+63373,Vicia melanops,Herbaceous_legumes,12.63,14.32,42.62,67.22
+63504,Vicia sativa subsp. cordata,Herbaceous_legumes,13.0,14.52,36.24,74.72
+63548,Vicia johannis var. procumbens,Herbaceous_legumes,12.98,14.6,42.01,79.68
+63554,Vicia hyaeniscyamus,Herbaceous_legumes,12.35,13.62,37.1,78.93
+63714,Vicia narbonensis,Herbaceous_legumes,12.48,13.96,39.65,77.1
+63751,Vicia narbonensis var. jordanica,Herbaceous_legumes,12.95,14.92,44.09,76.96
+63766,Vicia aintabensis,Herbaceous_legumes,12.78,14.65,45.08,74.7
+63771,Vicia narbonensis var. salmonea,Herbaceous_legumes,13.12,14.72,39.25,75.33
+63876,Vicia sativa subsp. sativa var. immaculata,Herbaceous_legumes,13.38,14.72,41.58,80.21
+64067,Vicia melanops,Herbaceous_legumes,12.38,13.62,36.56,70.19
+64098,Vicia assyriaca,Herbaceous_legumes,13.81,15.2,36.9,69.74
+64105,vicia noeana,Herbaceous_legumes,14.66,16.41,14.66,76.84
+64155,Vicia peregrina,Herbaceous_legumes,12.98,14.64,41.33,76.47
+64176,Vicia sativa subsp. cordata,Herbaceous_legumes,13.19,14.92,33.03,78.63
+64211,Vicia monantha subsp. monantha,Herbaceous_legumes,13.78,15.93,41.94,75.89
+64215,Vicia sativa subsp. cordata,Herbaceous_legumes,13.47,15.47,34.09,78.38
+64289,Vicia galilaea,Herbaceous_legumes,13.53,15.97,39.27,79.69
+64345,Vicia sativa subsp. cordata,Herbaceous_legumes,13.32,15.71,38.03,80.97
+64351,Vicia sativa subsp. nigra,Herbaceous_legumes,13.3,15.55,37.64,78.43
+64368,Vicia monantha subsp. triflora,Herbaceous_legumes,13.0,15.22,39.38,77.47
+64525,vicia lutea subsp. Vestita,Herbaceous_legumes,15.21,17.89,15.21,81.04
+64525,vicia lutea subsp. Vestita,Herbaceous_legumes,14.8,16.62,14.8,75.82
+64572,Vicia sativa subsp. nigra,Herbaceous_legumes,12.98,14.91,37.14,81.12
+64576,Vicia sativa subsp. cordata,Herbaceous_legumes,12.95,15.32,43.97,68.5
+64612,Vicia johannis var. johannis,Herbaceous_legumes,13.05,15.07,43.21,72.17
+64635,Vicia sativa subsp. cordata,Herbaceous_legumes,12.75,14.81,35.62,75.29
+64642,Vicia peregrina,Herbaceous_legumes,12.82,15.02,36.79,77.21
+64654,Vicia monantha subsp. monantha,Herbaceous_legumes,12.57,14.52,38.53,79.27
+64670,Vicia peregrina,Herbaceous_legumes,12.72,14.73,36.44,75.74
+64672,Vicia sativa subsp. cordata,Herbaceous_legumes,12.63,14.69,33.49,68.05
+64723,Lathyrus sativus,Herbaceous_legumes,15.02,17.51,15.02,77.21
+64830,Lathyrus cicera,Herbaceous_legumes,15.48,17.46,15.48,80.51
+65080,Lathyrus ciliolatus,Herbaceous_legumes,14.88,16.49,14.88,72.13
+65343,Lathyrus aphaca var. biflorus,Herbaceous_legumes,14.43,16.68,14.43,70.33
+65349,Lathyrus aphaca,Herbaceous_legumes,15.74,17.05,15.74,67.1
+65378,Lathyrus gorgoni,Herbaceous_legumes,15.02,17.01,15.02,75.16
+65416,Lathyrus blepharicarpus,Herbaceous_legumes,15.64,17.55,15.64,77.38
+65421,Lathyrus aphaca var. modestus,Herbaceous_legumes,14.4,16.14,14.4,73.7
+65481,Lathyrus annuus,Herbaceous_legumes,15.88,17.33,15.88,70.52
+65503,lathyrus aphaca var. aphaca,Herbaceous_legumes,13.68,15.49,13.68,70.58
+65586,Lathyrus chrysanthus,Herbaceous_legumes,14.2,16.01,14.2,75.64
+65642,Lathyrus aphaca var. affinis,Herbaceous_legumes,12.92,15.74,12.92,74.63
+65722,Lathyrus aphaca var. floribundus,Herbaceous_legumes,13.68,16.04,13.68,67.79
+65739,Lathyrus inconspicuus,Herbaceous_legumes,14.19,16.13,14.19,73.41
+65841,Lathyrus aphaca var. pseudoaphaca,Herbaceous_legumes,14.58,16.6,14.58,70.35
+65894,Lathyrus pseudocicera,Herbaceous_legumes,15.04,17.31,15.04,69.64
+65915,Lathyrus vinealis ,Herbaceous_legumes,14.98,17.14,14.98,73.42
+65922,Lathyrus cassius,Herbaceous_legumes,15.77,17.04,15.77,72.11
+66399,Trifolium boissieri,Herbaceous_legumes,14.43,15.88,14.43,57.26
+66401,Trifolium clypeatum,Herbaceous_legumes,15.22,16.59,15.22,65.12
+66409,Trifolium tomentosum ,Herbaceous_legumes,14.41,16.28,14.41,74.68
+66411,trifollium stellatum,Herbaceous_legumes,14.58,16.36,14.58,54.25
+66420,Trifolium purpureum,Herbaceous_legumes,13.5,15.74,13.5,67.54
+66425,trifoliium argutum,Herbaceous_legumes,14.91,16.73,14.91,74.98
+66472,trifolium anatolicum,Herbaceous_legumes,14.54,16.59,14.54,70.66
+66532,Trifolium echinatum,Herbaceous_legumes,14.06,16.16,14.06,67.58
+66590,Trifolium angustifolium,Herbaceous_legumes,14.84,16.28,14.84,59.7
+66656,Trifolium globosum,Herbaceous_legumes,13.21,15.4,13.21,69.0
+66708,Trifolium resupinatum var. resupinatum,Herbaceous_legumes,14.09,15.86,14.09,79.02
+66728,Trifolium hybridum,Herbaceous_legumes,13.63,15.76,13.63,65.12
+66736,Trifolium leucanthum,Herbaceous_legumes,14.11,15.35,14.11,71.83
+66740,Trifolium sp.,Herbaceous_legumes,14.49,16.84,14.49,69.6
+66745,Trifolium plebeium,Herbaceous_legumes,13.1,15.92,13.1,64.71
+66778,Trifolium clusii,Herbaceous_legumes,15.0,16.72,15.0,69.84
+66813,Trifolium hirtum,Herbaceous_legumes,15.78,17.62,15.78,70.34
+66844,Trifolium pilulare,Herbaceous_legumes,14.77,16.82,14.77,67.23
+66860,Trifolium spumosum,Herbaceous_legumes,14.24,16.59,14.24,77.11
+66898,Trifolium aureum,Herbaceous_legumes,15.16,17.07,15.16,67.82
+66908,Trifolium pratense,Herbaceous_legumes,13.57,15.81,13.57,72.59
+66978,Trifolium antiabense,Herbaceous_legumes,14.02,16.63,14.02,74.72
+67010,Trifolium dasyurum,Herbaceous_legumes,15.49,17.28,15.49,49.83
+67059,Trifolium bullatum,Herbaceous_legumes,14.44,16.48,14.44,64.75
+67060,Trifolium scutatum,Herbaceous_legumes,14.36,16.45,14.36,68.27
+67148,Trifolium brachycarpum,Herbaceous_legumes,14.43,16.58,14.43,53.11
+67269,Trifolium eriosphaerum,Herbaceous_legumes,13.9,16.1,13.9,74.24
+67363,Trifolium constantinopolitanum,Herbaceous_legumes,14.78,16.34,14.78,51.52
+67588,Trifolium glomeratum,Herbaceous_legumes,13.16,15.29,13.16,59.69
+67902,Trifolium erubescens ,Herbaceous_legumes,13.76,16.34,13.76,61.71
+67912,Trifolium glanduliferum,Herbaceous_legumes,14.04,16.05,14.04,65.34
+68053,Trifolium lappaceum,Herbaceous_legumes,13.1,15.38,13.1,67.49
+68160,Trifolium batmanicum,Herbaceous_legumes,13.99,16.14,13.99,77.47
+68755,Trifolium tomentosum var. glabrescens,Herbaceous_legumes,14.33,16.19,14.33,62.55
+69036,Trifolium isthmocarpum,Herbaceous_legumes,14.34,16.51,14.34,57.88
+69049,Trifolium meironense,Herbaceous_legumes,14.19,16.39,14.19,59.59
+72535,Vicia montbretii,Herbaceous_legumes,12.77,15.13,38.66,75.49
+101045,Medicago sativa subsp. Sativa,Herbaceous_legumes,12.13,14.24,12.13,65.73
+101063,Medicago sativa,Herbaceous_legumes,12.97,15.01,12.97,53.87
+101065,Medicago sativa,Herbaceous_legumes,12.85,14.69,12.85,59.32
+101076,Medicago sativa,Herbaceous_legumes,12.95,14.47,12.95,55.2
+101077,Medicago sativa,Herbaceous_legumes,12.55,14.48,12.55,49.75
+101094,Medicago sativa,Herbaceous_legumes,10.98,12.86,10.98,56.77
+101095,Medicago sativa,Herbaceous_legumes,12.23,14.27,12.23,55.38
+101097,Medicago sativa,Herbaceous_legumes,11.13,13.06,11.13,63.14
+107493,Vicia monantha subsp. triflora,Herbaceous_legumes,12.55,14.95,41.54,79.36
+107504,Vicia sativa subsp. nigra,Herbaceous_legumes,12.58,15.07,39.64,78.65
+107577,Vicia monantha subsp. monantha,Herbaceous_legumes,12.83,15.23,43.84,79.54
+107765,Vicia lutea subsp. lutea,Herbaceous_legumes,12.4,14.91,36.94,80.1
+107828,Vicia monantha,Herbaceous_legumes,12.97,15.42,43.33,81.44
+108004,Hedysarum carnosum,Herbaceous_legumes,13.84,15.55,13.84,62.49
+108006,Hedysarum spinosissimum,Herbaceous_legumes,13.54,15.94,13.54,69.59
+108010,Hedysarum spinosissimum,Herbaceous_legumes,13.78,15.62,13.78,65.1
+108012,Hedysarum spinosissimum,Herbaceous_legumes,13.62,15.56,13.62,55.98
+108211,Melilotis sulcatus,Herbaceous_legumes,13.9,16.16,13.9,67.18
+108274,Vicia monantha subsp. triflora,Herbaceous_legumes,12.95,15.24,44.01,77.55
+108275,Vicia monantha subsp. monantha,Herbaceous_legumes,12.72,15.1,44.58,78.34
+108283,Vicia sativa subsp. nigra,Herbaceous_legumes,13.75,16.08,44.03,81.65
+108326,Lathyrus gloeospermus,Herbaceous_legumes,14.78,16.48,14.78,64.82
+108431,Vicia narbonensis,Herbaceous_legumes,13.75,15.69,47.32,77.03
+110973,Medicago tornata var. Lanticularis f. aculeata,Herbaceous_legumes,14.6,16.62,14.6,59.12
+111099,Medicago tornata var. lenticularis,Herbaceous_legumes,15.13,17.11,15.13,68.35
+111183,Pisum sativum,Herbaceous_legumes,12.22,14.15,37.24,82.15
+111313,Vicia sativa subsp. macrocarpa,Herbaceous_legumes,13.63,15.48,41.75,79.07
+111330,Vicia sativa subsp. cordata,Herbaceous_legumes,13.28,15.4,38.82,72.94
+111529,Trifolium squarrosum,Herbaceous_legumes,14.03,15.78,14.03,70.9
+114483,Vicia sativa subsp. cordata,Herbaceous_legumes,13.53,15.49,39.08,75.76
+114489,Pisum sativum,Herbaceous_legumes,12.27,13.82,35.29,77.44
+115592,Vicia lutea,Herbaceous_legumes,13.88,15.71,38.43,74.86
+117765,Vicia monantha subsp. monantha,Herbaceous_legumes,13.35,15.58,39.51,79.1
+118162,Vicia articulata,Herbaceous_legumes,13.51,15.27,13.51,75.96
+120938,Trifolium alexandrinum,Herbaceous_legumes,13.23,15.43,13.23,57.57
+121055,Trifolium arvense,Herbaceous_legumes,12.81,15.21,12.81,60.67
+121070,Trifolium arvense var. gracile,Herbaceous_legumes,14.0,16.53,14.0,78.45
+121117,Trifolium campestre,Herbaceous_legumes,14.46,16.41,14.46,70.27
+121155,Trifolium carolinianum,Herbaceous_legumes,13.5,15.34,13.5,71.14
+121160,Trifolium cherleri,Herbaceous_legumes,13.37,16.09,13.37,54.54
+121205,Trifolium chilense,Herbaceous_legumes,11.43,16.55,11.43,55.6
+121226,Trifolium dubium,Herbaceous_legumes,14.61,16.67,14.61,74.25
+121241,Trifolium scabrum,Herbaceous_legumes,13.13,15.47,13.13,67.53
+121242,Trifolium echinatum var. carmeli,Herbaceous_legumes,12.93,15.55,12.93,70.08
+121249,Trifolium gemellum,Herbaceous_legumes,13.51,15.49,13.51,63.19
+121370,Trifolium micranthum,Herbaceous_legumes,14.16,16.29,14.16,79.34
+121392,Trifolium obscurum,Herbaceous_legumes,12.54,14.92,12.54,62.3
+121395,Trifolium palaestinum,Herbaceous_legumes,13.17,15.2,13.17,50.67
+121481,Trifolium resupinatum,Herbaceous_legumes,12.73,15.01,12.73,76.43
+121644,Trifolium squamosum,Herbaceous_legumes,13.09,15.06,13.09,68.31
+121862,Trifolium vesiculosum,Herbaceous_legumes,13.33,15.82,13.33,79.84
+122992,Pisum sativum,Herbaceous_legumes,11.8,13.54,33.35,82.0
+123028,Pisum sativum subsp. asiaticum,Herbaceous_legumes,13.73,15.52,13.73,71.66
+123044,Pisum sativum subsp. sativum,Herbaceous_legumes,12.03,13.98,38.3,78.53
+123131,Pisum sativum subsp. sativum,Herbaceous_legumes,12.57,14.45,39.68,77.34
+123956,Vicia michauxii,Herbaceous_legumes,13.64,16.44,13.64,66.92
+124603,Pisum sativum,Herbaceous_legumes,12.07,14.23,39.96,80.74
+124612,Pisum sativum,Herbaceous_legumes,12.27,13.99,34.19,83.56
+124634,Pisum sativum,Herbaceous_legumes,12.35,13.95,37.1,77.24
+124843,Pisum sativum,Herbaceous_legumes,12.25,14.06,36.11,80.47
+124865,Pisum sativum,Herbaceous_legumes,11.75,13.52,40.76,77.15
+124939,Pisum sativum,Herbaceous_legumes,12.37,14.02,37.82,71.58
+125328,Pisum sativum subsp. sativum,Herbaceous_legumes,12.47,14.8,44.24,78.84
+125367,Pisum sativum subsp. sativum,Herbaceous_legumes,12.63,14.58,37.59,82.42
+125497,Pisum sativum subsp. sativum,Herbaceous_legumes,,,,
+126987,Vicia lutea subsp. lutea,Herbaceous_legumes,13.73,16.07,47.02,79.01
+126998,Trifolium striatum,Herbaceous_legumes,14.08,16.36,14.08,76.83
+127050,Vicia sativa subsp. macrocarpa,Herbaceous_legumes,13.97,16.16,46.67,76.35
+128790,Pisum sativum subsp. sativum,Herbaceous_legumes,,,,
+129019,Pisum sativum subsp. sativum,Herbaceous_legumes,,,,
+129051,Pisum sativum subsp. sativum,Herbaceous_legumes,,,,
+131319,Vicia hyrcanica,Herbaceous_legumes,13.3,15.47,41.72,82.3
+131480,Vicia sativa subsp. nigra,Herbaceous_legumes,13.5,15.7,35.17,81.35
+132548,Lathyrus hirsutus,Herbaceous_legumes,13.67,16.02,13.67,67.11
+132661,Pisum sativum,Herbaceous_legumes,12.55,14.01,34.56,76.37
+135628,Trifolium tomentosum var. cthonocephalum,Herbaceous_legumes,13.57,15.33,13.57,66.32
+136966,Vicia peregrina,Herbaceous_legumes,13.13,15.46,36.99,79.45
+137008,Vicia sativa subsp. cordata,Herbaceous_legumes,13.25,15.46,35.12,74.56
+137045,Trifolium pauciflorum,Herbaceous_legumes,13.26,15.87,13.26,62.09
+137071,Trifolium haussknechtii,Herbaceous_legumes,12.89,15.63,12.89,52.35
+137162,Trifolium speciosum,Herbaceous_legumes,13.4,15.81,13.4,50.08
+137266,Trifolium caudatum,Herbaceous_legumes,13.76,16.32,13.76,73.23
+137271,Trifolium affine,Herbaceous_legumes,14.92,16.9,14.92,57.05
+137315,Vicia villosa subsp. villosa,Herbaceous_legumes,13.5,15.01,33.37,77.46
+137329,Trifolium diffusum,Herbaceous_legumes,15.02,16.76,15.02,81.32
+137630,Vicia villosa subsp. villosa,Herbaceous_legumes,13.63,15.15,34.09,77.1
+137792,Vicia sativa subsp. sativa var. platysperma,Herbaceous_legumes,13.52,15.56,38.56,80.07
+137800,Pisum sativum,Herbaceous_legumes,11.7,13.29,27.94,86.21
+140439,Lathyrus chloranthus,Herbaceous_legumes,14.39,16.71,14.39,74.03
+140519,Vicia narbonensis var. affinis,Herbaceous_legumes,13.52,15.2,43.29,77.61
+140584,Vicia pannonica,Herbaceous_legumes,12.82,14.88,37.02,75.25
+140962,Vicia hyrcanica,Herbaceous_legumes,13.03,14.52,39.19,82.88
+141415,Vicia monantha,Herbaceous_legumes,12.88,14.71,39.3,79.46
+141437,Vicia lunata,Herbaceous_legumes,13.28,15.32,35.85,82.54
+141438,Vicia pannonica subsp. pannonica,Herbaceous_legumes,13.05,14.55,35.83,79.86
+141465,Vicia villosa,Herbaceous_legumes,13.38,15.06,32.83,78.33
+145703,Vicia villosa,Herbaceous_legumes,13.2,14.63,34.04,76.48
+146889,Pisum sativum,Herbaceous_legumes,12.23,14.38,32.25,82.86
+147125,Vicia sativa,Herbaceous_legumes,13.62,15.5,37.32,82.3
+147888,Vicia narbonensis,Herbaceous_legumes,13.72,15.43,41.62,81.16
+156276,trifolium pratense,Herbaceous_legumes,13.47,15.16,13.47,57.52
+156283,trifolium pratense,Herbaceous_legumes,13.09,14.76,13.09,62.1
+156292,trifolium pratense,Herbaceous_legumes,11.32,13.38,11.32,65.27
+156297,trifolium pratense,Herbaceous_legumes,14.19,15.47,14.19,67.35
+156302,trifolium pratense,Herbaceous_legumes,12.86,13.62,12.86,72.35
+160259,Vicia sativa subsp. nigra,Herbaceous_legumes,14.13,15.9,45.27,79.23
+160275,Vicia monantha,Herbaceous_legumes,13.73,15.21,40.04,79.71
+160357,Vicia narbonensis,Herbaceous_legumes,14.37,16.41,45.38,73.93
+160388,Vicia bithynica,Herbaceous_legumes,13.92,15.4,40.58,79.84
+164288,Vicia sativa,Herbaceous_legumes,13.5,15.2,40.24,78.79
+165072,Vicia tenuifolia,Herbaceous_legumes,13.31,15.42,13.31,49.19
+165511,trifolium pratense,Herbaceous_legumes,12.31,13.67,12.31,61.07
+165563,trifolium pratense,Herbaceous_legumes,13.76,14.75,13.76,68.8
+165573,Trifolium montanum,Herbaceous_legumes,13.96,15.31,13.96,68.34
+165769,Trifolium spadiceum ,Herbaceous_legumes,13.84,15.78,13.84,73.7
+166934,Vicia cracca,Herbaceous_legumes,13.95,15.45,39.52,72.63
+167122,Medicago polymorpha var. vulgaris ,Herbaceous_legumes,14.1,15.87,14.1,62.68
+168125,Lathyrus sylvestris,Herbaceous_legumes,15.94,16.22,15.94,55.91
+168278,Lathyrus odoratus,Herbaceous_legumes,14.7,17.07,14.7,75.07
+168279,Lathyrus clymenum,Herbaceous_legumes,13.94,15.37,13.94,77.53
+168286,Lathyrus heterophyllus,Herbaceous_legumes,14.21,16.13,14.21,74.88
+168368,Vicia villosa subsp. varia,Herbaceous_legumes,13.6,15.09,37.42,75.26
+168382,Vicia sativa,Herbaceous_legumes,13.33,15.86,39.07,77.74
+168465,Vicia grandiflora,Herbaceous_legumes,12.3,15.09,35.81,80.44
+168505,Lathyrus tuberosus,Herbaceous_legumes,14.36,16.37,14.36,73.75
+168525,Vicia lutea,Herbaceous_legumes,12.7,15.4,43.28,72.8
+168541,Vicia sericocarpa,Herbaceous_legumes,12.4,14.83,44.26,73.46
+168560,vicia palaestina,Herbaceous_legumes,15.05,16.26,15.05,68.18
+170849,Pisum sativum,Herbaceous_legumes,12.13,14.28,37.45,78.89
+171002,Vicia sp.,Herbaceous_legumes,12.48,15.0,44.37,78.61
+171115,Vicia sativa,Herbaceous_legumes,12.25,14.92,40.97,80.48
+171123,lathyrus latifolius,Herbaceous_legumes,15.44,16.09,15.44,66.38
+171131,Lathyrus latifolius,Herbaceous_legumes,14.39,16.07,14.39,69.93
+171152,lathyrus pratense,Herbaceous_legumes,14.83,15.02,14.83,61.35
+171158,Vicia bithynica,Herbaceous_legumes,10.32,12.91,27.83,77.79
+171165,Lathyrus pratensis,Herbaceous_legumes,14.47,17.17,14.47,73.43
+171197,Vicia villosa,Herbaceous_legumes,11.67,14.44,39.46,76.08
+171225,Lathyrus tingitanus,Herbaceous_legumes,14.43,16.2,14.43,74.47
+171258,Vicia pannonica,Herbaceous_legumes,11.33,14.14,35.86,70.55
+171279,Lathyrus cirrhosus,Herbaceous_legumes,13.94,15.79,13.94,68.61
+171285,Vicia narbonensis,Herbaceous_legumes,12.22,14.86,39.58,72.42
+171309,Vicia villosa,Herbaceous_legumes,14.12,16.16,40.29,76.52
+IGC-2012-78-4-18,1(385x 2329)xIGC 2011-61,Herbaceous_legumes,14.32,17.13,14.32,78.53
+IGC-2012-78-4-18,1(385x 2329)xIGC 2011-61,Herbaceous_legumes,15.91,18.01,15.91,76.8
+F3-16-16-107,1348x1330,Herbaceous_legumes,14.01,16.41,14.01,81.46
+F3-16-16-107,1348x1330,Herbaceous_legumes,17.77,18.3,17.77,74.83
+F3-9-9-70,1904x170,Herbaceous_legumes,13.19,15.64,13.19,75.63
+F3-9-9-77,1904x170,Herbaceous_legumes,13.31,15.75,13.31,81.25
+F3-9-9-93,1904x170,Herbaceous_legumes,13.98,16.33,13.98,78.23
+F3-9-9-70,1904x170,Herbaceous_legumes,16.2,17.67,16.2,75.69
+F3-9-9-77,1904x170,Herbaceous_legumes,14.01,16.18,14.01,81.85
+F3-9-9-93,1904x170,Herbaceous_legumes,13.86,15.9,13.86,75.57
+F3-6-6-129,1904x1916,Herbaceous_legumes,13.84,16.51,13.84,79.58
+F3-6-6-60,1904x1916,Herbaceous_legumes,13.48,15.36,13.48,80.23
+F3-6-6-129,1904x1916,Herbaceous_legumes,16.71,17.7,16.71,78.02
+F3-6-6-60,1904x1916,Herbaceous_legumes,15.59,17.1,15.59,73.66
+F3-7-7-85,1904x398,Herbaceous_legumes,13.03,15.61,13.03,80.09
+F3-7-7-85,1904x398,Herbaceous_legumes,16.41,17.86,16.41,73.42
+F3-8-8-128,1904x736,Herbaceous_legumes,13.09,16.16,13.09,78.92
+F3-8-8-128,1904x736,Herbaceous_legumes,14.38,16.32,14.38,81.25
+F3-13-13-115,299x650,Herbaceous_legumes,14.04,16.94,14.04,78.55
+F3-13-13-115,299x650,Herbaceous_legumes,13.97,16.16,13.97,80.87
+F3-12-12-57,554x650,Herbaceous_legumes,13.07,15.62,13.07,80.36
+F3-12-12-57,554x650,Herbaceous_legumes,15.23,17.38,15.23,74.62
+F3-10-10-134,736x190,Herbaceous_legumes,13.72,16.47,13.72,78.87
+F3-10-10-125,736x190,Herbaceous_legumes,13.7,16.45,13.7,78.32
+F3-10-10-65,736x190,Herbaceous_legumes,14.2,16.44,14.2,74.05
+F3-10-10-134,736x190,Herbaceous_legumes,15.78,17.2,15.78,77.98
+F3-10-10-65,736x190,Herbaceous_legumes,14.72,16.48,14.72,77.29
+F3-11-11-77,736x273,Herbaceous_legumes,13.24,16.38,13.24,77.8
+F3-11-11-77,736x273,Herbaceous_legumes,15.74,16.76,15.74,79.7
+F3-3-3-88,Prateekx190,Herbaceous_legumes,15.3,17.53,15.3,77.76
+F3-3-3-88,Prateekx190,Herbaceous_legumes,17.42,18.66,17.42,76.74
+F3-4-4-130,Prateekx288,Herbaceous_legumes,12.62,14.8,12.62,77.65
+F3-4-4-130,Prateekx288,Herbaceous_legumes,14.71,16.54,14.71,61.28
+F3-5-5-121,Prateekx390,Herbaceous_legumes,13.59,16.36,13.59,80.56
+F3-5-5-135,Prateekx390,Herbaceous_legumes,13.98,16.09,13.98,80.2
+F3-5-5-100,Prateekx390,Herbaceous_legumes,13.59,16.33,13.59,80.61
+F3-5-5-121,Prateekx390,Herbaceous_legumes,16.92,18.28,16.92,79.35
+F3-5-5-135,Prateekx390,Herbaceous_legumes,15.64,17.47,15.64,82.21
+F3-5-5-100,Prateekx390,Herbaceous_legumes,14.47,16.47,14.47,80.72
+F3-29-46,Prateekx404,Herbaceous_legumes,14.22,16.96,14.22,79.35
+F3-29-46,Prateekx404,Herbaceous_legumes,16.73,18.62,16.73,77.13
+F3-1-1-114,PrateekxB111,Herbaceous_legumes,13.59,16.13,13.59,80.03
+F3-1-1-91,PrateekxB111,Herbaceous_legumes,13.7,16.52,13.7,80.8
+F3-1-1-54,PrateekxB111,Herbaceous_legumes,13.34,16.1,13.34,80.57
+F3-1-1-52,PrateekxB111,Herbaceous_legumes,13.55,15.91,13.55,80.31
+F3-1-1-83,PrateekxB111,Herbaceous_legumes,13.05,15.79,13.05,81.47
+F3-1-1-93,PrateekxB111,Herbaceous_legumes,13.69,16.48,13.69,82.06
+F3-1-1-103,PrateekxB111,Herbaceous_legumes,13.16,15.56,13.16,80.27
+F3-1-1-127,PrateekxB111,Herbaceous_legumes,13.51,15.87,13.51,77.24
+F3-1-1-114,PrateekxB111,Herbaceous_legumes,14.5,16.48,14.5,77.94
+F3-1-1-91,PrateekxB111,Herbaceous_legumes,14.74,16.59,14.74,78.81
+F3-1-1-54,PrateekxB111,Herbaceous_legumes,16.36,18.08,16.36,73.1
+F3-1-1-52,PrateekxB111,Herbaceous_legumes,16.29,18.12,16.29,74.11
+F3-1-1-83,PrateekxB111,Herbaceous_legumes,16.37,18.12,16.37,74.56
+F3-1-1-93,PrateekxB111,Herbaceous_legumes,15.56,17.4,15.56,79.55
+F3-1-1-103,PrateekxB111,Herbaceous_legumes,16.16,18.18,16.16,73.66
+F3-1-1-127,PrateekxB111,Herbaceous_legumes,14.29,16.76,14.29,78.43
+F3-2-2-131,PrateekxB222,Herbaceous_legumes,13.43,16.45,13.43,80.62
+F3-2-2-52,PrateekxB222,Herbaceous_legumes,13.29,16.04,13.29,78.09
+F3-2-2-133,PrateekxB222,Herbaceous_legumes,13.73,15.98,13.73,77.8
+F3-2-2-131,PrateekxB222,Herbaceous_legumes,16.27,17.36,16.27,78.52
+F3-2-2-52,PrateekxB222,Herbaceous_legumes,14.47,16.4,14.47,81.89
+F3-2-2-133,PrateekxB222,Herbaceous_legumes,14.86,16.76,14.86,68.55
+F3-15-15-102,PrateekxWIR26,Herbaceous_legumes,13.82,16.24,13.82,77.73
+F3-15-15-98,PrateekxWIR26,Herbaceous_legumes,13.26,15.9,13.26,79.22
+F3-15-15-73,PrateekxWIR26,Herbaceous_legumes,13.63,16.39,13.63,79.86
+F3-15-15-90,PrateekxWIR26,Herbaceous_legumes,13.8,16.2,13.8,74.55
+F3-15-15-124,PrateekxWIR26,Herbaceous_legumes,13.02,15.73,13.02,81.51
+F3-15-15-62,PrateekxWIR26,Herbaceous_legumes,12.88,15.32,12.88,80.42
+F3-15-15-64,PrateekxWIR26,Herbaceous_legumes,13.94,16.05,13.94,78.69
+F3-15-15-112,PrateekxWIR26,Herbaceous_legumes,12.97,15.78,12.97,82.25
+F3-15-15-102,PrateekxWIR26,Herbaceous_legumes,15.24,16.77,15.24,80.2
+F3-15-15-98,PrateekxWIR26,Herbaceous_legumes,15.55,16.77,15.55,76.96
+F3-15-15-73,PrateekxWIR26,Herbaceous_legumes,14.41,16.65,14.41,78.45
+F3-15-15-90,PrateekxWIR26,Herbaceous_legumes,14.18,16.58,14.18,77.52
+F3-15-15-124,PrateekxWIR26,Herbaceous_legumes,14.38,16.55,14.38,77.12
+F3-15-15-62,PrateekxWIR26,Herbaceous_legumes,16.34,18.13,16.34,75.34
+F3-15-15-64,PrateekxWIR26,Herbaceous_legumes,15.23,17.4,15.23,80.29
+F3-15-15-112,PrateekxWIR26,Herbaceous_legumes,14.79,17.06,14.79,76.9
+F3-14-14-110,Ratanx170,Herbaceous_legumes,13.34,16.2,13.34,84.43
+F3-14-14-43,Ratanx170,Herbaceous_legumes,13.56,16.14,13.56,81.31
+F3-14-14-118,Ratanx170,Herbaceous_legumes,13.67,16.11,13.67,81.42
+F3-14-14-40,Ratanx170,Herbaceous_legumes,13.37,16.23,13.37,82.65
+F3-14-14-137,Ratanx170,Herbaceous_legumes,12.72,15.49,12.72,79.82
+F3-14-14-122,Ratanx170,Herbaceous_legumes,13.83,16.15,13.83,79.68
+F3-14-14-79,Ratanx170,Herbaceous_legumes,13.47,16.0,13.47,80.93
+F3-14-14-130,Ratanx170,Herbaceous_legumes,13.25,15.87,13.25,80.46
+F3-14-14-106,Ratanx170,Herbaceous_legumes,13.29,15.96,13.29,82.02
+F3-14-14-19,Ratanx170,Herbaceous_legumes,13.43,15.96,13.43,81.86
+F3-14-14-110,Ratanx170,Herbaceous_legumes,14.94,16.69,14.94,80.47
+F3-14-14-43,Ratanx170,Herbaceous_legumes,15.94,17.11,15.94,82.24
+F3-14-14-118,Ratanx170,Herbaceous_legumes,14.44,16.52,14.44,81.78
+F3-14-14-40,Ratanx170,Herbaceous_legumes,16.14,17.92,16.14,77.08
+F3-14-14-137,Ratanx170,Herbaceous_legumes,14.92,17.3,14.92,76.69
+F3-14-14-122,Ratanx170,Herbaceous_legumes,14.64,16.99,14.64,78.87
+F3-14-14-79,Ratanx170,Herbaceous_legumes,14.38,16.84,14.38,78.21
+F3-14-14-130,Ratanx170,Herbaceous_legumes,15.87,17.65,15.87,76.94
+F3-14-14-106,Ratanx170,Herbaceous_legumes,14.52,17.03,14.52,77.65
+F3-14-14-19,Ratanx170,Herbaceous_legumes,14.07,16.74,14.07,78.86
+,,Herbaceous_legumes,11.8,14.35,11.8,73.93
+,,Herbaceous_legumes,12.3,14.37,12.3,44.1
+,,Herbaceous_legumes,11.4,14.14,11.4,14.46
+,,Herbaceous_legumes,12.17,14.42,12.17,62.56
+IR-B4-B-C2,IR-B4-B-C2,Herbaceous_legumes,11.47,14.6,43.66,69.51
+ IR-B4-A-C1, IR-B4-A-C1,Herbaceous_legumes,11.62,14.42,41.98,76.98
+ IR-B2-A-C3, IR-B2-A-C3,Herbaceous_legumes,11.72,14.59,48.9,63.74
+  RF-B1-B-C1,  RF-B1-B-C1,Herbaceous_legumes,11.69,14.37,35.32,77.89
+RF-B3-B-C2,RF-B3-B-C2,Herbaceous_legumes,11.39,14.63,47.35,68.15
+RF-B2-B-C3,RF-B2-B-C3,Herbaceous_legumes,11.42,14.64,45.01,65.6
+S30-B3-A-C3,S30-B3-A-C3,Herbaceous_legumes,11.08,14.13,46.26,68.14
+S30-B1-A-C2,S30-B1-A-C2,Herbaceous_legumes,11.18,14.04,44.47,65.75
+ S30-B1-B-C1, S30-B1-B-C1,Herbaceous_legumes,10.94,13.67,34.14,75.91
+S60-B2-A-C1,S60-B2-A-C1,Herbaceous_legumes,11.37,14.26,39.65,76.26
+S60-B4-B-C3,S60-B4-B-C3,Herbaceous_legumes,10.91,13.96,39.76,67.7
+S60-B1-B-C2,S60-B1-B-C2,Herbaceous_legumes,10.51,13.84,41.23,63.53
