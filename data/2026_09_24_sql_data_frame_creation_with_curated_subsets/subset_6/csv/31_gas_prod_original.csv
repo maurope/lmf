@@ -1,0 +1,600 @@
+﻿24_no,24_date,24_requisitioner,24_set_ciat,24_ciat_lab_id,24_gene_bank_breeding_program_id,24_genus,24_species,24_tax_name,24_family,24_order,24_functional_group,24_batches_ciat,24_id_lab,24_replication,24_ndf_percentage_dm,24_av_adf_percentage_dm
+No,Date,Requisitioner,Set CIAT,CIAT Lab-ID,Gene bank /Breeding program ID,Genus,Species,Tax Name,Family,Order,Functional Group,Batches  CIAT,ID LAB,Replication,"NDF, % (DM)"," Av ADF, % (DM)"
+1,46175,GENBANK,38,F260108,CIAT36090,Cenchrus,ciliaris,Cenchrus ciliaris,Poaceae,Poales,Grasses,"89,90,91",OT-002(2026),A,61.83,62.155
+2,46175,GENBANK,38,F260108,CIAT36090,Cenchrus,ciliaris,Cenchrus ciliaris,Poaceae,Poales,Grasses,"89,90,91",OT-002(2026),B,62.48,
+3,46175,GENBANK,38,F260429,CIAT795,Rhynchosia,reticulata,Rhynchosia reticulata,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,61.56917235,61.73604771
+4,46175,GENBANK,38,F260429,CIAT795,Rhynchosia,reticulata,Rhynchosia reticulata,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,61.90292306,
+5,46175,GENBANK,38,F260432,CIAT966,Teramnus,labialis,Teramnus labialis,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,53.69561175,53.431861
+6,46175,GENBANK,38,F260432,CIAT966,Teramnus,labialis,Teramnus labialis,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,53.16811025,
+7,46175,GENBANK,38,F260433,CIAT4042,Centrosema,grazielae,Centrosema grazielae,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,62.96838633,61.06951237
+8,46175,GENBANK,38,F260433,CIAT4042,Centrosema,grazielae,Centrosema grazielae,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,59.1706384,
+9,46175,GENBANK,38,F260436,CIAT5098,Centrosema,schottii,Centrosema schottii,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,53.30852068,53.02675808
+10,46175,GENBANK,38,F260436,CIAT5098,Centrosema,schottii,Centrosema schottii,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,52.74499549,
+11,46175,GENBANK,38,F260438,CIAT5166,Centrosema,schottii,Centrosema schottii,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,56.33223124,55.37721699
+12,46175,GENBANK,38,F260438,CIAT5166,Centrosema,schottii,Centrosema schottii,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,54.42220275,
+13,46175,GENBANK,38,F260441,CIAT5236,Centrosema,arenarium,Centrosema arenarium,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,61.65691514,60.26855259
+14,46175,GENBANK,38,F260441,CIAT5236,Centrosema,arenarium,Centrosema arenarium,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,58.88019005,
+15,46175,GENBANK,38,F260442,CIAT5325,Centrosema,virginianum,Centrosema virginianum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,60.17635552,59.34196218
+16,46175,GENBANK,38,F260442,CIAT5325,Centrosema,virginianum,Centrosema virginianum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,58.50756884,
+17,46175,GENBANK,38,F260443,CIAT5383,Periandra,coccinea,Periandra coccinea,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,59.45215609,59.29510154
+18,46175,GENBANK,38,F260443,CIAT5383,Periandra,coccinea,Periandra coccinea,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,59.13804699,
+19,46175,GENBANK,38,F260444,CIAT5484,Centrosema,vexillatum,Centrosema vexillatum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,59.42687768,59.91380965
+20,46175,GENBANK,38,F260444,CIAT5484,Centrosema,vexillatum,Centrosema vexillatum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,60.40074163,
+21,46175,GENBANK,38,F260447,CIAT5850,Centrosema,brachypodum,Centrosema brachypodum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,61.07226642,60.73621134
+22,46175,GENBANK,38,F260447,CIAT5850,Centrosema,brachypodum,Centrosema brachypodum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,60.40015627,
+23,46175,GENBANK,38,F260450,CIAT7146,Rhynchosia,reticulata,Rhynchosia reticulata,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,65.59179472,66.10904208
+24,46175,GENBANK,38,F260450,CIAT7146,Rhynchosia,reticulata,Rhynchosia reticulata,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,66.62628944,
+25,46175,GENBANK,38,F260454,CIAT8384,Canavalia,dictyota,Canavalia dictyota,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,54.12440812,52.43205309
+26,46175,GENBANK,38,F260454,CIAT8384,Canavalia,dictyota,Canavalia dictyota,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,50.73969807,
+27,46175,GENBANK,38,F260456,CIAT8808,Galactia,jussiaeana,Galactia jussiaeana,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,60.90731028,62.52562543
+28,46175,GENBANK,38,F260456,CIAT8808,Galactia,jussiaeana,Galactia jussiaeana,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,64.14394058,
+29,46175,GENBANK,38,F260464,CIAT15234,Centrosema,platycarpum,Centrosema platycarpum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,58.38828214,56.71667037
+30,46175,GENBANK,38,F260464,CIAT15234,Centrosema,platycarpum,Centrosema platycarpum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,55.0450586,
+31,46175,GENBANK,38,F260468,CIAT15444,Centrosema,tetragonolobum,Centrosema tetragonolobum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,54.84615414,55.78662955
+32,46175,GENBANK,38,F260468,CIAT15444,Centrosema,tetragonolobum,Centrosema tetragonolobum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,56.72710495,
+33,46175,GENBANK,38,F260482,CIAT19445,Galactia,dubia,Galactia dubia,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,64.59421569,64.72851981
+34,46175,GENBANK,38,F260482,CIAT19445,Galactia,dubia,Galactia dubia,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,64.86282392,
+35,46175,GENBANK,38,F260484,CIAT20820,Canavalia,gladiata,Canavalia gladiata,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,56.58516181,56.47103092
+36,46175,GENBANK,38,F260484,CIAT20820,Canavalia,gladiata,Canavalia gladiata,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,56.35690004,
+37,46175,GENBANK,38,F260489,CIAT21829,Rhynchosia,minima,Rhynchosia minima,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,63.50869456,64.04334989
+38,46175,GENBANK,38,F260489,CIAT21829,Rhynchosia,minima,Rhynchosia minima,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,64.57800523,
+39,46175,GENBANK,38,F260492,CIAT22188,Rhynchosia,minima,Rhynchosia minima,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,59.32236339,59.54909491
+40,46175,GENBANK,38,F260492,CIAT22188,Rhynchosia,minima,Rhynchosia minima,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,59.77582643,
+41,46175,GENBANK,38,F260500,CIAT25156,Centrosema,platycarpum,Centrosema platycarpum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),A,58.2245626,58.47313957
+42,46175,GENBANK,38,F260500,CIAT25156,Centrosema,platycarpum,Centrosema platycarpum,Fabaceae,Fabales,Climber,"89,90,91",OT-006(2026),B,58.72171653,
+43,46175,GENBANK,38,F263177,IAG 2026 S1,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,"89,90,91",OT-029(2026) AGES,A,,#DIV/0!
+44,46175,GENBANK,38,F263177,IAG 2026 S1,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,"89,90,91",OT-029(2026) AGES,B,,
+45,46175,GENBANK,38,F263178,IAG 2026 S2,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,"89,90,91",OT-029(2026) AGES,A,,#DIV/0!
+46,46175,GENBANK,38,F263178,IAG 2026 S2,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,"89,90,91",OT-029(2026) AGES,B,,
+47,46175,GENBANK,38,F263139,CIAT918,Rhynchosia,schomburgkii,Rhynchosia schomburgkii,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,68.3462232,66.73643627
+48,46175,GENBANK,38,F263139,CIAT918,Rhynchosia,schomburgkii,Rhynchosia schomburgkii,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,65.12664934,
+49,46175,GENBANK,38,F263140,CIAT8215,Rhynchosia,schomburgkii,Rhynchosia schomburgkii,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,70.44457286,70.14485092
+50,46175,GENBANK,38,F263140,CIAT8215,Rhynchosia,schomburgkii,Rhynchosia schomburgkii,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,69.84512899,
+51,46175,GENBANK,38,F263141,CIAT15008,Centrosema,triquetrum,Centrosema triquetrum,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,60.97886538,61.17232307
+52,46175,GENBANK,38,F263141,CIAT15008,Centrosema,triquetrum,Centrosema triquetrum,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,61.36578076,
+53,46175,GENBANK,38,F263142,CIAT17334,Dunbaria,nivea,Dunbaria nivea,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,69.56401994,69.28941954
+54,46175,GENBANK,38,F263142,CIAT17334,Dunbaria,nivea,Dunbaria nivea,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,69.01481914,
+55,46175,GENBANK,38,F263143,CIAT17892,Dioclea,valliana,Dioclea valliana,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,67.62749615,68.48698196
+56,46175,GENBANK,38,F263143,CIAT17892,Dioclea,valliana,Dioclea valliana,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,69.34646776,
+57,46175,GENBANK,38,F263144,CIAT17916,Clitoria,falcata,Clitoria falcata,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,73.74639286,73.78827183
+58,46175,GENBANK,38,F263144,CIAT17916,Clitoria,falcata,Clitoria falcata,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,73.8301508,
+59,46175,GENBANK,38,F263145,CIAT17969,Canavalia,grandiflora,Canavalia grandiflora,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,53.88076412,54.58460267
+60,46175,GENBANK,38,F263145,CIAT17969,Canavalia,grandiflora,Canavalia grandiflora,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,55.28844122,
+61,46175,GENBANK,38,F263146,CIAT18497,Dioclea,valliana,Dioclea valliana,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,73.30908024,73.05168336
+62,46175,GENBANK,38,F263146,CIAT18497,Dioclea,valliana,Dioclea valliana,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,72.79428649,
+63,46175,GENBANK,38,F263147,CIAT18521,Rhynchosia,phaseoloides,Rhynchosia phaseoloides,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,73.08727414,71.99397156
+64,46175,GENBANK,38,F263147,CIAT18521,Rhynchosia,phaseoloides,Rhynchosia phaseoloides,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,70.90066898,
+65,46175,GENBANK,38,F263148,CIAT18631,Dioclea,crenata,Dioclea crenata,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,64.67906094,65.07582969
+66,46175,GENBANK,38,F263148,CIAT18631,Dioclea,crenata,Dioclea crenata,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,65.47259844,
+67,46175,GENBANK,38,F263177,IAG 2026 S1,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,"89,90,91",OT-029(2026) AGES,A,,#DIV/0!
+68,46175,GENBANK,38,F263177,IAG 2026 S1,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,"89,90,91",OT-029(2026) AGES,B,,
+69,46175,GENBANK,38,F263178,IAG 2026 S2,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,"89,90,91",OT-029(2026) AGES,A,,#DIV/0!
+70,46175,GENBANK,38,F263178,IAG 2026 S2,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,"89,90,91",OT-029(2026) AGES,B,,
+71,46175,GENBANK,38,F263149,CIAT22303,Macrotyloma,axillare,Macrotyloma axillare,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,54.26694439,53.88804398
+72,46175,GENBANK,38,F263149,CIAT22303,Macrotyloma,axillare,Macrotyloma axillare,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,53.50914356,
+73,46175,GENBANK,38,F263150,CIAT18633,Dioclea,crenata,Dioclea crenata,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,60.99949165,61.51467539
+74,46175,GENBANK,38,F263150,CIAT18633,Dioclea,crenata,Dioclea crenata,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,62.02985914,
+75,46175,GENBANK,38,F263151,CIAT21134,Cajanus,goensis,Cajanus goensis,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,73.42311255,73.82642985
+76,46175,GENBANK,38,F263151,CIAT21134,Cajanus,goensis,Cajanus goensis,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,74.22974715,
+77,46175,GENBANK,38,F263152,CIAT21433,Calopogonium,galactioides,Calopogonium galactioides,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,54.4176691,56.32935006
+78,46175,GENBANK,38,F263152,CIAT21433,Calopogonium,galactioides,Calopogonium galactioides,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,58.24103102,
+79,46175,GENBANK,38,F263153,CIAT21475,Rhynchosia,phaseoloides,Rhynchosia phaseoloides,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,66.17483555,66.67203313
+80,46175,GENBANK,38,F263153,CIAT21475,Rhynchosia,phaseoloides,Rhynchosia phaseoloides,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,67.16923071,
+81,46175,GENBANK,38,F263154,CIAT21951,Pueraria,montana,Pueraria montana,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,63.64853067,63.98443706
+82,46175,GENBANK,38,F263154,CIAT21951,Pueraria,montana,Pueraria montana,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,64.32034345,
+83,46175,GENBANK,38,F263155,CIAT25213,Centrosema,brachypodum,Centrosema brachypodum,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,61.35307489,61.93228186
+84,46175,GENBANK,38,F263155,CIAT25213,Centrosema,brachypodum,Centrosema brachypodum,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,62.51148883,
+85,46175,GENBANK,38,F263156,CIAT32229,Calopogonium,galactioides,Calopogonium galactioides,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,61.01163886,59.70368167
+86,46175,GENBANK,38,F263156,CIAT32229,Calopogonium,galactioides,Calopogonium galactioides,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,58.39572448,
+87,46175,GENBANK,38,F263157,CIAT8206,Desmanthus,leptophyllus,Desmanthus leptophyllus,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,61.21441031,61.79260985
+88,46175,GENBANK,38,F263157,CIAT8206,Desmanthus,leptophyllus,Desmanthus leptophyllus,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,62.3708094,
+89,46175,GENBANK,38,F263158,CIAT8886,Zornia,myriadena,Zornia myriadena,Fabaceae,Fabales,Herbaceous,0,0,A,55.83492011,56.69123611
+90,46175,GENBANK,38,F263158,CIAT8886,Zornia,myriadena,Zornia myriadena,Fabaceae,Fabales,Herbaceous,0,0,B,57.54755212,
+91,46175,GENBANK,38,F263159,CIAT13701,Pseudarthria,viscida,Pseudarthria viscida,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,60.57707148,62.03438165
+92,46175,GENBANK,38,F263159,CIAT13701,Pseudarthria,viscida,Pseudarthria viscida,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,63.49169182,
+93,46175,GENBANK,38,F263160,CIAT18859,Pseudarthria,hookeri,Pseudarthria hookeri,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,63.04845954,62.43068152
+94,46175,GENBANK,38,F263160,CIAT18859,Pseudarthria,hookeri,Pseudarthria hookeri,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,61.81290351,
+95,46175,GENBANK,38,F263161,CIAT19661,Pseudarthria,hookeri,Pseudarthria hookeri,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,70.54865776,70.25297088
+96,46175,GENBANK,38,F263161,CIAT19661,Pseudarthria,hookeri,Pseudarthria hookeri,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,69.957284,
+97,46175,GENBANK,38,F263162,CIAT20129,Desmanthus,leptophyllus,Desmanthus leptophyllus,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,66.86306129,64.9424397
+98,46175,GENBANK,38,F263162,CIAT20129,Desmanthus,leptophyllus,Desmanthus leptophyllus,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,63.02181811,
+99,46175,GENBANK,38,F263163,CIAT20386,Desmanthus,leptophyllus,Desmanthus leptophyllus,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,63.97646907,64.13357074
+100,46175,GENBANK,38,F263163,CIAT20386,Desmanthus,leptophyllus,Desmanthus leptophyllus,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,64.2906724,
+101,46175,GENBANK,38,F263164,CIAT21286,Pseudarthria,hookeri,Pseudarthria hookeri,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,66.4379584,66.55824818
+102,46175,GENBANK,38,F263164,CIAT21286,Pseudarthria,hookeri,Pseudarthria hookeri,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,66.67853796,
+103,46175,GENBANK,38,F263165,CIAT22500,Desmanthus,fruticosus,Desmanthus fruticosus,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,70.83663777,69.38118277
+104,46175,GENBANK,38,F263165,CIAT22500,Desmanthus,fruticosus,Desmanthus fruticosus,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,67.92572777,
+105,46175,GENBANK,38,F263166,CIAT22501,Desmanthus,covillei,Desmanthus covillei,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,69.87509797,70.24093091
+106,46175,GENBANK,38,F263166,CIAT22501,Desmanthus,covillei,Desmanthus covillei,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,70.60676386,
+107,46175,GENBANK,38,F263167,CIAT22571,Desmanthus,covillei,Desmanthus covillei,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,64.59385026,63.32056195
+108,46175,GENBANK,38,F263167,CIAT22571,Desmanthus,covillei,Desmanthus covillei,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,62.04727364,
+109,46175,GENBANK,38,F263168,CIAT22572,Desmanthus,covillei,Desmanthus covillei,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,67.58120586,68.43159996
+110,46175,GENBANK,38,F263168,CIAT22572,Desmanthus,covillei,Desmanthus covillei,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,69.28199406,
+111,46175,GENBANK,38,F263177,IAG 2026 S1,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,"89,90,91",Green Meal,A,,#DIV/0!
+112,46175,GENBANK,38,F263177,IAG 2026 S1,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,Green Meal,"89,90,91",Green Meal,B,,
+113,46175,GENBANK,38,F263178,IAG 2026 S2,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,"89,90,91",Compound feed,A,,#DIV/0!
+114,46175,GENBANK,38,F263178,IAG 2026 S2,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,Compound feed,"89,90,91",Compound feed,B,,
+115,46175,GENBANK,38,F263169,CIAT22574,Desmanthus,fruticosus,Desmanthus fruticosus,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,71.41183186,71.01211018
+116,46175,GENBANK,38,F263169,CIAT22574,Desmanthus,fruticosus,Desmanthus fruticosus,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,70.61238849,
+117,46175,GENBANK,38,F263170,CIAT8529,Mimosa,albolanata,Mimosa albolanata,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,69.20471844,69.61359459
+118,46175,GENBANK,38,F263170,CIAT8529,Mimosa,albolanata,Mimosa albolanata,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,70.02247073,
+119,46175,GENBANK,38,F263171,CIAT33510,Phyllodium,pulchellum,Phyllodium pulchellum,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,57.40047457,57.92426753
+120,46175,GENBANK,38,F263171,CIAT33510,Phyllodium,pulchellum,Phyllodium pulchellum,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,58.44806048,
+121,46175,GENBANK,38,F263172,CIAT33499,Phyllodium,pulchellum,Phyllodium pulchellum,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,68.19316236,69.00263701
+122,46175,GENBANK,38,F263172,CIAT33499,Phyllodium,pulchellum,Phyllodium pulchellum,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,69.81211165,
+123,46175,GENBANK,38,F263173,CIAT23111,Phyllodium,elegans,Phyllodium elegans,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,62.3043478,61.42804591
+124,46175,GENBANK,38,F263173,CIAT23111,Phyllodium,elegans,Phyllodium elegans,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,60.55174403,
+125,46175,GENBANK,38,F263174,CIAT23110,Phyllodium,elegans,Phyllodium elegans,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),A,61.1638059,60.71102127
+126,46175,GENBANK,38,F263174,CIAT23110,Phyllodium,elegans,Phyllodium elegans,Fabaceae,Fabales,Shurb_tree,"89,90,91",OT-028(2026),B,60.25823665,
+127,46175,GENBANK,38,F263175,CIAT9360,Clitoria,falcata,Clitoria falcata,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,74.80724021,74.03704964
+128,46175,GENBANK,38,F263175,CIAT9360,Clitoria,falcata,Clitoria falcata,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,73.26685906,
+129,46175,GENBANK,38,F263176,CIAT21292,Canavalia,Gladiata,Canavalia Gladiata,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),A,49.56013622,48.68050515
+130,46175,GENBANK,38,F263176,CIAT21292,Canavalia,Gladiata,Canavalia Gladiata,Fabaceae,Fabales,Herbaceous_climber,"89,90,91",OT-028(2026),B,47.80087408,
+131,46175,GENBANK,38,F260521,CIAT23035,Desmodium,laxiflorum,Desmodium laxiflorum,Fabaceae,Fabales,Herbaceous,"89,90,91",OT-006,A,50.39758332,50.76210953
+132,46175,GENBANK,38,F260521,CIAT23035,Desmodium,laxiflorum,Desmodium laxiflorum,Fabaceae,Fabales,Herbaceous,"89,90,91",OT-006,B,51.12663574,
+133,46175,GENBANK,38,F260526,CIAT33726,Desmodium,sandwicense,Desmodium sandwicense,Fabaceae,Fabales,Herbaceous,"89,90,91",OT-006,A,60.3552326,60.71904902
+134,46175,GENBANK,38,F260526,CIAT33726,Desmodium,sandwicense,Desmodium sandwicense,Fabaceae,Fabales,Herbaceous,"89,90,91",OT-006,B,61.08286545,
+135,46175,GENBANK,38,F260532,CIAT13930,Desmodium,glabrum,Desmodium glabrum,Fabaceae,Fabales,Shurb_Tree,"89,90,91",OT-006,A,34.78071124,35.38043422
+136,46175,GENBANK,38,F260532,CIAT13930,Desmodium,glabrum,Desmodium glabrum,Fabaceae,Fabales,Shurb_Tree,"89,90,91",OT-006,B,35.9801572,
+137,46175,GENBANK,38,F260533,CIAT21082,Flemingia,stricta,Flemingia stricta,Fabaceae,Fabales,Shurb_Tree,"89,90,91",OT-006,A,66.55727155,64.91425484
+138,46175,GENBANK,38,F260533,CIAT21082,Flemingia,stricta,Flemingia stricta,Fabaceae,Fabales,Shurb_Tree,"89,90,91",OT-006,B,63.27123813,
+139,46175,GENBANK,38,F260535,CIAT21091,Flemingia,stricta,Flemingia stricta,Fabaceae,Fabales,Shurb_Tree,"89,90,91",OT-006,A,70.90077473,70.86102497
+140,46175,GENBANK,38,F260535,CIAT21091,Flemingia,stricta,Flemingia stricta,Fabaceae,Fabales,Shurb_Tree,"89,90,91",OT-006,B,70.82127521,
+141,46175,GENBANK,38,F260536,CIAT21115,Flemingia,lineata,Flemingia lineata,Fabaceae,Fabales,Shurb_Tree,"89,90,91",OT-006,A,63.99562858,64.50227528
+142,46175,GENBANK,38,F260536,CIAT21115,Flemingia,lineata,Flemingia lineata,Fabaceae,Fabales,Shurb_Tree,"89,90,91",OT-006,B,65.00892197,
+143,46175,GENBANK,38,F261034,CIAT8539,Canavalia,grandiflora,Canavalia grandiflora,Fabaceae,Fabales,Climber,"89,90,91",OT-017,A,50.49528056,50.86223067
+144,46175,GENBANK,38,F261034,CIAT8539,Canavalia,grandiflora,Canavalia grandiflora,Fabaceae,Fabales,Climber,"89,90,91",OT-017,B,51.22918078,
+145,46175,GENBANK,38,F261036,CIAT8589,Galactia,jussiaeana,Galactia jussiaeana,Fabaceae,Fabales,Climber,"89,90,91",OT-017,A,52.62421271,53.10447383
+146,46175,GENBANK,38,F261036,CIAT8589,Galactia,jussiaeana,Galactia jussiaeana,Fabaceae,Fabales,Climber,"89,90,91",OT-017,B,53.58473495,
+147,46175,GENBANK,38,F261087,CIAT18701,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"89,90,91",OT-020,A,62.05,61.335
+148,46175,GENBANK,38,F261087,CIAT18701,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"89,90,91",OT-020,B,60.62,
+149,46175,JACOBO ARANGO/ ALEJANDRO MONTOYA,38,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,"89,90,91",OT-001(2025),A,76.05,76.05
+150,46175,JACOBO ARANGO/ ALEJANDRO MONTOYA,38,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,"89,90,91",OT-001(2025),B,76.05,
+151,46203,BREEDING,39,F262903,CIAT_BR04_3025_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,60.08348149,60.40561002
+152,46203,BREEDING,39,F262903,CIAT_BR04_3025_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,60.72773854,
+153,46203,BREEDING,39,F262904,CIAT_BR02_1752_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,64.72642717,64.6125337
+154,46203,BREEDING,39,F262904,CIAT_BR02_1752_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,64.49864024,
+155,46203,BREEDING,39,F262905,CIAT_CIAT_606_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,69.93776597,69.70939571
+156,46203,BREEDING,39,F262905,CIAT_CIAT_606_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,69.48102544,
+157,46203,BREEDING,39,F262906,CIAT_BR02_1794_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,59.28609181,58.79957024
+158,46203,BREEDING,39,F262906,CIAT_BR02_1794_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,58.31304866,
+159,46203,0,39,F262907,CIAT_CIAT_6294_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,58.80066062,59.14899612
+160,46203,0,39,F262907,CIAT_CIAT_6294_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.49733163,
+161,46203,0,39,F262908,CIAT_Mulato_II_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,64.5426841,65.31077578
+162,46203,0,39,F262908,CIAT_Mulato_II_Llan,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,66.07886747,
+163,46203,0,39,F262909,CIAT_BR04_3025_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,66.14544191,66.03882354
+164,46203,0,39,F262909,CIAT_BR04_3025_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,65.93220517,
+165,46203,0,39,F262910,CIAT_BR02_1752_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,56.65865546,80.6
+166,46203,0,39,F262910,CIAT_BR02_1752_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,56.75712575,
+167,46203,0,39,F262911,CIAT_CIAT_606_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,59.15566235,59.17041639
+168,46203,0,39,F262911,CIAT_CIAT_606_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.18517043,
+169,46203,0,39,F262912,CIAT_BR02_1794_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,54.53878521,54.34106669
+170,46203,0,39,F262912,CIAT_BR02_1794_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,54.14334817,
+171,46203,0,39,F262913,CIAT_CIAT_6294_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,56.54269144,56.473915
+172,46203,0,39,F262913,CIAT_CIAT_6294_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,56.40513856,
+173,46203,0,39,F262914,CIAT_Mulato_II_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,56.11668299,56.17438095
+174,46203,0,39,F262914,CIAT_Mulato_II_Qu,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,56.23207891,
+175,46203,0,39,F262915,CIAT-BR04_2515,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,62.99150273,63.67020147
+176,46203,0,39,F262915,CIAT-BR04_2515,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,64.34890022,
+177,46203,0,39,F262916,CIAT-BR05_931,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,58.23312644,58.68627775
+178,46203,0,39,F262916,CIAT-BR05_931,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.13942906,
+179,46203,BREEDING,39,F262917,CIAT-BR09_5252,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,56.38735729,57.18136727
+180,46203,BREEDING,39,F262917,CIAT-BR09_5252,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,57.97537725,
+181,46203,BREEDING,"39, 43",F262918,CIAT-BR12_1176,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,43",OT-025,A,57.41887989,57.00335574
+182,46203,BREEDING,"39, 43",F262918,CIAT-BR12_1176,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,43",OT-025,B,56.58783159,
+183,46203,BREEDING,39,F262919,CIAT-BR12_1280,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,51.41787713,51.52359261
+184,46203,BREEDING,39,F262919,CIAT-BR12_1280,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,51.6293081,
+185,46203,BREEDING,39,F262920,CIAT-BR12_1282,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,57.2054376,56.73716373
+186,46203,BREEDING,39,F262920,CIAT-BR12_1282,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,56.26888985,
+187,46203,BREEDING,39,F262921,CIAT-BR12_1325,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,58.35904128,58.30461311
+188,46203,BREEDING,39,F262921,CIAT-BR12_1325,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,58.25018494,
+189,46203,BREEDING,"39,43",F262922,CIAT-BR12_1399,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,104",OT-025,A,59.12691374,59.7877476
+190,46203,BREEDING,"39,43",F262922,CIAT-BR12_1399,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,104",OT-025,B,60.44858146,
+191,46203,BREEDING,"39,43",F262923,CIAT-BR12_1418,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,60.41655629,60.12007872
+192,46203,BREEDING,"39,43",F262923,CIAT-BR12_1418,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.82360114,
+193,46203,BREEDING,"39,43",F262924,CIAT-BR12_1509,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,57.29885818,57.26189236
+194,46203,BREEDING,"39,43",F262924,CIAT-BR12_1509,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,57.22492653,
+195,46203,BREEDING,39,F262925,CIAT-BR12_1535,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,57.31218426,57.13439249
+196,46203,BREEDING,39,F262925,CIAT-BR12_1535,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,56.95660072,
+197,46203,BREEDING,39,F262926,CIAT-BR12_1685,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,56.60132539,56.80848219
+198,46203,BREEDING,39,F262926,CIAT-BR12_1685,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,57.01563899,
+199,46203,BREEDING,39,F262927,CIAT-BR12_1844,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,58.7304998,58.73985746
+200,46203,BREEDING,39,F262927,CIAT-BR12_1844,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,58.74921512,
+201,46203,BREEDING,39,F262928,CIAT-BR12_1888,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,57.95430256,58.01209414
+202,46203,BREEDING,39,F262928,CIAT-BR12_1888,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,58.06988571,
+203,46203,BREEDING,39,F262929,CIAT-BR12_1939,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,58.36414722,58.62635101
+204,46203,BREEDING,39,F262929,CIAT-BR12_1939,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,58.88855481,
+205,46203,BREEDING,39,F262930,CIAT-BR12_2243,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,62.40027663,61.70235794
+206,46203,BREEDING,39,F262930,CIAT-BR12_2243,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,61.00443924,
+207,46203,BREEDING,39,F262931,CIAT-BR12_2254,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,61.28920296,62.68923608
+208,46203,BREEDING,39,F262931,CIAT-BR12_2254,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,64.0892692,
+209,46203,BREEDING,39,F262932,CIAT-BR12_2255,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,61.33079027,61.97568213
+210,46203,BREEDING,39,F262932,CIAT-BR12_2255,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,62.62057398,
+211,46203,BREEDING,39,F262933,CIAT-BR12_2305,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,62.26805371,61.51102652
+212,46203,BREEDING,39,F262933,CIAT-BR12_2305,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,60.75399933,
+213,46203,BREEDING,39,F262934,CIAT-BR12_2316,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,65.49178047,64.92236337
+214,46203,BREEDING,39,F262934,CIAT-BR12_2316,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,64.35294628,
+215,46203,BREEDING,39,F262935,CIAT-BR12_2367,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,59.95728005,59.76182417
+216,46203,BREEDING,39,F262935,CIAT-BR12_2367,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.56636828,
+217,46203,BREEDING,39,F262936,CIAT-BR12_2461,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,65.96494741,65.16213704
+218,46203,BREEDING,39,F262936,CIAT-BR12_2461,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,64.35932666,
+219,46203,BREEDING,39,F262937,CIAT-BR12_3018,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,59.8092931,59.4857956
+220,46203,BREEDING,39,F262937,CIAT-BR12_3018,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.16229811,
+221,46203,BREEDING,39,F262938,CIAT-BR12_3067,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,59.66625035,59.8670693
+222,46203,BREEDING,39,F262938,CIAT-BR12_3067,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,60.06788826,
+223,46203,BREEDING,39,F262939,CIAT-BR12_3069,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,66.65881143,65.58231765
+224,46203,BREEDING,39,F262939,CIAT-BR12_3069,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,64.50582387,
+225,46203,BREEDING,39,F262940,CIAT-BR12_3358,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,61.60230837,62.0843291
+226,46203,BREEDING,39,F262940,CIAT-BR12_3358,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,62.56634984,
+227,46203,BREEDING,39,F262941,CIAT-BR12_3377,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,65.32513297,64.64227984
+228,46203,BREEDING,39,F262941,CIAT-BR12_3377,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,63.95942671,
+229,46203,BREEDING,39,F262942,CIAT-BR12_49,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,60.7293541,60.3417605
+230,46203,BREEDING,39,F262942,CIAT-BR12_49,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.9541669,
+231,46203,BREEDING,39,F262943,CIAT-BR12_61,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,60.42520692,60.23997864
+232,46203,BREEDING,39,F262943,CIAT-BR12_61,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,60.05475035,
+233,46203,BREEDING,39,F262944,CIAT-BR12_91,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,59.17524254,59.5558435
+234,46203,BREEDING,39,F262944,CIAT-BR12_91,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.93644447,
+235,46203,BREEDING,39,F262945,CIAT-BR15_1468,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,57.3211756,55.87750756
+236,46203,BREEDING,39,F262945,CIAT-BR15_1468,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,54.43383952,
+237,46203,BREEDING,39,F262946,CIAT-BR15_1628,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,62.60038571,61.17177896
+238,46203,BREEDING,39,F262946,CIAT-BR15_1628,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.74317222,
+239,46203,0,39,F262947,CIAT-BR15_1689,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,59.57739147,59.70332467
+240,46203,0,39,F262947,CIAT-BR15_1689,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.82925786,
+241,46203,BREEDING,39,F262948,CIAT-BR15_1712,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,56.3109279,57.09615834
+242,46203,BREEDING,39,F262948,CIAT-BR15_1712,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,57.88138878,
+243,46203,BREEDING,39,F262949,CIAT-BR15_1830,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,58.74531395,59.05071453
+244,46203,BREEDING,39,F262949,CIAT-BR15_1830,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.35611511,
+245,46203,BREEDING,39,F262950,CIAT-BR15_1865,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,57.21138344,56.92092105
+246,46203,BREEDING,39,F262950,CIAT-BR15_1865,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,56.63045867,
+247,46203,BREEDING,39,F262951,CIAT-BR15_1877,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,56.39068418,56.08074917
+248,46203,BREEDING,39,F262951,CIAT-BR15_1877,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,55.77081416,
+249,46203,BREEDING,39,F262952,CIAT-BR15_2174,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,59.30585144,59.60376505
+250,46203,BREEDING,39,F262952,CIAT-BR15_2174,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,59.90167865,
+251,46203,BREEDING,39,F262953,CIAT-BR15_2464,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,60.5023158,61.68916769
+252,46203,BREEDING,39,F262953,CIAT-BR15_2464,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,62.87601958,
+253,46203,BREEDING,39,F262954,CIAT-BR15_2528,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,58.72556637,58.42640544
+254,46203,BREEDING,39,F262954,CIAT-BR15_2528,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,58.12724451,
+255,46203,BREEDING,39,F262955,CIAT-BR15_2532,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,60.90356588,61.22198116
+256,46203,BREEDING,39,F262955,CIAT-BR15_2532,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,61.54039643,
+257,46203,BREEDING,39,F262956,CIAT-BR15_2538,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,65.48189887,65.61033801
+258,46203,BREEDING,39,F262956,CIAT-BR15_2538,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,65.73877714,
+259,46203,BREEDING,39,F262957,CIAT-BR15_2545,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,67.86185325,68.17519196
+260,46203,BREEDING,39,F262957,CIAT-BR15_2545,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,68.48853068,
+261,46203,BREEDING,39,F262958,CIAT-BR15_2767,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,A,60.33700725,61.24336316
+262,46203,BREEDING,39,F262958,CIAT-BR15_2767,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"92,93,94",OT-025,B,62.14971907,
+263,46203,JUAN CARDOSO,39,F263289, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,50.34826507,50.11149517
+264,46203,JUAN CARDOSO,39,F263289, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,49.87472527,
+265,46203,JUAN CARDOSO,39,F263290,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,57.08759279,55.24598161
+266,46203,JUAN CARDOSO,39,F263290,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,53.40437042,
+267,46203,JUAN CARDOSO,39,F263291,CIAT 13953,Desmodium,velutinum,Desmodium velutinum,Fabaceas,Fabales,Arbustivas,"92,93,94",OT-032,A,57.23780244,57.38351667
+268,46203,JUAN CARDOSO,39,F263291,CIAT 13953,Desmodium,velutinum,Desmodium velutinum,Fabaceas,Fabales,Arbustivas,"92,93,94",OT-032,B,57.52923089,
+269,46203,JUAN CARDOSO,39,F263292,CIAT 9432,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,55.04006669,55.85946942
+270,46203,JUAN CARDOSO,39,F263292,CIAT 9432,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,56.67887215,
+271,46203,JUAN CARDOSO,39,F263293,CIAT 17768,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,61.42964972,59.99922191
+272,46203,JUAN CARDOSO,39,F263293,CIAT 17768,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,58.56879411,
+273,46203,JUAN CARDOSO,39,F263294,CIAT 22768,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,52.32380933,51.58664273
+274,46203,JUAN CARDOSO,39,F263294,CIAT 22768,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,50.84947614,
+275,46203,JUAN CARDOSO,39,F263295,CIAT 22598,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,53.85354471,52.50487516
+276,46203,JUAN CARDOSO,39,F263295,CIAT 22598,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,51.1562056,
+277,46203,JUAN CARDOSO,39,F263296,CIAT 18701,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"92,93,94",OT-032,A,76.73351716,76.68211226
+278,46203,JUAN CARDOSO,39,F263296,CIAT 18701,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"92,93,94",OT-032,B,76.63070735,
+279,46203,JUAN CARDOSO,39,F263297,CIAT 20891,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"92,93,94",OT-032,A,71.88641404,71.23113544
+280,46203,JUAN CARDOSO,39,F263297,CIAT 20891,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"92,93,94",OT-032,B,70.57585684,
+281,46203,JUAN CARDOSO,39,F263298,CIAT 15551,Centrosema ,molle,Centrosema molle,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,73.25598993,74.68009226
+282,46203,JUAN CARDOSO,39,F263298,CIAT 15551,Centrosema ,molle,Centrosema molle,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,76.10419459,
+283,46203,JUAN CARDOSO,39,F263299, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,52.349773,53.19362636
+284,46203,JUAN CARDOSO,39,F263299, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,54.03747971,
+285,46203,JUAN CARDOSO,39,F263300,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,48.41398912,48.65543052
+286,46203,JUAN CARDOSO,39,F263300,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,48.89687192,
+287,46203,JUAN CARDOSO,39,F263301,CIAT 9432,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,57.55288277,58.2092417
+288,46203,JUAN CARDOSO,39,F263301,CIAT 9432,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,58.86560064,
+289,46203,JUAN CARDOSO,39,F263302,CIAT 17768,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,61.30939218,61.45309684
+290,46203,JUAN CARDOSO,39,F263302,CIAT 17768,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,61.5968015,
+291,46203,JUAN CARDOSO,39,F263303,CIAT 22768,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,55.54824582,54.99992986
+292,46203,JUAN CARDOSO,39,F263303,CIAT 22768,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,54.4516139,
+293,46203,JUAN CARDOSO,39,F263304,CIAT 22598,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,A,56.20947087,55.89761651
+294,46203,JUAN CARDOSO,39,F263304,CIAT 22598,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"92,93,94",OT-032,B,55.58576216,
+295,46203,JUAN CARDOSO,39,F263305,CIAT 18701,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"92,93,94",OT-032,A,63.5967875,63.47098785
+296,46203,JUAN CARDOSO,39,F263305,CIAT 18701,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"92,93,94",OT-032,B,63.34518821,
+297,46203,JUAN CARDOSO,39,F263306,CIAT 20891,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"92,93,94",OT-032,A,65.38100031,65.28724357
+298,46203,JUAN CARDOSO,39,F263306,CIAT 20891,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"92,93,94",OT-032,B,65.19348682,
+299,46203,JACOBO ARANGO/ ALEJANDRO MONTOYA,39,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,"92,93,94",OT-001(2025)  ,A,76.05,76.05
+300,46203,JACOBO ARANGO/ ALEJANDRO MONTOYA,39,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,"92,93,94",OT-001(2025)  ,B,76.05,
+301,46252,BREEDING,41,F262959,CIAT-BR15_3013,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,64.81048096,65.13708265
+302,46252,BREEDING,41,F262959,CIAT-BR15_3013,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,65.46368434,
+303,46252,BREEDING,41,F262960,CIAT-BR15_3017,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,64.51089914,65.32469586
+304,46252,BREEDING,41,F262960,CIAT-BR15_3017,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,66.13849258,
+305,46252,BREEDING,41,F262961,CIAT-BR15_3186,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,64.47030841,64.45460353
+306,46252,BREEDING,41,F262961,CIAT-BR15_3186,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,64.43889865,
+307,46252,BREEDING,41,F262962,CIAT-BR15_3234,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,66.30888456,65.92167496
+308,46252,BREEDING,41,F262962,CIAT-BR15_3234,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,65.53446536,
+309,46252,BREEDING,41,F262963,CIAT-BR15_3280,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,66.62136944,66.32016109
+310,46252,BREEDING,41,F262963,CIAT-BR15_3280,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,66.01895274,
+311,46252,BREEDING,41,F262964,CIAT-BR15_3294,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,65.88619765,65.58091296
+312,46252,BREEDING,41,F262964,CIAT-BR15_3294,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,65.27562827,
+313,46252,BREEDING,41,F262965,CIAT-BR15_3571,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,65.79344686,65.6939464
+314,46252,BREEDING,41,F262965,CIAT-BR15_3571,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,65.59444593,
+315,46252,BREEDING,41,F262966,CIAT-BR15_3597,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,65.64550814,64.73085243
+316,46252,BREEDING,41,F262966,CIAT-BR15_3597,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,63.81619671,
+317,46252,BREEDING,41,F262967,CIAT-BR15_361,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,68.24796917,67.42522367
+318,46252,BREEDING,41,F262967,CIAT-BR15_361,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,66.60247816,
+319,46252,BREEDING,41,F262968,CIAT-BR15_3726,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,63.37715463,63.72006605
+320,46252,BREEDING,41,F262968,CIAT-BR15_3726,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,64.06297747,
+321,46252,BREEDING,41,F262969,CIAT-BR15_378,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,64.53195943,65.19450136
+322,46252,BREEDING,41,F262969,CIAT-BR15_378,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,65.85704329,
+323,46252,BREEDING,41,F262970,CIAT-BR15_3810,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,62.87411359,63.63145055
+324,46252,BREEDING,41,F262970,CIAT-BR15_3810,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,64.38878751,
+325,46252,BREEDING,41,F262971,CIAT-BR15_395,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,66.88309242,67.09041206
+326,46252,BREEDING,41,F262971,CIAT-BR15_395,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,67.29773169,
+327,46252,BREEDING,41,F262972,CIAT-BR15_4368,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,64.71135113,66.02302087
+328,46252,BREEDING,41,F262972,CIAT-BR15_4368,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,67.33469062,
+329,46252,BREEDING,41,F262973,CIAT-BR15_4442,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,64.60848177,63.68171172
+330,46252,BREEDING,41,F262973,CIAT-BR15_4442,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,62.75494166,
+331,46252,BREEDING,41,F262974,CIAT-BR15_4483,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,64.58817613,64.28278338
+332,46252,BREEDING,41,F262974,CIAT-BR15_4483,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,63.97739063,
+333,46252,BREEDING,41,F262975,CIAT-BR15_503,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,61.53856757,62.07103946
+334,46252,BREEDING,41,F262975,CIAT-BR15_503,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,62.60351134,
+335,46252,BREEDING,41,F262976,CIAT-BR15_5152,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,64.49235398,63.58238649
+336,46252,BREEDING,41,F262976,CIAT-BR15_5152,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,62.672419,
+337,46252,BREEDING,41,F262977,CIAT-BR15_5232,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,68.41531304,68.7354111
+338,46252,BREEDING,41,F262977,CIAT-BR15_5232,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,69.05550916,
+339,46252,BREEDING,41,F262978,CIAT-BR15_58,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,62.02956987,62.63443991
+340,46252,BREEDING,41,F262978,CIAT-BR15_58,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,63.23930995,
+341,46252,BREEDING,41,F262979,CIAT-BR15_60,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,63.87942483,64.82735526
+342,46252,BREEDING,41,F262979,CIAT-BR15_60,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,65.7752857,
+343,46252,BREEDING,41,F262980,CIAT-BR15_6346,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,66.20895597,66.62125107
+344,46252,BREEDING,41,F262980,CIAT-BR15_6346,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,67.03354617,
+345,46252,BREEDING,41,F262981,CIAT-BR15_6401,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,63.19118737,64.31176395
+346,46252,BREEDING,41,F262981,CIAT-BR15_6401,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,65.43234052,
+347,46252,BREEDING,41,F262982,CIAT-BR15_6402,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,60.4268423,60.39896885
+348,46252,BREEDING,41,F262982,CIAT-BR15_6402,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,60.37109541,
+349,46252,BREEDING,41,F262983,CIAT-BR15_6434,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,65.49106504,65.14029786
+350,46252,BREEDING,41,F262983,CIAT-BR15_6434,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,64.78953068,
+351,46252,BREEDING,41,F262984,CIAT-BR15_6504,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,61.12499332,61.51620149
+352,46252,BREEDING,41,F262984,CIAT-BR15_6504,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,61.90740966,
+353,46252,BREEDING,41,F262985,CIAT-BR15_6508,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,61.24277981,62.17188889
+354,46252,BREEDING,41,F262985,CIAT-BR15_6508,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,63.10099796,
+355,46252,BREEDING,41,F262986,CIAT-BR15_6543,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,59.963471,58.99262516
+356,46252,BREEDING,41,F262986,CIAT-BR15_6543,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,58.02177932,
+357,46252,BREEDING,41,F262987,CIAT-BR15_6571,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,59.81302675,60.61996812
+358,46252,BREEDING,41,F262987,CIAT-BR15_6571,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,61.42690949,
+359,46252,BREEDING,41,F262988,CIAT-BR15_6590,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,58.52392227,58.30179631
+360,46252,BREEDING,41,F262988,CIAT-BR15_6590,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,58.07967034,
+361,46252,BREEDING,41,F262989,CIAT-BR15_6758,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,63.77246825,62.10135902
+362,46252,BREEDING,41,F262989,CIAT-BR15_6758,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,60.43024978,
+363,46252,BREEDING,41,F262990,CIAT-BR15_7006,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,62.50171151,62.05481383
+364,46252,BREEDING,41,F262990,CIAT-BR15_7006,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,61.60791615,
+365,46252,BREEDING,41,F262991,CIAT-BR15_7316,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,58.19912322,58.54111706
+366,46252,BREEDING,41,F262991,CIAT-BR15_7316,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,58.88311089,
+367,46252,BREEDING,41,F262992,CIAT-BR15_7318,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,59.94086085,59.88137223
+368,46252,BREEDING,41,F262992,CIAT-BR15_7318,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,59.82188361,
+369,46252,BREEDING,41,F262993,CIAT-BR15_757,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,57.64099471,58.41732854
+370,46252,BREEDING,41,F262993,CIAT-BR15_757,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,59.19366237,
+371,46252,BREEDING,41,F262994,CIAT-BR15_780,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,58.21062076,56.97239145
+372,46252,BREEDING,41,F262994,CIAT-BR15_780,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,55.73416213,
+373,46252,BREEDING,41,F262995,CIAT-BR15_800,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,57.04551535,57.29889377
+374,46252,BREEDING,41,F262995,CIAT-BR15_800,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,57.55227218,
+375,46252,BREEDING,41,F262996,CIAT-BR15_823,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,56.75806563,57.97067355
+376,46252,BREEDING,41,F262996,CIAT-BR15_823,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,59.18328147,
+377,46252,BREEDING,41,F262997,CIAT-BR15_8529,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,59.41934729,59.45721914
+378,46252,BREEDING,41,F262997,CIAT-BR15_8529,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,59.49509099,
+379,46252,BREEDING,41,F262998,CIAT-BR15_8650,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,57.87237618,57.27246564
+380,46252,BREEDING,41,F262998,CIAT-BR15_8650,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,56.67255511,
+381,46252,BREEDING,41,F262999,CIAT-BR15_8756,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,56.73133019,57.33081178
+382,46252,BREEDING,41,F262999,CIAT-BR15_8756,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,57.93029336,
+383,46252,BREEDING,41,F263000,CIAT-BR15_8881,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,60.36086736,61.8696491
+384,46252,BREEDING,41,F263000,CIAT-BR15_8881,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,63.37843083,
+385,46252,BREEDING,41,F263001,CIAT-BR15_8905,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,58.58100108,57.84228406
+386,46252,BREEDING,41,F263001,CIAT-BR15_8905,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,57.10356703,
+387,46252,BREEDING,41,F263002,CIAT-BR15_8976,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,55.79044768,56.15145905
+388,46252,BREEDING,41,F263002,CIAT-BR15_8976,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,56.51247041,
+389,46252,BREEDING,41,F263003,CIAT-BR15_9125,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,59.34871163,59.74142026
+390,46252,BREEDING,41,F263003,CIAT-BR15_9125,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,60.1341289,
+391,46252,BREEDING,41,F263004,CIAT-BR15_9141,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,62.71499335,63.13887408
+392,46252,BREEDING,41,F263004,CIAT-BR15_9141,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,63.5627548,
+393,46252,BREEDING,41,F263005,CIAT-BR15_9142,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,62.13588032,61.252868
+394,46252,BREEDING,41,F263005,CIAT-BR15_9142,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,60.36985568,
+395,46252,BREEDING,41,F263006,CIAT-BR15_972,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,65.47531099,64.36615423
+396,46252,BREEDING,41,F263006,CIAT-BR15_972,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,63.25699747,
+397,46252,BREEDING,41,F263007,CIAT-BR19_1033,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,64.07622594,64.23740531
+398,46252,BREEDING,41,F263007,CIAT-BR19_1033,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,64.39858469,
+399,46252,BREEDING,41,F263008,CIAT-BR19_113,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,61.23103903,60.76852631
+400,46252,BREEDING,41,F263008,CIAT-BR19_113,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,60.30601359,
+401,46252,BREEDING,41,F263009,CIAT-BR19_1444,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,62.43266523,62.19665765
+402,46252,BREEDING,41,F263009,CIAT-BR19_1444,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,61.96065007,
+403,46252,BREEDING,41,F263010,CIAT-BR19_1583,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,62.85169117,61.81496918
+404,46252,BREEDING,41,F263010,CIAT-BR19_1583,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,60.77824718,
+405,46252,BREEDING,41,F263011,CIAT-BR19_166,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,62.65730125,63.78683221
+406,46252,BREEDING,41,F263011,CIAT-BR19_166,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,64.91636317,
+407,46252,BREEDING,41,F263012,CIAT-BR19_1727,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,74.87257776,74.6869053
+408,46252,BREEDING,41,F263012,CIAT-BR19_1727,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,74.50123284,
+409,46252,BREEDING,41,F263013,CIAT-BR19_1783,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,59.65943902,58.90356845
+410,46252,BREEDING,41,F263013,CIAT-BR19_1783,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,58.14769789,
+411,46252,BREEDING,41,F263014,CIAT-BR19_1793,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,61.91224339,62.62054807
+412,46252,BREEDING,41,F263014,CIAT-BR19_1793,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,63.32885276,
+413,46252,BREEDING,41,F263015,CIAT-BR19_1806,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,61.95929547,62.40427683
+414,46252,BREEDING,41,F263015,CIAT-BR19_1806,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,62.8492582,
+415,46252,BREEDING,41,F263016,CIAT-BR19_2001,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,62.57737193,63.96842655
+416,46252,BREEDING,41,F263016,CIAT-BR19_2001,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,65.35948118,
+417,46252,BREEDING,41,F263017,CIAT-BR19_21,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,61.21660836,63.25185988
+418,46252,BREEDING,41,F263017,CIAT-BR19_21,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,65.28711139,
+419,46252,BREEDING,41,F263018,CIAT-BR19_2124,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,60.30780854,62.19157021
+420,46252,BREEDING,41,F263018,CIAT-BR19_2124,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,64.07533189,
+421,46252,BREEDING,41,F263019,CIAT-BR19_2287,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,62.50493494,62.78786956
+422,46252,BREEDING,41,F263019,CIAT-BR19_2287,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,63.07080418,
+423,46252,BREEDING,41,F263020,CIAT-BR19_231,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,A,63.52040629,63.86453818
+424,46252,BREEDING,41,F263020,CIAT-BR19_231,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"98,99,100",OT-025,B,64.20867008,
+425,46252,JUAN CARDOSO,41,F263376, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,A,44.48885039,45.55711965
+426,46252,JUAN CARDOSO,41,F263376, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,B,46.6253889,
+427,46252,JUAN CARDOSO,41,F263377,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,A,42.10547775,42.40251366
+428,46252,JUAN CARDOSO,41,F263377,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,B,42.69954957,
+429,46252,JUAN CARDOSO,41,F263378,CIAT 13953,Desmodium,velutinum,Desmodium velutinum,Fabaceas,Fabales,Arbustivas,"98,99,100",OT-037,A,51.01794789,50.22850518
+430,46252,JUAN CARDOSO,41,F263378,CIAT 13953,Desmodium,velutinum,Desmodium velutinum,Fabaceas,Fabales,Arbustivas,"98,99,100",OT-037,B,49.43906247,
+431,46252,JUAN CARDOSO,41,F263379,CIAT 9432,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,A,49.49351324,49.36245053
+432,46252,JUAN CARDOSO,41,F263379,CIAT 9432,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,B,49.23138782,
+433,46252,JUAN CARDOSO,41,F263380,CIAT 17768,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,A,46.40072516,47.23419263
+434,46252,JUAN CARDOSO,41,F263380,CIAT 17768,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,B,48.06766009,
+435,46252,JUAN CARDOSO,41,F263381,CIAT 22768,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,A,44.27050002,43.78127092
+436,46252,JUAN CARDOSO,41,F263381,CIAT 22768,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,B,43.29204182,
+437,46252,JUAN CARDOSO,41,F263382,CIAT 22598,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,A,45.1027273,45.21081426
+438,46252,JUAN CARDOSO,41,F263382,CIAT 22598,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,B,45.31890122,
+439,46252,JUAN CARDOSO,41,F263383,CIAT 18701,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"98,99,100",OT-037,A,60.1990947,60.64381869
+440,46252,JUAN CARDOSO,41,F263383,CIAT 18701,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"98,99,100",OT-037,B,61.08854268,
+441,46252,JUAN CARDOSO,41,F263384,CIAT 20891,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"98,99,100",OT-037,A,60.31018616,60.07708073
+442,46252,JUAN CARDOSO,41,F263384,CIAT 20891,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"98,99,100",OT-037,B,59.8439753,
+443,46252,JUAN CARDOSO,41,F263385,CIAT 15551,Centrosema ,molle,Centrosema molle,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,A,61.64028604,62.09392276
+444,46252,JUAN CARDOSO,41,F263385,CIAT 15551,Centrosema ,molle,Centrosema molle,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,B,62.54755949,
+445,46252,JUAN CARDOSO,41,F263386,CIAT 13953,Desmodium,velutinum,Desmodium velutinum,Fabaceas,Fabales,Arbustivas,"98,99,100",OT-037,A,55.54195602,55.15231082
+446,46252,JUAN CARDOSO,41,F263386,CIAT 13953,Desmodium,velutinum,Desmodium velutinum,Fabaceas,Fabales,Arbustivas,"98,99,100",OT-037,B,54.76266561,
+447,46252,JUAN CARDOSO,41,F263387,CIAT 15551,Centrosema ,molle,Centrosema molle,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,A,70.48554402,68.21356265
+448,46252,JUAN CARDOSO,41,F263387,CIAT 15551,Centrosema ,molle,Centrosema molle,Fabaceas,Fabales,Trepadoras,"98,99,100",OT-037,B,65.94158128,
+449,46252,JACOBO ARANGO/ ALEJANDRO MONTOYA,41,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,"98,99,100",OT-001(2025)  ,A,76.05,76.05
+450,46252,JACOBO ARANGO/ ALEJANDRO MONTOYA,41,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,"98,99,100",OT-001(2025)  ,B,76.05,
+451,46267,JACOBO ARANGO/ ALEJANDRO MONTOYA,42,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,101102103,OT-001(2025)  ,A,76.05,76.05
+452,46267,JACOBO ARANGO/ ALEJANDRO MONTOYA,42,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,101102103,OT-001(2025)  ,B,76.05,
+453,46267,BREEDING,42,F263021,CIAT-BR19_2329,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,62.8322356,62.52388277
+454,46267,BREEDING,42,F263021,CIAT-BR19_2329,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,62.21552995,
+455,46267,BREEDING,42,F263022,CIAT-BR19_244,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,63.06033841,61.76402056
+456,46267,BREEDING,42,F263022,CIAT-BR19_244,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,60.46770271,
+457,46267,BREEDING,42,F263023,CIAT-BR19_247,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,60.73576651,60.46810352
+458,46267,BREEDING,42,F263023,CIAT-BR19_247,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,60.20044053,
+459,46267,BREEDING,42,F263024,CIAT-BR19_2520,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,59.47211042,60.86365222
+460,46267,BREEDING,42,F263024,CIAT-BR19_2520,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,62.25519402,
+461,46267,BREEDING,42,F263025,CIAT-BR19_2632,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,58.58308314,58.85552306
+462,46267,BREEDING,42,F263025,CIAT-BR19_2632,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,59.12796298,
+463,46267,BREEDING,42,F263026,CIAT-BR19_2734,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,57.89536729,58.00565247
+464,46267,BREEDING,42,F263026,CIAT-BR19_2734,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,58.11593765,
+465,46267,BREEDING,42,F263027,CIAT-BR19_2789,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,61.55249041,60.3852138
+466,46267,BREEDING,42,F263027,CIAT-BR19_2789,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,59.21793719,
+467,46267,BREEDING,42,F263028,CIAT-BR19_2958,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,53.58881541,54.59082104
+468,46267,BREEDING,42,F263028,CIAT-BR19_2958,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,55.59282668,
+469,46267,BREEDING,42,F263029,CIAT-BR19_300,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,61.47970211,60.12733915
+470,46267,BREEDING,42,F263029,CIAT-BR19_300,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,58.77497619,
+471,46267,BREEDING,42,F263030,CIAT-BR19_3048,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,57.56249199,57.78502716
+472,46267,BREEDING,42,F263030,CIAT-BR19_3048,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,58.00756233,
+473,46267,BREEDING,42,F263031,CIAT-BR19_3107,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,60.29729317,60.34759126
+474,46267,BREEDING,42,F263031,CIAT-BR19_3107,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,60.39788936,
+475,46267,BREEDING,42,F263032,CIAT-BR19_325,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,58.54268857,59.2676655
+476,46267,BREEDING,42,F263032,CIAT-BR19_325,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,59.99264242,
+477,46267,BREEDING,42,F263033,CIAT-BR19_3294,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,59.38529415,59.05522549
+478,46267,BREEDING,42,F263033,CIAT-BR19_3294,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,58.72515683,
+479,46267,BREEDING,42,F263034,CIAT-BR19_3334,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,60.59403849,59.8330438
+480,46267,BREEDING,42,F263034,CIAT-BR19_3334,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,59.0720491,
+481,46267,BREEDING,42,F263035,CIAT-BR19_3677,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,56.88674966,57.37462445
+482,46267,BREEDING,42,F263035,CIAT-BR19_3677,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,57.86249923,
+483,46267,BREEDING,42,F263036,CIAT-BR19_3786,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,56.11976094,55.68593828
+484,46267,BREEDING,42,F263036,CIAT-BR19_3786,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,55.25211563,
+485,46267,BREEDING,42,F263037,CIAT-BR19_388,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,55.7275611,55.67793088
+486,46267,BREEDING,42,F263037,CIAT-BR19_388,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,55.62830065,
+487,46267,BREEDING,42,F263038,CIAT-BR19_39,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,59.43889323,60.17083098
+488,46267,BREEDING,42,F263038,CIAT-BR19_39,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,60.90276873,
+489,46267,BREEDING,42,F263039,CIAT-BR19_3918,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,59.97045184,59.50434702
+490,46267,BREEDING,42,F263039,CIAT-BR19_3918,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,59.0382422,
+491,46267,BREEDING,42,F263040,CIAT-BR19_3959,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,61.42103231,60.71444516
+492,46267,BREEDING,42,F263040,CIAT-BR19_3959,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,60.00785802,
+493,46267,BREEDING,42,F263041,CIAT-BR19_396,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,57.1452375,57.43460346
+494,46267,BREEDING,42,F263041,CIAT-BR19_396,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,57.72396943,
+495,46267,BREEDING,42,F263042,CIAT-BR19_405,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,61.76510316,62.46305119
+496,46267,BREEDING,42,F263042,CIAT-BR19_405,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,63.16099923,
+497,46267,BREEDING,42,F263043,CIAT-BR19_4253,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,57.79251568,58.20922404
+498,46267,BREEDING,42,F263043,CIAT-BR19_4253,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,58.62593241,
+499,46267,BREEDING,42,F263044,CIAT-BR19_4423,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,58.41907061,58.56367913
+500,46267,BREEDING,42,F263044,CIAT-BR19_4423,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,58.70828765,
+501,46267,BREEDING,42,F263045,CIAT-BR19_4439,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,58.04392372,58.10607555
+502,46267,BREEDING,42,F263045,CIAT-BR19_4439,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,58.16822739,
+503,46267,JACOBO ARANGO/ ALEJANDRO MONTOYA,42,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,"101,102,103",OT-001(2025)  ,A,76.05,76.05
+504,46267,JACOBO ARANGO/ ALEJANDRO MONTOYA,42,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,"101,102,103",OT-001(2025)  ,B,76.05,
+505,46267,BREEDING,42,F263046,CIAT-BR19_4440,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,59.45384085,58.60503906
+506,46267,BREEDING,42,F263046,CIAT-BR19_4440,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,57.75623727,
+507,46267,BREEDING,42,F263047,CIAT-BR19_4529,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,58.78919022,58.93015002
+508,46267,BREEDING,42,F263047,CIAT-BR19_4529,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,59.07110982,
+509,46267,BREEDING,42,F263048,CIAT-BR19_4581,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,59.19171214,60.32182331
+510,46267,BREEDING,42,F263048,CIAT-BR19_4581,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,61.45193448,
+511,46267,BREEDING,42,F263049,CIAT-BR19_4988,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,62.86271071,62.67597511
+512,46267,BREEDING,42,F263049,CIAT-BR19_4988,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,62.48923952,
+513,46267,BREEDING,42,F263050,CIAT-BR19_5055,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,60.49558709,60.9337833
+514,46267,BREEDING,42,F263050,CIAT-BR19_5055,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,61.37197951,
+515,46267,BREEDING,42,F263051,CIAT-BR19_5057,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,62.97223999,62.66452964
+516,46267,BREEDING,42,F263051,CIAT-BR19_5057,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,62.35681928,
+517,46267,BREEDING,42,F263052,CIAT-BR19_5178,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,64.24132454,64.21495277
+518,46267,BREEDING,42,F263052,CIAT-BR19_5178,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,64.18858099,
+519,46267,BREEDING,42,F263053,CIAT-BR19_5273,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,61.72738814,62.36712888
+520,46267,BREEDING,42,F263053,CIAT-BR19_5273,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,63.00686962,
+521,46267,BREEDING,42,F263054,CIAT-BR19_5348,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,67.28196539,68.59727318
+522,46267,BREEDING,42,F263054,CIAT-BR19_5348,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,69.91258097,
+523,46267,BREEDING,42,F263055,CIAT-BR19_5615,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,67.13965274,65.87305688
+524,46267,BREEDING,42,F263055,CIAT-BR19_5615,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,64.60646101,
+525,46267,BREEDING,42,F263056,CIAT-BR19_5751,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,67.32427792,65.88587456
+526,46267,BREEDING,42,F263056,CIAT-BR19_5751,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,64.4474712,
+527,46267,BREEDING,42,F263057,CIAT-BR19_5898,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,68.15133498,68.13996727
+528,46267,BREEDING,42,F263057,CIAT-BR19_5898,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,68.12859955,
+529,46267,BREEDING,42,F263058,CIAT-BR19_6068,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,65.54107086,65.45053248
+530,46267,BREEDING,42,F263058,CIAT-BR19_6068,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,65.3599941,
+531,46267,BREEDING,42,F263059,CIAT-BR19_6160,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,63.79217414,64.7156921
+532,46267,BREEDING,42,F263059,CIAT-BR19_6160,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,65.63921006,
+531,46267,BREEDING,42,F263060,CIAT-BR19_6352,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,68.19113796,69.33385013
+532,46267,BREEDING,42,F263060,CIAT-BR19_6352,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,70.4765623,
+533,46267,BREEDING,42,F263061,CIAT-BR19_6397,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,67.96903738,66.92917935
+534,46267,BREEDING,42,F263061,CIAT-BR19_6397,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,65.88932132,
+535,46267,BREEDING,42,F263062,CIAT-BR19_6400,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,68.13039182,68.0323189
+536,46267,BREEDING,42,F263062,CIAT-BR19_6400,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,67.93424597,
+537,46267,BREEDING,42,F263063,CIAT-BR19_6868,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,70.98824588,71.04282815
+538,46267,BREEDING,42,F263063,CIAT-BR19_6868,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,71.09741043,
+539,46267,BREEDING,42,F263064,CIAT-BR19_6984,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,67.34335298,67.80226359
+540,46267,BREEDING,42,F263064,CIAT-BR19_6984,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,68.26117421,
+541,46267,BREEDING,42,F263065,CIAT-BR19_811,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,65.86928606,65.90853192
+542,46267,BREEDING,42,F263065,CIAT-BR19_811,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,65.94777777,
+543,46267,BREEDING,42,F263066,CIAT-BR19_818,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,64.50985387,64.30295037
+544,46267,BREEDING,42,F263066,CIAT-BR19_818,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,64.09604686,
+545,46267,BREEDING,42,F263067,CIAT-BR19_95,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,66.71623427,65.94060645
+546,46267,BREEDING,42,F263067,CIAT-BR19_95,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,65.16497863,
+547,46267,BREEDING,42,F263068,CIAT-CIAT_16320,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,73.36662482,73.0608461
+548,46267,BREEDING,42,F263068,CIAT-CIAT_16320,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,72.75506738,
+549,46267,BREEDING,42,F263069,CIAT-CIAT_6387,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,72.46243187,73.08520398
+550,46267,BREEDING,42,F263069,CIAT-CIAT_6387,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,73.7079761,
+551,46267,BREEDING,42,F263070,CIAT-CIAT_6780,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,71.47275727,71.72059884
+552,46267,BREEDING,42,F263070,CIAT-CIAT_6780,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,71.9684404,
+553,46267,BREEDING,42,F263071,CIAT-GP_3207,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,65.19979628,65.61788566
+554,46267,BREEDING,42,F263071,CIAT-GP_3207,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,66.03597504,
+555,46267,BREEDING,42,F263072,CIAT-Mavuno,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,A,58.83876004,58.76729419
+556,46267,BREEDING,42,F263072,CIAT-Mavuno,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-025,B,58.69582835,
+557,46267,ISABEL MOLINA,42,F264574,Cayman Br02_1752_ Exp VII_ Gramíneas,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-042,A,61.49964407,62.45784185
+558,46267,ISABEL MOLINA,42,F264574,Cayman Br02_1752_ Exp VII_ Gramíneas,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-042,B,63.41603962,
+559,46267,ISABEL MOLINA,42,F264575,Estrella_ Exp VII_ Gramíneas,Cynodon,nlenfuensis,Cynodon nlemfuensis, Poaceae,Poales,0,"101,102,103",OT-042,A,77.84529004,77.31896883
+560,46267,ISABEL MOLINA,42,F264575,Estrella_ Exp VII_ Gramíneas,Cynodon,nlenfuensis,Cynodon nlemfuensis, Poaceae,Poales,0,"101,102,103",OT-042,B,76.79264763,
+561,46267,ISABEL MOLINA,42,F264576,Mulato Br02_1752 _Exp VII_ Gramíneas,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-042,A,70.17278317,70.59323002
+562,46267,ISABEL MOLINA,42,F264576,Mulato Br02_1752 _Exp VII_ Gramíneas,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,"101,102,103",OT-042,B,71.01367687,
+563,46267,ISABEL MOLINA,42,F264577,Heno Estrella,Cynodon,nlenfuensis,Cynodon nlemfuensis, Poaceae,Poales,0,"101,102,103",OT-042,A,74.96741139,75.85622016
+564,46267,ISABEL MOLINA,42,F264577,Heno Estrella,Cynodon,nlenfuensis,Cynodon nlemfuensis, Poaceae,Poales,0,"101,102,103",OT-042,B,76.74502893,
+565,46267,ISABEL MOLINA,42,F264578,Heno Estrella,Cynodon,nlenfuensis,Cynodon nlemfuensis, Poaceae,Poales,0,"101,102,103",OT-042,A,76.35847915,76.60777058
+566,46267,ISABEL MOLINA,42,F264578,Heno Estrella,Cynodon,nlenfuensis,Cynodon nlemfuensis, Poaceae,Poales,0,"101,102,103",OT-042,B,76.85706202,
+567,46267,JUAN CARDOSO,42,F264724, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,43.80120361,43.2367741
+568,46267,JUAN CARDOSO,42,F264724, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,42.6723446,
+569,46267,JUAN CARDOSO,42,F264725,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,42.27976259,42.30938194
+570,46267,JUAN CARDOSO,42,F264725,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,42.33900128,
+571,46267,JUAN CARDOSO,42,F264726,CIAT 13953,Desmodium,velutinum,Desmodium velutinum,Fabaceas,Fabales,Arbustivas,"101,102,103",OT-046,A,48.95758767,48.02685578
+572,46267,JUAN CARDOSO,42,F264726,CIAT 13953,Desmodium,velutinum,Desmodium velutinum,Fabaceas,Fabales,Arbustivas,"101,102,103",OT-046,B,47.0961239,
+573,46267,JUAN CARDOSO,42,F264727,CIAT 9432,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,46.85431682,47.7203947
+574,46267,JUAN CARDOSO,42,F264727,CIAT 9432,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,48.58647257,
+575,46267,JUAN CARDOSO,42,F264728,CIAT 17768,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,47.9020454,48.46721939
+576,46267,JUAN CARDOSO,42,F264728,CIAT 17768,Clitoria,tertanea,Clitoria tertanea,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,49.03239339,
+577,46267,JUAN CARDOSO,42,F264729,CIAT 22768,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,47.44377087,47.32429992
+578,46267,JUAN CARDOSO,42,F264729,CIAT 22768,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,47.20482896,
+579,46267,JUAN CARDOSO,42,F264730,CIAT 22598,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,46.29932737,46.05021716
+580,46267,JUAN CARDOSO,42,F264730,CIAT 22598,Lablab,purpureus,Lablab purpureus,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,45.80110695,
+581,46267,JUAN CARDOSO,42,F264731,CIAT 18701,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"101,102,103",OT-046,A,62.12067935,62.28525324
+582,46267,JUAN CARDOSO,42,F264731,CIAT 18701,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"101,102,103",OT-046,B,62.44982712,
+583,46267,JUAN CARDOSO,42,F264732,CIAT 20891,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"101,102,103",OT-046,A,59.35836011,59.92392007
+584,46267,JUAN CARDOSO,42,F264732,CIAT 20891,Cajanus,cajan,Cajanus cajan,Fabaceas,Fabales,Arbustivas,"101,102,103",OT-046,B,60.48948004,
+585,46267,JUAN CARDOSO,42,F264733,CIAT 15551,Centrosema ,molle,Centrosema molle,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,61.9386993,62.4742731
+586,46267,JUAN CARDOSO,42,F264733,CIAT 15551,Centrosema ,molle,Centrosema molle,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,63.00984691,
+587,46267,JUAN CARDOSO,42,F264734, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,46.88910811,47.29499996
+588,46267,JUAN CARDOSO,42,F264734, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,47.70089182,
+589,46267,JUAN CARDOSO,42,F264735,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,46.71411058,47.42330316
+590,46267,JUAN CARDOSO,42,F264735,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,48.13249574,
+591,46267,JUAN CARDOSO,42,F264736, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,44.85341076,44.5989236
+592,46267,JUAN CARDOSO,42,F264736, CIAT 17009,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,44.34443643,
+593,46267,JUAN CARDOSO,42,F264737,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,A,49.77855684,50.0708325
+594,46267,JUAN CARDOSO,42,F264737,CIAT 17462,Canavalia,brasiliensis,Canavalia brasiliensis,Fabaceas,Fabales,Trepadoras,"101,102,103",OT-046,B,50.36310817,
+595,46267,JACOBO ARANGO/ ALEJANDRO MONTOYA,42,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,"101,102,103",OT-001(2025)  ,A,76.05,76.05
+596,46267,JACOBO ARANGO/ ALEJANDRO MONTOYA,42,F250008,Sample 8,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,0,"101,102,103",OT-001(2025)  ,B,76.05,
