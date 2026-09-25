@@ -1,0 +1,9 @@
+﻿10_sample_serial_no,10_date,10_requisitioner,10_set_ciat,10_ciat_lab_id,10_gene_bank_breeding_program_id,10_genus,10_species,10_tax_name,10_family,10_order,10_functional_group,10_remarks_1,10_id_lab,10_remarks_2
+Sample serial No,"Date (M,D.Y)",Requisitioner,Set CIAT,CIAT Lab-ID,Gene bank /Breeding program ID,Genus,Species,Tax Name,Family,Order,Functional Group,Remarks,ID LAB,Remarks
+46132,,BREEDING,,F261074,CIAT-BR06_423_Temp_B,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,,OT-019(2026),"80, 81, 82"
+46132,,BREEDING,,F261075,CIAT_MulatoII_Temp_C,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,,OT-019(2026),"80, 81, 82"
+46132,,BREEDING,,F261076,CIAT-BR06_423_Opt_F,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,,OT-019(2026),"80, 81, 82"
+46132,,BREEDING,,F261077,CIAT_MulatoII_Opt_D,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,,OT-019(2026),"80, 81, 82"
+46132,,BREEDING,,F261078,CIAT-BR06_423_Exc_G,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,,OT-019(2026),"80, 81, 82"
+46132,,BREEDING,,F261079,CIAT_MulatoII_Exc_E,Urochloa,interespecifico,Urochloa interespecifico,Poaceae,Poales,grasses,,OT-019(2026),"80, 81, 82"
+46132,,JACOBO ARANGO/ ALEJANDRO MONTOYA,,F250008,Sample 8,Cynodon,nlemfuensis ,Cynodon nlemfuensis ,Poaceae,Poales,,,OT-001(2025),"80, 81, 82"
