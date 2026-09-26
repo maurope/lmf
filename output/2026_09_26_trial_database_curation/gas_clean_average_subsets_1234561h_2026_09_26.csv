@@ -37,7 +37,7 @@ F24-3437,CIAT-7339,1,439,Genetic_bank,Indigofera lespedezioides,Herbaceous_legum
 F24-3438,CIAT-7469,1,442,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,42.42,79.04,171.45,65.71,3.85,16.63,18.01,30.78,47.75,135.76,9
 F24-3439,CIAT-7643,1,445,Genetic_bank,Desmanthus pernambucanus,Shrub_Trees,29.59,54.22,115.47,47.16,4.08,16.55,18.19,21.0,44.69,158.79,6
 F24-3440,CIAT-7703,1,448,Genetic_bank,Aeschynomene indica,Herbaceous_legumes,37.66,66.23,144.0,57.36,3.98,16.48,17.45,25.07,44.47,116.69,8
-F24-3441,CIAT-7714,1,631,Genetic_bank,Alysicarpus glumaceus,Herbaceous_legumes,39.01,71.0,152.54,65.53,4.32,17.38,18.66,28.47,44.37,61.63,12
+F24-3441,CIAT-7714,1,91,Genetic_bank,Alysicarpus glumaceus,Herbaceous_legumes,36.05,65.7,141.15,64.72,4.61,15.09,16.6,23.58,36.76,99.24,30
 F24-3442,CIAT-7757,1,634,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,42.92,82.51,179.01,64.83,3.63,17.82,19.58,35.05,54.11,160.88,12
 F24-3443,CIAT-7759,1,637,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,42.26,92.17,196.92,66.8,3.4,17.9,19.08,37.58,56.38,138.77,6
 F24-3444,CIAT-7790,1,640,Genetic_bank,Crotalaria pallida,Herbaceous_legumes,35.33,76.53,166.06,64.54,3.91,17.65,21.04,35.06,54.82,113.86,6
@@ -49,7 +49,7 @@ F24-3449,CIAT-8205,1,655,Genetic_bank,Indigofera suffruticosa,Shrub_Trees,30.68,
 F24-3450,CIAT-8402,1,658,Genetic_bank,Indigofera suffruticosa,Shrub_Trees,34.0,59.08,128.37,62.49,4.87,18.76,20.59,26.43,42.3,267.13,5
 F24-3451,CIAT-8408,1,661,Genetic_bank,Chamaecrista nictitans,Herbaceous_legumes,32.82,63.48,134.96,47.3,3.52,17.22,20.47,27.69,58.52,501.47,6
 F24-3452,CIAT-8409,1,664,Genetic_bank,Chamaecrista nictitans,Herbaceous_legumes,35.09,60.09,130.68,49.94,3.82,16.98,20.56,26.92,54.13,276.79,5
-F24-3453,CIAT-8719,1,667,Genetic_bank,Canavalia sp. ,Herbaceous_legumes,36.43,69.75,149.06,65.39,4.39,16.52,19.17,28.62,44.01,296.13,12
+F24-3453,CIAT-8719,1,127,Genetic_bank,Canavalia sp. ,Herbaceous_legumes,35.72,65.97,141.01,69.74,4.97,14.29,16.47,23.39,34.19,239.49,30
 F24-3454,CIAT-8797,1,670,Genetic_bank,Desmanthus virgatus,Shrub_Trees,31.49,61.64,132.58,48.5,3.67,15.47,17.84,23.64,48.75,291.63,6
 F24-3455,CIAT-8819,1,673,Genetic_bank,Coursetia caribaea,Shrub_Trees,33.47,69.52,151.45,63.34,4.19,18.58,20.43,30.96,48.94,226.66,5
 F24-3456,CIAT-9170,1,676,Genetic_bank,Indigofera lespedezioides,Herbaceous_legumes,28.1,44.6,95.77,42.54,4.45,15.12,16.69,15.99,38.2,468.11,6

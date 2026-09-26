@@ -629,10 +629,10 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 2,184,Breding ,F25-1726,CIAT-BR-19-5217,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.24,14.1,85.9,13.38,28.98,60.65
 2,185,Breding ,F25-1727,CIAT-CIAT-26124,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,95.99,12.86,87.14,14.44,31.93,64.65
 2,186,Breding ,F25-1727,CIAT-CIAT-26124,Poales,Poaceae,Brachiaria,interespecifico,Brachiaria interespecifico,Grass,16,96.07,12.79,87.21,14.75,31.28,65.1
-2,187,LMF,F25-2076,ILRI-15551,"	Fabales",Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,96.25,8.02,91.98,26.28,33.64,61.29
-2,188,LMF,F25-2076,ILRI-15551,"	Fabales",Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,96.42,7.97,92.03,26.35,32.61,59.84
-2,189,LMF-invivo,F25-2122,ILRI-15551,"	Fabales",Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,91.1,7.52,92.48,30.08,23.33,52.63
-2,190,LMF-invivo,F25-2122,ILRI-15551,"	Fabales",Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,91.16,7.55,92.45,30.19,24.63,51.09
+2,187,LMF,F25-2076,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,96.25,8.02,91.98,26.28,33.64,61.29
+2,188,LMF,F25-2076,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,96.42,7.97,92.03,26.35,32.61,59.84
+2,189,LMF-invivo,F25-2122,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,91.1,7.52,92.48,30.08,23.33,52.63
+2,190,LMF-invivo,F25-2122,ILRI-15551,	Fabales,Fabaceae,Leucaena,diversifolia,Leucaena diversifolia,Shrub_Trees,16,91.16,7.55,92.45,30.19,24.63,51.09
 2,191,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,14,91.34432784,9.990152095,90.0098479,0,0,0
 2,191,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,15,91.34432784,9.990152095,90.0098479,0,0,0
 2,191,LMF,F25-0017,Hohenheimer-Heustandard,Forage,Forage,Hohenheimer, Heustandard,Hohenheimer Heustandard,Forage,16,91.34432784,9.990152095,90.0098479,0,0,0
