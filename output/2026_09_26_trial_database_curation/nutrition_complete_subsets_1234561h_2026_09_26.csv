@@ -1908,9 +1908,7 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,9.0,Genetic_bank,F26-0047,CIAT-6042,Poales,Poaceae,Chloris,gayana,Chloris gayana,Grass,32,92.81215635,11.80584641,88.19415359,13.58801274,34.79386617,73.74849115
 5,10.0,Genetic_bank,F26-0047,CIAT-6042,Poales,Poaceae,Chloris,gayana,Chloris gayana,Grass,32,92.80287885,11.71850085,88.28149915,13.58801274,35.1788724,73.79985363
 5,11.0,Genetic_bank,F26-0048,CIAT-6080,Poales,Poaceae,Eragrostis,curvula,Eragrostis curvula,Grass,32,96.22188906,6.039537176,93.96046282,13.00366648,37.86034992,77.43141672
-5,11.0,Genetic_bank,F26-0048,CIAT-6080,Poales,Poaceae,Eragrostis,curvula,Eragrostis curvula,Grass,37,96.22188906,6.039537176,93.96046282,13.00366648,37.86034992,77.43141672
 5,12.0,Genetic_bank,F26-0048,CIAT-6080,Poales,Poaceae,Eragrostis,curvula,Eragrostis curvula,Grass,32,96.4117941,6.828205261,93.17179474,13.00366648,37.22018541,79.29995936
-5,12.0,Genetic_bank,F26-0048,CIAT-6080,Poales,Poaceae,Eragrostis,curvula,Eragrostis curvula,Grass,37,96.4117941,6.828205261,93.17179474,13.00366648,37.22018541,79.29995936
 5,13.0,Genetic_bank,F26-0049,CIAT-6159,Poales,Poaceae,Andropogon,gayanus,Andropogon gayanus,Grass,32,94.22346592,8.004288923,91.99571108,14.36029587,36.50494143,72.03528516
 5,14.0,Genetic_bank,F26-0049,CIAT-6159,Poales,Poaceae,Andropogon,gayanus,Andropogon gayanus,Grass,32,94.31227509,7.4332825,92.5667175,14.36029587,36.06141753,72.19687246
 5,15.0,Genetic_bank,F26-0050,CIAT-6235,Poales,Poaceae,Andropogon,gayanus,Andropogon gayanus,Grass,32,96.08235059,7.885203982,92.11479602,12.95515063,35.44042449,70.89610286
@@ -1932,9 +1930,7 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,31.0,Genetic_bank,F26-0058,CIAT-16076,Poales,Poaceae,Pennisetum,purpureum,Pennisetum purpureum,Grass,32,92.05238428,20.70773573,79.29226427,19.6031136,29.37191192,57.42656396
 5,32.0,Genetic_bank,F26-0058,CIAT-16076,Poales,Poaceae,Pennisetum,purpureum,Pennisetum purpureum,Grass,32,92.07475515,20.37586074,79.62413926,19.6031136,29.16113039,56.16445353
 5,33.0,Genetic_bank,F26-0059,CIAT-16081,Poales,Poaceae,Paspalum,secans,Paspalum secans,Grass,32,93.99060094,10.85932269,89.14067731,11.21059818,44.21973411,77.31129468
-5,33.0,Genetic_bank,F26-0059,CIAT-16081,Poales,Poaceae,Paspalum,secans,Paspalum secans,Grass,37,93.99060094,10.85932269,89.14067731,11.21059818,44.21973411,77.31129468
 5,34.0,Genetic_bank,F26-0059,CIAT-16081,Poales,Poaceae,Paspalum,secans,Paspalum secans,Grass,32,94.03179046,10.08088109,89.91911891,11.21059818,43.38940223,78.05040133
-5,34.0,Genetic_bank,F26-0059,CIAT-16081,Poales,Poaceae,Paspalum,secans,Paspalum secans,Grass,37,94.03179046,10.08088109,89.91911891,11.21059818,43.38940223,78.05040133
 5,35.0,Genetic_bank,F26-0060,CIAT-16082,Poales,Poaceae,Paspalum,guenoarum,Paspalum guenoarum,Grass,32,93.48390965,9.863956899,90.1360431,9.403140686,42.327918,75.23225936
 5,36.0,Genetic_bank,F26-0060,CIAT-16082,Poales,Poaceae,Paspalum,guenoarum,Paspalum guenoarum,Grass,32,93.752499,10.05812232,89.94187768,9.403140686,41.52075636,74.68470367
 5,37.0,Genetic_bank,F26-0061,CIAT-16215,Poales,Poaceae,Urochloa,lachnantha,Brachiaria lachnantha,Grass,32,94.20057994,11.66850602,88.33149398,15.87678158,35.4506918,69.09899814
@@ -1942,27 +1938,17 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,39.0,Genetic_bank,F26-0062,CIAT-16234,Poales,Poaceae,Echinochloa,pyramidalis,Echinochloa pyramidalis,Grass,32,93.3240056,14.3188129,85.6811871,13.5547749,26.48386384,54.81171286
 5,40.0,Genetic_bank,F26-0062,CIAT-16234,Poales,Poaceae,Echinochloa,pyramidalis,Echinochloa pyramidalis,Grass,32,93.31133773,17.58157738,82.41842262,13.593118,26.36518406,54.73703148
 5,41.0,Genetic_bank,F26-0063,CIAT-16254,Poales,Poaceae,Hyparrhenia,hirta,Hyparrhenia hirta,Grass,32,,,,,,
-5,41.0,Genetic_bank,F26-0063,CIAT-16254,Poales,Poaceae,Hyparrhenia,hirta,Hyparrhenia hirta,Grass,37,,,,,,
 5,42.0,Genetic_bank,F26-0063,CIAT-16254,Poales,Poaceae,Hyparrhenia,hirta,Hyparrhenia hirta,Grass,32,,,,,,
-5,42.0,Genetic_bank,F26-0063,CIAT-16254,Poales,Poaceae,Hyparrhenia,hirta,Hyparrhenia hirta,Grass,37,,,,,,
 5,43.0,Genetic_bank,F26-0064,CIAT-16287,Poales,Poaceae,Echinochloa,haploclada,Echinochloa haploclada,Grass,32,92.07475515,15.08737653,84.91262347,15.26773355,36.31183785,66.07911705
 5,44.0,Genetic_bank,F26-0064,CIAT-16287,Poales,Poaceae,Echinochloa,haploclada,Echinochloa haploclada,Grass,32,92.07475515,17.48616086,82.51383914,15.26773355,36.67246999,66.04561393
 5,45.0,Genetic_bank,F26-0065,CIAT-16309,Poales,Poaceae,Urochloa,brizantha,Brachiaria brizantha,Grass,32,94.71211515,19.57353499,80.42646501,13.64938134,31.46046659,63.49300772
 5,46.0,Genetic_bank,F26-0065,CIAT-16309,Poales,Poaceae,Urochloa,brizantha,Brachiaria brizantha,Grass,32,94.65160452,18.31902815,81.68097185,13.64938134,32.31832163,64.57271673
 5,47.0,Genetic_bank,F26-0066,CIAT-16379,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,32,,,,,,
-5,47.0,Genetic_bank,F26-0066,CIAT-16379,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,37,,,,,,
 5,48.0,Genetic_bank,F26-0066,CIAT-16379,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,32,,,,,,
-5,48.0,Genetic_bank,F26-0066,CIAT-16379,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,37,,,,,,
 5,49.0,Genetic_bank,F26-0067,CIAT-16537,Poales,Poaceae,Sporobolus,sp.,Sporobolus sp.,Grass,32,96.16230262,15.22172424,84.77827576,14.1634369,33.56950963,68.45811919
-5,49.0,Genetic_bank,F26-0067,CIAT-16537,Poales,Poaceae,Sporobolus,sp.,Sporobolus sp.,Grass,35,96.16230262,15.22172424,84.77827576,14.1634369,33.56950963,68.45811919
 5,50.0,Genetic_bank,F26-0067,CIAT-16537,Poales,Poaceae,Sporobolus,sp.,Sporobolus sp.,Grass,32,97.26082175,13.6550769,86.3449231,14.1634369,33.23575816,68.51408157
-5,50.0,Genetic_bank,F26-0067,CIAT-16537,Poales,Poaceae,Sporobolus,sp.,Sporobolus sp.,Grass,35,97.26082175,13.6550769,86.3449231,14.1634369,33.23575816,68.51408157
 5,51.0,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,32,,,,,,
-5,51.0,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,35,,,,,,
-5,51.0,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,37,,,,,,
 5,52.0,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,32,,,,,,
-5,52.0,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,35,,,,,,
-5,52.0,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,37,,,,,,
 5,53.0,Genetic_bank,F26-0069,CIAT-16569,Poales,Poaceae,Panicum,infestum,Panicum infestum,Grass,32,94.32283858,12.77785823,87.22214177,12.55941282,34.7791535,70.49140595
 5,54.0,Genetic_bank,F26-0069,CIAT-16569,Poales,Poaceae,Panicum,infestum,Panicum infestum,Grass,32,94.50329802,10.72301306,89.27698694,12.55941282,35.09813359,71.30210463
 5,55.0,Genetic_bank,F26-0070,CIAT-16629,Poales,Poaceae,Echinochloa,haploclada,Echinochloa haploclada,Grass,32,93.59064094,12.10818829,87.89181171,12.907679,36.03452951,66.88613842
@@ -1978,9 +1964,7 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,65.0,Genetic_bank,F26-0075,CIAT-16683,Poales,Poaceae,Cynodon,sp.,Cynodon sp.,Grass,32,93.04139172,11.34964311,88.65035689,13.05790121,34.00054761,60.24721534
 5,66.0,Genetic_bank,F26-0075,CIAT-16683,Poales,Poaceae,Cynodon,sp.,Cynodon sp.,Grass,32,93.18272691,11.46546407,88.53453593,13.05790121,33.81040625,60.21437846
 5,67.0,Genetic_bank,F26-0076,CIAT-16690,Poales,Poaceae,Cynodon,sp.,Cynodon sp.,Grass,32,,,,,,
-5,67.0,Genetic_bank,F26-0076,CIAT-16690,Poales,Poaceae,Cynodon,sp.,Cynodon sp.,Grass,37,,,,,,
 5,68.0,Genetic_bank,F26-0076,CIAT-16690,Poales,Poaceae,Cynodon,sp.,Cynodon sp.,Grass,32,,,,,,
-5,68.0,Genetic_bank,F26-0076,CIAT-16690,Poales,Poaceae,Cynodon,sp.,Cynodon sp.,Grass,37,,,,,,
 5,69.0,Genetic_bank,F26-0077,CIAT-16727,Poales,Poaceae,Bothriochloa,sp.,Bothriochloa sp.,Grass,32,94.1734959,13.69439592,86.30560408,14.47048618,39.29232569,67.04702297
 5,70.0,Genetic_bank,F26-0077,CIAT-16727,Poales,Poaceae,Bothriochloa,sp.,Bothriochloa sp.,Grass,32,94.11176647,13.5073611,86.4926389,14.47048618,39.68121625,66.92695099
 5,71.0,Genetic_bank,F26-0078,CIAT-16896,Poales,Poaceae,Urochloa,bovonei,Brachiaria bovonei,Grass,32,93.70125975,8.460968502,91.5390315,11.68093821,39.01122441,65.65295435
@@ -1992,9 +1976,7 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,77.0,Breeding,F26-0565,BR-06-423-Cayman-Opt,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,32,94.36112777,12.91829273,87.08170727,10.6893086,29.6168565,57.52807133
 5,78.0,Breeding,F26-0565,BR-06-423-Cayman-Opt,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,32,94.48055194,12.93017425,87.06982575,10.54472791,29.00734565,56.34215235
 5,79.0,Breeding,F26-0566,CIAT-679-Tully-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,32,,,,,,
-5,79.0,Breeding,F26-0566,CIAT-679-Tully-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,,,,,,
 5,80.0,Breeding,F26-0566,CIAT-679-Tully-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,32,,,,,,
-5,80.0,Breeding,F26-0566,CIAT-679-Tully-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,,,,,,
 5,81.0,Breeding,F26-0567,CIAT-679-Tully-Opt,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,32,92.80287885,10.77303516,89.22696484,10.76561032,35.52539376,70.60795424
 5,82.0,Breeding,F26-0567,CIAT-679-Tully-Opt,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,32,93.1427429,10.1494463,89.8505537,10.78190954,35.99548243,70.87734848
 5,83.0,Breeding,F26-0568,CIAT-6133-Llanero-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,32,95.16,10.54284412,89.45715588,6.960274639,36.22904509,70.55608908
@@ -2004,15 +1986,7 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,87.0,Genetic_bank,F26-0657,CIAT-17462,Fabales,Fabaceae,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,32,80.79192081,11.69547172,88.30452828,25.26007542,26.48436676,43.37380949
 5,88.0,Genetic_bank,F26-0657,CIAT-17462,Fabales,Fabaceae,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,32,80.62193781,11.57157901,88.42842099,24.93391808,26.40526063,42.54871217
 5,89.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,32,93.64063594,11.32941805,88.67058195,13.1,37.8,76.05
-5,89.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,34,93.64063594,11.32941805,88.67058195,13.1,37.8,76.05
-5,89.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,35,93.64063594,11.32941805,88.67058195,13.1,37.8,76.05
-5,89.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,36,93.64063594,11.32941805,88.67058195,13.1,37.8,76.05
-5,89.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,37,93.64063594,11.32941805,88.67058195,13.1,37.8,76.05
 5,90.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,32,93.82123575,11.49829497,88.50170503,13.1,37.7,76.05
-5,90.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,34,93.82123575,11.49829497,88.50170503,13.1,37.7,76.05
-5,90.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,35,93.82123575,11.49829497,88.50170503,13.1,37.7,76.05
-5,90.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,36,93.82123575,11.49829497,88.50170503,13.1,37.7,76.05
-5,90.0,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,37,93.82123575,11.49829497,88.50170503,13.1,37.7,76.05
 5,91.0,Genetic_bank,F26-0080,CIAT-16927,Poales,Poaceae,Urochloa,nigropedata,Brachiaria nigropedata,Grass,34,93.24337831,12.70679046,87.29320954,20.27094803,33.3986131,62.89000295
 5,92.0,Genetic_bank,F26-0080,CIAT-16927,Poales,Poaceae,Urochloa,nigropedata,Brachiaria nigropedata,Grass,34,94.12176347,11.31141135,88.68858865,20.27094803,32.9725474,64.36252373
 5,93.0,Genetic_bank,F26-0081,CIAT-16980,Poales,Poaceae,Andropogon,gayanus,Andropogon gayanus,Grass,34,94.05,9.294145452,90.70585455,15.83292013,36.78851722,68.67450642
@@ -2066,23 +2040,17 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,141.0,Genetic_bank,F26-0105,CIAT-36062,Poales,Poaceae,Urochloa,xruziziensisxdecumbe,Brachiaria xruziziensisxdecumbe,Grass,34,93.11,14.69977379,85.30022621,13.10190657,31.2973783,62.08186936
 5,142.0,Genetic_bank,F26-0105,CIAT-36062,Poales,Poaceae,Urochloa,xruziziensisxdecumbe,Brachiaria xruziziensisxdecumbe,Grass,34,93.15136973,14.57874444,85.42125556,13.10190657,31.45194293,62.88146905
 5,143.0,Genetic_bank,F26-0106,CIAT-36088,Poales,Poaceae,Paspalum,dilatatum,Paspalum dilatatum,Grass,34,93.762495,12.2302234,87.7697766,18.77653815,35.80157471,63.65247875
-5,143.0,Genetic_bank,F26-0106,CIAT-36088,Poales,Poaceae,Paspalum,dilatatum,Paspalum dilatatum,Grass,37,93.762495,12.2302234,87.7697766,18.77653815,35.80157471,63.65247875
 5,144.0,Genetic_bank,F26-0106,CIAT-36088,Poales,Poaceae,Paspalum,dilatatum,Paspalum dilatatum,Grass,34,93.73062694,12.40454796,87.59545204,18.77653815,36.46300887,64.21910031
-5,144.0,Genetic_bank,F26-0106,CIAT-36088,Poales,Poaceae,Paspalum,dilatatum,Paspalum dilatatum,Grass,37,93.73062694,12.40454796,87.59545204,18.77653815,36.46300887,64.21910031
 5,145.0,Genetic_bank,F26-0107,CIAT-36089,Poales,Poaceae,Paspalum,dilatatum,Paspalum dilatatum,Grass,34,95.06246877,13.83420654,86.16579346,16.38792145,40.0742238,67.88680056
 5,146.0,Genetic_bank,F26-0107,CIAT-36089,Poales,Poaceae,Paspalum,dilatatum,Paspalum dilatatum,Grass,34,95.24,13.91469074,86.08530926,16.38792145,38.05172559,65.4140975
 5,147.0,Genetic_bank,F26-0108,CIAT-36090,Poales,Poaceae,Cenchrus,ciliaris,Cenchrus ciliaris,Grass,34,86.4,15.88489412,84.11510588,17.77740265,35.87633493,61.82553887
 5,148.0,Genetic_bank,F26-0108,CIAT-36090,Poales,Poaceae,Cenchrus,ciliaris,Cenchrus ciliaris,Grass,34,86.34273145,15.60390348,84.39609652,17.77740265,37.50216587,62.48062374
 5,149.0,Breeding,F25-2184,CIAT-BH-22-0303,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,34,,,,,,
-5,149.0,Breeding,F25-2184,CIAT-BH-22-0303,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,37,,,,,,
 5,150.0,Breeding,F25-2184,CIAT-BH-22-0303,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,34,,,,,,
-5,150.0,Breeding,F25-2184,CIAT-BH-22-0303,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,37,,,,,,
 5,151.0,Breeding,F25-2191,CIAT-BH-22-0517,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,34,96.84,10.23,89.77,8.17,34.35,69.43
 5,152.0,Breeding,F25-2191,CIAT-BH-22-0517,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,34,96.89,10.3,89.7,8.25,34.26,69.48
 5,153.0,Breeding,F25-2192,CIAT-BH-22-0519,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,34,,,,,,
-5,153.0,Breeding,F25-2192,CIAT-BH-22-0519,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,37,,,,,,
 5,154.0,Breeding,F25-2192,CIAT-BH-22-0519,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,34,,,,,,
-5,154.0,Breeding,F25-2192,CIAT-BH-22-0519,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,37,,,,,,
 5,155.0,Genetic_bank,F25-2586,CIAT-7289,Fabales,Fabaceae,Chamaecrista,mimosoides,Chamaecrista mimosoides,Herbaceous_legumes,34,91.45,5.863928698,94.1360713,18.55944373,37.05595298,58.07161357
 5,156.0,Genetic_bank,F25-2586,CIAT-7289,Fabales,Fabaceae,Chamaecrista,mimosoides,Chamaecrista mimosoides,Herbaceous_legumes,34,91.36259122,5.632495474,94.36750453,18.55944373,36.01752524,56.83592424
 5,157.0,Genetic_bank,F26-0042,CIAT-33127,Fabales,Fabaceae,Codariocalyx,motorius,Codariocalyx motorius,Shrub_Trees,34,,,,,,
@@ -2108,9 +2076,7 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,177.0,,Estrella_55%_Leudiv_45%,Estrella-55%-Leudiv-45%,,,,,,,34,93.10094811,8.436275885,91.56372412,15.97499685,37.33856951,66.73874345
 5,178.0,,Estrella_55%_Leudiv_45%,Estrella-55%-Leudiv-45%,,,,,,,34,93.05385439,8.573849779,91.42615022,15.78696727,36.56079529,68.27403927
 5,179.0,Genetic_bank,F26-0426,CIAT-17524,Fabales,Fabaceae,Aeschynomene,americana,Aeschynomene americana,Shrub_Trees,34,93.25202439,7.971314576,92.02868542,26.23018361,24.6700162,53.92044804
-5,179.0,Genetic_bank,F26-0426,CIAT-17524,Fabales,Fabaceae,Aeschynomene,americana,Aeschynomene americana,Shrub_Trees,35,93.25202439,7.971314576,92.02868542,26.23018361,24.6700162,53.92044804
 5,180.0,Genetic_bank,F26-0426,CIAT-17524,Fabales,Fabaceae,Aeschynomene,americana,Aeschynomene americana,Shrub_Trees,34,93.36132773,8.047117974,91.95288203,26.23018361,26.93779558,53.15826896
-5,180.0,Genetic_bank,F26-0426,CIAT-17524,Fabales,Fabaceae,Aeschynomene,americana,Aeschynomene americana,Shrub_Trees,35,93.36132773,8.047117974,91.95288203,26.23018361,26.93779558,53.15826896
 5,181.0,Genetic_bank,F26-0427,CIAT-7026,Fabales,Fabaceae,Aeschynomene,americana,Aeschynomene americana,Shrub_Trees,34,92.94211736,8.72468498,91.27531502,26.4281162,32.53435288,54.28283414
 5,182.0,Genetic_bank,F26-0427,CIAT-7026,Fabales,Fabaceae,Aeschynomene,americana,Aeschynomene americana,Shrub_Trees,34,92.91141772,8.768593314,91.23140669,26.4281162,32.36769512,53.64426053
 5,183.0,Genetic_bank,F26-0428,CIAT-508,Fabales,Fabaceae,Teramnus,uncinatus,Teramnus uncinatus,Herbaceous_legumes,34,92.5814837,12.69988578,87.30011422,23.2164732,34.1539844,53.31603771
@@ -2124,17 +2090,13 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,191.0,Genetic_bank,F26-0432,CIAT-966,Fabales,Fabaceae,Teramnus,labialis,Teramnus labialis,Herbaceous_legumes,34,92.77072293,11.57349478,88.42650522,18.12297408,37.58843795,53.69561175
 5,192.0,Genetic_bank,F26-0432,CIAT-966,Fabales,Fabaceae,Teramnus,labialis,Teramnus labialis,Herbaceous_legumes,34,92.98,10.4979403,89.5020597,18.12297408,37.37455091,53.16811025
 5,193.0,Genetic_bank,F26-0433,CIAT-4042,Fabales,Fabaceae,Centrosema,grazielae,Centrosema grazielae,Herbaceous_legumes,34,95.47181128,12.04300913,87.95699087,20.66577313,41.12363335,62.96838633
-5,193.0,Genetic_bank,F26-0433,CIAT-4042,Fabales,Fabaceae,Centrosema,grazielae,Centrosema grazielae,Herbaceous_legumes,35,95.47181128,12.04300913,87.95699087,20.66577313,41.12363335,62.96838633
 5,194.0,Genetic_bank,F26-0433,CIAT-4042,Fabales,Fabaceae,Centrosema,grazielae,Centrosema grazielae,Herbaceous_legumes,34,95.6,12.04782634,87.95217366,20.66577313,40.23014193,59.1706384
-5,194.0,Genetic_bank,F26-0433,CIAT-4042,Fabales,Fabaceae,Centrosema,grazielae,Centrosema grazielae,Herbaceous_legumes,35,95.6,12.04782634,87.95217366,20.66577313,40.23014193,59.1706384
 5,195.0,Genetic_bank,F26-0434,CIAT-4862,Fabales,Fabaceae,Macrotyloma,daltonii,Macrotyloma daltonii,Herbaceous_legumes,34,92.07237829,8.951656708,91.04834329,21.52054168,33.98846089,53.42437538
 5,196.0,Genetic_bank,F26-0434,CIAT-4862,Fabales,Fabaceae,Macrotyloma,daltonii,Macrotyloma daltonii,Herbaceous_legumes,34,91.97240828,9.158066268,90.84193373,21.52054168,32.91525333,51.15926261
 5,197.0,Genetic_bank,F26-0435,CIAT-4986,Fabales,Fabaceae,Teramnus,labialis,Teramnus labialis,Herbaceous_legumes,34,92.36381809,12.44127701,87.55872299,21.33935528,32.743435,50.75885858
 5,198.0,Genetic_bank,F26-0435,CIAT-4986,Fabales,Fabaceae,Teramnus,labialis,Teramnus labialis,Herbaceous_legumes,34,92.41227632,12.3571992,87.6428008,21.12947118,31.18547397,49.11539788
 5,199.0,Genetic_bank,F26-0436,CIAT-5098,Fabales,Fabaceae,Centrosema,schottii,Centrosema schottii,Herbaceous_legumes,34,94.20115977,9.455558401,90.5444416,19.01920801,39.17592312,53.30852068
-5,199.0,Genetic_bank,F26-0436,CIAT-5098,Fabales,Fabaceae,Centrosema,schottii,Centrosema schottii,Herbaceous_legumes,35,94.20115977,9.455558401,90.5444416,19.01920801,39.17592312,53.30852068
 5,200.0,Genetic_bank,F26-0436,CIAT-5098,Fabales,Fabaceae,Centrosema,schottii,Centrosema schottii,Herbaceous_legumes,34,94.22173348,9.252999606,90.74700039,19.01920801,38.51352187,52.74499549
-5,200.0,Genetic_bank,F26-0436,CIAT-5098,Fabales,Fabaceae,Centrosema,schottii,Centrosema schottii,Herbaceous_legumes,35,94.22173348,9.252999606,90.74700039,19.01920801,38.51352187,52.74499549
 5,201.0,Genetic_bank,F26-0437,CIAT-5121,Fabales,Fabaceae,Centrosema,grazielae,Centrosema grazielae,Herbaceous_legumes,34,94.35,13.79517309,86.20482691,18.55506191,38.35896421,57.10505058
 5,202.0,Genetic_bank,F26-0437,CIAT-5121,Fabales,Fabaceae,Centrosema,grazielae,Centrosema grazielae,Herbaceous_legumes,34,94.4116765,13.13431979,86.86568021,18.56145029,37.85776177,55.46478941
 5,203.0,Genetic_bank,F26-0438,CIAT-5166,Fabales,Fabaceae,Centrosema,schottii,Centrosema schottii,Herbaceous_legumes,34,94.56054395,8.175544795,91.82445521,15.65162904,32.83073095,56.33223124
@@ -2142,88 +2104,29 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,205.0,Genetic_bank,F26-0439,CIAT-5196,Fabales,Fabaceae,Centrosema,pascuorum,Centrosema pascuorum,Herbaceous_legumes,34,93.53064694,13.17158065,86.82841935,20.81990116,34.80143931,54.01661783
 5,206.0,Genetic_bank,F26-0439,CIAT-5196,Fabales,Fabaceae,Centrosema,pascuorum,Centrosema pascuorum,Herbaceous_legumes,34,93.67189843,12.63492656,87.36507344,20.81990116,36.73331468,54.58980379
 5,207.0,Genetic_bank,F26-0440,CIAT-5217,Fabales,Fabaceae,Centrosema,pascuorum,Centrosema pascuorum,Herbaceous_legumes,34,93.49260296,13.58552662,86.41447338,22.14639204,37.07062833,56.34337457
-5,207.0,Genetic_bank,F26-0440,CIAT-5217,Fabales,Fabaceae,Centrosema,pascuorum,Centrosema pascuorum,Herbaceous_legumes,35,93.49260296,13.58552662,86.41447338,22.14639204,37.07062833,56.34337457
 5,208.0,Genetic_bank,F26-0440,CIAT-5217,Fabales,Fabaceae,Centrosema,pascuorum,Centrosema pascuorum,Herbaceous_legumes,34,93.69063094,13.1195213,86.8804787,22.14639204,37.39233356,58.65246042
-5,208.0,Genetic_bank,F26-0440,CIAT-5217,Fabales,Fabaceae,Centrosema,pascuorum,Centrosema pascuorum,Herbaceous_legumes,35,93.69063094,13.1195213,86.8804787,22.14639204,37.39233356,58.65246042
 5,209.0,Genetic_bank,F26-0441,CIAT-5236,Fabales,Fabaceae,Centrosema,arenarium,Centrosema arenarium,Herbaceous_legumes,34,94.80051995,10.50524978,89.49475022,19.840259,42.36746734,61.65691514
-5,209.0,Genetic_bank,F26-0441,CIAT-5236,Fabales,Fabaceae,Centrosema,arenarium,Centrosema arenarium,Herbaceous_legumes,35,94.80051995,10.50524978,89.49475022,19.840259,42.36746734,61.65691514
 5,210.0,Genetic_bank,F26-0441,CIAT-5236,Fabales,Fabaceae,Centrosema,arenarium,Centrosema arenarium,Herbaceous_legumes,34,94.8,10.42191235,89.57808765,19.840259,39.77702018,58.88019005
-5,210.0,Genetic_bank,F26-0441,CIAT-5236,Fabales,Fabaceae,Centrosema,arenarium,Centrosema arenarium,Herbaceous_legumes,35,94.8,10.42191235,89.57808765,19.840259,39.77702018,58.88019005
 5,211.0,Genetic_bank,F26-0442,CIAT-5325,Fabales,Fabaceae,Centrosema,virginianum,Centrosema virginianum,Herbaceous_legumes,34,93.64254298,10.44745974,89.55254026,21.3682967,41.86695315,60.17635552
 5,212.0,Genetic_bank,F26-0442,CIAT-5325,Fabales,Fabaceae,Centrosema,virginianum,Centrosema virginianum,Herbaceous_legumes,34,94.27057294,10.43995152,89.56004848,21.3682967,42.58260479,58.50756884
 5,213.0,Genetic_bank,F26-0443,CIAT-5383,Fabales,Fabaceae,Periandra,coccinea,Periandra coccinea,Herbaceous_legumes,34,95.89164334,9.522319566,90.47768043,16.97734443,40.96246095,59.45215609
-5,213.0,Genetic_bank,F26-0443,CIAT-5383,Fabales,Fabaceae,Periandra,coccinea,Periandra coccinea,Herbaceous_legumes,35,95.89164334,9.522319566,90.47768043,16.97734443,40.96246095,59.45215609
 5,214.0,Genetic_bank,F26-0443,CIAT-5383,Fabales,Fabaceae,Periandra,coccinea,Periandra coccinea,Herbaceous_legumes,34,95.79168333,9.595327493,90.40467251,16.97734443,40.16334818,59.13804699
-5,214.0,Genetic_bank,F26-0443,CIAT-5383,Fabales,Fabaceae,Periandra,coccinea,Periandra coccinea,Herbaceous_legumes,35,95.79168333,9.595327493,90.40467251,16.97734443,40.16334818,59.13804699
 5,215.0,Genetic_bank,F26-0444,CIAT-5484,Fabales,Fabaceae,Centrosema,vexillatum,Centrosema vexillatum,Herbaceous_legumes,34,95.5813256,10.83854603,89.16145397,15.31448489,44.76259588,59.42687768
-5,215.0,Genetic_bank,F26-0444,CIAT-5484,Fabales,Fabaceae,Centrosema,vexillatum,Centrosema vexillatum,Herbaceous_legumes,35,95.5813256,10.83854603,89.16145397,15.31448489,44.76259588,59.42687768
 5,216.0,Genetic_bank,F26-0444,CIAT-5484,Fabales,Fabaceae,Centrosema,vexillatum,Centrosema vexillatum,Herbaceous_legumes,34,95.53089382,10.98611115,89.01388885,15.31448489,44.60138033,60.40074163
-5,216.0,Genetic_bank,F26-0444,CIAT-5484,Fabales,Fabaceae,Centrosema,vexillatum,Centrosema vexillatum,Herbaceous_legumes,35,95.53089382,10.98611115,89.01388885,15.31448489,44.60138033,60.40074163
 5,217.0,Genetic_bank,F26-0445,CIAT-5504,Fabales,Fabaceae,Centrosema,pascuorum,Centrosema pascuorum,Herbaceous_legumes,34,95.39138259,9.996332582,90.00366742,15.73928551,47.03572356,64.14479255
 5,218.0,Genetic_bank,F26-0445,CIAT-5504,Fabales,Fabaceae,Centrosema,pascuorum,Centrosema pascuorum,Herbaceous_legumes,34,95.42137359,10.45737937,89.54262063,15.56966957,45.73149047,62.94334597
 5,219.0,Genetic_bank,F26-0446,CIAT-5599,Fabales,Fabaceae,Centrosema,arenarium,Centrosema arenarium,Herbaceous_legumes,34,93.86122775,11.01263607,88.98736393,20.68514758,40.39925449,58.79112316
 5,220.0,Genetic_bank,F26-0446,CIAT-5599,Fabales,Fabaceae,Centrosema,arenarium,Centrosema arenarium,Herbaceous_legumes,34,93.92182345,10.98811087,89.01188913,20.68514758,41.2662454,58.05291359
 5,221.0,Genetic_bank,F26-0447,CIAT-5850,Fabales,Fabaceae,Centrosema,brachypodum,Centrosema brachypodum,Herbaceous_legumes,34,95.29,9.492274366,90.50772563,16.265504,40.46920921,61.07226642
-5,221.0,Genetic_bank,F26-0447,CIAT-5850,Fabales,Fabaceae,Centrosema,brachypodum,Centrosema brachypodum,Herbaceous_legumes,35,95.29,9.492274366,90.50772563,16.265504,40.46920921,61.07226642
 5,222.0,Genetic_bank,F26-0447,CIAT-5850,Fabales,Fabaceae,Centrosema,brachypodum,Centrosema brachypodum,Herbaceous_legumes,34,95.39138259,9.489427538,90.51057246,16.265504,40.44164595,60.40015627
-5,222.0,Genetic_bank,F26-0447,CIAT-5850,Fabales,Fabaceae,Centrosema,brachypodum,Centrosema brachypodum,Herbaceous_legumes,35,95.39138259,9.489427538,90.51057246,16.265504,40.44164595,60.40015627
 5,223.0,Genetic_bank,F26-0448,CIAT-5984,Fabales,Fabaceae,Centrosema,pubescens,Centrosema pubescens,Herbaceous_legumes,34,95.38046195,12.65752979,87.34247021,20.374541,43.81078609,60.67885615
 5,224.0,Genetic_bank,F26-0448,CIAT-5984,Fabales,Fabaceae,Centrosema,pubescens,Centrosema pubescens,Herbaceous_legumes,34,95.0009998,12.75079241,87.24920759,20.374541,45.04270381,63.87056099
 5,225.0,Genetic_bank,F26-0449,CIAT-5989,Fabales,Fabaceae,Centrosema,grandiflorum,Centrosema grandiflorum,Herbaceous_legumes,34,94.57108578,12.53037507,87.46962493,19.08366176,37.89862986,59.24133408
 5,226.0,Genetic_bank,F26-0449,CIAT-5989,Fabales,Fabaceae,Centrosema,grandiflorum,Centrosema grandiflorum,Herbaceous_legumes,34,94.69106179,12.40359218,87.59640782,19.08366176,37.1384799,58.51241654
 5,227.0,Genetic_bank,F26-0450,CIAT-7146,Fabales,Fabaceae,Rhynchosia,reticulata,Rhynchosia reticulata,Herbaceous_legumes,34,94.54163751,11.57243349,88.42756651,16.77605891,51.3938944,65.59179472
-5,227.0,Genetic_bank,F26-0450,CIAT-7146,Fabales,Fabaceae,Rhynchosia,reticulata,Rhynchosia reticulata,Herbaceous_legumes,35,94.54163751,11.57243349,88.42756651,16.77605891,51.3938944,65.59179472
 5,228.0,Genetic_bank,F26-0450,CIAT-7146,Fabales,Fabaceae,Rhynchosia,reticulata,Rhynchosia reticulata,Herbaceous_legumes,34,94.4716585,11.37144973,88.62855027,16.77605891,52.58537822,66.62628944
-5,228.0,Genetic_bank,F26-0450,CIAT-7146,Fabales,Fabaceae,Rhynchosia,reticulata,Rhynchosia reticulata,Herbaceous_legumes,35,94.4716585,11.37144973,88.62855027,16.77605891,52.58537822,66.62628944
 5,229.0,Genetic_bank,F26-0451,CIAT-7177,Fabales,Fabaceae,Canavalia,rosea,Canavalia rosea,Herbaceous_legumes,34,94.53218713,10.84636352,89.15363648,24.2106734,37.98311815,54.95342916
-5,229.0,Genetic_bank,F26-0451,CIAT-7177,Fabales,Fabaceae,Canavalia,rosea,Canavalia rosea,Herbaceous_legumes,35,94.53218713,10.84636352,89.15363648,24.2106734,37.98311815,54.95342916
 5,230.0,Genetic_bank,F26-0451,CIAT-7177,Fabales,Fabaceae,Canavalia,rosea,Canavalia rosea,Herbaceous_legumes,34,94.58,10.8612778,89.1387222,24.2106734,36.80896768,52.58396128
-5,230.0,Genetic_bank,F26-0451,CIAT-7177,Fabales,Fabaceae,Canavalia,rosea,Canavalia rosea,Herbaceous_legumes,35,94.58,10.8612778,89.1387222,24.2106734,36.80896768,52.58396128
-5,,Genetic_bank,F26-0048,CIAT-6080,Poales,Poaceae,Eragrostis,curvula,Eragrostis curvula,Grass,32,93.99060094,10.85932269,89.14067731,11.21059818,44.21973411,77.31129468
-5,,Genetic_bank,F26-0048,CIAT-6080,Poales,Poaceae,Eragrostis,curvula,Eragrostis curvula,Grass,32,94.03179046,10.08088109,89.91911891,11.21059818,43.38940223,78.05040133
-5,,Genetic_bank,F26-0059,CIAT-16081,Poales,Poaceae,Paspalum,secans,Paspalum secans,Grass,32,96.44,20.43424995,79.56575005,12.32918173,38.14455127,68.31586723
-5,,Genetic_bank,F26-0059,CIAT-16081,Poales,Poaceae,Paspalum,secans,Paspalum secans,Grass,32,96.47141144,16.49838589,83.50161411,12.32918173,38.0785623,66.87204437
-5,,Genetic_bank,F26-0063,CIAT-16254,Poales,Poaceae,Hyparrhenia,hirta,Hyparrhenia hirta,Grass,32,94.8025987,12.93018504,87.06981496,12.97864532,36.05573806,69.95865425
-5,,Genetic_bank,F26-0063,CIAT-16254,Poales,Poaceae,Hyparrhenia,hirta,Hyparrhenia hirta,Grass,32,94.8910218,16.0015551,83.9984449,12.97864532,35.59088796,69.04421915
-5,,Genetic_bank,F26-0066,CIAT-16379,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,32,94.48275862,19.707407,80.292593,13.93761108,32.66274647,64.99294302
-5,,Genetic_bank,F26-0066,CIAT-16379,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,32,94.69159252,14.23656022,85.76343978,13.93761108,32.81381622,63.86412867
-5,,Genetic_bank,F26-0067,CIAT-16537,Poales,Poaceae,Sporobolus,sp.,Sporobolus sp.,Grass,32,96.16230262,15.22172424,84.77827576,14.1634369,33.56950963,68.45811919
-5,,Genetic_bank,F26-0067,CIAT-16537,Poales,Poaceae,Sporobolus,sp.,Sporobolus sp.,Grass,32,97.26082175,13.6550769,86.3449231,14.1634369,33.23575816,68.51408157
-5,,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,32,,,,,,
-5,,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,32,94.16233507,10.03502721,89.96497279,13.92648053,33.9321665,60.44244411
-5,,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,32,94.50109978,10.43978702,89.56021298,13.92648053,33.21301496,59.30627821
-5,,Genetic_bank,F26-0076,CIAT-16690,Poales,Poaceae,Cynodon,sp.,Cynodon sp.,Grass,32,95.53223388,9.304820097,90.6951799,13.66830468,43.8186202,62.43368834
-5,,Breeding,F26-0566,CIAT-679-Tully-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,32,93.88183545,10.1287371,89.8712629,7.708661601,34.31422088,68.46060573
-5,,Breeding,F26-0566,CIAT-679-Tully-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,32,94.04178746,10.61815087,89.38184913,7.659777651,34.60401364,69.17476784
-5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,32,93.64063594,11.32941805,88.67058195,13.1,37.8,76.05
-5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,32,93.64063594,11.32941805,88.67058195,18.77653815,37.8,76.05
-5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,32,93.82123575,11.49829497,88.50170503,13.1,37.7,76.05
-5,,Genetic_bank,F26-0106,CIAT-36088,Poales,Poaceae,Paspalum,dilatatum,Paspalum dilatatum,Grass,34,93.73062694,12.40454796,87.59545204,18.77653815,36.46300887,64.21910031
-5,,Genetic_bank,F26-0106,CIAT-36088,Poales,Poaceae,Paspalum,dilatatum,Paspalum dilatatum,Grass,34,93.762495,12.2302234,87.7697766,13.65583273,35.80157471,63.65247875
-5,,Breeding,F25-2184,CIAT-BH-22-0303,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,34,94.83,9.5,90.5,8.02,32.56,67.49
-5,,Breeding,F25-2184,CIAT-BH-22-0303,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,34,94.85,9.52,90.48,8.03,33.71,68.66
-5,,Breeding,F25-2192,CIAT-BH-22-0519,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,34,97.63,11.15,88.85,9.34,31.6,64.54
-5,,Breeding,F25-2192,CIAT-BH-22-0519,Poales,Poaceae,Urochloa,humidicola,Urochloa humidicola,Grass,34,97.68,11.14,88.86,9.38,31.77,64.61
-5,,Genetic_bank,F26-0426,CIAT-17524,Fabales,Fabaceae,Aeschynomene,americana,Aeschynomene americana,Shrub_Trees,34,93.25202439,7.971314576,92.02868542,26.23018361,24.6700162,53.92044804
-5,,Genetic_bank,F26-0426,CIAT-17524,Fabales,Fabaceae,Aeschynomene,americana,Aeschynomene americana,Shrub_Trees,34,93.36132773,8.047117974,91.95288203,26.23018361,26.93779558,53.15826896
-5,,Genetic_bank,F26-0433,CIAT-4042,Fabales,Fabaceae,Centrosema,grazielae,Centrosema grazielae,Herbaceous_legumes,34,95.47181128,12.04300913,87.95699087,20.66577313,41.12363335,62.96838633
-5,,Genetic_bank,F26-0433,CIAT-4042,Fabales,Fabaceae,Centrosema,grazielae,Centrosema grazielae,Herbaceous_legumes,34,95.6,12.04782634,87.95217366,20.66577313,40.23014193,59.1706384
-5,,Genetic_bank,F26-0436,CIAT-5098,Fabales,Fabaceae,Centrosema,schottii,Centrosema schottii,Herbaceous_legumes,34,94.20115977,9.455558401,90.5444416,19.01920801,39.17592312,53.30852068
-5,,Genetic_bank,F26-0436,CIAT-5098,Fabales,Fabaceae,Centrosema,schottii,Centrosema schottii,Herbaceous_legumes,34,94.22173348,9.252999606,90.74700039,19.01920801,38.51352187,52.74499549
-5,,Genetic_bank,F26-0440,CIAT-5217,Fabales,Fabaceae,Centrosema,pascuorum,Centrosema pascuorum,Herbaceous_legumes,34,93.49260296,13.58552662,86.41447338,22.14639204,37.07062833,56.34337457
-5,,Genetic_bank,F26-0440,CIAT-5217,Fabales,Fabaceae,Centrosema,pascuorum,Centrosema pascuorum,Herbaceous_legumes,34,93.69063094,13.1195213,86.8804787,22.14639204,37.39233356,58.65246042
-5,,Genetic_bank,F26-0441,CIAT-5236,Fabales,Fabaceae,Centrosema,arenarium,Centrosema arenarium,Herbaceous_legumes,34,94.8,10.42191235,89.57808765,19.840259,39.77702018,58.88019005
-5,,Genetic_bank,F26-0441,CIAT-5236,Fabales,Fabaceae,Centrosema,arenarium,Centrosema arenarium,Herbaceous_legumes,34,94.80051995,10.50524978,89.49475022,19.840259,42.36746734,61.65691514
-5,,Genetic_bank,F26-0443,CIAT-5383,Fabales,Fabaceae,Periandra,coccinea,Periandra coccinea,Herbaceous_legumes,34,95.79168333,9.595327493,90.40467251,16.97734443,40.16334818,59.13804699
-5,,Genetic_bank,F26-0443,CIAT-5383,Fabales,Fabaceae,Periandra,coccinea,Periandra coccinea,Herbaceous_legumes,34,95.89164334,9.522319566,90.47768043,16.97734443,40.96246095,59.45215609
-5,,Genetic_bank,F26-0444,CIAT-5484,Fabales,Fabaceae,Centrosema,vexillatum,Centrosema vexillatum,Herbaceous_legumes,34,95.53089382,10.98611115,89.01388885,15.31448489,44.60138033,60.40074163
-5,,Genetic_bank,F26-0444,CIAT-5484,Fabales,Fabaceae,Centrosema,vexillatum,Centrosema vexillatum,Herbaceous_legumes,34,95.5813256,10.83854603,89.16145397,15.31448489,44.76259588,59.42687768
-5,,Genetic_bank,F26-0447,CIAT-5850,Fabales,Fabaceae,Centrosema,brachypodum,Centrosema brachypodum,Herbaceous_legumes,34,95.29,9.492274366,90.50772563,16.265504,40.46920921,61.07226642
-5,,Genetic_bank,F26-0447,CIAT-5850,Fabales,Fabaceae,Centrosema,brachypodum,Centrosema brachypodum,Herbaceous_legumes,34,95.39138259,9.489427538,90.51057246,16.265504,40.44164595,60.40015627
-5,,Genetic_bank,F26-0450,CIAT-7146,Fabales,Fabaceae,Rhynchosia,reticulata,Rhynchosia reticulata,Herbaceous_legumes,34,94.4716585,11.37144973,88.62855027,16.77605891,52.58537822,66.62628944
-5,,Genetic_bank,F26-0450,CIAT-7146,Fabales,Fabaceae,Rhynchosia,reticulata,Rhynchosia reticulata,Herbaceous_legumes,34,94.54163751,11.57243349,88.42756651,16.77605891,51.3938944,65.59179472
-5,,Genetic_bank,F26-0451,CIAT-7177,Fabales,Fabaceae,Canavalia,rosea,Canavalia rosea,Herbaceous_legumes,34,94.53218713,10.84636352,89.15363648,24.2106734,37.98311815,54.95342916
-5,,Genetic_bank,F26-0451,CIAT-7177,Fabales,Fabaceae,Canavalia,rosea,Canavalia rosea,Herbaceous_legumes,34,94.58,10.8612778,89.1387222,24.2106734,36.80896768,52.58396128
 5,,Genetic_bank,F26-0452,CIAT-7320,Fabales,Fabaceae,Canavalia,dictyota,Canavalia dictyota,Herbaceous_legumes,34,93.47195841,12.89875173,87.10124827,25.4279254,27.15475862,45.23356285
 5,,Genetic_bank,F26-0452,CIAT-7320,Fabales,Fabaceae,Canavalia,dictyota,Canavalia dictyota,Herbaceous_legumes,34,93.93182045,12.13058786,87.86941214,25.4279254,28.8060195,48.00811584
 5,,Genetic_bank,F26-0453,CIAT-7821,Fabales,Fabaceae,Teramnus,labialis,Teramnus labialis,Herbaceous_legumes,34,93.69252299,10.75649754,89.24350246,22.12343282,39.00118619,55.08573276
@@ -2233,7 +2136,6 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,Genetic_bank,F26-0455,CIAT-8772,Fabales,Fabaceae,Canavalia,bicarinata,Canavalia bicarinata,Herbaceous_legumes,34,93.83185044,14.25313584,85.74686416,19.64203687,31.00110166,51.62888895
 5,,Genetic_bank,F26-0455,CIAT-8772,Fabales,Fabaceae,Canavalia,bicarinata,Canavalia bicarinata,Herbaceous_legumes,34,93.86,14.32134636,85.67865364,19.60668634,31.57336625,49.23350926
 5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,34,93.64063594,11.32941805,88.67058195,13.1,37.8,76.05
-5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,34,93.64063594,11.32941805,88.67058195,18.77653815,37.8,76.05
 5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,34,93.82123575,11.49829497,88.50170503,13.1,37.7,76.05
 5,,Genetic_bank,F26-0456,CIAT-8808,Fabales,Fabaceae,Galactia,jussiaeana,Galactia jussiaeana,Herbaceous_legumes,35,93.00069993,8.552639063,91.44736094,13.89428974,40.5195442,60.90731028
 5,,Genetic_bank,F26-0456,CIAT-8808,Fabales,Fabaceae,Galactia,jussiaeana,Galactia jussiaeana,Herbaceous_legumes,35,93.12206338,8.572413794,91.42758621,13.89428974,39.45607079,64.14394058
@@ -2329,13 +2231,9 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,Breeding,F26-1074,CIAT-BR-06-423-Temp-B,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,93.51129774,13.13223948,86.86776052,14.41924479,25.79929533,55.53001064
 5,,Breeding,F26-1075,CIAT-MulatoII-Temp-C,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,93.3220034,15.0012885,84.9987115,19.89145007,25.51081004,57.77230118
 5,,Breeding,F26-1075,CIAT-MulatoII-Temp-C,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,96.07157137,16.29815213,83.70184787,19.82666185,25.9718582,58.23392103
-5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,93.8,14.19721292,85.80278708,12.26657157,24.87734272,62.38238522
 5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,93.8,14.19721292,85.80278708,12.26657157,32.25676421,62.38238522
-5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,93.84246301,14.06368463,85.93631537,12.12774698,26.01949613,61.40464471
 5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,93.84246301,14.06368463,85.93631537,12.12774698,31.83733288,61.40464471
-5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,95.0609878,11.53401325,88.46598675,17.10045477,26.90360497,58.82104687
 5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,95.0609878,11.53401325,88.46598675,17.10045477,27.06320283,58.82104687
-5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,95.1209758,11.68121123,88.31878877,17.79629264,27.19511926,59.63925718
 5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,95.1209758,11.68121123,88.31878877,17.79629264,27.7061392,59.63925718
 5,,Breeding,F26-1078,CIAT-BR-06-423-Exc-G,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,93.31,11.48850408,88.51149592,11.88788825,29.44799648,60.3251628
 5,,Breeding,F26-1078,CIAT-BR-06-423-Exc-G,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,35,93.31133773,11.58263955,88.41736045,11.43526408,29.5841936,60.51374756
@@ -2376,10 +2274,7 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,Genetic_bank,F26-0067,CIAT-16537,Poales,Poaceae,Sporobolus,sp.,Sporobolus sp.,Grass,35,96.16230262,15.22172424,84.77827576,14.1634369,33.56950963,68.45811919
 5,,Genetic_bank,F26-0067,CIAT-16537,Poales,Poaceae,Sporobolus,sp.,Sporobolus sp.,Grass,35,97.26082175,13.6550769,86.3449231,14.1634369,33.23575816,68.51408157
 5,,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,35,,,,,,
-5,,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,35,94.16233507,10.03502721,89.96497279,13.92648053,33.9321665,60.44244411
-5,,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,35,94.50109978,10.43978702,89.56021298,13.92648053,33.21301496,59.30627821
 5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,35,93.64063594,11.32941805,88.67058195,13.1,37.8,76.05
-5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,35,93.64063594,11.32941805,88.67058195,18.77653815,37.8,76.05
 5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,35,93.82123575,11.49829497,88.50170503,13.1,37.7,76.05
 5,,Genetic_bank,F26-0501,CIAT-25254,Fabales,Fabaceae,Centrosema,pubescens,Centrosema pubescens,Herbaceous_legumes,36,93.24067593,13.65273028,86.34726972,22.22403549,49.22025707,58.59075407
 5,,Genetic_bank,F26-0501,CIAT-25254,Fabales,Fabaceae,Centrosema,pubescens,Centrosema pubescens,Herbaceous_legumes,36,93.37,13.78270556,86.21729444,22.22403549,48.61058574,52.65448977
@@ -2460,13 +2355,9 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,Genetic_bank,F26-0539,CIAT-43154,Fabales,Fabaceae,Desmodium,distortum,Desmodium distortum,Shrub_Trees,36,94.16058394,7.931620302,92.0683797,18.10924176,26.94981203,57.84683966
 5,,Genetic_bank,F26-0539,CIAT-43154,Fabales,Fabaceae,Desmodium,distortum,Desmodium distortum,Shrub_Trees,36,94.18058194,7.889148439,92.11085156,18.10924176,26.46167717,48.05174042
 5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,93.8,14.19721292,85.80278708,12.26657157,24.87734272,62.38238522
-5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,93.8,14.19721292,85.80278708,12.26657157,32.25676421,62.38238522
 5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,93.84246301,14.06368463,85.93631537,12.12774698,26.01949613,61.40464471
-5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,93.84246301,14.06368463,85.93631537,12.12774698,31.83733288,61.40464471
 5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,95.0609878,11.53401325,88.46598675,17.10045477,26.90360497,58.82104687
-5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,95.0609878,11.53401325,88.46598675,17.10045477,27.06320283,58.82104687
 5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,95.1209758,11.68121123,88.31878877,17.79629264,27.19511926,59.63925718
-5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,95.1209758,11.68121123,88.31878877,17.79629264,27.7061392,59.63925718
 5,,Genetic_bank,F26-1080,CIAT-17009,Fabales,Fabaceas,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,36,91.88162368,13.44708835,86.55291165,31.45175947,25.74069332,48.8127459
 5,,Genetic_bank,F26-1080,CIAT-17009,Fabales,Fabaceas,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,36,91.91323471,13.54229612,86.45770388,31.6567009,26.02481491,49.71963828
 5,,Genetic_bank,F26-1081,CIAT-17462,Fabales,Fabaceas,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,36,91.61,13.64504248,86.35495752,29.53447339,27.70443152,50.2135227
@@ -2485,9 +2376,7 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,LMF,F26-1088,CIAT-20891,Fabales,Fabaceas,Cajanus,cajan,Cajanus cajan,Shrub_Trees,36,91.93,7.442030057,92.55796994,25.75853133,48.24,59.83723505
 5,,Genetic_bank,F26-1089,CIAT-15551,Fabales,Fabaceas,Centrosema ,molle,Centrosema molle,Herbaceous_legumes,36,91.8832467,8.351947808,91.64805219,34.65073772,58.1,70.59009535
 5,,Genetic_bank,F26-1089,CIAT-15551,Fabales,Fabaceas,Centrosema ,molle,Centrosema molle,Herbaceous_legumes,36,91.95241428,8.331030714,91.66896929,34.19159762,60.17,73.51443423
-5,,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,96.56,15.97,84.03,11.01,22.15,57.45
 5,,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,96.56,15.97,84.03,11.01,32.88,57.45
-5,,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,96.97,15.96,84.04,11.01,21.89,57.28
 5,,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,36,96.97,15.96,84.04,11.01,30.74,57.28
 5,,Breeding,F24-3591,CIAT-CIAT-6962,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,36,95.58,14.19,85.81,8.59,31.59,67.17
 5,,Breeding,F24-3591,CIAT-CIAT-6962,Poales,Poaceae,Megathyrsus,maximus,Megathyrsus maximus,Grass,36,95.87,14.3,85.7,8.59,32.69,68.08
@@ -2532,11 +2421,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,Genetic_bank,F26-1048,CIAT-18584,Fabales,Fabaceae,Canavalia,mattogrossensis,Canavalia mattogrossensis,Herbaceous_legumes,36,92.69073093,9.836557409,90.16344259,14.44237849,34.63320504,59.00934974
 5,,Genetic_bank,F26-1048,CIAT-18584,Fabales,Fabaceae,Canavalia,mattogrossensis,Canavalia mattogrossensis,Herbaceous_legumes,36,92.72145571,9.673804642,90.32619536,14.3116516,36.10697732,61.08210887
 5,,LMF-invivo,F26-2902-(100%),START-GRASS,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,36,92.42,9.35,90.65,8.67,36.46300887,78.6
-5,,LMF-invivo,F26-2902-(100%),START-GRASS,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,36,92.42,9.35,90.65,8.67,42.13,78.6
 5,,LMF-invivo,F26-2902-(100%),START-GRASS,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,36,92.56,9.25,90.75,8.8,35.80157471,78.74
-5,,LMF-invivo,F26-2902-(100%),START-GRASS,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,36,92.56,9.25,90.75,8.8,41.67,78.74
 5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,36,93.64063594,11.32941805,88.67058195,13.1,37.8,76.05
-5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,36,93.64063594,11.32941805,88.67058195,18.77653815,37.8,76.05
 5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,36,93.82123575,11.49829497,88.50170503,13.1,37.7,76.05
 5,,Genetic_bank,F26-1049-,CIAT-18586,Fabales,Fabaceae,Canavalia,mattogrossensis,Canavalia mattogrossensis,Herbaceous_legumes,37,93.71251499,10.13920022,89.86079978,17.48525744,49.22025707,63.18286619
 5,,Genetic_bank,F26-1049-,CIAT-18586,Fabales,Fabaceae,Canavalia,mattogrossensis,Canavalia mattogrossensis,Herbaceous_legumes,37,93.80123975,10.29052018,89.70947982,18.03742484,48.61058574,62.04910107
@@ -2628,18 +2514,12 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,Breeding,F26-0562,CIAT-BR-12-804,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,94.63053695,12.00588409,87.99411591,20.58332861,25.22363558,61.8053779
 5,,Breeding,F26-0563,CIAT-BR-15-1462,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,93.64254298,12.13265161,87.86734839,20.55128085,22.31881909,58.38469697
 5,,Breeding,F26-0563,CIAT-BR-15-1462,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,93.71062894,12.18966084,87.81033916,20.46329896,23.09143508,58.66838108
-5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,93.8,14.19721292,85.80278708,12.26657157,24.87734272,62.38238522
 5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,93.8,14.19721292,85.80278708,12.26657157,32.25676421,62.38238522
-5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,93.84246301,14.06368463,85.93631537,12.12774698,26.01949613,61.40464471
 5,,Breeding,F26-1076,CIAT-BR-06-423-Opt-F,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,93.84246301,14.06368463,85.93631537,12.12774698,31.83733288,61.40464471
-5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,95.0609878,11.53401325,88.46598675,17.10045477,26.90360497,58.82104687
 5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,95.0609878,11.53401325,88.46598675,17.10045477,27.06320283,58.82104687
-5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,95.1209758,11.68121123,88.31878877,17.79629264,27.19511926,59.63925718
 5,,Breeding,F26-1077,CIAT-MulatoII-Opt-D,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,95.1209758,11.68121123,88.31878877,17.79629264,27.7061392,59.63925718
 5,,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,96.56,15.97,84.03,11.01,22.15,57.45
-5,,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,96.56,15.97,84.03,11.01,32.88,57.45
 5,,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,96.97,15.96,84.04,11.01,21.89,57.28
-5,,Breeding,F24-3584,CIAT-BR-06-0423,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,96.97,15.96,84.04,11.01,30.74,57.28
 5,,Breeding,F24-3592-,CIAT-Mulato-II,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,96.63,14.99,85.01,11.85,24.28,58.79
 5,,Breeding,F24-3592-,CIAT-Mulato-II,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,96.69,14.96,85.04,11.85,24.45,60.05
 5,,Genetic_bank,F25-1772-,CIAT-22311,Fabales,Fabaceae,Calliandra,calothyrsus,Calliandra calothyrsus,Shrub_Trees,37,93.8,6.88,93.12,21.51,48.24,53.95
@@ -2652,9 +2532,7 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,ISABEL MOLINA,F26-3137-(-100%)-,Estrella-CIAT,Poales, Poaceae,Cynodon,nlenfuensis,Cynodon nlemfuensis,,37,94.09,9.11,90.89,5.84,40.5,79.97510108
 5,,Genetic_bank,F26-3138-(100%)-,CIAT-17009,Fabales,Fabaceas,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,37,94.27,13.61,86.39,22.0,29.7,51.13945003
 5,,Genetic_bank,F26-3138-(100%)-,CIAT-17009,Fabales,Fabaceas,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,37,94.28,13.55,86.45,22.6,29.88,54.60152575
-5,,ISABEL MOLINA,F26-2902-(100%),STAR-GRASS-Porvenir,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,37,92.42,9.35,90.65,8.67,36.46300887,78.6
 5,,ISABEL MOLINA,F26-2902-(100%),STAR-GRASS-Porvenir,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,37,92.42,9.35,90.65,8.67,42.13,78.6
-5,,ISABEL MOLINA,F26-2902-(100%),STAR-GRASS-Porvenir,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,37,92.56,9.25,90.75,8.8,35.80157471,78.74
 5,,ISABEL MOLINA,F26-2902-(100%),STAR-GRASS-Porvenir,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,,37,92.56,9.25,90.75,8.8,41.67,78.74
 5,, ISABEL MOLINA/ EXP Camaras In vivo ,Dieta-1-:-F263137-+-F261072-(40%/60%)-Estrella/Leucaena),Dieta-1-:-F-263137-+-F-261072-(40%/60%)-Estrella/Leucaena),,,,,,,37,94.576,9.164,90.836,20.282,34.644,63.62804043
 5,, ISABEL MOLINA/ EXP Camaras In vivo ,Dieta-1-:-F263137-+-F261072-(40%/60%)-Estrella/Leucaena),Dieta-1-:-F-263137-+-F-261072-(40%/60%)-Estrella/Leucaena),,,,,,,37,94.62,8.78,91.22,20.56,35.748,61.87972346
@@ -2670,7 +2548,6 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,Genetic_bank,F26-0063,CIAT-16254,Poales,Poaceae,Hyparrhenia,hirta,Hyparrhenia hirta,Grass,37,94.8910218,16.0015551,83.9984449,12.97864532,35.59088796,69.04421915
 5,,Genetic_bank,F26-0066,CIAT-16379,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,37,94.48275862,19.707407,80.292593,13.93761108,32.66274647,64.99294302
 5,,Genetic_bank,F26-0066,CIAT-16379,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,37,94.69159252,14.23656022,85.76343978,13.93761108,32.81381622,63.86412867
-5,,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,37,,,,,,
 5,,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,37,94.16233507,10.03502721,89.96497279,13.92648053,33.9321665,60.44244411
 5,,Genetic_bank,F26-0068,CIAT-16561,Poales,Poaceae,Panicum,maximum,Panicum maximum,Grass,37,94.50109978,10.43978702,89.56021298,13.92648053,33.21301496,59.30627821
 5,,Breeding,F26-0566,CIAT-679-Tully-Exc,Poales,Poaceae,Urochloa,interespecific,Urochloa interespecific,Grass,37,93.88183545,10.1287371,89.8712629,7.708661601,34.31422088,68.46060573
@@ -2682,7 +2559,6 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,Genetic_bank,F26-0076,CIAT-16690,Poales,Poaceae,Cynodon,sp.,Cynodon sp.,Grass,37,95.53223388,9.304820097,90.6951799,13.66830468,43.8186202,62.43368834
 5,,Genetic_bank,F26-0106,CIAT-36088,Poales,Poaceae,Paspalum,dilatatum,Paspalum dilatatum,Grass,37,93.73062694,12.40454796,87.59545204,18.77653815,36.46300887,64.21910031
 5,,Genetic_bank,F26-0106,CIAT-36088,Poales,Poaceae,Paspalum,dilatatum,Paspalum dilatatum,Grass,37,93.762495,12.2302234,87.7697766,13.65583273,35.80157471,63.65247875
-5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,37,93.64063594,11.32941805,88.67058195,13.1,37.8,76.05
 5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,37,93.64063594,11.32941805,88.67058195,18.77653815,37.8,76.05
 5,,LMF,F25-0008,Sample-8,Poales,Poaceae,Cynodon, nlemfuensis ,Cynodon nlemfuensis ,Grass,37,93.82123575,11.49829497,88.50170503,13.1,37.7,76.05
 6,1.0,Genetic_bank,F26-0108,CIAT-36090,Poales,Poaceae,Cenchrus,ciliaris,Cenchrus ciliaris,Grass,38,86.4,15.88,84.12,17.78,35.88,61.83
