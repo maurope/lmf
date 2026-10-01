@@ -481,6 +481,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 2,64.0,LMF,F25-0018,Homenheim-Concentrate,Concentrate,Concentrate,Homenheim, Concentrate,Homenheim Concentrate,Concentrate,22,89.65413834,5.886943918,94.11305608,0.0,0.0,0.0
 2,67.0,Genetic_bank,F24-3639,CIAT-17360,Fabales,Fabaceae,Alysicarpus,vaginalis,Alysicarpus vaginalis,Herbaceous_legumes,15,92.86,23.69,76.31,24.55,20.31,36.14
 2,68.0,Genetic_bank,F24-3639,CIAT-17360,Fabales,Fabaceae,Alysicarpus,vaginalis,Alysicarpus vaginalis,Herbaceous_legumes,15,92.85,19.73,80.27,24.55,20.02,37.99
+2,69.0,Genetic_bank,F24-3640,CIAT-17768,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,15,93.51,6.56,93.44,15.45,11.75,46.4
+2,70.0,Genetic_bank,F24-3640,CIAT-17768,Fabales,Fabaceae,Clitoria,ternatea,Clitoria ternatea,Herbaceous_legumes,15,93.46,7.22,92.78,15.45,12.53,49.75
 2,71.0,Genetic_bank,F24-3641,CIAT-18004,Fabales,Fabaceae,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Herbaceous_legumes,15,92.81,7.37,92.63,15.74,15.02,46.63
 2,72.0,Genetic_bank,F24-3641,CIAT-18004,Fabales,Fabaceae,Chamaecrista,rotundifolia,Chamaecrista rotundifolia,Herbaceous_legumes,15,93.07,6.2,93.8,15.74,14.77,44.28
 2,73.0,Genetic_bank,F24-3642,CIAT-18430,Fabales,Fabaceae,Alysicarpus,vaginalis,Alysicarpus vaginalis,Herbaceous_legumes,15,92.69,12.12,87.88,24.28,21.69,39.93
@@ -1513,6 +1515,10 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 3,214.0,Genetic_bank,F25-2629,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.55044496,8.73018001,91.26981999,26.87770392,29.72559683,52.85646753
 3,215.0,Genetic_bank,F25-2630,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.89061094,7.423112927,92.57688707,23.44936461,29.29073261,49.84947921
 3,216.0,Genetic_bank,F25-2630,CIAT-20692,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.88244702,7.261183436,92.73881656,24.07881971,28.77103081,49.42450773
+3,217.0,Genetic_bank,F25-2631,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,92.81143771,7.616364546,92.38363545,24.73813252,33.60357368,54.11248908
+3,218.0,Genetic_bank,F25-2631,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,92.80431741,7.742541663,92.25745834,24.5087922,32.08954235,55.91050524
+3,219.0,Genetic_bank,F25-2632,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.46196141,7.829377709,92.17062229,26.08054842,29.13530131,48.79029556
+3,220.0,Genetic_bank,F25-2632,CIAT-17768,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,93.47,7.703337563,92.29666244,25.99286716,27.92505625,46.6236844
 3,221.0,Genetic_bank,F25-2633,CIAT-712,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.13,8.401197281,91.59880272,26.19869808,32.1612832,52.38009466
 3,222.0,Genetic_bank,F25-2633,CIAT-712,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,95.0809838,8.441567527,91.55843247,26.0977117,32.50629081,52.53115232
 3,223.0,Genetic_bank,F25-2634,CIAT-712,Fabales,Fabaceae,Clitoria ,ternatea,Clitoria ternatea ,Herbaceous_legumes,26,91.31086891,7.165380339,92.83461966,20.0349409,34.4972745,51.88354333
@@ -2366,6 +2372,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 5,,LMF,F26-1082,CIAT-13953,Fabales,Fabaceas,Desmodium,velutinum,Desmodium velutinum,Shrub_Trees,36,89.44211158,8.223076563,91.77692344,26.10405188,25.16329078,60.69742339
 5,,Genetic_bank,F26-1083,CIAT-9432,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,36,92.76289484,7.526736461,92.47326354,35.55523936,23.09143508,58.04316127
 5,,Genetic_bank,F26-1083,CIAT-9432,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,36,92.90070993,7.47513879,92.52486121,35.56142729,22.31881909,57.306669
+5,,Genetic_bank,F26-1084,CIAT-17768,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,36,91.73248026,7.273883029,92.72611697,34.76922374,32.25676421,59.79227918
+5,,Genetic_bank,F26-1084,CIAT-17768,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,36,91.8832467,7.251380016,92.74861998,34.83908339,31.83733288,58.3229539
 5,,Genetic_bank,F26-1085,CIAT-22768,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,36,91.6,9.321489935,90.67851007,29.84085757,27.06320283,55.4788623
 5,,Genetic_bank,F26-1085,CIAT-22768,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,36,91.63251025,9.351429787,90.64857021,29.61554059,27.7061392,57.74240478
 5,,Genetic_bank,F26-1086,CIAT-22598,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,36,91.44342263,8.558432203,91.4415678,29.00576439,21.89,56.82664687
@@ -2839,6 +2847,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 6,,JUAN CARDOSO,F26-3291,CIAT-13953,Fabales,Fabaceas,Desmodium,velutinum,Desmodium velutinum,Shrub_Trees,39,92.56223133,10.04283933,89.95716067,21.8482649,30.42777345,57.52923089
 6,,Genetic_bank,F26-3292,CIAT-9432,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,39,92.2523243,6.729182464,93.27081754,20.51846166,33.70922778,55.04006669
 6,,Genetic_bank,F26-3292,CIAT-9432,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,39,92.26154769,6.372230089,93.62776991,21.62773123,35.76881742,56.67887215
+6,,Genetic_bank,F26-3293,CIAT-17768,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,39,92.40303878,7.191843656,92.80815634,27.32959051,33.33028553,58.56879411
+6,,Genetic_bank,F26-3293,CIAT-17768,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,39,93.01069893,7.204786602,92.7952134,26.52716557,32.6877047,61.42964972
 6,,Genetic_bank,F26-3294,CIAT-22768,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,39,90.86,8.665011104,91.3349889,26.45271424,27.09655676,52.32380933
 6,,Genetic_bank,F26-3294,CIAT-22768,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,39,91.02089791,8.763100657,91.23689934,26.13783937,26.62037382,50.84947614
 6,,Genetic_bank,F26-3295,CIAT-22598,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,39,91.42171566,9.666046301,90.3339537,23.14004359,26.6617087,51.1562056
@@ -2855,6 +2865,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 6,,Genetic_bank,F26-3300,CIAT-17462,Fabales,Fabaceas,Canavalia,brasiliensis,Canavalia brasiliensis,Herbaceous_legumes,39,91.44342263,12.81458606,87.18541394,22.73437674,23.99648851,48.89687192
 6,,Genetic_bank,F26-3301,CIAT-9432,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,39,92.93,6.282609865,93.71739014,23.4740635,34.14736591,57.55288277
 6,,Genetic_bank,F26-3301,CIAT-9432,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,39,92.98,6.142757248,93.85724275,22.66633816,35.20929414,58.86560064
+6,,Genetic_bank,F26-3302,CIAT-17768,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,39,92.76072393,6.293030443,93.70696956,26.03305382,36.64745367,61.5968015
+6,,Genetic_bank,F26-3302,CIAT-17768,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,39,92.82287085,6.301915794,93.69808421,26.50818533,35.755735,61.30939218
 6,,Genetic_bank,F26-3303,CIAT-22768,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,39,92.2423273,9.587300193,90.41269981,18.99687405,26.94204369,55.54824582
 6,,Genetic_bank,F26-3303,CIAT-22768,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,39,92.32153569,9.588258731,90.41174127,19.29540139,26.93983453,54.4516139
 6,,Genetic_bank,F26-3304,CIAT-22598,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,39,91.50169966,7.479322403,92.5206776,21.79056664,19.42138791,55.58576216
@@ -2997,6 +3009,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 6,,JUAN CARDOSO,F26-3378,CIAT-13953,Fabales,Fabaceas,Desmodium,velutinum,Desmodium velutinum,Shrub_Trees,41,95.5613316,11.46928799,88.53071201,21.95777732,30.90708765,49.43906247
 6,,Genetic_bank,F26-3379,CIAT-9432,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,41,96.10116965,6.487835309,93.51216469,17.94040893,32.9135369,49.49351324
 6,,Genetic_bank,F26-3379,CIAT-9432,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,41,96.20113966,6.633395716,93.36660428,18.33649218,33.11944628,49.23138782
+6,,Genetic_bank,F26-3380,CIAT-17768,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,41,96.01079784,6.484517304,93.5154827,19.7030487,25.51105805,46.40072516
+6,,Genetic_bank,F26-3380,CIAT-17768,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,41,96.10077984,6.505334374,93.49466563,20.37274731,26.65274154,48.06766009
 6,,Genetic_bank,F26-3381,CIAT-22768,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,41,94.5,9.528341794,90.47165821,22.77354749,25.72811885,44.27050002
 6,,Genetic_bank,F26-3381,CIAT-22768,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,41,94.62,9.686971235,90.31302876,22.8719341,26.18801544,43.29204182
 6,,Genetic_bank,F26-3382,CIAT-22598,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,41,94.9110178,8.574264737,91.42573526,23.77101099,26.02137214,45.1027273
@@ -3137,6 +3151,8 @@ subset,no,requisitioner,id_lab,id,tax_order,family,genus,species,tax_name,functi
 6,,JUAN CARDOSO,F26-4726,CIAT-13953,Fabales,Fabaceas,Desmodium,velutinum,Desmodium velutinum,Shrub_Trees,42,96.2614954,10.45698673,89.54301327,22.79709806,28.94528041,48.95758767
 6,,Genetic_bank,F26-4727,CIAT-9432,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,42,95.17096581,7.374705531,92.62529447,21.22380993,26.5907332,48.58647257
 6,,Genetic_bank,F26-4727,CIAT-9432,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,42,95.17144857,7.584052849,92.41594715,21.41596351,25.51918935,46.85431682
+6,,Genetic_bank,F26-4728,CIAT-17768,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,42,96.18076385,5.679871242,94.32012876,19.34574764,26.70067042,47.9020454
+6,,Genetic_bank,F26-4728,CIAT-17768,Fabales,Fabaceas,Clitoria,tertanea,Clitoria tertanea,Herbaceous_legumes,42,96.39072186,5.565650797,94.4343492,19.91989366,27.52978556,49.03239339
 6,,Genetic_bank,F26-4729,CIAT-22768,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,42,94.4516645,8.520366283,91.47963372,22.78589692,29.2099026,47.20482896
 6,,Genetic_bank,F26-4729,CIAT-22768,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,42,94.92,8.269452582,91.73054742,23.08791659,27.50297351,47.44377087
 6,,Genetic_bank,F26-4730,CIAT-22598,Fabales,Fabaceas,Lablab,purpureus,Lablab purpureus,Herbaceous_legumes,42,95.03149055,10.1329639,89.8670361,23.66522694,29.09656823,46.29932737

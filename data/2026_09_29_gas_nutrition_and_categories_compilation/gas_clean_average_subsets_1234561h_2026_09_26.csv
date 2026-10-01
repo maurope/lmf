@@ -235,6 +235,7 @@ F24-3636,CIAT-11162,2,86,Genetic_bank,Stylosanthes scabra,Herbaceous_legumes,44.
 F24-3637,CIAT-13301,2,89,Genetic_bank,Desmodium sequax,Shrub_Trees,21.65,36.71,79.25,26.72,3.42,14.0,15.79,12.51,48.61,-287.68,6
 F24-3638,CIAT-15401,2,92,Genetic_bank,Centrosema brasilianum,Herbaceous_legumes,42.28,70.33,150.83,52.1,3.47,13.84,15.7,23.67,45.47,-30307.6,7
 F24-3639,CIAT-17360,2,319,Genetic_bank,Alysicarpus vaginalis,Herbaceous_legumes,37.19,68.51,147.48,62.8,4.26,15.72,16.94,24.99,39.91,-1689.12,8
+F24-3640,CIAT-17768,2,321,Genetic_bank,Clitoria ternatea,Herbaceous_legumes,48.48,96.71,206.79,62.31,3.02,14.83,16.26,33.63,54.62,1076.52,9
 F24-3641,CIAT-18004,2,324,Genetic_bank,Chamaecrista rotundifolia,Herbaceous_legumes,43.61,92.53,199.03,58.72,2.95,13.81,15.73,31.32,53.53,1161.41,9
 F24-3642,CIAT-18430,2,327,Genetic_bank,Alysicarpus vaginalis,Herbaceous_legumes,42.43,78.86,170.13,62.24,3.66,15.38,16.74,28.48,46.1,297.36,9
 F24-3644,CIAT-18708,2,330,Genetic_bank,Crotalaria pallida,Herbaceous_legumes,44.0,80.49,173.23,59.88,3.47,15.06,17.16,29.73,49.94,-62035.89,9
@@ -651,6 +652,8 @@ F25-2627,BR-02-1752-Cayman-Exc,3,978,Benchmark,Urochloa interespecific,Grass,43.
 F25-2628,BR-06-423-Cayman-Exc,3,981,Benchmark,Urochloa interespecific,Grass,43.72,91.35,188.93,55.73,2.96,13.48,14.77,27.9,50.2,242.7,9
 F25-2629,CIAT-20692,3,984,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,47.89,88.9,185.34,55.34,2.99,14.19,15.32,28.37,51.76,248.17,9
 F25-2630,CIAT-20692,3,987,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,56.22,95.52,202.32,55.21,2.76,14.76,15.96,32.32,58.65,276.89,9
+F25-2631,CIAT-17768,3,990,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,51.86,87.15,186.89,48.13,2.59,14.87,15.89,29.72,63.42,295.56,9
+F25-2632,CIAT-17768,3,994,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,54.95,91.82,196.68,57.75,2.94,14.6,15.62,30.65,53.15,248.05,8
 F25-2633,CIAT-712,3,998,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,50.88,88.64,187.3,54.8,2.94,14.39,15.48,28.98,53.06,251.15,7
 F25-2634,CIAT-712,3,999,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,51.0,87.74,189.69,53.03,2.8,14.48,15.64,29.67,56.29,260.25,9
 F25-2635,CIAT-9432,3,1002,Genetic_bank,Clitoria ternatea ,Herbaceous_legumes,48.11,84.96,179.7,47.39,2.64,14.82,15.81,28.4,60.83,287.97,9
@@ -952,6 +955,7 @@ F26-1080,CIAT-17009,5,1281,Genetic_bank,Canavalia brasiliensis,Herbaceous_legume
 F26-1081,CIAT-17462,5,1283,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,41.77,84.38,183.98,56.35,3.07,15.0,16.71,30.76,55.56,-0.38,6
 F26-1082,CIAT-13953,5,1285,LMF,Desmodium velutinum,Shrub_Trees,38.09,71.21,160.18,45.81,2.86,13.78,15.57,24.94,54.94,-1.71,6
 F26-1083,CIAT-9432,5,1287,Genetic_bank,Clitoria tertanea,Herbaceous_legumes,58.44,96.21,207.12,58.46,2.84,15.73,16.96,35.15,61.2,1.28,6
+F26-1084,CIAT-17768,5,1289,Genetic_bank,Clitoria tertanea,Herbaceous_legumes,56.94,93.88,204.38,48.44,2.37,15.3,16.59,33.92,70.85,5.45,6
 F26-1085,CIAT-22768,5,1291,Genetic_bank,Lablab purpureus,Herbaceous_legumes,61.52,102.29,223.19,59.05,2.65,15.27,16.73,37.37,63.67,0.71,6
 F26-1086,CIAT-22598,5,1293,Genetic_bank,Lablab purpureus,Herbaceous_legumes,61.52,102.79,224.7,57.16,2.55,15.82,17.29,38.86,68.74,1.04,6
 F26-1087,CIAT-18701,5,1295,LMF,Cajanus cajan,Shrub_Trees,29.11,51.01,110.78,27.75,2.6,13.76,15.42,17.12,70.43,-1.19,12
@@ -973,6 +977,7 @@ F26-2914,CIAT-Mulato-II-Qu,6,493,Breeding,Urochloa interespecific,Grass,37.29,84
 F26-2915,CIAT-BR-04-2515,6,495,Breeding,Urochloa interespecific,Grass,34.46,91.18,192.43,51.4,2.67,16.6,17.13,32.94,64.15,1.34,6
 F26-2916,CIAT-BR-05-931,6,497,Breeding,Urochloa interespecific,Grass,38.26,90.97,192.9,48.65,2.52,15.6,16.93,32.67,67.86,-3.91,6
 F26-2917,CIAT-BR-09-5252,6,499,Breeding,Urochloa interespecific,Grass,37.21,85.76,181.84,48.67,2.68,15.18,15.88,28.9,59.56,-2.17,6
+F26-2918,CIAT-BR-12-1176,6,501,Breeding,Urochloa interespecific,Grass,37.13,90.51,192.66,55.03,2.85,14.72,16.53,31.84,58.2,0.8,6
 F26-2919,CIAT-BR-12-1280,6,503,Breeding,Urochloa interespecific,Grass,35.63,83.18,175.13,54.13,3.08,15.58,16.93,29.65,55.06,0.72,6
 F26-2920,CIAT-BR-12-1282,6,505,Breeding,Urochloa interespecific,Grass,35.13,85.18,179.86,51.29,2.84,15.42,16.13,29.03,56.84,0.95,6
 F26-2921,CIAT-BR-12-1325,6,507,Breeding,Urochloa interespecific,Grass,32.46,84.68,178.38,49.23,2.75,15.23,16.4,29.26,59.88,0.68,6
@@ -1173,6 +1178,7 @@ F26-3289,CIAT-17009,6,585,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes
 F26-3290,CIAT-17462,6,587,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,30.46,71.18,157.4,62.92,4.0,16.08,16.27,25.61,40.76,0.43,6
 F26-3291,CIAT-13953,6,589,JUAN CARDOSO,Desmodium velutinum,Shrub_Trees,30.63,65.51,142.07,49.72,3.5,16.07,16.65,23.66,47.77,-0.53,6
 F26-3292,CIAT-9432,6,591,Genetic_bank,Clitoria tertanea,Herbaceous_legumes,43.13,80.59,174.64,50.93,2.91,18.57,19.27,33.66,66.2,0.44,6
+F26-3293,CIAT-17768,6,593,Genetic_bank,Clitoria tertanea,Herbaceous_legumes,38.13,72.76,156.87,48.98,3.12,18.77,18.93,29.68,60.98,0.52,6
 F26-3294,CIAT-22768,6,595,Genetic_bank,Lablab purpureus,Herbaceous_legumes,41.13,87.76,192.92,57.87,3.0,16.65,17.5,33.75,59.03,0.37,6
 F26-3295,CIAT-22598,6,597,Genetic_bank,Lablab purpureus,Herbaceous_legumes,42.21,84.76,185.28,63.74,3.44,17.53,30.79,57.67,88.11,0.8,6
 F26-3296,CIAT-18701,6,599,JUAN CARDOSO,Cajanus cajan,Shrub_Trees,19.79,39.43,84.97,16.24,1.96,15.57,17.1,14.55,101.18,-0.09,6
@@ -1181,6 +1187,7 @@ F26-3298,CIAT-15551,6,603,Genetic_bank,Centrosema molle,Herbaceous_legumes,24.38
 F26-3299,CIAT-17009,6,605,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,35.88,81.01,177.3,57.21,3.23,15.82,16.14,28.59,51.35,0.17,6
 F26-3300,CIAT-17462,6,607,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,33.29,77.51,169.45,58.51,3.45,16.2,15.92,26.98,46.61,0.76,6
 F26-3301,CIAT-9432,6,609,Genetic_bank,Clitoria tertanea,Herbaceous_legumes,41.21,79.76,171.53,51.92,3.02,18.27,17.99,30.86,59.67,0.64,6
+F26-3302,CIAT-17768,6,611,Genetic_bank,Clitoria tertanea,Herbaceous_legumes,38.29,74.26,160.01,51.68,3.24,18.3,18.17,29.05,56.31,0.53,6
 F26-3303,CIAT-22768,6,613,Genetic_bank,Lablab purpureus,Herbaceous_legumes,38.88,83.68,181.26,67.8,3.74,17.57,17.72,32.11,47.44,0.26,6
 F26-3304,CIAT-22598,6,615,Genetic_bank,Lablab purpureus,Herbaceous_legumes,46.04,98.59,215.21,65.47,3.05,16.82,17.87,38.44,58.86,0.38,6
 F26-3305,CIAT-18701,6,617,JUAN CARDOSO,Cajanus cajan,Shrub_Trees,28.86,59.37,124.48,40.76,3.27,16.5,18.2,22.69,55.63,2.0,6
@@ -1189,6 +1196,7 @@ F26-3376,CIAT-17009,6,1065,Genetic_bank,Canavalia brasiliensis,Herbaceous_legume
 F26-3377,CIAT-17462,6,1067,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,39.44,81.5,172.9,64.79,3.75,16.12,17.97,31.06,48.07,0.92,6
 F26-3378,CIAT-13953,6,1069,JUAN CARDOSO,Desmodium velutinum,Shrub_Trees,33.6,66.25,138.63,51.55,3.76,16.5,17.46,24.18,46.88,-2.48,6
 F26-3379,CIAT-9432,6,1071,Genetic_bank,Clitoria tertanea,Herbaceous_legumes,45.44,80.83,168.03,52.1,3.1,18.5,19.65,33.02,63.71,1.39,6
+F26-3380,CIAT-17768,6,1073,Genetic_bank,Clitoria tertanea,Herbaceous_legumes,47.52,91.67,190.73,58.42,3.06,18.15,19.1,36.41,62.57,-2.68,6
 F26-3381,CIAT-22768,6,1075,Genetic_bank,Lablab purpureus,Herbaceous_legumes,44.69,89.92,190.14,67.45,3.55,17.58,18.25,34.7,51.52,0.68,6
 F26-3382,CIAT-22598,6,1077,Genetic_bank,Lablab purpureus,Herbaceous_legumes,45.02,92.58,194.99,65.32,3.36,16.8,17.75,34.59,52.95,0.74,6
 F26-3383,CIAT-18701,6,1079,JUAN CARDOSO,Cajanus cajan,Shrub_Trees,27.35,54.67,116.97,35.13,3.01,16.73,18.09,21.15,60.71,-2.58,6
@@ -1205,6 +1213,7 @@ F26-4724,CIAT-17009,6,1527,Genetic_bank,Canavalia brasiliensis,Herbaceous_legume
 F26-4725,CIAT-17462,6,1529,Genetic_bank,Canavalia brasiliensis,Herbaceous_legumes,43.0,86.91,183.69,62.94,3.43,15.9,17.32,31.81,50.63,-1.26,6
 F26-4726,CIAT-13953,6,1531,JUAN CARDOSO,Desmodium velutinum,Shrub_Trees,43.59,79.33,164.71,53.67,3.25,15.43,17.18,28.28,53.53,0.95,6
 F26-4727,CIAT-9432,6,1533,Genetic_bank,Clitoria tertanea,Herbaceous_legumes,48.42,87.16,183.08,56.08,3.08,16.67,18.1,33.2,60.17,0.7,6
+F26-4728,CIAT-17768,6,1535,Genetic_bank,Clitoria tertanea,Herbaceous_legumes,55.5,101.5,210.74,58.19,2.75,16.87,18.06,38.06,66.43,-0.74,6
 F26-4729,CIAT-22768,6,1537,Genetic_bank,Lablab purpureus,Herbaceous_legumes,53.34,105.58,222.9,63.99,2.87,16.37,17.37,38.71,61.02,1.21,6
 F26-4730,CIAT-22598,6,1539,Genetic_bank,Lablab purpureus,Herbaceous_legumes,51.34,96.24,201.5,63.0,3.13,16.65,17.74,35.75,56.95,0.69,6
 F26-4731,CIAT-18701,6,1541,JUAN CARDOSO,Cajanus cajan,Shrub_Trees,29.37,54.29,114.75,21.58,1.87,15.3,16.55,18.99,94.48,-0.35,6
