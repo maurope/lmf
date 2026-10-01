@@ -200,6 +200,7 @@
     // Build the Tabulator column definitions once: species name,
     // one column per category, then Total.
     const columnDefs = [
+      { title: "Functional group", field: "functional_group", sorter: "string" },
       { title: "Species", field: "tax_name", sorter: "string", widthGrow: 2 },
       ...categoryOrder.map(function(cat) {
         return {
@@ -282,7 +283,7 @@
       filtered.forEach(function(row) {
         const sp = row.tax_name;
         if (!bySpecies[sp]) {
-          bySpecies[sp] = { tax_name: sp, Total: 0 };
+          bySpecies[sp] = { tax_name: sp, functional_group: row.functional_group, Total: 0 };
           categoryOrder.forEach(function(cat) { bySpecies[sp][cat] = 0; });
         }
         if (categoryOrder.indexOf(row.lmf_category) !== -1) {

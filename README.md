@@ -28,14 +28,14 @@ Click the image below to explore the interactive web:
 
  [![Dashboard](assets/images/interactive_banner.png)](https://maurope.github.io/lmf/assets/html/index.html)
 
-## Datasets
+## Datasets (Last update: 20206_10_01 )
 
 Explore the latest datasets from the **Low Methane Forages (LMF)** project:
 
-- [gas_raw](https://github.com/maurope/lmf/blob/main/output/2026_06_05_sql_data_frame_creation_with_curated_subsets/subsets_1_2_3_4_gas_sorted_by_sql.csv) – Raw gas data directly from the laboratory. Intended for reference and queries only; **not recommended for analysis**.
-- [gas_clean](https://github.com/maurope/lmf/blob/main/output/2026_06_09_trial_database_curation/gas_clean_complete_subsets_1234_2026_06_09.csv) – Cleaned and curated gas data, **ready for analysis**.
-- [nutrition](https://github.com/maurope/lmf/blob/main/output/2026_06_09_trial_database_curation/nutrition_complete_subsets_1234_2026_06_09.csv) – Cleaned and curated nutritional data, **ready for analysis**.
-- [compiled](https://github.com/maurope/lmf/blob/main/data/2026_08_31_web_visualizer/compiled_categories_quartiles_modified_for_CIAT-8719_and_CIAT-7714_to_recalculate_ranking.csv) – Combined gas and nutritional data with averaged values, **ready for analysis**.
+- [gas_raw](https://github.com/maurope/lmf/blob/main/output/2026_09_24_sql_data_frame_creation_with_curated_subsets/subsets_1_2_3_4_5_6_1h_gas_sorted_by_sql.csv) – Raw gas data directly from the laboratory. Intended for reference and queries only; **not recommended for analysis**.
+- [gas_clean](https://github.com/maurope/lmf/blob/main/output/2026_09_26_trial_database_curation/gas_clean_complete_subsets_1234561h_2026_09_26.csv) – Cleaned and curated gas data, **ready for analysis**.
+- [nutrition](https://github.com/maurope/lmf/blob/main/output/2026_09_26_trial_database_curation/nutrition_complete_subsets_1234561h_2026_09_26.csv) – Cleaned and curated nutritional data, **ready for analysis**.
+- [compiled](https://github.com/maurope/lmf/blob/main/output/2026_09_29_gas_nutrition_and_categories_compilation/gas_nutrition_categories_2026_10_01.csv) – Combined gas and nutritional data with averaged values, **ready for analysis**.
 ---
 
 ## Getting Started
