@@ -28,7 +28,8 @@ Click the image below to explore the interactive web:
 
  [![Dashboard](assets/images/interactive_banner.png)](https://maurope.github.io/lmf/assets/html/index.html)
 
-## Datasets (Last update: 20206_10_01 )
+## Datasets 
+(Last update: 2026_10_01 )
 
 Explore the latest datasets from the **Low Methane Forages (LMF)** project:
 
