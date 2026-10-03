@@ -5,7 +5,7 @@
 
 # PROJECT REPOSITORY
 
-Last updated: 2026-08-25
+
 
 ## Overview
 
@@ -26,9 +26,10 @@ To know more about Low Methane Forages project visit our [web page](https://alli
 
 Click the image below to explore the interactive web:
 
- [![Dashboard](assets/images/interactive_banner.png)](https://maurope.github.io/lmf/assets/html/index.html)
+ [![Dashboard](assets/images/dbVisualizer_logo.png)](https://maurope.github.io/lmf/assets/html/index.html)
 
-## Datasets 
+## Datasets
+
 (Last update: 2026_10_01 )
 
 Explore the latest datasets from the **Low Methane Forages (LMF)** project:
