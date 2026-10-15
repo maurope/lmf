@@ -1,0 +1,395 @@
+subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage,pc_percentage_dm,ndf_percentage_dm,adf_percentage_dm,adl_percentage_dm,ch4_percentage_in_gas_8h,ch4_percentage_in_gas_24h,methane_intensity,tddm,ch4_category,tddm_category,lmf_category,lmf_category_rank
+1,124061,1,223,Stylosanthes guianensis,Herbaceous_legumes,92.49,9.28,90.72,12.05,52.0,,,8.23,16.07,44.53,62.76,High,High,Category_3,49.0
+1,123780,10,763,Centrosema brasilianum,Herbaceous_legumes,90.91,8.61,91.39,16.13,65.9,,,11.73,17.88,47.14,61.12,High,High,Category_3,74.0
+1,123961,10000,837,Alysicarpus rugosus,Herbaceous_legumes,90.26,11.06,88.94,17.11,48.8,,,12.13,18.05,46.84,59.76,High,Not High,Category_4,2.0
+1,123715,10057,705,Zonia latifolia,Herbaceous_legumes,91.18,7.59,92.41,14.81,54.13,,,8.65,15.45,39.28,54.74,Medium,Not High,Category_2,25.0
+1,123682,10084,407,Mucuna pruriens,Herbaceous_legumes,91.57,8.74,91.26,18.99,54.27,,,9.78,15.59,40.28,61.31,Medium,High,Category_1b,75.0
+1,127194,10107,523,Trifolium steudneri Schweinf.,Herbaceous_legumes,95.19,37.4,62.6,17.35,32.82,,,11.08,17.6,39.32,57.67,Medium,Not High,Category_2,26.0
+1,127149,10119,507,Trifolium tembense,Herbaceous_legumes,92.75,29.73,70.27,24.63,39.59,,,12.33,16.32,39.92,61.01,Medium,High,Category_1b,74.0
+1,125366,10134,303,Trifolium steudneri Schweinf.,Herbaceous_legumes,94.77,30.1,69.9,26.3,26.58,,,8.37,13.8,28.63,48.79,Low,Not High,Category_2,10.0
+1,123787,1029,777,Crotalaria sp.,Herbaceous_legumes,90.18,6.4,93.6,9.23,64.24,,,11.57,15.58,53.3,45.21,High,Not High,Category_4,26.0
+1,123781,103,765,Centrosema pubescens Benth.,Herbaceous_legumes,91.33,11.17,88.83,22.73,58.21,,,10.47,18.03,39.36,61.32,Medium,High,Category_1b,69.0
+1,127229,1030,549,Desmodium velutinum,Herbaceous_legumes,93.08,17.25,82.75,22.67,33.56,,,10.22,18.3,37.11,68.35,Medium,High,Category_1b,32.0
+1,124041,10375,219,Sesbania sesban,Shrub_Trees,93.02,7.04,92.96,19.91,52.86,,,7.58,15.37,35.0,59.94,Medium,Not High,Category_2,16.0
+1,128386,10377,683,Eriosema sp.,Herbaceous_legumes,90.98,7.67,92.33,18.58,57.4,,,11.32,16.3,40.71,57.22,Medium,Not High,Category_2,30.0
+1,123683,10379,175,Sesbania sesban,Shrub_Trees,92.07,8.57,91.43,25.79,38.4,,,6.48,17.38,33.94,73.43,Medium,High,Category_1b,2.0
+1,123809,10391,199,Stylosanthes fruticosa,Herbaceous_legumes,91.77,8.8,91.2,13.46,53.05,,,8.12,16.58,48.25,60.02,High,High,Category_3,82.0
+1,123788,1043,779,Teramnus repens,Herbaceous_legumes,90.3,9.46,90.54,18.39,54.87,,,11.45,18.27,51.41,62.25,High,High,Category_3,79.0
+1,122788,10663,357,Lathyrus sativus,Herbaceous_legumes,90.75,13.13,86.87,25.22,48.34,,,11.38,16.35,41.45,73.3,Medium,High,Category_1b,45.0
+1,128301,1070,643,Macrotyloma axillare,Herbaceous_legumes,91.3,9.32,90.68,16.17,50.71,,,8.45,17.68,47.52,64.88,High,High,Category_3,45.0
+1,123716,10852,707,GLycin max,Herbaceous_legumes,89.54,8.91,91.09,16.66,45.62,,,10.35,17.57,51.6,72.99,High,High,Category_3,23.0
+1,122953,10856,405,Macroptilium atropurpureum    ,Herbaceous_legumes,92.46,9.71,90.29,22.06,47.58,,,10.88,17.68,45.0,64.22,High,High,Category_3,40.0
+1,127177,10858,589,Desmodium incanum,Herbaceous_legumes,91.24,18.6,81.4,24.61,42.77,,,8.87,16.88,33.8,69.12,Low,High,Category_1a,19.0
+1,123684,10865,177,Sesbania sesban,Shrub_Trees,90.48,9.11,90.89,24.53,35.51,,,7.56,16.97,35.72,76.44,Medium,High,Category_1b,1.0
+1,124464,10871,79,Urochloa decumbens,Grasses,90.09,9.91,90.09,4.14,78.25,52.19,10.06,7.08,13.73,36.86,38.92,,,,
+1,128316,10873,651,Bouffordia dichotoma,Herbaceous_legumes,91.31,7.58,92.42,12.85,57.57,,,9.7,16.48,42.71,57.42,Medium,Not High,Category_2,38.0
+1,124067,10891,227,Stylosanthes humilis,Herbaceous_legumes,91.74,9.58,90.42,12.81,56.71,,,8.32,15.43,42.53,56.85,Medium,Not High,Category_2,36.0
+1,127232,10909,595,Centrosema macrocarpum,Herbaceous_legumes,90.46,18.26,81.74,19.64,60.95,,,12.3,18.23,33.91,53.67,Low,Not High,Category_2,13.0
+1,123894,10921,301,Vigna parkeri,Herbaceous_legumes,91.59,11.4,88.6,19.13,46.85,,,9.83,17.38,45.28,67.94,High,High,Category_3,29.0
+1,122918,10954,109,Lablab purpureus  ,Herbaceous_legumes,90.3,8.58,91.42,27.6,42.92,34.26,8.55,6.98,18.13,41.17,73.27,Medium,High,Category_1b,44.0
+1,122957,10977,103,Lablab purpureus,Herbaceous_legumes,90.58,10.93,89.07,22.59,39.53,28.69,7.62,6.87,17.38,38.99,77.34,Medium,High,Category_1b,9.0
+1,123739,11011,183,Stylosanthes hamata    ,Herbaceous_legumes,91.04,8.93,91.07,14.74,58.55,,,8.52,15.57,43.55,56.69,Medium,Not High,Category_2,41.0
+1,123895,11038,825,Aeschynomene villosa,Shrub_Trees,87.95,6.41,93.59,14.21,63.51,,,12.33,17.63,52.51,49.72,High,Not High,Category_4,8.0
+1,123896,11039,827,Aeschynomene villosa,Shrub_Trees,89.42,7.85,92.15,18.66,51.34,,,11.48,19.17,51.28,64.37,High,High,Category_3,6.0
+1,123685,11040,409,Aeschynomene villosa,Shrub_Trees,91.74,11.2,88.8,21.71,40.33,,,10.68,17.88,48.27,67.98,High,High,Category_3,4.0
+1,122920,11058,81,Cajanus cajan,Shrub_Trees,90.79,7.19,92.81,22.62,49.94,41.74,19.67,7.14,15.04,32.24,62.08,Low,High,Category_1a,19.0
+1,122826,11114,265,Vigna unguiculata,Herbaceous_legumes,90.89,9.41,90.59,15.7,60.21,,,9.85,13.78,40.73,58.6,Medium,Not High,Category_2,31.0
+1,123686,11171,411,Calopogonium mucunoides,Shrub_Trees,92.22,13.77,86.23,17.93,45.79,,,10.07,17.15,41.79,68.8,High,High,Category_3,3.0
+1,124044,11174,851,Calopogonium caeruleum,Shrub_Trees,89.34,13.68,86.32,21.85,45.41,,,10.68,18.85,41.54,69.06,High,High,Category_3,2.0
+1,123687,11177,413,Calopogonium caeruleum,Shrub_Trees,91.21,14.39,85.61,21.75,47.0,,,10.6,18.11,40.1,69.95,Medium,High,Category_1b,10.0
+1,123740,11179,729,Calopogonium caeruleum    ,Shrub_Trees,89.83,9.18,90.82,20.72,54.71,,,10.8,16.78,46.42,57.28,High,Not High,Category_4,6.0
+1,123688,11186,415,Aeschynomene brasiliana,Shrub_Trees,92.7,20.72,79.28,16.03,45.44,,,11.43,15.65,36.6,59.38,Medium,Not High,Category_2,18.0
+1,123899,11205,829,Aeschynomene americana,Shrub_Trees,88.72,6.02,93.98,11.63,71.76,,,11.72,17.43,47.04,41.97,High,Not High,Category_4,9.0
+1,128402,1127,691,Canavalia sp.,Herbaceous_legumes,90.69,11.24,88.76,16.44,49.44,,,8.7,18.08,47.45,62.59,High,High,Category_3,66.0
+1,128299,113,641,Vigna luteola,Herbaceous_legumes,90.21,12.81,87.19,25.76,33.68,,,9.73,18.42,38.93,83.14,Medium,High,Category_1b,4.0
+1,127171,11343,515,Zornia sp.,Herbaceous_legumes,93.74,28.69,71.31,22.45,42.68,,,10.9,17.63,28.68,61.64,Low,High,Category_1a,14.0
+1,125391,11344,475,Zornia sp.,Herbaceous_legumes,92.99,16.8,83.2,18.19,38.38,,,10.73,18.0,45.68,61.78,High,High,Category_3,65.0
+1,123816,11397,799,Zornia latifolia,Herbaceous_legumes,89.81,6.82,93.18,18.26,59.6,,,10.43,18.65,49.49,58.99,High,Not High,Category_4,9.0
+1,127240,11443,559,Zornia glabra,Herbaceous_legumes,92.68,19.89,80.11,11.93,51.29,,,10.38,17.05,42.38,59.38,Medium,Not High,Category_2,35.0
+1,123962,11459,839,Zornia glabra,Herbaceous_legumes,90.8,7.08,92.92,19.08,48.27,,,11.07,19.28,56.6,67.55,High,High,Category_3,57.0
+1,123963,11460,841,Zornia latifolia,Herbaceous_legumes,90.04,7.25,92.75,18.23,46.19,,,11.2,19.67,56.6,74.61,High,High,Category_3,26.0
+1,127227,11545,545,Centrosema pascuorum,Herbaceous_legumes,92.73,17.31,82.69,21.7,44.69,,,9.0,15.33,35.36,61.63,Low,High,Category_1a,34.0
+1,124046,11556,87,Cajanus cajan,Shrub_Trees,90.9,7.85,92.15,16.32,47.79,36.13,12.7,7.66,15.32,39.74,65.29,Medium,High,Category_1b,13.0
+1,122959,11560,83,Cajanus cajan,Shrub_Trees,91.06,6.31,93.69,22.77,56.14,42.47,20.67,7.4,15.9,36.71,57.55,Medium,Not High,Category_2,20.0
+1,124048,11566,91,Cajanus cajan,Shrub_Trees,90.26,7.13,92.87,15.04,50.88,35.48,10.23,9.18,17.03,49.72,66.45,High,High,Category_3,5.0
+1,123689,11575,85,Cajanus cajan,Shrub_Trees,91.48,8.11,91.89,19.96,48.77,37.47,14.33,7.15,16.73,38.39,63.76,Medium,High,Category_1b,12.0
+1,122805,11609,63,Lablab purpureus,Herbaceous_legumes,90.73,10.0,90.0,25.45,34.88,29.98,6.46,5.18,17.67,35.98,83.9,Medium,High,Category_1b,1.0
+1,122921,11629,111,Lablab purpureus  ,Herbaceous_legumes,89.88,8.73,91.27,28.87,37.22,29.13,7.83,6.82,18.32,39.03,83.45,Medium,High,Category_1b,3.0
+1,122789,11640,59,Lablab purpureus,Herbaceous_legumes,90.52,11.27,88.73,22.72,47.45,39.37,8.5,6.31,16.17,34.88,74.89,Low,High,Category_1a,13.0
+1,122845,11652,117,Leucaena diversifolia,Shrub_Trees,91.18,7.79,92.21,21.21,47.19,,,4.99,11.21,23.56,60.78,Low,High,Category_1a,9.0
+1,123742,11769,185,Stylosanthes  guianensis,Herbaceous_legumes,91.46,9.34,90.66,16.75,49.53,,,8.18,15.97,43.69,63.1,Medium,High,Category_1b,92.0
+1,123900,11786,831,Aeschynomene falcata,Shrub_Trees,90.68,7.69,92.31,13.25,55.71,,,11.38,18.3,45.77,60.34,High,High,Category_3,8.0
+1,122790,11989,249,Vigna unguiculata,Herbaceous_legumes,91.47,9.64,90.36,21.9,45.43,,,9.5,16.87,47.08,75.03,High,High,Category_3,11.0
+1,123817,12041,201,Stylosanthes macrocephala,Herbaceous_legumes,91.35,10.89,89.11,16.47,48.77,,,9.45,16.69,43.65,61.34,Medium,High,Category_1b,95.0
+1,123818,12073,203,Stylosanthes macrocephala,Herbaceous_legumes,92.84,9.28,90.72,16.22,53.17,,,8.33,16.47,42.37,58.6,Medium,Not High,Category_2,34.0
+1,128262,12080,619,Stylosanthes capitata,Herbaceous_legumes,90.6,9.71,90.29,16.35,47.53,,,9.1,18.5,50.86,64.53,High,High,Category_3,60.0
+1,124050,12118,855,Aeschynomene falcata,Shrub_Trees,89.16,7.18,92.82,18.5,52.97,,,11.65,18.37,45.27,61.68,High,High,Category_3,7.0
+1,123690,12122,417,Aeschynomene histrix,Shrub_Trees,91.81,8.03,91.97,16.2,55.62,,,9.9,16.6,42.0,56.94,High,Not High,Category_4,3.0
+1,123901,12140,833,Aeschynomene falcata,Shrub_Trees,89.59,7.76,92.24,16.59,55.12,,,11.18,18.5,47.6,58.27,High,Not High,Category_4,5.0
+1,127223,12146,539,Centrosema macrocarpum,Herbaceous_legumes,91.94,16.72,83.28,18.02,33.59,,,8.62,15.73,39.4,76.8,Medium,High,Category_1b,14.0
+1,123743,12148,731,Centrosema macrocarpum    ,Herbaceous_legumes,91.07,10.45,89.55,20.3,53.31,,,9.52,16.7,38.63,59.7,Medium,Not High,Category_2,23.0
+1,127233,12182,553,Centrosema acutifolium,Herbaceous_legumes,92.17,15.51,84.49,15.18,51.62,,,10.05,16.38,40.07,57.46,Medium,Not High,Category_2,28.0
+1,123967,12188,843,Centrosema brasilianum,Herbaceous_legumes,90.8,10.06,89.94,17.94,57.41,,,10.93,18.25,39.04,59.84,Medium,Not High,Category_2,24.0
+1,123819,12201,801,Centrosema brasilianum,Herbaceous_legumes,90.33,8.33,91.67,17.03,57.95,,,11.17,18.03,47.27,60.5,High,High,Category_3,78.0
+1,123746,12250,733,Grona adscendens    ,Herbaceous_legumes,89.81,6.52,93.48,11.21,56.48,,,6.63,4.83,11.95,46.54,Low,Not High,Category_2,3.0
+1,123823,12430,205,Stylosanthes macrocephala,Herbaceous_legumes,92.44,9.44,90.56,18.2,51.75,,,7.85,17.62,43.42,61.78,Medium,High,Category_1b,94.0
+1,128390,1251,685,Canavalia sp.,Herbaceous_legumes,90.88,10.64,89.36,19.79,49.0,,,7.95,16.63,40.79,68.72,Medium,High,Category_1b,50.0
+1,123825,12528,299,Trifolium tembense ,Herbaceous_legumes,92.61,15.26,84.74,16.07,49.33,,,11.47,14.52,43.56,63.9,Medium,High,Category_1b,88.0
+1,122806,12654,261,Vigna unguiculata,Herbaceous_legumes,90.94,11.58,88.42,22.9,37.51,,,8.88,17.0,41.84,82.29,Medium,High,Category_1b,11.0
+1,128205,12655,603,Vigna unguiculata,Herbaceous_legumes,92.49,14.48,85.52,26.03,28.3,,,9.0,19.02,37.38,84.96,Medium,High,Category_1b,2.0
+1,122792,12688,251,Vigna unguiculata,Herbaceous_legumes,91.41,13.45,86.55,24.7,39.5,,,9.02,17.02,40.88,77.94,Medium,High,Category_1b,24.0
+1,122793,12726,253,Vigna unguiculata,Herbaceous_legumes,91.7,11.98,88.02,22.85,46.09,,,7.77,15.42,37.07,71.82,Medium,High,Category_1b,16.0
+1,128263,12935,621,Rhynchosia sp.,Herbaceous_legumes,92.06,21.14,78.86,18.72,42.09,,,8.97,14.95,32.73,60.79,Low,High,Category_1a,32.0
+1,128265,12943,623,Vigna sp.,Herbaceous_legumes,91.27,15.07,84.93,18.61,42.61,,,9.42,15.98,32.6,68.56,Low,High,Category_1a,16.0
+1,128322,13212,585,Rhynchosia sp.,Herbaceous_legumes,92.51,26.73,73.27,18.92,40.63,,,9.65,18.78,37.13,61.18,Medium,High,Category_1b,52.0
+1,125324,13284,5,Cenchrus ciliaris,Grasses,91.31,12.29,87.71,8.01,70.97,36.95,6.66,7.94,13.07,36.2,49.95,,,,
+1,128344,13319,659,Ornithopus compressus,Herbaceous_legumes,88.32,16.52,83.48,13.9,33.25,,,8.15,14.6,41.76,75.96,Medium,High,Category_1b,38.0
+1,122829,13326,267,Vicia Villosa,Herbaceous_legumes,90.13,11.16,88.84,22.14,58.79,,,10.57,14.08,33.48,67.26,Low,High,Category_1a,24.0
+1,122928,13699,113,Lablab purpureus  ,Herbaceous_legumes,89.91,8.71,91.29,30.32,40.22,31.89,9.19,6.88,18.5,39.78,82.4,Medium,High,Category_1b,6.0
+1,122929,13703,125,Lablab purpureus  ,Herbaceous_legumes,91.56,9.26,90.74,27.52,42.35,,,7.22,18.5,41.47,78.45,Medium,High,Category_1b,26.0
+1,123827,13776,803,Neonotonia wightii,Herbaceous_legumes,89.94,8.91,91.09,14.79,56.57,,,9.73,18.12,54.5,62.17,High,High,Category_3,86.0
+1,123748,13787,735,Calpurnia aurea    ,Shrub_Trees,90.09,6.69,93.31,19.98,40.6,,,8.15,13.47,41.37,77.35,High,High,Category_3,1.0
+1,124070,13946,229,Stylosanthes fruticosa,Herbaceous_legumes,91.22,7.5,92.5,16.19,44.45,,,6.52,12.43,37.16,60.92,Medium,High,Category_1b,55.0
+1,123828,13950,207,Stylosanthes fruticosa,Herbaceous_legumes,92.14,13.86,86.14,15.94,43.04,,,8.0,17.67,45.04,65.93,High,High,Category_3,34.0
+1,123829,13951,209,Stylosanthes fruticosa,Herbaceous_legumes,92.22,10.5,89.5,14.28,45.68,,,8.1,17.15,46.21,58.94,High,Not High,Category_4,3.0
+1,123749,14197,187,Leucaena pulverulenta    ,Shrub_Trees,91.26,6.98,93.02,16.34,54.41,,,5.85,4.42,7.68,43.43,Low,Not High,Category_2,3.0
+1,128383,14202,677,Leucaena trichandra,Shrub_Trees,91.69,7.9,92.1,18.27,48.71,,,5.68,5.28,9.53,50.57,Low,Not High,Category_2,4.0
+1,125346,14203,161,Leucaena pallida,Shrub_Trees,91.5,8.11,91.89,23.94,48.59,,,5.33,12.87,25.66,63.51,Low,High,Category_1a,11.0
+1,122955,14342,133,Leucaena leucocephala,Shrub_Trees,91.52,11.75,88.25,23.03,45.15,,,5.25,13.3,23.26,64.24,Low,High,Category_1a,7.0
+1,124053,14371,857,Desmanthus covillei,Shrub_Trees,89.4,6.41,93.59,18.45,52.04,,,9.9,15.07,34.1,63.94,Medium,High,Category_1b,7.0
+1,123691,14390,419,Desmanthus acuminatus,Shrub_Trees,91.58,6.36,93.64,21.82,52.09,,,6.62,8.63,18.68,55.52,Low,Not High,Category_2,10.0
+1,124462,144,75,Megathyrsus maximus,Grasses,91.16,15.32,84.68,12.1,65.75,35.34,6.11,6.68,17.89,42.71,63.69,,,,
+1,128517,14413,307,Lablab purpures,Herbaceous_legumes,93.55,12.39,87.61,12.5,47.94,,,8.78,16.37,43.38,63.95,Medium,High,Category_1b,87.0
+1,122794,14417,61,Lablab purpureus,Herbaceous_legumes,90.6,11.05,88.95,19.42,43.52,38.86,8.26,6.37,17.37,38.82,74.01,Medium,High,Category_1b,23.0
+1,122951,14421,55,Lablab  purpureus,Herbaceous_legumes,90.03,10.23,89.77,27.83,41.93,31.0,7.97,7.68,15.97,32.76,81.85,Low,High,Category_1a,2.0
+1,122830,14423,67,Lablab purpureus,Herbaceous_legumes,90.67,9.73,90.27,21.21,47.21,41.95,9.4,6.12,16.29,37.47,72.13,Medium,High,Category_1b,19.0
+1,122831,14438,69,Lablab purpureus,Herbaceous_legumes,92.23,10.25,89.75,14.63,49.19,43.42,9.78,7.66,17.06,44.28,66.57,High,High,Category_3,31.0
+1,122832,14445,71,Lablab purpureus,Herbaceous_legumes,90.38,9.03,90.97,15.92,56.42,45.04,10.19,6.92,16.61,41.75,64.91,Medium,High,Category_1b,71.0
+1,128521,14447,315,Lablab purpures,Herbaceous_legumes,93.35,13.62,86.38,16.61,45.81,,,9.09,16.86,41.7,66.4,Medium,High,Category_1b,67.0
+1,123717,14449,95,Lablab purprues ,Herbaceous_legumes,90.51,9.98,90.02,19.55,45.62,40.74,9.2,7.22,17.53,39.71,74.15,Medium,High,Category_1b,28.0
+1,128523,14458,319,Lablab purpures,Herbaceous_legumes,93.89,10.17,89.83,13.08,51.93,,,8.47,16.48,43.42,64.33,Medium,High,Category_1b,85.0
+1,122833,14485,73,Lablab purpureus,Herbaceous_legumes,92.57,11.39,88.61,17.0,51.42,43.43,9.67,7.97,16.29,40.9,64.84,Medium,High,Category_1b,68.0
+1,128527,14486,327,Lablab purpures,Herbaceous_legumes,93.64,11.93,88.07,13.65,51.7,,,9.02,16.1,42.31,61.06,Medium,High,Category_1b,91.0
+1,125347,14501,163,Gliricidia sepium,Shrub_Trees,91.06,10.0,90.0,24.0,42.27,,,8.38,13.98,31.52,71.92,Low,High,Category_1a,12.0
+1,122956,14503,135,Gliricidia sepium,Shrub_Trees,91.64,9.68,90.32,22.98,45.93,,,7.1,16.75,39.06,75.18,Medium,High,Category_1b,4.0
+1,122948,14504,131,Gliricidia sepium    ,Shrub_Trees,91.48,11.29,88.71,24.96,42.28,,,6.88,14.73,28.37,75.35,Low,High,Category_1a,4.0
+1,123834,14539,805,Centrosema schottii,Herbaceous_legumes,89.99,11.47,88.53,17.3,52.94,,,9.98,18.05,41.52,63.14,Medium,High,Category_1b,78.0
+1,123692,14880,421,Mucuna pruriens,Herbaceous_legumes,92.38,9.13,90.87,21.65,50.85,,,8.87,16.2,35.82,65.34,Medium,High,Category_1b,35.0
+1,128268,14950,625,Vicia hirsuta,Herbaceous_legumes,91.5,10.98,89.02,15.33,51.88,,,10.77,18.68,48.95,63.38,High,High,Category_3,64.0
+1,125348,14978,165,Leucaena leucocephala,Shrub_Trees,91.64,9.1,90.9,26.07,42.22,,,5.35,14.92,29.56,66.77,Low,High,Category_1a,14.0
+1,122808,15005,363,Lupinus angustifolius,Herbaceous_legumes,90.77,8.53,91.47,18.4,41.07,,,7.22,16.05,49.93,64.4,High,High,Category_3,54.0
+1,124055,15036,859,Sesbania sesban,Shrub_Trees,88.76,5.98,94.02,17.09,55.07,,,8.93,13.42,32.0,62.95,Low,High,Category_1a,18.0
+1,125371,15116,449,Medicago rugosa,Herbaceous_legumes,94.2,16.16,83.84,25.06,45.07,,,8.77,14.67,21.52,58.48,Low,Not High,Category_2,7.0
+1,128384,15166,679,Calliandra calothyrsus,Shrub_Trees,91.5,7.93,92.07,16.59,51.29,,,5.25,5.83,6.64,56.46,Low,Not High,Category_2,2.0
+1,123693,15169,423,Mucuna pruriens,Herbaceous_legumes,91.92,10.23,89.77,16.69,55.08,,,9.33,16.1,41.24,60.08,Medium,High,Category_1b,86.0
+1,127152,15193,511,Melilotus albus,Herbaceous_legumes,91.06,12.59,87.41,28.07,47.86,,,8.47,15.13,39.5,65.27,Medium,High,Category_1b,57.0
+1,128271,15204,627,Vicia bithynica,Herbaceous_legumes,91.88,9.91,90.09,14.55,51.25,,,10.68,18.98,47.5,62.74,High,High,Category_3,63.0
+1,128415,15211,693,Vicia lutea,Herbaceous_legumes,90.5,7.3,92.7,14.65,55.05,,,11.68,19.33,63.92,59.0,High,Not High,Category_4,24.0
+1,128196,15217,581,Vicia sativa,Herbaceous_legumes,92.03,13.04,86.96,16.49,35.56,,,8.43,17.0,37.42,74.02,Medium,High,Category_1b,10.0
+1,123694,15237,273,Vicia villosa,Herbaceous_legumes,90.99,10.23,89.77,20.34,42.49,,,10.12,17.6,51.32,64.28,High,High,Category_3,69.0
+1,125372,15334,451,Melilotus suaveolens,Herbaceous_legumes,94.2,15.96,84.04,23.05,39.16,,,9.43,15.35,29.92,63.36,Low,High,Category_1a,17.0
+1,128275,15341,629,Melilotus siculus,Herbaceous_legumes,88.28,9.98,90.02,14.72,41.83,,,9.06,18.17,55.07,70.8,High,High,Category_3,33.0
+1,127151,15343,509,Melilotus officinalis,Herbaceous_legumes,91.37,10.73,89.27,25.48,51.8,,,9.32,15.0,49.06,53.35,High,Not High,Category_4,13.0
+1,128349,15350,661,Lotus conjugatus subsp. requienii,Herbaceous_legumes,89.07,11.34,88.66,15.75,35.7,,,8.23,14.83,44.74,72.68,High,High,Category_3,15.0
+1,128279,15390,631,Vicia sativa subsp. nigra,Herbaceous_legumes,90.83,8.69,91.31,14.72,54.45,,,11.68,18.08,54.17,62.25,High,High,Category_3,84.0
+1,128193,15398,577,Vicia sp.,Herbaceous_legumes,92.26,9.85,90.15,18.84,42.5,,,9.22,19.1,46.21,80.49,High,High,Category_3,2.0
+1,122917,15477,119,Gliricidia sepium    ,Shrub_Trees,91.29,10.06,89.94,22.6,38.97,,,7.27,17.13,38.59,76.7,Medium,High,Category_1b,3.0
+1,122937,15480,127,Gliricidia sepium    ,Shrub_Trees,91.33,10.04,89.96,22.77,39.9,,,6.92,16.93,39.47,74.98,Medium,High,Category_1b,5.0
+1,122958,15484,137,Gliricidia sepium    ,Shrub_Trees,91.52,9.27,90.73,20.57,46.07,,,6.68,16.27,39.76,71.1,Medium,High,Category_1b,9.0
+1,123695,15490,425,Desmodium cinereum,Shrub_Trees,91.78,8.64,91.36,15.06,51.69,,,7.57,12.52,31.22,54.54,Low,Not High,Category_2,14.0
+1,123751,15537,739,Albizia chinensis    ,Herbaceous_legumes,91.0,6.86,93.14,23.21,69.97,,,9.75,17.77,43.98,40.11,High,Not High,Category_4,23.0
+1,123696,15592,427,Canavalia brasiliensis,Herbaceous_legumes,91.95,9.49,90.51,15.95,52.7,,,8.58,18.25,47.73,62.91,High,High,Category_3,62.0
+1,127226,156,543,Neustanthus phaseoloides,Herbaceous_legumes,92.52,13.19,86.81,20.34,57.61,,,10.95,18.3,41.85,56.69,Medium,Not High,Category_2,33.0
+1,123837,15846,211,Stylosanthes hamata,Herbaceous_legumes,91.98,7.07,92.93,16.64,57.07,,,8.33,17.13,42.67,59.12,Medium,Not High,Category_2,37.0
+1,123752,15853,189,Stylosanthes hamata    ,Herbaceous_legumes,91.09,7.71,92.29,15.77,53.64,,,8.1,15.52,44.34,60.95,High,High,Category_3,68.0
+1,123838,15913,213,Stylosanthes hamata,Herbaceous_legumes,91.74,7.02,92.98,13.68,52.97,,,8.15,17.35,49.08,66.12,High,High,Category_3,41.0
+1,123839,15931,215,Stylosanthes hamata,Herbaceous_legumes,91.76,8.29,91.71,12.91,51.6,,,8.22,16.12,51.79,60.91,High,High,Category_3,85.0
+1,123840,15934,217,Stylosanthes hamata,Herbaceous_legumes,92.21,8.81,91.19,15.83,55.14,,,8.7,15.63,42.74,61.27,Medium,High,Category_1b,93.0
+1,125350,16075,231,Sesbania grandiflora,Shrub_Trees,91.13,12.23,87.77,20.27,33.18,,,5.77,12.68,26.71,72.0,Low,High,Category_1a,5.0
+1,127211,16108,531,Medicago polymorpha var. polymorpha,Herbaceous_legumes,93.32,21.06,78.94,19.31,41.21,,,10.35,13.78,27.56,70.97,Low,High,Category_1a,3.0
+1,127215,16118,535,Medicago noeana,Herbaceous_legumes,93.63,20.54,79.46,18.05,39.89,,,9.52,14.58,35.8,68.63,Medium,High,Category_1b,21.0
+1,128327,16128,653,Medicago rotata,Herbaceous_legumes,92.23,9.01,90.99,13.2,51.35,,,9.43,18.45,55.72,67.1,High,High,Category_3,58.0
+1,127130,16129,499,Medicago minima,Herbaceous_legumes,95.6,70.24,29.76,18.47,37.9,,,11.52,18.12,20.8,57.27,Low,Not High,Category_2,6.0
+1,127132,16132,501,Medicago rigidula (L.) All.,Herbaceous_legumes,95.78,29.25,70.75,22.77,32.25,,,10.43,19.35,32.52,63.94,Low,High,Category_1a,27.0
+1,125374,16152,453,Medicago rigidula (L.) All.,Herbaceous_legumes,92.77,30.38,69.62,22.36,39.03,,,10.77,16.87,45.39,57.86,High,Not High,Category_4,4.0
+1,125375,16156,455,Medicago polymorpha,Herbaceous_legumes,93.37,22.56,77.44,22.03,41.45,,,9.55,15.38,37.92,61.34,Medium,High,Category_1b,60.0
+1,127195,16159,525,Medicago polymorpha var. denticulata,Herbaceous_legumes,95.54,33.5,66.5,20.16,30.73,,,10.72,16.0,28.8,61.57,Low,High,Category_1a,15.0
+1,122799,16243,359,Aeschynomene villosa,Shrub_Trees,91.51,10.58,89.42,17.49,52.45,,,9.78,16.8,41.61,59.49,High,Not High,Category_4,1.0
+1,127174,16246,517,Bouffordia dichotoma,Herbaceous_legumes,92.73,14.35,85.65,20.41,55.83,,,9.38,14.7,36.5,53.08,Medium,Not High,Category_2,19.0
+1,122846,16260,379,Trifolium semipilosum,Herbaceous_legumes,91.67,11.27,88.73,19.77,45.05,,,10.13,16.5,49.3,75.94,High,High,Category_3,12.0
+1,127242,16266,561,Medicago orbicularis,Herbaceous_legumes,91.68,10.17,89.83,37.18,43.94,,,9.6,17.17,38.15,73.17,Medium,High,Category_1b,20.0
+1,124056,16277,151,Cajanus cajan,Shrub_Trees,92.35,7.35,92.65,19.41,52.73,,,6.63,16.72,36.29,57.75,Medium,Not High,Category_2,17.0
+1,124057,16278,153,Cajanus cajan,Shrub_Trees,92.24,8.43,91.57,16.64,51.53,,,6.82,17.8,40.96,58.7,High,Not High,Category_4,2.0
+1,123697,16344,429,Aeschynomene histrix,Shrub_Trees,91.66,6.55,93.45,12.4,57.78,,,10.07,14.93,45.03,53.24,High,Not High,Category_4,7.0
+1,125378,16358,457,Trifolium quartinianum,Herbaceous_legumes,93.04,18.51,81.49,29.48,43.0,,,9.08,14.67,40.2,48.18,Medium,Not High,Category_2,29.0
+1,127221,16451,537,Vicia sp.,Herbaceous_legumes,92.69,13.07,86.93,25.27,44.67,,,10.75,13.87,31.04,72.58,Low,High,Category_1a,6.0
+1,128351,16452,663,Lotus edulis,Herbaceous_legumes,90.81,12.32,87.68,16.44,35.3,,,6.63,15.4,42.87,72.07,Medium,High,Category_1b,53.0
+1,127169,16455,587,Anthyllis sp.,Herbaceous_legumes,91.24,73.6,26.4,14.19,48.93,,,11.07,18.4,38.81,62.5,Medium,High,Category_1b,62.0
+1,127183,16467,591,Melilotus sp.,Herbaceous_legumes,91.02,18.34,81.66,20.0,40.63,,,8.37,15.87,41.18,70.54,Medium,High,Category_1b,49.0
+1,125392,16478,477,Medicago arabica,Herbaceous_legumes,92.47,15.15,84.85,19.16,46.73,,,9.75,16.0,33.02,61.68,Low,High,Category_1a,31.0
+1,123754,16507,141,Leucaena diversifolia    ,Shrub_Trees,91.79,9.19,90.81,19.77,62.46,,,5.9,13.55,23.89,43.25,Low,Not High,Category_2,13.0
+1,124059,16520,155,Cajanus cajan,Shrub_Trees,91.15,7.35,92.65,15.58,54.02,,,8.13,17.92,59.58,61.85,High,High,Category_3,10.0
+1,124060,16555,157,Cajanus cajan,Shrub_Trees,92.12,9.18,90.82,19.79,43.24,,,6.33,15.68,36.02,61.88,Medium,High,Category_1b,11.0
+1,125325,16630,7,Cenchrus ciliaris,Grasses,91.73,10.79,89.21,7.73,74.07,40.44,7.94,7.89,12.08,34.41,47.69,,,,
+1,125326,16660,9,Cenchrus ciliaris,Grasses,92.01,10.7,89.3,9.14,73.1,41.19,8.26,7.71,12.24,29.28,45.16,,,,
+1,130488,16791,433,Cenchrus purpures,Grasses,95.11,18.15,81.85,7.99,64.88,,,11.43,15.08,43.64,55.53,,,,
+1,130487,16819,431,Cenchrus purpures,Grasses,94.58,15.57,84.43,9.16,66.1,,,11.18,15.55,45.78,56.94,,,,
+1,124455,16839,41,Cenchrus purpureus,Grasses,91.79,22.46,77.54,11.53,58.77,31.67,6.07,7.63,15.21,31.41,61.66,,,,
+1,123755,17316,191,Sesbania  sesban,Shrub_Trees,91.74,7.28,92.72,21.52,39.79,,,7.13,14.75,35.13,66.8,Medium,High,Category_1b,6.0
+1,123756,17354,193,Sesbania  sesban,Shrub_Trees,91.74,8.92,91.08,16.51,54.61,,,7.45,14.72,36.69,59.47,Medium,Not High,Category_2,19.0
+1,123782,174,767,Desmodium tortuosum,Herbaceous_legumes,90.73,9.07,90.93,14.23,60.97,,,11.8,18.35,50.5,55.58,High,Not High,Category_4,11.0
+1,128195,17611,579,Vicia villosa subsp. varia,Herbaceous_legumes,91.79,10.71,89.29,29.42,36.38,,,9.4,20.43,42.63,78.36,Medium,High,Category_1b,34.0
+1,123719,17772,709,Bouffordia dichotoma,Herbaceous_legumes,89.69,9.7,90.3,17.63,56.33,,,9.68,15.05,38.3,54.79,Medium,Not High,Category_2,22.0
+1,123720,17829,711,Indigofera hirsuta,Herbaceous_legumes,90.63,7.84,92.16,14.81,52.19,,,6.62,6.9,13.58,47.75,Low,Not High,Category_2,4.0
+1,123757,18034,741,Calopogonium mucunoides    ,Shrub_Trees,90.4,7.05,92.95,15.97,57.96,,,9.55,15.63,41.49,56.14,High,Not High,Category_4,4.0
+1,125327,18071,11,Cenchrus ciliaris,Grasses,91.36,11.85,88.15,10.89,71.59,37.09,7.41,7.09,12.86,37.04,52.78,,,,
+1,125328,18077,13,Cenchrus ciliaris,Grasses,91.82,12.75,87.25,8.53,67.5,36.52,7.25,7.84,12.97,32.84,54.7,,,,
+1,127179,18212,519,Argyrolobium sp.,Herbaceous_legumes,92.76,19.14,80.86,17.05,45.06,,,9.35,14.92,43.89,61.17,High,High,Category_3,61.0
+1,128191,18284,573,Argyrolobium sp.,Herbaceous_legumes,92.16,9.04,90.96,26.65,30.32,,,8.18,17.87,38.84,80.71,Medium,High,Category_1b,5.0
+1,128198,18293,601,Medicago laciniata,Herbaceous_legumes,91.42,11.42,88.58,16.34,38.07,,,9.97,20.93,53.42,69.33,High,High,Category_3,37.0
+1,123758,18576,743,Acaciella angustissima var.angustissima  ,Shrub_Trees,90.4,7.05,92.95,24.72,54.53,,,5.9,9.03,6.56,52.91,Low,Not High,Category_2,1.0
+1,123759,18596,93,Lablab  purpureus,Herbaceous_legumes,90.49,7.71,92.29,18.44,47.2,37.74,9.38,8.22,18.26,46.11,75.0,High,High,Category_3,9.0
+1,128529,18637,331,Lablab purpures,Herbaceous_legumes,93.84,12.21,87.79,12.7,51.98,,,8.66,16.47,43.15,64.26,Medium,High,Category_1b,83.0
+1,128370,18818,667,Alysicarpus sp.,Herbaceous_legumes,90.82,14.53,85.47,21.75,40.53,,,10.32,19.47,43.6,72.3,Medium,High,Category_1b,59.0
+1,122770,18924,241,Alysicarpus vaginalis,Herbaceous_legumes,92.26,10.26,89.74,21.68,46.19,,,9.58,17.08,45.26,62.89,High,High,Category_3,50.0
+1,123760,19181,745,Calliandra calothyrsus,Shrub_Trees,90.09,4.87,95.13,23.95,51.86,,,6.07,10.6,14.74,52.58,Low,Not High,Category_2,7.0
+1,128181,19338,565,Chamaecrista nictitans,Herbaceous_legumes,92.33,7.54,92.46,24.34,38.21,,,0.62,2.02,1.85,68.8,Low,High,Category_1a,1.0
+1,123721,19339,713,Chamaecrista nictitans,Herbaceous_legumes,91.16,6.55,93.45,21.22,50.7,,,7.32,13.91,31.14,63.23,Low,High,Category_1a,22.0
+1,125329,19369,15,Cenchrus ciliaris,Grasses,91.53,11.62,88.38,11.13,72.46,37.69,7.51,7.74,12.67,31.13,49.25,,,,
+1,125330,19379,17,Cenchrus ciliaris,Grasses,91.39,10.11,89.89,10.82,71.48,35.84,9.58,7.8,12.34,33.61,49.56,,,,
+1,125331,19389,19,Cenchrus ciliaris,Grasses,91.56,11.23,88.77,8.55,70.18,40.08,8.47,7.77,12.57,33.15,47.02,,,,
+1,125332,19397,21,Cenchrus ciliaris,Grasses,91.55,14.2,85.8,8.38,67.82,38.83,8.23,7.89,13.32,35.91,53.31,,,,
+1,125333,19406,23,Cenchrus ciliaris,Grasses,91.58,12.1,87.9,8.77,70.45,39.42,8.18,8.09,12.93,34.02,51.08,,,,
+1,125334,19408,25,Cenchrus ciliaris,Grasses,91.89,13.47,86.53,6.42,69.6,39.69,8.2,7.84,12.78,35.94,50.43,,,,
+1,125335,19439,27,Cenchrus ciliaris,Grasses,91.42,11.51,88.49,7.34,73.15,40.83,8.29,7.86,12.64,35.16,49.27,,,,
+1,125336,19448,29,Cenchrus ciliaris,Grasses,91.65,10.8,89.2,8.68,71.38,39.31,7.67,8.01,12.93,35.2,50.57,,,,
+1,125337,19453,31,Cenchrus ciliaris,Grasses,91.64,13.27,86.73,7.48,68.2,38.72,7.78,7.91,13.0,35.16,51.9,,,,
+1,125338,19456,33,Cenchrus ciliaris,Grasses,91.51,12.27,87.73,8.22,69.32,37.28,8.95,7.94,13.11,33.03,51.09,,,,
+1,125339,19458,35,Cenchrus ciliaris,Grasses,91.64,13.2,86.8,7.48,67.4,39.11,8.12,7.84,13.0,33.89,51.08,,,,
+1,125340,19459,37,Cenchrus ciliaris,Grasses,91.43,9.99,90.01,9.43,72.05,38.66,8.03,8.07,13.02,33.05,46.51,,,,
+1,125341,19467,39,Cenchrus ciliaris,Grasses,91.21,11.04,88.96,9.06,72.47,38.97,7.41,8.27,12.89,34.48,51.03,,,,
+1,122842,19656,373,Codariocalyx  gyroides,Shrub_Trees,91.36,7.91,92.09,12.1,49.49,,,7.25,8.48,19.86,50.44,Low,Not High,Category_2,11.0
+1,122834,19966,371,Dolichos  sp.,Herbaceous_legumes,91.43,10.72,89.28,19.57,60.63,,,6.32,12.1,27.79,56.44,Low,Not High,Category_2,9.0
+1,122809,19980,365,Dolichos sp.,Herbaceous_legumes,91.43,11.32,88.68,19.54,46.35,,,4.92,12.95,28.12,66.07,Low,High,Category_1a,7.0
+1,128192,20253,575,Galactia sp.,Herbaceous_legumes,92.9,15.7,84.3,21.0,33.12,,,9.88,20.35,34.56,76.66,Low,High,Category_1a,10.0
+1,128291,20258,633,Galactia sp.,Herbaceous_legumes,93.27,14.51,85.49,25.0,41.29,,,8.67,17.68,39.47,70.77,Medium,High,Category_1b,40.0
+1,123763,20373,143,Gliricidia sepium,Shrub_Trees,91.36,7.73,92.27,21.49,38.94,,,6.4,13.43,30.9,65.83,Low,High,Category_1a,16.0
+1,125352,20378,167,Gliricidia sepium,Shrub_Trees,91.26,10.45,89.55,26.06,33.91,,,5.3,12.57,22.17,75.62,Low,High,Category_1a,2.0
+1,123847,20434,807,Glycine latifolia,Herbaceous_legumes,88.47,9.53,90.47,14.1,53.65,,,9.92,18.1,49.92,67.02,High,High,Category_3,38.0
+1,123848,20436,809,Glycine latifolia,Herbaceous_legumes,89.85,11.54,88.46,15.97,52.64,,,8.98,17.65,45.69,65.9,High,High,Category_3,36.0
+1,123849,20440,811,Glycine latifolia,Herbaceous_legumes,89.99,9.02,90.98,15.95,59.75,,,9.85,18.08,49.41,60.23,High,High,Category_3,83.0
+1,123724,20441,717,Glycin latifolia,Herbaceous_legumes,90.71,8.74,91.26,16.79,56.34,,,10.12,18.37,55.72,58.06,High,Not High,Category_4,17.0
+1,123850,20670,813,Indigofera hirsuta,Herbaceous_legumes,90.02,7.9,92.1,14.29,51.66,,,6.42,9.32,18.71,56.63,Low,Not High,Category_2,5.0
+1,123765,20672,747,Indigofera  hirsuta,Herbaceous_legumes,89.65,7.15,92.85,17.81,45.19,,,5.65,6.42,10.69,56.1,Low,Not High,Category_2,2.0
+1,123766,20675,749,Indigofera  hirsuta,Herbaceous_legumes,89.86,7.67,92.33,16.66,54.33,,,4.83,5.27,7.65,54.59,Low,Not High,Category_2,1.0
+1,128186,2074,569,Teramnus sp.,Herbaceous_legumes,92.18,14.8,85.2,22.67,38.08,,,9.63,19.37,36.82,75.11,Medium,High,Category_1b,8.0
+1,123789,2084,195,Stylosanthes fruticosa,Herbaceous_legumes,91.39,8.52,91.48,14.23,52.37,,,7.93,17.57,48.03,61.21,High,High,Category_3,76.0
+1,127243,20995,599,Indigofera zollingeriana,Herbaceous_legumes,91.42,11.42,88.58,18.08,52.21,,,11.92,15.58,47.37,59.68,High,Not High,Category_4,5.0
+1,123725,21045,139,Lablab purpureus subsp. Uncinatus,Herbaceous_legumes,91.59,9.55,90.45,14.97,58.96,,,6.33,17.85,45.77,62.14,High,High,Category_3,59.0
+1,128531,21065,335,Lablab purpures,Herbaceous_legumes,94.11,11.73,88.27,14.39,48.58,,,8.83,16.16,43.94,61.53,High,High,Category_3,55.0
+1,122797,21086,115,Lablab purpureus subsp. bengalensis,Herbaceous_legumes,91.49,11.75,88.25,22.11,56.4,,,6.05,15.7,35.08,69.04,Low,High,Category_1a,26.0
+1,123727,21101,719,Lespendeza,Herbaceous_legumes,90.83,9.81,90.19,21.36,53.85,,,9.52,14.98,35.38,51.78,Low,Not High,Category_2,15.0
+1,125353,21122,169,Leucaena collinsii,Shrub_Trees,92.47,8.52,91.48,22.17,48.72,,,5.23,12.8,24.57,65.74,Low,High,Category_1a,8.0
+1,122922,21283,121,Leucaena leucocephala,Shrub_Trees,91.41,7.79,92.21,18.2,46.88,,,4.53,6.35,9.89,54.47,Low,Not High,Category_2,5.0
+1,123767,21322,145,Leucaena leucocephala,Shrub_Trees,91.68,5.11,94.89,21.94,50.37,,,5.3,11.4,26.27,64.48,Low,High,Category_1a,10.0
+1,125354,21356,171,Leucaena leucocephala,Shrub_Trees,91.91,8.18,91.82,26.95,44.36,,,5.37,14.43,29.95,68.34,Low,High,Category_1a,13.0
+1,128385,21372,681,Leucaena leucocephala,Shrub_Trees,91.51,9.57,90.43,19.05,48.15,,,8.8,12.25,29.45,61.99,Low,High,Category_1a,17.0
+1,124063,2145,225,Stylosanthes fruticosa,Herbaceous_legumes,92.53,12.6,87.4,8.74,60.92,,,7.82,15.17,43.68,53.9,Medium,Not High,Category_2,42.0
+1,122924,21626,123,Leucaena leucocephala    ,Shrub_Trees,91.66,11.33,88.67,22.47,46.43,,,5.28,11.92,23.12,65.37,Low,High,Category_1a,6.0
+1,122945,21675,129,Leucaena  pallida,Shrub_Trees,91.58,8.19,91.81,18.78,51.34,,,4.58,6.62,10.81,50.79,Low,Not High,Category_2,6.0
+1,125355,21679,173,Leucaena pallida,Shrub_Trees,91.65,6.93,93.07,26.28,43.22,,,3.93,8.57,14.94,56.83,Low,Not High,Category_2,8.0
+1,123768,21684,147,Leucaena  pallida,Shrub_Trees,91.83,6.68,93.32,21.81,52.5,,,5.09,8.94,17.37,49.2,Low,Not High,Category_2,9.0
+1,125357,21730,235,Leucaena trichandra,Shrub_Trees,93.19,7.88,92.12,24.75,47.79,,,6.37,13.03,32.0,56.34,Low,Not High,Category_2,15.0
+1,125358,21731,237,Leucaena trichandra,Shrub_Trees,92.53,7.46,92.54,23.64,49.72,,,6.05,9.42,20.83,50.52,Low,Not High,Category_2,12.0
+1,125390,21754,473,Lotononis angolensis,Herbaceous_legumes,93.78,17.05,82.95,25.78,44.0,,,10.85,17.05,41.79,61.67,Medium,High,Category_1b,82.0
+1,128184,21823,567,Lotononis sp.,Herbaceous_legumes,92.46,12.75,87.25,18.9,30.64,,,9.03,18.02,39.2,77.2,Medium,High,Category_1b,12.0
+1,123769,21867,751,Macroptilium  atropurpureum,Herbaceous_legumes,89.93,10.08,89.92,19.08,57.6,,,10.78,16.45,42.94,55.36,Medium,Not High,Category_2,39.0
+1,122772,21879,243,Macroptilium atropurpureum,Herbaceous_legumes,92.15,12.17,87.83,21.43,50.98,,,9.43,15.92,38.08,61.47,Medium,High,Category_1b,61.0
+1,123853,21881,815,Macroptilium atropurpureum,Herbaceous_legumes,89.99,8.52,91.48,12.85,64.53,,,10.65,16.67,48.51,53.17,High,Not High,Category_4,12.0
+1,123854,21883,817,Macroptilium atropurpureum,Herbaceous_legumes,89.9,9.83,90.17,14.16,60.59,,,9.6,16.53,45.33,55.76,High,Not High,Category_4,7.0
+1,122952,21885,57,Lablab  purpureus,Herbaceous_legumes,90.9,8.94,91.06,23.25,46.15,38.09,9.01,6.41,16.16,34.67,69.93,Low,High,Category_1a,23.0
+1,128293,21893,635,Macroptilium atropurpureum,Herbaceous_legumes,91.5,9.23,90.77,16.25,50.27,,,10.67,18.02,44.47,63.63,High,High,Category_3,43.0
+1,127231,21896,551,Macroptilium atropurpureum,Herbaceous_legumes,91.45,10.77,89.23,16.5,59.48,,,10.15,17.12,40.84,55.61,Medium,Not High,Category_2,32.0
+1,122820,21900,369,Macroptilium atropurpureum,Herbaceous_legumes,91.71,11.87,88.13,21.23,52.23,,,8.1,16.6,37.75,62.84,Medium,High,Category_1b,51.0
+1,123770,21930,753,Macroptilium  atropurpureum,Herbaceous_legumes,90.36,8.95,91.05,16.93,55.72,,,11.57,17.6,51.68,51.72,High,Not High,Category_4,20.0
+1,122775,22068,347,Macroptilium lathyroides,Herbaceous_legumes,90.93,8.34,91.66,22.96,45.33,,,7.43,16.5,42.22,75.53,Medium,High,Category_1b,42.0
+1,122776,22069,349,Macroptilium lathyroides,Herbaceous_legumes,91.21,9.63,90.37,18.85,50.37,,,8.97,17.15,45.05,70.17,High,High,Category_3,22.0
+1,122777,22070,351,Macroptilium lathyroides,Herbaceous_legumes,91.59,8.6,91.4,19.1,49.82,,,7.57,16.3,39.41,70.32,Medium,High,Category_1b,41.0
+1,122778,22071,353,Macroptilium lathyroides,Herbaceous_legumes,91.38,8.68,91.32,17.65,50.19,,,8.97,16.63,48.06,69.45,High,High,Category_3,28.0
+1,122930,22210,393,Neonotonia wightii,Herbaceous_legumes,91.87,11.52,88.48,20.53,47.74,,,10.18,17.08,45.24,71.18,High,High,Category_3,19.0
+1,123772,22221,755,Neonotonia wightii    ,Herbaceous_legumes,89.66,7.51,92.49,16.99,56.13,,,11.28,17.8,54.83,61.06,High,High,Category_3,88.0
+1,122916,22295,383,Neonotonia  wightii,Herbaceous_legumes,91.47,10.97,89.03,18.58,54.69,,,10.05,16.32,44.6,64.18,High,High,Category_3,39.0
+1,123773,22353,757,Neonotonia wightii    ,Herbaceous_legumes,89.88,8.26,91.74,18.98,52.97,,,10.87,18.47,55.63,62.2,High,High,Category_3,87.0
+1,128294,22394,637,Neonotonia wightii var. longicauda,Herbaceous_legumes,91.76,13.02,86.98,21.48,45.46,,,8.17,17.52,38.27,73.88,Medium,High,Category_1b,18.0
+1,128392,22396,687,Neonotonia wightii var. longicauda,Herbaceous_legumes,91.05,14.25,85.75,16.2,50.51,,,9.32,18.5,48.54,61.17,High,High,Category_3,77.0
+1,122933,22397,397,Neonotonia wightii    ,Herbaceous_legumes,91.74,9.92,90.08,20.53,40.51,,,9.2,17.08,44.18,75.13,High,High,Category_3,6.0
+1,122934,22416,399,Neonotonia wightii    ,Herbaceous_legumes,91.79,10.57,89.43,21.05,44.27,,,9.52,16.98,43.33,74.72,Medium,High,Category_1b,48.0
+1,128371,22965,669,Psoralea sp.,Herbaceous_legumes,90.82,10.65,89.35,19.43,45.69,,,10.28,18.72,53.1,67.74,High,High,Category_3,44.0
+1,122935,23043,401,Neustanthus phaseoloides    ,Herbaceous_legumes,91.47,7.75,92.25,17.59,61.12,,,8.85,14.12,37.86,47.39,Medium,Not High,Category_2,21.0
+1,123775,23046,759,Neustanthus  phaseoloides,Herbaceous_legumes,89.79,8.76,91.24,16.34,57.83,,,10.85,17.9,48.19,58.5,High,Not High,Category_4,6.0
+1,123699,23654,179,Sesbania grandiflora,Shrub_Trees,91.3,6.14,93.86,20.68,40.86,,,4.58,10.05,22.0,73.98,Low,High,Category_1a,3.0
+1,125359,23658,239,Sesbania grandiflora,Shrub_Trees,92.26,10.26,89.74,21.5,30.8,,,5.43,11.65,23.86,82.12,Low,High,Category_1a,1.0
+1,123728,24139,721,Teramnus labialis,Herbaceous_legumes,90.75,12.6,87.4,19.63,47.22,,,10.03,18.45,46.44,70.24,High,High,Category_3,25.0
+1,123858,24140,821,Teramnus labialis,Herbaceous_legumes,90.05,8.64,91.36,17.17,57.04,,,10.8,17.9,48.97,60.72,High,High,Category_3,80.0
+1,123729,24145,723,Teramnus labialis,Herbaceous_legumes,90.64,11.0,89.0,20.57,50.45,,,10.92,18.98,50.28,74.62,High,High,Category_3,17.0
+1,123859,24148,823,Teramnus labialis,Herbaceous_legumes,89.14,10.05,89.95,15.06,57.23,,,11.27,17.78,47.63,63.93,High,High,Category_3,51.0
+1,122919,24175,385,Teramnus labialis,Herbaceous_legumes,91.85,11.42,88.58,22.52,50.7,,,10.12,16.7,43.4,65.85,Medium,High,Category_1b,80.0
+1,127236,24234,557,Teramnus micans,Herbaceous_legumes,92.54,9.9,90.1,20.51,61.27,,,9.58,17.08,36.47,54.52,Medium,Not High,Category_2,18.0
+1,128180,24268,563,Teramnus sp.,Herbaceous_legumes,92.68,13.24,86.76,22.82,34.12,,,9.37,18.8,32.59,73.19,Low,High,Category_1a,8.0
+1,122926,24282,389,Teramnus   uncinatus,Herbaceous_legumes,91.51,9.69,90.31,17.02,62.09,,,11.4,16.73,48.66,57.03,High,Not High,Category_4,10.0
+1,122932,24287,395,Teramnus   uncinatus,Herbaceous_legumes,91.4,9.54,90.46,18.32,58.96,,,11.2,16.67,45.75,60.32,High,High,Category_3,75.0
+1,127167,24309,513,Teramnus uncinatus subsp. axilliflorus,Herbaceous_legumes,92.75,18.67,81.33,20.31,43.15,,,10.42,17.23,33.73,68.58,Low,High,Category_1a,20.0
+1,127135,24628,503,Chamaecrista nictitans subsp. patellaria,Herbaceous_legumes,91.37,14.18,85.82,22.89,46.8,,,9.27,16.57,36.64,57.96,Medium,Not High,Category_2,20.0
+1,122819,24727,367,Clitoria ternatea,Herbaceous_legumes,91.6,8.75,91.25,31.56,42.79,,,7.0,19.07,36.43,70.44,Medium,High,Category_1b,17.0
+1,122835,24747,99,Lablab purpureus,Herbaceous_legumes,89.92,10.51,89.49,18.15,54.85,49.47,11.29,6.2,14.77,35.8,65.28,Medium,High,Category_1b,36.0
+1,127161,248,447,Centrosema molle,Herbaceous_legumes,91.56,12.34,87.66,17.29,61.38,,,11.08,17.26,48.83,46.38,High,Not High,Category_4,21.0
+1,123730,24800,97,Lablab purprues subsp. Uncinatus,Herbaceous_legumes,90.51,8.15,91.85,14.41,62.72,47.43,11.83,5.92,17.42,45.3,60.75,High,High,Category_3,70.0
+1,123700,24874,275,Vigna luteola    ,Herbaceous_legumes,91.61,11.49,88.51,16.44,48.56,,,9.98,16.66,47.98,71.98,High,High,Category_3,20.0
+1,123732,24877,287,Vigna luteola,Herbaceous_legumes,91.39,10.98,89.02,20.15,44.25,,,9.22,17.0,47.47,73.8,High,High,Category_3,16.0
+1,123733,24881,289,Vigna luteola,Herbaceous_legumes,91.35,11.0,89.0,17.86,47.26,,,10.53,17.05,47.71,70.95,High,High,Category_3,24.0
+1,123783,249,769,Centrosema pubescens Benth.,Herbaceous_legumes,91.56,11.58,88.42,21.16,61.0,,,11.1,18.17,42.04,60.59,Medium,High,Category_1b,90.0
+1,128353,24931,665,Vigna parkeri,Herbaceous_legumes,91.54,11.06,88.94,19.74,39.08,,,8.4,18.08,45.55,75.38,High,High,Category_3,8.0
+1,128296,24986,639,Vigna sp.,Herbaceous_legumes,92.34,13.52,86.48,19.77,45.51,,,10.18,17.72,37.8,68.36,Medium,High,Category_1b,39.0
+1,122836,25335,269,Vigna unguiculata,Herbaceous_legumes,91.12,11.85,88.15,17.64,55.67,,,9.67,14.48,40.39,64.46,Medium,High,Category_1b,64.0
+1,123784,271,771,Centrosema schottii,Herbaceous_legumes,91.28,8.39,91.61,16.67,52.61,,,9.55,17.35,47.9,61.95,High,High,Category_3,72.0
+1,128381,273,675,Calopogonium caeruleum,Shrub_Trees,90.97,11.55,88.45,19.69,47.96,,,11.2,18.55,51.41,60.86,High,High,Category_3,9.0
+1,127111,39,479,Vigna oblongifolia var. parviflora,Herbaceous_legumes,92.9,15.33,84.67,21.39,41.12,,,9.12,16.57,34.75,61.68,Low,High,Category_1a,33.0
+1,123785,441,773,Stylosanthes scabra,Herbaceous_legumes,90.55,8.46,91.54,16.35,57.74,,,9.7,17.55,45.85,62.42,High,High,Category_3,56.0
+1,127228,4762,547,Lotus sp.,Herbaceous_legumes,93.03,19.45,80.55,17.24,51.83,,,10.58,18.88,36.36,56.26,Medium,Not High,Category_2,17.0
+1,128215,4785,607,Desmodium dichotomum ,Herbaceous_legumes,92.37,5.35,94.65,23.67,44.45,,,8.77,12.32,27.93,62.36,Low,High,Category_1a,12.0
+1,127113,5003,483,Pisum sativum subsp. sativum,Herbaceous_legumes,92.06,18.91,81.09,20.85,37.11,,,11.72,16.63,42.55,68.32,Medium,High,Category_1b,65.0
+1,127114,5007,485,Pisum sativum subsp. sativum,Herbaceous_legumes,91.92,17.81,82.19,22.13,41.42,,,11.65,15.98,39.06,71.3,Medium,High,Category_1b,37.0
+1,127118,5025,487,Pisum sativum,Herbaceous_legumes,92.67,33.59,66.41,24.71,32.9,,,12.45,15.6,34.29,67.56,Low,High,Category_1a,25.0
+1,127119,5041,489,Pisum sativum var. arvense (L.) Poir.,Herbaceous_legumes,92.45,19.16,80.84,23.12,41.22,,,9.57,16.05,38.92,62.11,Medium,High,Category_1b,63.0
+1,123790,5127,293,Vicia sativa ,Herbaceous_legumes,91.69,10.2,89.8,15.97,48.9,,,9.82,18.65,49.76,62.85,High,High,Category_3,71.0
+1,123680,5167,271,Vicia sativa,Herbaceous_legumes,90.62,6.58,93.42,17.6,56.51,,,11.33,17.63,56.88,59.38,High,Not High,Category_4,16.0
+1,123704,5175,277,Vicia sativa,Herbaceous_legumes,91.18,7.81,92.19,16.05,56.69,,,10.13,18.05,54.66,58.22,High,Not High,Category_4,14.0
+1,127112,52,481,Vigna oblongifolia var. parviflora,Herbaceous_legumes,92.29,16.45,83.55,22.86,35.15,,,9.02,18.17,38.96,72.02,Medium,High,Category_1b,31.0
+1,123705,5218,279,Vicia Benhalensis,Herbaceous_legumes,91.49,4.51,95.49,16.34,61.3,,,11.1,17.47,52.94,53.99,High,Not High,Category_4,18.0
+1,128336,5227,655,Vicia sativa subsp. sativa,Herbaceous_legumes,90.82,14.58,85.42,15.17,41.43,,,8.78,17.33,45.48,70.42,High,High,Category_3,21.0
+1,128218,5253,609,Vicia sativa subsp. nigra,Herbaceous_legumes,90.81,11.79,88.21,17.37,33.41,,,8.15,18.25,40.34,79.36,Medium,High,Category_1b,13.0
+1,127201,5281,529,Lathyrus cicera,Herbaceous_legumes,92.28,16.85,83.15,18.09,52.21,,,12.68,15.28,31.35,60.55,Low,High,Category_1a,28.0
+1,123791,5282,781,Lathyrus  cicera ,Herbaceous_legumes,89.76,5.47,94.53,16.54,71.87,,,14.13,16.67,46.62,47.29,High,Not High,Category_4,19.0
+1,122784,5283,355,Lathyrus sativus,Herbaceous_legumes,90.94,15.84,84.16,23.38,47.33,,,12.52,15.75,35.42,67.63,Low,High,Category_1a,29.0
+1,128220,5288,611,Lathyrus clymenum,Herbaceous_legumes,92.02,14.96,85.04,20.52,37.27,,,10.38,19.68,47.64,75.47,High,High,Category_3,10.0
+1,127138,5296,505,Lathyrus ochrus,Herbaceous_legumes,91.06,17.84,82.16,21.35,42.64,,,12.22,18.82,43.12,62.76,Medium,High,Category_1b,89.0
+1,123706,5309,695,Lathyrus cicera,Herbaceous_legumes,89.99,10.65,89.35,19.65,62.15,,,11.88,18.22,47.54,61.77,High,High,Category_3,73.0
+1,123736,555,181,Stylosanthes fruticosa    ,Herbaceous_legumes,91.45,9.29,90.71,17.42,49.09,,,7.37,14.93,37.02,63.26,Medium,High,Category_1b,47.0
+1,123792,5668,783,Medicago sativa,Herbaceous_legumes,90.5,9.21,90.79,19.97,53.9,,,10.8,19.27,50.36,63.96,High,High,Category_3,67.0
+1,123793,5671,785,Medicago sativa,Herbaceous_legumes,90.41,10.77,89.23,23.15,50.95,,,10.03,18.57,45.45,67.18,High,High,Category_3,30.0
+1,122785,6213,245,Vicia villosa subsp. varia,Herbaceous_legumes,91.05,14.27,85.73,22.17,56.92,,,10.02,14.83,39.68,62.82,Medium,High,Category_1b,66.0
+1,128229,6271,613,Trifolium decorum,Herbaceous_legumes,90.77,11.51,88.49,17.19,27.79,,,8.6,19.87,50.11,82.37,High,High,Category_3,1.0
+1,125361,6501,443,Medicago scutellata,Herbaceous_legumes,92.24,24.36,75.64,23.32,40.11,,,9.73,15.55,40.16,66.64,Medium,High,Category_1b,56.0
+1,125382,6502,461,Medicago littoralis,Herbaceous_legumes,92.54,17.56,82.44,22.73,50.87,,,11.22,14.9,39.34,57.25,Medium,Not High,Category_2,27.0
+1,127120,6503,491,Macrotyloma uniflorum,Herbaceous_legumes,93.3,29.41,70.59,20.64,27.49,,,8.18,16.15,36.04,68.65,Medium,High,Category_1b,25.0
+1,122823,6529,65,Lablab purpureus,Herbaceous_legumes,90.5,11.24,88.76,17.7,53.27,48.41,11.7,6.42,14.99,33.85,63.31,Low,High,Category_1a,30.0
+1,124460,6633,51,Chloris gayana,Grasses,92.32,12.7,87.3,12.11,68.9,34.2,5.9,7.03,14.81,35.86,60.44,,,,
+1,125322,6642,1,Cenchrus ciliaris,Grasses,91.51,12.64,87.36,9.92,70.14,39.26,7.94,7.28,12.64,31.03,46.71,,,,
+1,125323,6646,3,Cenchrus ciliaris,Grasses,91.63,12.4,87.6,8.7,68.35,39.26,8.65,7.87,13.32,34.81,49.74,,,,
+1,128399,669,689,Macrotyloma sp.,Herbaceous_legumes,92.2,12.12,87.88,18.66,48.67,,,11.17,20.62,45.84,64.51,High,High,Category_3,42.0
+1,124064,6756,861,Macrotyloma axillare,Herbaceous_legumes,89.5,8.96,91.04,14.57,48.59,,,8.23,16.67,44.7,72.89,High,High,Category_3,14.0
+1,123794,6761,787,Neonotonia wightii,Herbaceous_legumes,90.38,9.16,90.84,13.08,59.0,,,10.2,17.73,57.12,53.32,High,Not High,Category_4,22.0
+1,122800,6792,255,Vicia villosa,Herbaceous_legumes,91.44,12.69,87.31,20.07,52.83,,,9.27,15.87,41.98,63.24,Medium,High,Category_1b,79.0
+1,123960,6852,835,Lotononis bainesii,Herbaceous_legumes,88.84,8.51,91.49,15.82,37.65,,,9.63,16.25,45.55,78.88,High,High,Category_3,3.0
+1,123795,6859,789,Stylosanthes viscosa,Herbaceous_legumes,90.77,7.69,92.31,15.32,57.3,,,9.48,15.08,41.37,60.66,Medium,High,Category_1b,84.0
+1,123796,6984,791,Medicago sativa,Herbaceous_legumes,90.69,7.7,92.3,20.56,52.25,,,10.3,19.22,49.08,64.23,High,High,Category_3,53.0
+1,128380,70,673,Leucaena leucocephala,Shrub_Trees,91.41,12.1,87.9,20.3,44.55,,,7.7,13.25,28.33,63.14,Low,High,Category_1a,15.0
+1,127121,7089,493,Phaseolus sp.,Herbaceous_legumes,91.77,20.6,79.4,22.02,41.59,,,10.78,16.97,43.38,67.05,Medium,High,Category_1b,76.0
+1,127122,7093,495,Phaseolus sp.,Herbaceous_legumes,92.2,19.49,80.51,20.22,40.77,,,10.98,16.7,37.13,68.6,Medium,High,Category_1b,30.0
+1,124463,7153,77,Panicum coloratum,Grasses,91.34,10.62,89.38,10.95,67.18,31.39,5.5,6.43,15.46,33.51,61.47,,,,
+1,128234,7264,615,Grona heterocarpa,Herbaceous_legumes,90.96,10.13,89.87,19.38,51.99,,,8.77,15.03,35.59,60.07,Low,High,Category_1a,35.0
+1,123707,7266,697,Canavalia brasiliensis,Herbaceous_legumes,90.36,11.25,88.75,17.4,44.64,,,8.9,17.88,45.88,66.93,High,High,Category_3,32.0
+1,123708,7271,699,Lupinus angstifolius,Herbaceous_legumes,89.44,8.49,91.51,13.9,65.4,,,9.53,16.38,52.22,55.42,High,Not High,Category_4,15.0
+1,123709,7272,701,Lupinus angstifolius,Herbaceous_legumes,89.6,7.04,92.96,16.97,52.39,,,8.07,15.32,48.23,60.29,High,High,Category_3,81.0
+1,128307,7297,645,Eriosema psoraleoides,Herbaceous_legumes,91.49,8.03,91.97,18.13,58.76,,,8.45,15.25,31.9,51.92,Low,Not High,Category_2,11.0
+1,125380,7309,305,Trigonella foenum-graecum,Herbaceous_legumes,94.36,45.38,54.62,25.16,30.33,,,9.32,14.08,22.85,61.85,Low,High,Category_1a,5.0
+1,127224,7315,541,Lotononis listii,Herbaceous_legumes,92.39,14.29,85.71,20.31,56.33,,,8.7,14.13,35.4,54.67,Low,Not High,Category_2,16.0
+1,124461,7384,53,Chloris gayana,Grasses,92.68,14.07,85.93,12.03,69.34,35.21,6.42,8.4,15.11,39.66,54.75,,,,
+1,128373,740,671,Macrotyloma sp.,Herbaceous_legumes,91.41,12.1,87.9,15.47,51.63,,,9.15,16.8,46.43,59.71,High,Not High,Category_4,1.0
+1,122936,7403,101,Lablab purpureus,Herbaceous_legumes,90.28,8.73,91.27,26.66,42.52,33.64,8.94,6.37,18.44,40.19,77.8,Medium,High,Category_1b,15.0
+1,123786,757,775,Desmodium salicifolium,Herbaceous_legumes,90.65,10.72,89.28,19.11,58.46,,,9.67,14.45,32.04,56.7,Low,Not High,Category_2,12.0
+1,128237,7579,617,Melilotus indicus,Herbaceous_legumes,89.8,7.22,92.78,16.79,43.99,,,9.92,18.23,56.8,69.12,High,High,Category_3,46.0
+1,122843,7622,375,Trifolium semipilosum ,Herbaceous_legumes,91.37,10.71,89.29,23.1,41.79,,,9.87,16.45,42.67,79.59,Medium,High,Category_1b,29.0
+1,122844,7638,377,Trifolium semipilosum,Herbaceous_legumes,91.34,11.24,88.76,20.53,45.37,,,10.28,15.93,44.42,72.81,High,High,Category_3,13.0
+1,125362,7794,445,Medicago lupulina,Herbaceous_legumes,93.75,25.48,74.52,21.0,36.69,,,10.22,17.82,39.79,60.92,Medium,High,Category_1b,73.0
+1,127184,7803,521,Podlechiella vogelii subsp. fatmensis,Herbaceous_legumes,95.19,53.22,46.78,13.97,38.54,,,11.58,19.9,39.54,64.98,Medium,High,Category_1b,58.0
+1,125384,7839,463,Lotus discolor,Herbaceous_legumes,93.03,24.51,75.49,24.15,32.17,,,6.98,14.07,27.5,63.3,Low,High,Category_1a,9.0
+1,125385,7854,465,Trifolium sp.,Herbaceous_legumes,94.07,21.56,78.44,23.67,35.7,,,10.58,14.67,28.86,60.38,Low,High,Category_1a,18.0
+1,123800,8003,295,Trifolium tembense ,Herbaceous_legumes,90.8,15.5,84.5,11.36,56.58,,,11.27,14.6,45.26,55.08,High,Not High,Category_4,8.0
+1,127197,8091,527,Tephrosia sp.,Herbaceous_legumes,93.2,20.78,79.22,24.39,40.67,,,8.52,13.7,27.91,71.59,Low,High,Category_1a,4.0
+1,123801,8141,793,Trifolium semipilosum,Herbaceous_legumes,89.65,11.42,88.58,16.17,50.71,,,10.4,16.65,52.62,66.29,High,High,Category_3,52.0
+1,122927,8191,391,Trifolium semipilosum,Herbaceous_legumes,91.41,10.62,89.38,23.84,42.36,,,8.4,15.77,44.44,75.21,High,High,Category_3,7.0
+1,122847,8214,381,Trifolium semipilosum,Herbaceous_legumes,91.62,11.57,88.43,21.32,33.84,,,10.23,16.55,45.7,77.52,High,High,Category_3,5.0
+1,128309,8354,647,Tephrosia sp.,Herbaceous_legumes,90.12,10.01,89.99,17.89,46.77,,,9.62,18.75,51.62,66.58,High,High,Category_3,47.0
+1,125381,8399,459,Trifolium mattirolianum,Herbaceous_legumes,94.69,16.03,83.97,19.98,41.44,,,9.57,15.22,26.64,45.45,Low,Not High,Category_2,8.0
+1,125386,8415,467,Indigofera sp.,Herbaceous_legumes,91.84,16.6,83.4,26.78,36.82,,,7.82,16.83,40.64,72.41,Medium,High,Category_1b,43.0
+1,125387,8442,469,Indigofera sp.,Herbaceous_legumes,93.34,16.85,83.15,29.05,35.39,,,7.05,17.4,36.7,70.27,Medium,High,Category_1b,22.0
+1,124040,851,847,Calopogonium mucunoides,Shrub_Trees,89.65,13.1,86.9,18.74,43.71,,,10.08,16.98,38.96,70.17,Medium,High,Category_1b,8.0
+1,127220,8554,593,Lotus sp.,Herbaceous_legumes,93.68,29.14,70.86,30.45,36.91,,,11.53,16.87,27.62,61.9,Low,High,Category_1a,11.0
+1,125388,9259,471,Trifolium sp.,Herbaceous_legumes,93.83,16.24,83.76,22.18,37.59,,,10.82,15.45,35.05,50.78,Low,Not High,Category_2,14.0
+1,127234,9264,555,Neustanthus phaseoloides,Herbaceous_legumes,93.98,15.31,84.69,18.53,36.42,,,10.38,18.25,39.79,68.58,Medium,High,Category_1b,46.0
+1,123802,9270,795,Mucuna pruriens ,Herbaceous_legumes,88.73,10.34,89.66,24.61,61.18,,,10.95,17.22,43.12,64.69,Medium,High,Category_1b,81.0
+1,122802,9303,361,Glycine max,Herbaceous_legumes,90.96,11.27,88.73,14.49,45.84,,,9.03,16.08,42.72,71.66,Medium,High,Category_1b,54.0
+1,123712,9304,703,Glycin max,Herbaceous_legumes,90.33,8.13,91.87,12.3,52.14,,,10.08,16.95,55.48,68.27,High,High,Category_3,48.0
+1,122787,9333,247,Vigna unguiculata,Herbaceous_legumes,91.26,11.28,88.72,18.87,51.95,,,7.93,15.17,41.15,64.66,Medium,High,Category_1b,70.0
+1,122803,9334,257,Vigna unguiculata,Herbaceous_legumes,90.96,10.88,89.12,17.58,48.1,,,9.1,16.76,45.62,69.16,High,High,Category_3,27.0
+1,122825,9339,263,Vigna unguiculata,Herbaceous_legumes,90.79,11.25,88.75,20.69,53.97,,,9.43,13.55,36.18,66.16,Medium,High,Category_1b,33.0
+1,123714,9352,283,Vigina Uniguiculata,Herbaceous_legumes,91.28,9.76,90.24,13.93,62.33,,,9.08,15.45,43.37,54.14,Medium,Not High,Category_2,40.0
+1,128188,9376,571,Melilotus sp.,Herbaceous_legumes,91.31,8.46,91.54,25.99,38.58,,,9.0,19.7,44.15,76.87,High,High,Category_3,4.0
+1,128313,9471,649,Trifolium steudneri ,Herbaceous_legumes,91.31,11.14,88.86,10.41,36.75,,,8.67,17.22,54.07,76.15,High,High,Category_3,18.0
+1,122804,9654,259,Vigna unguiculata,Herbaceous_legumes,91.86,11.79,88.21,21.97,42.34,,,9.23,16.52,41.66,77.94,Medium,High,Category_1b,27.0
+1,127165,9672,583,Alysicarpus quartinianus,Herbaceous_legumes,92.28,63.3,36.7,13.67,52.32,,,8.93,16.57,34.34,69.35,Low,High,Category_1a,21.0
+1,123804,9752,197,Stylosanthes fruticosa,Herbaceous_legumes,91.24,10.37,89.63,16.5,47.37,,,7.67,16.72,45.1,65.87,High,High,Category_3,35.0
+1,123738,9917,727,Leptospron adenanthum    ,Herbaceous_legumes,89.83,12.3,87.7,22.4,41.5,,,10.7,16.38,37.64,78.2,Medium,High,Category_1b,7.0
+1,,ABC sample,,cynodon Nlemfuensis,Grasses,,,,,,,,10.08,14.88,46.82,50.69,,,,
+1,123779,AF3583,761,Medicago sativa    ,Herbaceous_legumes,89.7,8.63,91.37,17.3,50.58,,,11.23,19.27,63.97,58.9,High,Not High,Category_4,25.0
+1,124456,BAGCE 100,43,Cenchrus purpureus,Grasses,91.4,14.43,85.57,21.4,71.48,30.76,4.82,5.59,11.53,14.38,51.0,,,,
+1,124457,BAGCE 30,45,Cenchrus purpureus,Grasses,91.5,16.42,83.58,22.46,69.11,31.65,5.27,6.19,15.81,30.12,65.27,,,,
+1,124458,BAGCE 34,47,Cenchrus purpureus,Grasses,91.8,18.92,81.08,21.13,67.29,31.46,5.17,5.64,15.29,27.38,64.06,,,,
+1,124459,BAGCE 81,49,Cenchrus purpureus,Grasses,91.72,22.32,77.68,17.7,64.26,31.39,5.14,7.28,16.56,32.02,66.73,,,,
+1,130492,CNPGL-91-25-1,441,Cenchrus purpures,Grasses,94.16,22.62,77.38,11.97,57.67,,,10.8,17.47,43.94,58.82,,,,
+1,130491,CNPGL-93-08-1,439,Cenchrus purpures,Grasses,89.82,16.51,83.49,9.3,63.16,,,10.77,16.18,49.41,59.58,,,,
+1,128533,Doli-I/11640,339,Lablab purpures,Herbaceous_legumes,94.44,12.11,87.89,12.61,52.06,,,9.38,15.78,41.15,62.52,Medium,High,Category_1b,77.0
+1,128535,Doli-II/147,343,Lablab purpures,Herbaceous_legumes,93.74,11.78,88.22,13.74,49.85,,,9.59,16.37,42.43,66.2,Medium,High,Category_1b,72.0
+1,,internal control 2,,Wheat bran,,,,,,,,,8.88,15.37,45.29,69.09,,,,
+1,,internal control1,,wheat straw,,,,,,,,,9.29,12.99,40.63,45.64,,,,
