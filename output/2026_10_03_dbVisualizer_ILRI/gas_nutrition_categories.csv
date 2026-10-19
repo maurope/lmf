@@ -21,7 +21,7 @@ subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage
 1,122953,10856,405,Macroptilium atropurpureum    ,Herbaceous_legumes,92.46,9.71,90.29,22.06,47.58,,,10.88,17.68,45.0,64.22,High,High,Category_3,40.0
 1,127177,10858,589,Desmodium incanum,Herbaceous_legumes,91.24,18.6,81.4,24.61,42.77,,,8.87,16.88,33.8,69.12,Low,High,Category_1a,19.0
 1,123684,10865,177,Sesbania sesban,Shrub_Trees,90.48,9.11,90.89,24.53,35.51,,,7.56,16.97,35.72,76.44,Medium,High,Category_1b,1.0
-1,124464,10871,79,Urochloa decumbens,Grasses,90.09,9.91,90.09,4.14,78.25,52.19,10.06,7.08,13.73,36.86,38.92,,,,
+1,124464,10871,79,Urochloa decumbens,Grasses,90.09,9.91,90.09,4.14,78.25,52.19,10.06,7.08,13.73,36.86,38.92,Medium,Not High,Category_2,21.0
 1,128316,10873,651,Bouffordia dichotoma,Herbaceous_legumes,91.31,7.58,92.42,12.85,57.57,,,9.7,16.48,42.71,57.42,Medium,Not High,Category_2,38.0
 1,124067,10891,227,Stylosanthes humilis,Herbaceous_legumes,91.74,9.58,90.42,12.81,56.71,,,8.32,15.43,42.53,56.85,Medium,Not High,Category_2,36.0
 1,127232,10909,595,Centrosema macrocarpum,Herbaceous_legumes,90.46,18.26,81.74,19.64,60.95,,,12.3,18.23,33.91,53.67,Low,Not High,Category_2,13.0
@@ -82,7 +82,7 @@ subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage
 1,128263,12935,621,Rhynchosia sp.,Herbaceous_legumes,92.06,21.14,78.86,18.72,42.09,,,8.97,14.95,32.73,60.79,Low,High,Category_1a,32.0
 1,128265,12943,623,Vigna sp.,Herbaceous_legumes,91.27,15.07,84.93,18.61,42.61,,,9.42,15.98,32.6,68.56,Low,High,Category_1a,16.0
 1,128322,13212,585,Rhynchosia sp.,Herbaceous_legumes,92.51,26.73,73.27,18.92,40.63,,,9.65,18.78,37.13,61.18,Medium,High,Category_1b,52.0
-1,125324,13284,5,Cenchrus ciliaris,Grasses,91.31,12.29,87.71,8.01,70.97,36.95,6.66,7.94,13.07,36.2,49.95,,,,
+1,125324,13284,5,Cenchrus ciliaris,Grasses,91.31,12.29,87.71,8.01,70.97,36.95,6.66,7.94,13.07,36.2,49.95,Medium,Not High,Category_2,20.0
 1,128344,13319,659,Ornithopus compressus,Herbaceous_legumes,88.32,16.52,83.48,13.9,33.25,,,8.15,14.6,41.76,75.96,Medium,High,Category_1b,38.0
 1,122829,13326,267,Vicia Villosa,Herbaceous_legumes,90.13,11.16,88.84,22.14,58.79,,,10.57,14.08,33.48,67.26,Low,High,Category_1a,24.0
 1,122928,13699,113,Lablab purpureus  ,Herbaceous_legumes,89.91,8.71,91.29,30.32,40.22,31.89,9.19,6.88,18.5,39.78,82.4,Medium,High,Category_1b,6.0
@@ -98,7 +98,7 @@ subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage
 1,122955,14342,133,Leucaena leucocephala,Shrub_Trees,91.52,11.75,88.25,23.03,45.15,,,5.25,13.3,23.26,64.24,Low,High,Category_1a,7.0
 1,124053,14371,857,Desmanthus covillei,Shrub_Trees,89.4,6.41,93.59,18.45,52.04,,,9.9,15.07,34.1,63.94,Medium,High,Category_1b,7.0
 1,123691,14390,419,Desmanthus acuminatus,Shrub_Trees,91.58,6.36,93.64,21.82,52.09,,,6.62,8.63,18.68,55.52,Low,Not High,Category_2,10.0
-1,124462,144,75,Megathyrsus maximus,Grasses,91.16,15.32,84.68,12.1,65.75,35.34,6.11,6.68,17.89,42.71,63.69,,,,
+1,124462,144,75,Megathyrsus maximus,Grasses,91.16,15.32,84.68,12.1,65.75,35.34,6.11,6.68,17.89,42.71,63.69,High,High,Category_3,
 1,128517,14413,307,Lablab purpures,Herbaceous_legumes,93.55,12.39,87.61,12.5,47.94,,,8.78,16.37,43.38,63.95,Medium,High,Category_1b,87.0
 1,122794,14417,61,Lablab purpureus,Herbaceous_legumes,90.6,11.05,88.95,19.42,43.52,38.86,8.26,6.37,17.37,38.82,74.01,Medium,High,Category_1b,23.0
 1,122951,14421,55,Lablab  purpureus,Herbaceous_legumes,90.03,10.23,89.77,27.83,41.93,31.0,7.97,7.68,15.97,32.76,81.85,Low,High,Category_1a,2.0
@@ -170,11 +170,11 @@ subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage
 1,123754,16507,141,Leucaena diversifolia    ,Shrub_Trees,91.79,9.19,90.81,19.77,62.46,,,5.9,13.55,23.89,43.25,Low,Not High,Category_2,13.0
 1,124059,16520,155,Cajanus cajan,Shrub_Trees,91.15,7.35,92.65,15.58,54.02,,,8.13,17.92,59.58,61.85,High,High,Category_3,10.0
 1,124060,16555,157,Cajanus cajan,Shrub_Trees,92.12,9.18,90.82,19.79,43.24,,,6.33,15.68,36.02,61.88,Medium,High,Category_1b,11.0
-1,125325,16630,7,Cenchrus ciliaris,Grasses,91.73,10.79,89.21,7.73,74.07,40.44,7.94,7.89,12.08,34.41,47.69,,,,
-1,125326,16660,9,Cenchrus ciliaris,Grasses,92.01,10.7,89.3,9.14,73.1,41.19,8.26,7.71,12.24,29.28,45.16,,,,
-1,130488,16791,433,Cenchrus purpures,Grasses,95.11,18.15,81.85,7.99,64.88,,,11.43,15.08,43.64,55.53,,,,
-1,130487,16819,431,Cenchrus purpures,Grasses,94.58,15.57,84.43,9.16,66.1,,,11.18,15.55,45.78,56.94,,,,
-1,124455,16839,41,Cenchrus purpureus,Grasses,91.79,22.46,77.54,11.53,58.77,31.67,6.07,7.63,15.21,31.41,61.66,,,,
+1,125325,16630,7,Cenchrus ciliaris,Grasses,91.73,10.79,89.21,7.73,74.07,40.44,7.94,7.89,12.08,34.41,47.69,Medium,Not High,Category_2,12.0
+1,125326,16660,9,Cenchrus ciliaris,Grasses,92.01,10.7,89.3,9.14,73.1,41.19,8.26,7.71,12.24,29.28,45.16,Low,Not High,Category_2,2.0
+1,130488,16791,433,Cenchrus purpures,Grasses,95.11,18.15,81.85,7.99,64.88,,,11.43,15.08,43.64,55.53,High,Not High,Category_4,3.0
+1,130487,16819,431,Cenchrus purpures,Grasses,94.58,15.57,84.43,9.16,66.1,,,11.18,15.55,45.78,56.94,High,Not High,Category_4,4.0
+1,124455,16839,41,Cenchrus purpureus,Grasses,91.79,22.46,77.54,11.53,58.77,31.67,6.07,7.63,15.21,31.41,61.66,Medium,High,Category_1b,2.0
 1,123755,17316,191,Sesbania  sesban,Shrub_Trees,91.74,7.28,92.72,21.52,39.79,,,7.13,14.75,35.13,66.8,Medium,High,Category_1b,6.0
 1,123756,17354,193,Sesbania  sesban,Shrub_Trees,91.74,8.92,91.08,16.51,54.61,,,7.45,14.72,36.69,59.47,Medium,Not High,Category_2,19.0
 1,123782,174,767,Desmodium tortuosum,Herbaceous_legumes,90.73,9.07,90.93,14.23,60.97,,,11.8,18.35,50.5,55.58,High,Not High,Category_4,11.0
@@ -182,8 +182,8 @@ subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage
 1,123719,17772,709,Bouffordia dichotoma,Herbaceous_legumes,89.69,9.7,90.3,17.63,56.33,,,9.68,15.05,38.3,54.79,Medium,Not High,Category_2,22.0
 1,123720,17829,711,Indigofera hirsuta,Herbaceous_legumes,90.63,7.84,92.16,14.81,52.19,,,6.62,6.9,13.58,47.75,Low,Not High,Category_2,4.0
 1,123757,18034,741,Calopogonium mucunoides    ,Shrub_Trees,90.4,7.05,92.95,15.97,57.96,,,9.55,15.63,41.49,56.14,High,Not High,Category_4,4.0
-1,125327,18071,11,Cenchrus ciliaris,Grasses,91.36,11.85,88.15,10.89,71.59,37.09,7.41,7.09,12.86,37.04,52.78,,,,
-1,125328,18077,13,Cenchrus ciliaris,Grasses,91.82,12.75,87.25,8.53,67.5,36.52,7.25,7.84,12.97,32.84,54.7,,,,
+1,125327,18071,11,Cenchrus ciliaris,Grasses,91.36,11.85,88.15,10.89,71.59,37.09,7.41,7.09,12.86,37.04,52.78,Medium,Not High,Category_2,22.0
+1,125328,18077,13,Cenchrus ciliaris,Grasses,91.82,12.75,87.25,8.53,67.5,36.52,7.25,7.84,12.97,32.84,54.7,Medium,Not High,Category_2,5.0
 1,127179,18212,519,Argyrolobium sp.,Herbaceous_legumes,92.76,19.14,80.86,17.05,45.06,,,9.35,14.92,43.89,61.17,High,High,Category_3,61.0
 1,128191,18284,573,Argyrolobium sp.,Herbaceous_legumes,92.16,9.04,90.96,26.65,30.32,,,8.18,17.87,38.84,80.71,Medium,High,Category_1b,5.0
 1,128198,18293,601,Medicago laciniata,Herbaceous_legumes,91.42,11.42,88.58,16.34,38.07,,,9.97,20.93,53.42,69.33,High,High,Category_3,37.0
@@ -195,19 +195,19 @@ subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage
 1,123760,19181,745,Calliandra calothyrsus,Shrub_Trees,90.09,4.87,95.13,23.95,51.86,,,6.07,10.6,14.74,52.58,Low,Not High,Category_2,7.0
 1,128181,19338,565,Chamaecrista nictitans,Herbaceous_legumes,92.33,7.54,92.46,24.34,38.21,,,0.62,2.02,1.85,68.8,Low,High,Category_1a,1.0
 1,123721,19339,713,Chamaecrista nictitans,Herbaceous_legumes,91.16,6.55,93.45,21.22,50.7,,,7.32,13.91,31.14,63.23,Low,High,Category_1a,22.0
-1,125329,19369,15,Cenchrus ciliaris,Grasses,91.53,11.62,88.38,11.13,72.46,37.69,7.51,7.74,12.67,31.13,49.25,,,,
-1,125330,19379,17,Cenchrus ciliaris,Grasses,91.39,10.11,89.89,10.82,71.48,35.84,9.58,7.8,12.34,33.61,49.56,,,,
-1,125331,19389,19,Cenchrus ciliaris,Grasses,91.56,11.23,88.77,8.55,70.18,40.08,8.47,7.77,12.57,33.15,47.02,,,,
-1,125332,19397,21,Cenchrus ciliaris,Grasses,91.55,14.2,85.8,8.38,67.82,38.83,8.23,7.89,13.32,35.91,53.31,,,,
-1,125333,19406,23,Cenchrus ciliaris,Grasses,91.58,12.1,87.9,8.77,70.45,39.42,8.18,8.09,12.93,34.02,51.08,,,,
-1,125334,19408,25,Cenchrus ciliaris,Grasses,91.89,13.47,86.53,6.42,69.6,39.69,8.2,7.84,12.78,35.94,50.43,,,,
-1,125335,19439,27,Cenchrus ciliaris,Grasses,91.42,11.51,88.49,7.34,73.15,40.83,8.29,7.86,12.64,35.16,49.27,,,,
-1,125336,19448,29,Cenchrus ciliaris,Grasses,91.65,10.8,89.2,8.68,71.38,39.31,7.67,8.01,12.93,35.2,50.57,,,,
-1,125337,19453,31,Cenchrus ciliaris,Grasses,91.64,13.27,86.73,7.48,68.2,38.72,7.78,7.91,13.0,35.16,51.9,,,,
-1,125338,19456,33,Cenchrus ciliaris,Grasses,91.51,12.27,87.73,8.22,69.32,37.28,8.95,7.94,13.11,33.03,51.09,,,,
-1,125339,19458,35,Cenchrus ciliaris,Grasses,91.64,13.2,86.8,7.48,67.4,39.11,8.12,7.84,13.0,33.89,51.08,,,,
-1,125340,19459,37,Cenchrus ciliaris,Grasses,91.43,9.99,90.01,9.43,72.05,38.66,8.03,8.07,13.02,33.05,46.51,,,,
-1,125341,19467,39,Cenchrus ciliaris,Grasses,91.21,11.04,88.96,9.06,72.47,38.97,7.41,8.27,12.89,34.48,51.03,,,,
+1,125329,19369,15,Cenchrus ciliaris,Grasses,91.53,11.62,88.38,11.13,72.46,37.69,7.51,7.74,12.67,31.13,49.25,Medium,Not High,Category_2,4.0
+1,125330,19379,17,Cenchrus ciliaris,Grasses,91.39,10.11,89.89,10.82,71.48,35.84,9.58,7.8,12.34,33.61,49.56,Medium,Not High,Category_2,9.0
+1,125331,19389,19,Cenchrus ciliaris,Grasses,91.56,11.23,88.77,8.55,70.18,40.08,8.47,7.77,12.57,33.15,47.02,Medium,Not High,Category_2,8.0
+1,125332,19397,21,Cenchrus ciliaris,Grasses,91.55,14.2,85.8,8.38,67.82,38.83,8.23,7.89,13.32,35.91,53.31,Medium,Not High,Category_2,18.0
+1,125333,19406,23,Cenchrus ciliaris,Grasses,91.58,12.1,87.9,8.77,70.45,39.42,8.18,8.09,12.93,34.02,51.08,Medium,Not High,Category_2,11.0
+1,125334,19408,25,Cenchrus ciliaris,Grasses,91.89,13.47,86.53,6.42,69.6,39.69,8.2,7.84,12.78,35.94,50.43,Medium,Not High,Category_2,19.0
+1,125335,19439,27,Cenchrus ciliaris,Grasses,91.42,11.51,88.49,7.34,73.15,40.83,8.29,7.86,12.64,35.16,49.27,Medium,Not High,Category_2,15.0
+1,125336,19448,29,Cenchrus ciliaris,Grasses,91.65,10.8,89.2,8.68,71.38,39.31,7.67,8.01,12.93,35.2,50.57,Medium,Not High,Category_2,17.0
+1,125337,19453,31,Cenchrus ciliaris,Grasses,91.64,13.27,86.73,7.48,68.2,38.72,7.78,7.91,13.0,35.16,51.9,Medium,Not High,Category_2,15.0
+1,125338,19456,33,Cenchrus ciliaris,Grasses,91.51,12.27,87.73,8.22,69.32,37.28,8.95,7.94,13.11,33.03,51.09,Medium,Not High,Category_2,6.0
+1,125339,19458,35,Cenchrus ciliaris,Grasses,91.64,13.2,86.8,7.48,67.4,39.11,8.12,7.84,13.0,33.89,51.08,Medium,Not High,Category_2,10.0
+1,125340,19459,37,Cenchrus ciliaris,Grasses,91.43,9.99,90.01,9.43,72.05,38.66,8.03,8.07,13.02,33.05,46.51,Medium,Not High,Category_2,7.0
+1,125341,19467,39,Cenchrus ciliaris,Grasses,91.21,11.04,88.96,9.06,72.47,38.97,7.41,8.27,12.89,34.48,51.03,Medium,Not High,Category_2,13.0
 1,122842,19656,373,Codariocalyx  gyroides,Shrub_Trees,91.36,7.91,92.09,12.1,49.49,,,7.25,8.48,19.86,50.44,Low,Not High,Category_2,11.0
 1,122834,19966,371,Dolichos  sp.,Herbaceous_legumes,91.43,10.72,89.28,19.57,60.63,,,6.32,12.1,27.79,56.44,Low,Not High,Category_2,9.0
 1,122809,19980,365,Dolichos sp.,Herbaceous_legumes,91.43,11.32,88.68,19.54,46.35,,,4.92,12.95,28.12,66.07,Low,High,Category_1a,7.0
@@ -323,9 +323,9 @@ subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage
 1,125382,6502,461,Medicago littoralis,Herbaceous_legumes,92.54,17.56,82.44,22.73,50.87,,,11.22,14.9,39.34,57.25,Medium,Not High,Category_2,27.0
 1,127120,6503,491,Macrotyloma uniflorum,Herbaceous_legumes,93.3,29.41,70.59,20.64,27.49,,,8.18,16.15,36.04,68.65,Medium,High,Category_1b,25.0
 1,122823,6529,65,Lablab purpureus,Herbaceous_legumes,90.5,11.24,88.76,17.7,53.27,48.41,11.7,6.42,14.99,33.85,63.31,Low,High,Category_1a,30.0
-1,124460,6633,51,Chloris gayana,Grasses,92.32,12.7,87.3,12.11,68.9,34.2,5.9,7.03,14.81,35.86,60.44,,,,
-1,125322,6642,1,Cenchrus ciliaris,Grasses,91.51,12.64,87.36,9.92,70.14,39.26,7.94,7.28,12.64,31.03,46.71,,,,
-1,125323,6646,3,Cenchrus ciliaris,Grasses,91.63,12.4,87.6,8.7,68.35,39.26,8.65,7.87,13.32,34.81,49.74,,,,
+1,124460,6633,51,Chloris gayana,Grasses,92.32,12.7,87.3,12.11,68.9,34.2,5.9,7.03,14.81,35.86,60.44,Medium,High,Category_1b,4.0
+1,125322,6642,1,Cenchrus ciliaris,Grasses,91.51,12.64,87.36,9.92,70.14,39.26,7.94,7.28,12.64,31.03,46.71,Medium,Not High,Category_2,3.0
+1,125323,6646,3,Cenchrus ciliaris,Grasses,91.63,12.4,87.6,8.7,68.35,39.26,8.65,7.87,13.32,34.81,49.74,Medium,Not High,Category_2,14.0
 1,128399,669,689,Macrotyloma sp.,Herbaceous_legumes,92.2,12.12,87.88,18.66,48.67,,,11.17,20.62,45.84,64.51,High,High,Category_3,42.0
 1,124064,6756,861,Macrotyloma axillare,Herbaceous_legumes,89.5,8.96,91.04,14.57,48.59,,,8.23,16.67,44.7,72.89,High,High,Category_3,14.0
 1,123794,6761,787,Neonotonia wightii,Herbaceous_legumes,90.38,9.16,90.84,13.08,59.0,,,10.2,17.73,57.12,53.32,High,Not High,Category_4,22.0
@@ -336,7 +336,7 @@ subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage
 1,128380,70,673,Leucaena leucocephala,Shrub_Trees,91.41,12.1,87.9,20.3,44.55,,,7.7,13.25,28.33,63.14,Low,High,Category_1a,15.0
 1,127121,7089,493,Phaseolus sp.,Herbaceous_legumes,91.77,20.6,79.4,22.02,41.59,,,10.78,16.97,43.38,67.05,Medium,High,Category_1b,76.0
 1,127122,7093,495,Phaseolus sp.,Herbaceous_legumes,92.2,19.49,80.51,20.22,40.77,,,10.98,16.7,37.13,68.6,Medium,High,Category_1b,30.0
-1,124463,7153,77,Panicum coloratum,Grasses,91.34,10.62,89.38,10.95,67.18,31.39,5.5,6.43,15.46,33.51,61.47,,,,
+1,124463,7153,77,Panicum coloratum,Grasses,91.34,10.62,89.38,10.95,67.18,31.39,5.5,6.43,15.46,33.51,61.47,Medium,High,Category_1b,3.0
 1,128234,7264,615,Grona heterocarpa,Herbaceous_legumes,90.96,10.13,89.87,19.38,51.99,,,8.77,15.03,35.59,60.07,Low,High,Category_1a,35.0
 1,123707,7266,697,Canavalia brasiliensis,Herbaceous_legumes,90.36,11.25,88.75,17.4,44.64,,,8.9,17.88,45.88,66.93,High,High,Category_3,32.0
 1,123708,7271,699,Lupinus angstifolius,Herbaceous_legumes,89.44,8.49,91.51,13.9,65.4,,,9.53,16.38,52.22,55.42,High,Not High,Category_4,15.0
@@ -344,7 +344,7 @@ subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage
 1,128307,7297,645,Eriosema psoraleoides,Herbaceous_legumes,91.49,8.03,91.97,18.13,58.76,,,8.45,15.25,31.9,51.92,Low,Not High,Category_2,11.0
 1,125380,7309,305,Trigonella foenum-graecum,Herbaceous_legumes,94.36,45.38,54.62,25.16,30.33,,,9.32,14.08,22.85,61.85,Low,High,Category_1a,5.0
 1,127224,7315,541,Lotononis listii,Herbaceous_legumes,92.39,14.29,85.71,20.31,56.33,,,8.7,14.13,35.4,54.67,Low,Not High,Category_2,16.0
-1,124461,7384,53,Chloris gayana,Grasses,92.68,14.07,85.93,12.03,69.34,35.21,6.42,8.4,15.11,39.66,54.75,,,,
+1,124461,7384,53,Chloris gayana,Grasses,92.68,14.07,85.93,12.03,69.34,35.21,6.42,8.4,15.11,39.66,54.75,High,Not High,Category_4,1.0
 1,128373,740,671,Macrotyloma sp.,Herbaceous_legumes,91.41,12.1,87.9,15.47,51.63,,,9.15,16.8,46.43,59.71,High,Not High,Category_4,1.0
 1,122936,7403,101,Lablab purpureus,Herbaceous_legumes,90.28,8.73,91.27,26.66,42.52,33.64,8.94,6.37,18.44,40.19,77.8,Medium,High,Category_1b,15.0
 1,123786,757,775,Desmodium salicifolium,Herbaceous_legumes,90.65,10.72,89.28,19.11,58.46,,,9.67,14.45,32.04,56.7,Low,Not High,Category_2,12.0
@@ -381,14 +381,14 @@ subset,id_lab,id,no,tax_name,functional_group,dm_percentage,ash_dm,om_percentage
 1,127165,9672,583,Alysicarpus quartinianus,Herbaceous_legumes,92.28,63.3,36.7,13.67,52.32,,,8.93,16.57,34.34,69.35,Low,High,Category_1a,21.0
 1,123804,9752,197,Stylosanthes fruticosa,Herbaceous_legumes,91.24,10.37,89.63,16.5,47.37,,,7.67,16.72,45.1,65.87,High,High,Category_3,35.0
 1,123738,9917,727,Leptospron adenanthum    ,Herbaceous_legumes,89.83,12.3,87.7,22.4,41.5,,,10.7,16.38,37.64,78.2,Medium,High,Category_1b,7.0
-1,,ABC sample,,cynodon Nlemfuensis,Grasses,,,,,,,,10.08,14.88,46.82,50.69,,,,
+1,,ABC sample,,cynodon Nlemfuensis,Grasses,,,,,,,,10.08,14.88,46.82,50.69,High,Not High,Category_4,6.0
 1,123779,AF3583,761,Medicago sativa    ,Herbaceous_legumes,89.7,8.63,91.37,17.3,50.58,,,11.23,19.27,63.97,58.9,High,Not High,Category_4,25.0
-1,124456,BAGCE 100,43,Cenchrus purpureus,Grasses,91.4,14.43,85.57,21.4,71.48,30.76,4.82,5.59,11.53,14.38,51.0,,,,
-1,124457,BAGCE 30,45,Cenchrus purpureus,Grasses,91.5,16.42,83.58,22.46,69.11,31.65,5.27,6.19,15.81,30.12,65.27,,,,
-1,124458,BAGCE 34,47,Cenchrus purpureus,Grasses,91.8,18.92,81.08,21.13,67.29,31.46,5.17,5.64,15.29,27.38,64.06,,,,
-1,124459,BAGCE 81,49,Cenchrus purpureus,Grasses,91.72,22.32,77.68,17.7,64.26,31.39,5.14,7.28,16.56,32.02,66.73,,,,
-1,130492,CNPGL-91-25-1,441,Cenchrus purpures,Grasses,94.16,22.62,77.38,11.97,57.67,,,10.8,17.47,43.94,58.82,,,,
-1,130491,CNPGL-93-08-1,439,Cenchrus purpures,Grasses,89.82,16.51,83.49,9.3,63.16,,,10.77,16.18,49.41,59.58,,,,
+1,124456,BAGCE 100,43,Cenchrus purpureus,Grasses,91.4,14.43,85.57,21.4,71.48,30.76,4.82,5.59,11.53,14.38,51.0,Low,Not High,Category_2,1.0
+1,124457,BAGCE 30,45,Cenchrus purpureus,Grasses,91.5,16.42,83.58,22.46,69.11,31.65,5.27,6.19,15.81,30.12,65.27,Low,High,Category_1a,2.0
+1,124458,BAGCE 34,47,Cenchrus purpureus,Grasses,91.8,18.92,81.08,21.13,67.29,31.46,5.17,5.64,15.29,27.38,64.06,Low,High,Category_1a,1.0
+1,124459,BAGCE 81,49,Cenchrus purpureus,Grasses,91.72,22.32,77.68,17.7,64.26,31.39,5.14,7.28,16.56,32.02,66.73,Medium,High,Category_1b,1.0
+1,130492,CNPGL-91-25-1,441,Cenchrus purpures,Grasses,94.16,22.62,77.38,11.97,57.67,,,10.8,17.47,43.94,58.82,High,Not High,Category_4,2.0
+1,130491,CNPGL-93-08-1,439,Cenchrus purpures,Grasses,89.82,16.51,83.49,9.3,63.16,,,10.77,16.18,49.41,59.58,High,Not High,Category_4,5.0
 1,128533,Doli-I/11640,339,Lablab purpures,Herbaceous_legumes,94.44,12.11,87.89,12.61,52.06,,,9.38,15.78,41.15,62.52,Medium,High,Category_1b,77.0
 1,128535,Doli-II/147,343,Lablab purpures,Herbaceous_legumes,93.74,11.78,88.22,13.74,49.85,,,9.59,16.37,42.43,66.2,Medium,High,Category_1b,72.0
 1,,internal control 2,,Wheat bran,,,,,,,,,8.88,15.37,45.29,69.09,,,,
