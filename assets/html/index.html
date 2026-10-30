@@ -8,11 +8,6 @@
 
     <title>Low Methane Forages Dashboard</title>
 
-
-    <!-- =========================================================
-         STYLE
-         ========================================================= -->
-
     <style>
 
         * {
@@ -26,10 +21,7 @@
             color: #1f2937;
         }
 
-
-        /* =====================================================
-           HEADER
-           ===================================================== */
+        /* HEADER */
 
         .header {
             background-color: white;
@@ -37,32 +29,27 @@
             border-bottom: 1px solid #ddd;
         }
 
-        .header h1 {
-            margin: 0;
-            font-size: 30px;
-        }
-
-        .header p {
-            margin: 8px 0 0 0;
-            color: #6b7280;
-        }
-
-        .selection-board-image {
-            width: 100%;
+        .header-inner {
+            max-width: 1600px;
+            margin: auto;
             display: flex;
-            justify-content: center;
             align-items: center;
+            justify-content: space-between;
+            gap: 30px;
         }
 
-        .selection-board-image img {
-            width: auto;
-            max-width: 100%;
-            height: auto;
+        .header-logo-left,
+        .header-logo-right {
             display: block;
-}
-        /* =====================================================
-           MAIN CONTAINER
-           ===================================================== */
+            height: 120px;
+            width: auto;
+        }
+
+        .header-link {
+            display: block;
+        }
+
+        /* CENTERS */
 
         .dashboard {
             max-width: 1600px;
@@ -70,153 +57,66 @@
             padding: 30px;
         }
 
-
-        /* =====================================================
-           SECTION
-           ===================================================== */
-
-        .section {
-            margin-bottom: 40px;
-        }
-
-        .section-title {
-            font-size: 24px;
-            margin-bottom: 20px;
-        }
-
-
-        /* =====================================================
-           GRID
-           ===================================================== */
-
-        .dashboard-grid {
+        .center-grid {
             display: grid;
-
-            grid-template-columns:
-                repeat(2, minmax(0, 1fr));
-
+            grid-template-columns: repeat(3, minmax(0, 1fr));
             gap: 20px;
         }
 
-
-        /* =====================================================
-           CARD
-           ===================================================== */
-
-        .card {
+        .center-card {
             background-color: white;
-
             border-radius: 12px;
-
             padding: 15px;
-
-            box-shadow:
-                0 2px 10px rgba(0, 0, 0, 0.08);
-
-            overflow: hidden;
-        }
-
-
-        /* Gráfica que ocupa las dos columnas */
-
-        .full-width {
-            grid-column: 1 / -1;
-        }
-
-
-        /* =====================================================
-           CARD TITLE
-           ===================================================== */
-
-        .card-title {
-            font-size: 18px;
-
-            margin-top: 5px;
-            margin-bottom: 15px;
-        }
-
-
-        /* =====================================================
-           IFRAME
-           ===================================================== */
-
-        .chart-frame {
-            width: 100%;
-
-            border: none;
-
-            display: block;
-
-            background-color: white;
-        }
-
-
-        /* =====================================================
-           RESPONSIVE
-           ===================================================== */
-
-        @media (max-width: 1000px) {
-
-            .dashboard-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .full-width {
-                grid-column: auto;
-            }
-
-            .lmf-categories-row {
-                grid-template-columns: 1fr;
-            }
-
-        }
-
-        /* =====================================================
-           LMF CATEGORIES - TWO COLUMNS
-           ===================================================== */
-
-        .lmf-categories-row {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 20px;
-            align-items: stretch;
-        }
-
-        .lmf-categories-row .card {
-            min-width: 0;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
             display: flex;
-            flex-direction: column;
-        }
-        .lmf-categories-row .selection-board-image {
-            flex: 1;              /* la imagen crece para llenar el espacio sobrante */
-            width: 100%;
-            display: flex;
-            justify-content: center;
             align-items: center;
-            min-height: 0;         /* evita que la imagen empuje al párrafo fuera */
+            justify-content: center;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
         }
 
-        .lmf-categories-row .selection-board-image img {
-            max-width: 100%;
+        .center-card:hover,
+        .center-card:focus-visible {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 22px rgba(0, 0, 0, 0.14);
+            outline: none;
+        }
+
+        .center-card img {
+            width: 100%;
             height: auto;
             display: block;
         }
 
-        .lmf-categories-row .chart-frame {
-            width: 100%;
-            height: 800px;
-            border: none;
-            display: block;
-        }
+        @media (max-width: 1000px) {
 
-        .image-description {
-            margin-top: 15px;
-            text-align: justify;
-            line-height: 1.6;
-        }
+            .center-grid {
+                grid-template-columns: 1fr;
+            }
 
-        .highlight {
-            font-weight: bold;
+            .header {
+                padding: 15px;
+            }
+
+            .header-inner {
+                gap: 10px;
+            }
+
+            .header-link {
+                min-width: 0;
+                max-width: 46%;
+            }
+
+            .header-logo-left,
+            .header-logo-right {
+                height: auto;
+                max-width: 100%;
+                min-width: 0;
+            }
+
+            .header-logo-right {
+                max-width: 46%;
+            }
+
         }
 
     </style>
@@ -226,346 +126,48 @@
 
 <body>
 
-
-    <!-- =========================================================
-         HEADER
-         ========================================================= -->
-
     <header class="header">
 
-        <h1>
-            Low Methane Forages
-        </h1>
+        <div class="header-inner">
 
-        <p>
-            Interactive data base visualization tool <strong>dbVisualizer</strong><br>
-        </p>
+            <a class="header-link" href="index.html">
+                <img
+                    class="header-logo-left"
+                    src="images/dbVisualizer_logo.png"
+                    alt="dbVisualizer"
+                >
+            </a>
+
+            <a class="header-link" href="index.html">
+                <img
+                    class="header-logo-right"
+                    src="images/lmf_logo.png"
+                    alt="Low-Methane Forages"
+                >
+            </a>
 
     </header>
 
 
-    <!-- =========================================================
-         DASHBOARD
-         ========================================================= -->
-
     <main class="dashboard">
 
+        <div class="center-grid">
 
-        <!-- =====================================================
-             SECTION 1
-             ===================================================== -->
-                        <h2 class="section-title">
-                Summary
-            </h2>
-                <!-- =================================================
-                     SCATTERPLOT
-                     ================================================= -->
+            <a class="center-card" href="ciat/index.html">
+                <img src="images/ciat.png" alt="CIAT">
+            </a>
 
-                <div class="card full-width">
+            <a class="center-card" href="icarda/index.html">
+                <img src="images/icarda.png" alt="ICARDA">
+            </a>
 
-                    <h3 class="card-title">
-                        Counts and percentages
-                    </h3>
+            <a class="center-card" href="ilri/index.html">
+                <img src="images/ilri.png" alt="ILRI">
+            </a>
 
-                    <iframe
-                        class="chart-frame"
-                        src="banner.html"
-                        height="300">
-                    </iframe>
-
-                </div>
-
-        <section class="section">
-
-            <h2 class="section-title">
-                Data Composition
-            </h2>
-
-
-            <div class="dashboard-grid">
-
-                <!-- =================================================
-                     PIE GRAPH
-                     ================================================= -->
-
-                <div class="card">
-
-                    <h3 class="card-title">
-                        Distribution
-                    </h3>
-
-                    <iframe
-                        class="chart-frame"
-                        src="pie_functional_groups.html"
-                        height="830">
-                    </iframe>
-
-                </div>
-
-
-
-                <!-- =================================================
-                     PIE GRAPH
-                     ================================================= -->
-
-                <div class="card">
-
-                    <h3 class="card-title">
-                        Taxonomy
-                    </h3>
-
-                    <iframe
-                        class="chart-frame"
-                        src="pie_taxonomy.html"
-                        width="1200"
-                        height="830">
-                    </iframe>
-
-                </div>
-            </div> <!-- END dashboard-grid -->
-
-            <!-- =================================================
-                 LMF CATEGORIES
-                 ================================================= -->
-
-            <h2 class="section-title">
-                LMF Categories
-            </h2>
-
-            <div class="lmf-categories-row">
-
-                <!-- =================================================
-                     LEFT: LMF CATEGORIES IMAGE
-                     ================================================= -->
-
-                <div class="card">
-
-                    <h3 class="card-title">
-                        LMF Categories
-                    </h3>
-
-                    <div class="selection-board-image">
-
-                        <img
-                            src="images/categories.png"
-                            alt="LMF Categories"
-                        >
-
-                    </div>
-
-                    <p class="image-description">
-                            <strong>Category 1a:</strong> Includes highly desirable candidates with ≥35% methane reduction and > 60% TDDM.<br>
-                            <strong>TOP PRIORITY</strong><br><br>
-
-                            <strong>Category 1b:</strong> Includes accessions with 20-35% methane reduction and >60% TDDM.<br>
-                            <strong>MEDIUM PRIORITY</strong><br><br>
-
-                            <strong>Category 2:</strong> Includes accessions with >20% methane reduction but <60% TDDM, potentially rich in secondary metabolites.<br><br>
-
-                            <strong>Category 3:</strong> Includes accesions with <20% methane reduction and >60% TDDM, suporting productivity gains.  <strong>SPIN-OFF OF THE PROJECT</strong><br><br>
-                            
-                            <strong>Category 4:</strong> Includes low-performing accessions (<20% methane reduction and <60% TDDM).<br>
-                            <strong>NON-PRIORITY FORAGE</strong><br>
-                    </p>
-
-                </div>
-
-
-                <!-- =================================================
-                     RIGHT: BAR GRAPH
-                     ================================================= -->
-
-                <div class="card">
-
-                    <h3 class="card-title">
-                        Bar chart
-                    </h3>
-
-                    <iframe
-                        class="chart-frame"
-                        src="bars_categories.html"
-                        height="800">
-                    </iframe>
-
-                </div>
-
-            </div>
-
-
-
-            <h2 class="section-title">
-                Selection board
-            </h2>
-                <!-- =================================================
-                     ACCESSION FILTER
-                     ================================================= -->
-
-                <div class="card full-width">
-
-                    <iframe
-                        class="chart-frame"
-                        src="accession_filter.html"
-                        height="900">
-                    </iframe>
-
-                </div>
-
-                <!-- =================================================
-                     DISTRIBUTION BY CATEGORY
-                     ================================================= -->
-
-                <div class="card full-width">
-
-                    <iframe
-                        class="chart-frame"
-                        src="distribution_categories.html"
-                        height="900">
-                    </iframe>
-
-                </div>
-
-            <h2 class="section-title">
-                Filter and Save
-            </h2>
-                <!-- =================================================
-                     DATA EXPLORER
-                     ================================================= -->
-
-                <div class="card full-width">
-
-                    <iframe
-                        class="chart-frame"
-                        src="data_explorer.html"
-                        height="900">
-                    </iframe>
-
-                </div>
-
-            <h2 class="section-title">
-                Data visualization
-            </h2>    
-
-                <!-- =================================================
-                     SCATTERPLOT
-                     ================================================= -->
-
-                <div class="card full-width">
-
-                    <h3 class="card-title">
-                        Interactive Scatter Plot
-                    </h3>
-
-                    <iframe
-                        class="chart-frame"
-                        src="scatterplot.html"
-                        height="1000">
-                    </iframe>
-
-                </div>
-
-
-
-
-
-            </div>
-
-        </section>
-
-
-
-        <!-- =====================================================
-             SECTION 2
-             ===================================================== -->
-
-        <section class="section">
-
-            <h2 class="section-title">
-                Dimensionality reduction
-            </h2>
-
-
-            <div class="dashboard-grid">
-
-
-                <!-- =================================================
-                     PCA GRAPH
-                     ================================================= -->
-
-                <div class="card full-width">
-
-                    <h3 class="card-title">
-                        Principal component Analysis (PCA)
-                    </h3>
-
-                    <iframe
-                        class="chart-frame"
-                        src="pca.html"
-                        height="1000">
-                    </iframe>
-
-                </div>
-
-                <!-- =================================================
-                     UMAP GRAPH
-                     ================================================= -->
-
-                <div class="card full-width">
-
-                    <h3 class="card-title">
-                        Uniform Manifold Approximation and Projection (UMAP)
-                    </h3>
-
-                    <iframe
-                        class="chart-frame"
-                        src="umap.html"
-                        height="1000">
-                    </iframe>
-
-                </div>
-
-            </div>
-
-        </section>
-
-        <!-- =====================================================
-             SECTION 3
-             ===================================================== -->
-
-        <section class="section">
-
-            <h2 class="section-title">
-                Clustering
-            </h2>
-
-
-            <div class="dashboard-grid">
-
-                <!-- =================================================
-                     DBSCAN & UMAP GRAPH
-                     ================================================= -->
-
-                <div class="card full-width">
-
-                    <h3 class="card-title">
-                        Density-based spatial clustering (DBSCAN) & UMAP
-                    </h3>
-
-                    <iframe
-                        class="chart-frame"
-                        src="dbscan.html"
-                        height="1000">
-                    </iframe>
-
-                </div>
-
-
-
-            </div>
-
-        </section>
+        </div>
 
     </main>
-
 
 </body>
 
